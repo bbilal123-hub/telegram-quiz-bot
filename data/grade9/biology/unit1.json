@@ -1,0 +1,558 @@
+[{
+  "grade": "Grade 9",
+  "subject": "Biology",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which branch of biology deals with the study of heredity and variation?",
+      "options": {
+        "A": "Ecology",
+        "B": "Genetics",
+        "C": "Cytology",
+        "D": "Taxonomy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The basic structural and functional unit of all living things is the:",
+      "options": {
+        "A": "Tissue",
+        "B": "Organ",
+        "C": "Cell",
+        "D": "Organism"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Who is known as the father of Biology?",
+      "options": {
+        "A": "Aristotle",
+        "B": "Charles Darwin",
+        "C": "Robert Hooke",
+        "D": "Gregor Mendel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "Which organelle is often referred to as the 'powerhouse' of the cell?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Ribosome",
+        "C": "Mitochondria",
+        "D": "Chloroplast"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "In Ethiopia, the endemic 'Walia Ibex' is primarily found in which mountains?",
+      "options": {
+        "A": "Bale Mountains",
+        "B": "Simien Mountains",
+        "C": "Mount Entoto",
+        "D": "Arsi Mountains"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "What is the primary function of the cell wall in plant cells?",
+      "options": {
+        "A": "Protein synthesis",
+        "B": "Energy production",
+        "C": "Support and protection",
+        "D": "Genetic storage"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a biotic component of an ecosystem in the Rift Valley?",
+      "options": {
+        "A": "Temperature",
+        "B": "Lake Water",
+        "C": "Acacia trees",
+        "D": "Soil pH"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "The movement of water molecules from a high concentration to a low concentration through a semi-permeable membrane is:",
+      "options": {
+        "A": "Diffusion",
+        "B": "Osmosis",
+        "C": "Active transport",
+        "D": "Facilitated diffusion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which scientist first observed cells using a simple microscope in 1665?",
+      "options": {
+        "A": "Louis Pasteur",
+        "B": "Anton van Leeuwenhoek",
+        "C": "Robert Hooke",
+        "D": "Matthias Schleiden"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "A group of similar cells working together to perform a specific function is called a:",
+      "options": {
+        "A": "System",
+        "B": "Tissue",
+        "C": "Organ",
+        "D": "Population"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which of these is a viral disease common in tropical regions like Ethiopia?",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "Malaria",
+        "C": "HIV/AIDS",
+        "D": "Amoebiasis"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "The process by which green plants make their own food is called:",
+      "options": {
+        "A": "Respiration",
+        "B": "Transpiration",
+        "C": "Photosynthesis",
+        "D": "Digestion"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which part of the plant is responsible for the absorption of water and minerals?",
+      "options": {
+        "A": "Stem",
+        "B": "Leaf",
+        "C": "Root",
+        "D": "Flower"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is an example of an Ethiopian endemic bird?",
+      "options": {
+        "A": "Ostrich",
+        "B": "Blue-winged Goose",
+        "C": "Common Crane",
+        "D": "African Fish Eagle"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The chemical used to test for the presence of starch is:",
+      "options": {
+        "A": "Benedict's solution",
+        "B": "Iodine solution",
+        "C": "Biuret reagent",
+        "D": "Ethanol"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Enzymes are biological catalysts made of:",
+      "options": {
+        "A": "Lipids",
+        "B": "Carbohydrates",
+        "C": "Proteins",
+        "D": "Vitamins"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which vitamin deficiency leads to the disease known as Rickets?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin B",
+        "C": "Vitamin C",
+        "D": "Vitamin D"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 18,
+      "question": "In the human digestive system, where does most nutrient absorption occur?",
+      "options": {
+        "A": "Stomach",
+        "B": "Large intestine",
+        "C": "Small intestine",
+        "D": "Esophagus"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "What is the main function of red blood cells?",
+      "options": {
+        "A": "Clotting blood",
+        "B": "Fighting infections",
+        "C": "Transporting oxygen",
+        "D": "Producing hormones"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a non-communicable disease?",
+      "options": {
+        "A": "Typhoid",
+        "B": "Diabetes",
+        "C": "Cholera",
+        "D": "Measles"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The 'Great Famine' (Kifu Qan) in Ethiopian history was exacerbated by the death of cattle due to:",
+      "options": {
+        "A": "Malaria",
+        "B": "Rinderpest",
+        "C": "Anthrax",
+        "D": "Rabies"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which tool is essential for viewing objects that are too small for the naked eye?",
+      "options": {
+        "A": "Telescope",
+        "B": "Microscope",
+        "C": "Stethoscope",
+        "D": "Thermometer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The jelly-like substance inside the cell where most metabolic activities occur is:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Nucleus",
+        "C": "Cell membrane",
+        "D": "Vacuole"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is a primary consumer in an Ethiopian grassland food chain?",
+      "options": {
+        "A": "Lion",
+        "B": "Grass",
+        "C": "Zebra",
+        "D": "Hyena"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "The process of maintaining a constant internal environment is called:",
+      "options": {
+        "A": "Metabolism",
+        "B": "Homeostasis",
+        "C": "Excretion",
+        "D": "Respiration"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "In the binomial nomenclature system, the first name represents the:",
+      "options": {
+        "A": "Species",
+        "B": "Family",
+        "C": "Genus",
+        "D": "Order"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "Which gas is released by plants during photosynthesis?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Hydrogen"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "A person with Scurvy should eat more of which food item common in Ethiopia?",
+      "options": {
+        "A": "Injera",
+        "B": "Meat",
+        "C": "Oranges/Lemons",
+        "D": "Butter"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "The male reproductive part of a flower is the:",
+      "options": {
+        "A": "Pistil",
+        "B": "Stamen",
+        "C": "Petal",
+        "D": "Sepal"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which of these is the correct sequence of the levels of organization?",
+      "options": {
+        "A": "Cell → Organ → Tissue → System",
+        "B": "Cell → Tissue → Organ → System",
+        "C": "Tissue → Cell → System → Organ",
+        "D": "Organ → System → Cell → Tissue"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "What is the vector for the transmission of Malaria in Ethiopia?",
+      "options": {
+        "A": "Housefly",
+        "B": "Tsetse fly",
+        "C": "Female Anopheles mosquito",
+        "D": "Snail"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "Anaerobic respiration occurs in the absence of:",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Glucose",
+        "C": "Oxygen",
+        "D": "Water"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "During the process of making 'Tej', yeast carries out which process?",
+      "options": {
+        "A": "Aerobic respiration",
+        "B": "Fermentation",
+        "C": "Photosynthesis",
+        "D": "Nitrogen fixation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is NOT a kingdom in the five-kingdom classification system?",
+      "options": {
+        "A": "Monera",
+        "B": "Protista",
+        "C": "Virus",
+        "D": "Fungi"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "The genetic material DNA is primarily found in which part of the eukaryotic cell?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Vacuole",
+        "C": "Nucleus",
+        "D": "Golgi body"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "What is the effect of global warming on the biodiversity of the Bale Mountains?",
+      "options": {
+        "A": "Increase in endemic species",
+        "B": "Loss of habitat for highland species",
+        "C": "Lowering of sea levels",
+        "D": "Increase in oxygen levels"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which organ in the human body is responsible for filtering blood and producing urine?",
+      "options": {
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Kidney",
+        "D": "Lungs"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "The green pigment in plants that captures light energy is:",
+      "options": {
+        "A": "Carotene",
+        "B": "Chlorophyll",
+        "C": "Xanthophyll",
+        "D": "Hemoglobin"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which of these organisms is a decomposer?",
+      "options": {
+        "A": "Eagle",
+        "B": "Mushroom",
+        "C": "Corn",
+        "D": "Cow"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "If a sample of food turns blue-black when iodine is added, it contains:",
+      "options": {
+        "A": "Glucose",
+        "B": "Starch",
+        "C": "Protein",
+        "D": "Fat"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which process involves the movement of molecules against a concentration gradient using energy?",
+      "options": {
+        "A": "Simple Diffusion",
+        "B": "Osmosis",
+        "C": "Active Transport",
+        "D": "Evaporation"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 42,
+      "question": "In Ethiopia, the highland areas are often used for planting 'Enset'. Enset is scientifically known as:",
+      "options": {
+        "A": "Eragrostis tef",
+        "B": "Ensete ventricosum",
+        "C": "Coffea arabica",
+        "D": "Hordeum vulgare"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The total number of different species in a particular area is called:",
+      "options": {
+        "A": "Population",
+        "B": "Community",
+        "C": "Biodiversity",
+        "D": "Ecosystem"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which of these is a major cause of deforestation in Ethiopia?",
+      "options": {
+        "A": "Increase in rainfall",
+        "B": "Expansion of agriculture and charcoal production",
+        "C": "Planting of indigenous trees",
+        "D": "Protection of national parks"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The valve located between the left atrium and left ventricle is the:",
+      "options": {
+        "A": "Tricuspid valve",
+        "B": "Bicuspid (Mitral) valve",
+        "C": "Semilunar valve",
+        "D": "Pulmonary valve"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is a symptom of Kwashiorkor (protein deficiency)?",
+      "options": {
+        "A": "Extreme thinness",
+        "B": "Swollen belly and legs",
+        "C": "Bleeding gums",
+        "D": "Poor night vision"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The method of asexual reproduction where a parent cell divides into two equal parts is:",
+      "options": {
+        "A": "Budding",
+        "B": "Fragmentation",
+        "C": "Binary fission",
+        "D": "Spore formation"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 48,
+      "question": "Which part of the brain controls balance and posture?",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Cerebellum",
+        "C": "Medulla oblongata",
+        "D": "Hypothalamus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which scientist developed the theory of evolution by natural selection?",
+      "options": {
+        "A": "Jean-Baptiste Lamarck",
+        "B": "Charles Darwin",
+        "C": "Gregor Mendel",
+        "D": "James Watson"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "What is the role of white blood cells in the human body?",
+      "options": {
+        "A": "Carrying nutrients",
+        "B": "Defense against pathogens",
+        "C": "Transporting waste",
+        "D": "Body temperature regulation"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

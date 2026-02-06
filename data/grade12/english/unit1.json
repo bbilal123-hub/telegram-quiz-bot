@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "English",
+  "unit": "Unit 1: Sustainable Development",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a non-defining relative clause?",
+      "options": {
+        "A": "The student who won the prize is my cousin.",
+        "B": "The trees which were planted last year are dying.",
+        "C": "My sister, who works in a hospital, is coming home.",
+        "D": "I am looking for a book that explains global warming."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "Change to Reported Speech: 'I am working on a new project,' said the engineer.",
+      "options": {
+        "A": "The engineer said that he was working on a new project.",
+        "B": "The engineer says he is working on a new project.",
+        "C": "The engineer told that he is working on a new project.",
+        "D": "The engineer said he will be working on a new project."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 3,
+      "question": "What does the term 'biodiversity' refer to?",
+      "options": {
+        "A": "The study of rocks and minerals.",
+        "B": "The process of urban expansion.",
+        "C": "The variety of life in a particular habitat.",
+        "D": "The chemical composition of the atmosphere."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "In the sentence 'The dam, which provides electricity, is very large,' the relative pronoun 'which' refers to:",
+      "options": {
+        "A": "The dam",
+        "B": "Electricity",
+        "C": "The size",
+        "D": "The location"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which word is an antonym for 'renewable'?",
+      "options": {
+        "A": "Infinite",
+        "B": "Sustainable",
+        "C": "Green",
+        "D": "Exhaustible"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 6,
+      "question": "Reported Question: 'Do you live in the city?' she asked me.",
+      "options": {
+        "A": "She asked me do I live in the city.",
+        "B": "She asked me where I lived.",
+        "C": "She asked me if I lived in the city.",
+        "D": "She asked me if I live in the city."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "The prefix 're-' in 'reforestation' means:",
+      "options": {
+        "A": "Against",
+        "B": "Not",
+        "C": "Again",
+        "D": "Under"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "Identify the relative pronoun used for people in a defining clause:",
+      "options": {
+        "A": "Which",
+        "B": "Where",
+        "C": "Who",
+        "D": "Whose"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a formal way to express an opinion in an essay?",
+      "options": {
+        "A": "I think it is bad.",
+        "B": "I reckon that...",
+        "C": "It is widely argued that...",
+        "D": "In my honest view..."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "Reported Command: 'Plant more trees,' the teacher told the class.",
+      "options": {
+        "A": "The teacher told the class to plant more trees.",
+        "B": "The teacher said the class must plant trees.",
+        "C": "The teacher asked if the class plants trees.",
+        "D": "The teacher told that trees should be planted."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "A defining relative clause is used to:",
+      "options": {
+        "A": "Add extra, non-essential information.",
+        "B": "Give opinionated information.",
+        "C": "Identify exactly which person or thing we are talking about.",
+        "D": "End a sentence abruptly."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "Which of these is a synonym for 'mitigate'?",
+      "options": {
+        "A": "Reduce",
+        "B": "Worsen",
+        "C": "Enlarge",
+        "D": "Increase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "Reported Speech: 'I can help you,' he said.",
+      "options": {
+        "A": "He said that he can help me.",
+        "B": "He says he could help me.",
+        "C": "He said that he could help me.",
+        "D": "He said he will help me."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "The word 'sustainable' most nearly means:",
+      "options": {
+        "A": "Expensive to maintain.",
+        "B": "Capable of being continued for a long time.",
+        "C": "Brief and temporary.",
+        "D": "Harmful to the environment."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which relative pronoun is used to show possession?",
+      "options": {
+        "A": "Whose",
+        "B": "Who",
+        "C": "Which",
+        "D": "That"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "Change to Reported Speech: 'Where is the library?' he asked.",
+      "options": {
+        "A": "He asked where the library is.",
+        "B": "He asked where was the library.",
+        "C": "He asked where the library was.",
+        "D": "He asked where the library will be."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which linking word shows a result?",
+      "options": {
+        "A": "However",
+        "B": "Although",
+        "C": "Therefore",
+        "D": "Moreover"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "The phrase 'Greenhouse effect' refers to:",
+      "options": {
+        "A": "The warming of the Earth's surface due to trapped gases.",
+        "B": "The process of painting houses green.",
+        "C": "The growth of plants in a controlled environment.",
+        "D": "The cooling of the ocean's temperature."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "Reported Speech: 'I have finished my homework,' Sarah said.",
+      "options": {
+        "A": "Sarah said she has finished her homework.",
+        "B": "Sarah says she had finished her homework.",
+        "C": "Sarah said that she had finished her homework.",
+        "D": "Sarah said she finishes her homework."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "Which of these is a non-renewable energy source?",
+      "options": {
+        "A": "Solar power",
+        "B": "Wind energy",
+        "C": "Coal",
+        "D": "Hydropower"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 21,
+      "question": "Select the correctly punctuated non-defining clause:",
+      "options": {
+        "A": "My car, which is blue, is very old.",
+        "B": "My car which is blue is very old.",
+        "C": "My car, which is blue is very old.",
+        "D": "My car which is blue, is very old."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "In Reported Speech, 'today' usually changes to:",
+      "options": {
+        "A": "The day before",
+        "B": "Tomorrow",
+        "C": "That day",
+        "D": "Now"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "The word 'urbanization' means:",
+      "options": {
+        "A": "The increase in the number of people living in cities.",
+        "B": "The protection of rural landscapes.",
+        "C": "The process of farming in the desert.",
+        "D": "The reduction of the urban population."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which relative pronoun is used for animals or objects in defining clauses?",
+      "options": {
+        "A": "Whom",
+        "B": "Who",
+        "C": "Which",
+        "D": "Whose"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "Reported Question: 'Are you coming to the meeting?' she asked.",
+      "options": {
+        "A": "She asked me if I was coming to the meeting.",
+        "B": "She asked if I am coming to the meeting.",
+        "C": "She asked whether was I coming.",
+        "D": "She asked me to come to the meeting."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which word is a synonym for 'depletion'?",
+      "options": {
+        "A": "Growth",
+        "B": "Conservation",
+        "C": "Exhaustion",
+        "D": "Improvement"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "The relative clause in 'The village where I was born is small' is:",
+      "options": {
+        "A": "The village",
+        "B": "is small",
+        "C": "where I was born",
+        "D": "I was born"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "Change to Reported Speech: 'Open the window!' he said.",
+      "options": {
+        "A": "He told me to open the window.",
+        "B": "He said that I open the window.",
+        "C": "He asked if I open the window.",
+        "D": "He said me to open the window."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 29,
+      "question": "The term 'carbon footprint' measures:",
+      "options": {
+        "A": "The weight of carbon in the soil.",
+        "B": "The size of a person's shoe.",
+        "C": "The total amount of greenhouse gases produced by human activities.",
+        "D": "The number of trees planted in a year."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 30,
+      "question": "Which pronoun cannot be used in a non-defining relative clause?",
+      "options": {
+        "A": "Which",
+        "B": "Who",
+        "C": "That",
+        "D": "Whose"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 31,
+      "question": "Reported Speech: 'I will help you,' he promised.",
+      "options": {
+        "A": "He promised that he would help me.",
+        "B": "He promised to he will help me.",
+        "C": "He said he helps me.",
+        "D": "He promised that he helps me."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "What is 'afforestation'?",
+      "options": {
+        "A": "The cutting down of forests.",
+        "B": "The management of existing forests.",
+        "C": "The establishment of a forest in an area where there was no previous tree cover.",
+        "D": "The study of forest fires."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "Which of these is used for reported advice?",
+      "options": {
+        "A": "He told me that...",
+        "B": "He asked me to...",
+        "C": "He advised me to...",
+        "D": "He ordered me to..."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "The suffix '-able' in 'sustainable' changes the word to a/an:",
+      "options": {
+        "A": "Adjective",
+        "B": "Noun",
+        "C": "Adverb",
+        "D": "Verb"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "Identify the defining relative clause: 'The man who owns that car is my uncle.'",
+      "options": {
+        "A": "The man who owns that car",
+        "B": "is my uncle",
+        "C": "who owns that car",
+        "D": "owns that car"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "Reported Question: 'What time is it?' she asked.",
+      "options": {
+        "A": "She asked what time was it.",
+        "B": "She asked what was the time.",
+        "C": "She asked what time it was.",
+        "D": "She said the time."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 37,
+      "question": "Which word is most related to 'ecology'?",
+      "options": {
+        "A": "Economy",
+        "B": "Environment",
+        "C": "Electronics",
+        "D": "Education"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Reported Speech: 'I don't like coffee,' she said.",
+      "options": {
+        "A": "She said she didn't like coffee.",
+        "B": "She says she doesn't like coffee.",
+        "C": "She told she doesn't like coffee.",
+        "D": "She said she hasn't liked coffee."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "A synonym for 'conservation' is:",
+      "options": {
+        "A": "Destruction",
+        "B": "Waste",
+        "C": "Protection",
+        "D": "Expansion"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 40,
+      "question": "Which relative pronoun refers to a period of time?",
+      "options": {
+        "A": "Where",
+        "B": "Which",
+        "C": "When",
+        "D": "Who"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 41,
+      "question": "Reported Speech: 'We are going on holiday,' they said.",
+      "options": {
+        "A": "They said they were going on holiday.",
+        "B": "They said they go on holiday.",
+        "C": "They told that they are going on holiday.",
+        "D": "They said we were going on holiday."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "What is 'geothermal' energy?",
+      "options": {
+        "A": "Energy from the wind.",
+        "B": "Energy from sunlight.",
+        "C": "Energy from the heat inside the Earth.",
+        "D": "Energy from burning wood."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 43,
+      "question": "Which of these is a correct reported request?",
+      "options": {
+        "A": "He asked me to lend him my pen.",
+        "B": "He asked me if I lend him my pen.",
+        "C": "He said to lend him my pen.",
+        "D": "He told me lend him my pen."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "The word 'poverty' is an example of a/an:",
+      "options": {
+        "A": "Adjective",
+        "B": "Verb",
+        "C": "Noun",
+        "D": "Adverb"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 45,
+      "question": "Identify the relative pronoun: 'The reason why he left is a secret.'",
+      "options": {
+        "A": "The reason",
+        "B": "Secret",
+        "C": "Why",
+        "D": "Left"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "Reported Speech: 'I have been to Paris,' he mentioned.",
+      "options": {
+        "A": "He mentioned that he had been to Paris.",
+        "B": "He mentioned he has been to Paris.",
+        "C": "He says he was in Paris.",
+        "D": "He mentioned he will go to Paris."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "Environmental 'pollution' can be defined as:",
+      "options": {
+        "A": "The cleanup of toxic waste.",
+        "B": "The protection of natural resources.",
+        "C": "The introduction of harmful substances into the environment.",
+        "D": "The planting of new trees."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 48,
+      "question": "Reported Speech: 'You must study harder,' the father said.",
+      "options": {
+        "A": "The father said that he had to study harder.",
+        "B": "The father said he must study harder.",
+        "C": "The father said that he has to study harder.",
+        "D": "The father said he will study harder."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "The opposite of 'rural' is:",
+      "options": {
+        "A": "Country",
+        "B": "Farming",
+        "C": "Urban",
+        "D": "Remote"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 50,
+      "question": "Which relative pronoun is often omitted in defining clauses when it is the object?",
+      "options": {
+        "A": "Whose",
+        "B": "Who",
+        "C": "That",
+        "D": "Where"
+      },
+      "correct_option": "C"
+    }
+  ]
+}
+]

@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Civics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The concept of 'Rule of Law' primarily means that:",
+      "options": {
+        "A": "The police have absolute power",
+        "B": "Laws only apply to the poor",
+        "C": "Everyone, including government officials, is subject to the law",
+        "D": "Laws are made by the military"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "A constitution is often defined as:",
+      "options": {
+        "A": "A collection of religious stories",
+        "B": "The supreme law of a country",
+        "C": "A guide for businessmen",
+        "D": "A set of international treaties"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a key feature of a 'Rigid' constitution?",
+      "options": {
+        "A": "It can be changed easily by a simple majority",
+        "B": "It is never written down",
+        "C": "It requires a special and difficult procedure to be amended",
+        "D": "It only exists in monarchies"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "The principle of 'Constitutionalism' implies that:",
+      "options": {
+        "A": "Government power should be unlimited",
+        "B": "The government's authority is determined and limited by a body of law",
+        "C": "There is no need for a judiciary",
+        "D": "The constitution is updated every month"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "An 'Unwritten' constitution is based largely on:",
+      "options": {
+        "A": "Oral myths",
+        "B": "Secrets kept by the king",
+        "C": "Customs, traditions, and judicial precedents",
+        "D": "Rules from other countries"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "The main purpose of the 'Separation of Powers' is to:",
+      "options": {
+        "A": "Make the government work faster",
+        "B": "Prevent the abuse of power by any single branch",
+        "C": "Save money on government salaries",
+        "D": "Give all power to the President"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which branch of government has the power to check the Executive by declaring its actions unconstitutional?",
+      "options": {
+        "A": "Legislative",
+        "B": "Military",
+        "C": "Judiciary",
+        "D": "Electoral Commission"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "In a democratic system, the 'Rule of Law' protects citizens from:",
+      "options": {
+        "A": "Paying any taxes",
+        "B": "Natural disasters",
+        "C": "Arbitrary and unfair government actions",
+        "D": "All forms of competition"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "What is the primary function of the Legislative branch?",
+      "options": {
+        "A": "Enforcing laws",
+        "B": "Interpreting the constitution",
+        "C": "Commanding the army",
+        "D": "Making and debating laws"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 10,
+      "question": "The FDRE Constitution (1995) is an example of a:",
+      "options": {
+        "A": "Unwritten constitution",
+        "B": "Flexible constitution",
+        "C": "Written and rigid constitution",
+        "D": "Confederate constitution"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "Judicial Review is the power of the courts to:",
+      "options": {
+        "A": "Write new laws for the parliament",
+        "B": "Examine the constitutionality of laws and executive acts",
+        "C": "Appoint the Prime Minister",
+        "D": "Collect taxes from citizens"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT a pillar of the Rule of Law?",
+      "options": {
+        "A": "Equality before the law",
+        "B": "Transparency in law-making",
+        "C": "Dictatorship and central control",
+        "D": "Fairness and impartiality"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "The concept of 'Limited Government' means that:",
+      "options": {
+        "A": "The government has a small number of employees",
+        "B": "The government's power is restricted by the constitution",
+        "C": "The government only meets once a year",
+        "D": "The government is not allowed to have an army"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "An independent judiciary is essential because it:",
+      "options": {
+        "A": "Follows the orders of the President",
+        "B": "Makes decisions based on the law without political interference",
+        "C": "Always favors the government in court",
+        "D": "Has the power to increase taxes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The process of 'Checks and Balances' ensures that:",
+      "options": {
+        "A": "Each branch of government can limit the powers of the others",
+        "B": "The bank accounts of the state are balanced",
+        "C": "The government can check people's private emails",
+        "D": "The Legislative branch has all the authority"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "In Ethiopia, the power to interpret the Constitution is given to the:",
+      "options": {
+        "A": "Federal Supreme Court",
+        "B": "House of Federation",
+        "C": "Prime Minister",
+        "D": "House of Peoples' Representatives"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "A 'Flexible' constitution can be amended:",
+      "options": {
+        "A": "Only by a religious leader",
+        "B": "In the same way as an ordinary law",
+        "C": "Only after a civil war",
+        "D": "Not at any time"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The principle of 'Equality before the Law' means:",
+      "options": {
+        "A": "Everyone must have the same amount of money",
+        "B": "Law applies equally to all people regardless of status",
+        "C": "Only citizens are protected by the law",
+        "D": "The law ignores the crimes of rich people"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Who is the 'Chief Executive' in a parliamentary system like Ethiopia's?",
+      "options": {
+        "A": "The President",
+        "B": "The Chief Justice",
+        "C": "The Speaker of the House",
+        "D": "The Prime Minister"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 20,
+      "question": "The 'Preamble' of a constitution is:",
+      "options": {
+        "A": "The list of punishments for crimes",
+        "B": "The introductory statement of its goals and values",
+        "C": "The section about tax rates",
+        "D": "The signatures of the writers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Arbitrary rule is the opposite of:",
+      "options": {
+        "A": "Monarchy",
+        "B": "Rule of Law",
+        "C": "Traditionalism",
+        "D": "Sovereignty"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "A constitution is 'Supreme' because:",
+      "options": {
+        "A": "It is the oldest book in the country",
+        "B": "Any law that contradicts it is null and void",
+        "C": "It was written by a king",
+        "D": "It cannot be read by ordinary people"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "One of the values of the FDRE Constitution is 'Secularism', which means:",
+      "options": {
+        "A": "The state and religion are separate",
+        "B": "Everyone must follow one religion",
+        "C": "Religion is banned in the country",
+        "D": "Religious leaders run the government"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "Democracy is impossible without the 'Rule of Law' because:",
+      "options": {
+        "A": "Laws make people rich",
+        "B": "Without it, power is based on the whims of individuals rather than law",
+        "C": "Laws are only found in democratic countries",
+        "D": "People don't like to vote without laws"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The House of Federation in Ethiopia represents:",
+      "options": {
+        "A": "The political parties",
+        "B": "Individual citizens directly",
+        "C": "The Nations, Nationalities, and Peoples of Ethiopia",
+        "D": "The business community"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "A person accused of a crime has the right to a 'Fair Trial', which is a part of:",
+      "options": {
+        "A": "Due process of law",
+        "B": "Military discipline",
+        "C": "Mercantilism",
+        "D": "Popularity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "Administrative law deals with:",
+      "options": {
+        "A": "Rules for private companies only",
+        "B": "The activities and powers of government agencies",
+        "C": "How to build a house",
+        "D": "The history of the state"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The 'Ombudsman' is an institution that:",
+      "options": {
+        "A": "Trains soldiers",
+        "B": "Investigates complaints by citizens against government officials",
+        "C": "Sets the price of goods",
+        "D": "Organizes the national census"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Transparency in government means that:",
+      "options": {
+        "A": "The government is invisible",
+        "B": "Information about government actions is available to the public",
+        "C": "The government knows everything about the citizens",
+        "D": "All government buildings are made of glass"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Anarchy often leads to:",
+      "options": {
+        "A": "Greater freedom for everyone",
+        "B": "Chaos and the rule of the strongest (might is right)",
+        "C": "Perfect economic equality",
+        "D": "The best form of education"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which document is considered the historical foundation for the Rule of Law in England?",
+      "options": {
+        "A": "The Communist Manifesto",
+        "B": "The Social Contract",
+        "C": "Magna Carta (1215)",
+        "D": "The Wealth of Nations"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "Accountability means that government officials must:",
+      "options": {
+        "A": "Be able to count money",
+        "B": "Be responsible for their actions and explain them to the public",
+        "C": "Be elected for life",
+        "D": "Never be criticized"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Under the Rule of Law, laws must be:",
+      "options": {
+        "A": "Secret",
+        "B": "Clear, publicized, and stable",
+        "C": "Changed every week",
+        "D": "Impossible to follow"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "The 'House of Peoples' Representatives' in Ethiopia is the:",
+      "options": {
+        "A": "Upper House",
+        "B": "Lower House (Highest authority of the Federal Government)",
+        "C": "Advisory Council",
+        "D": "Judicial committee"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "When a constitution is 'codified', it means it is:",
+      "options": {
+        "A": "Written in a secret code",
+        "B": "Contained in a single, formal document",
+        "C": "Not enforceable by law",
+        "D": "Based only on oral tradition"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "What is the 'Human Rights' section of the FDRE constitution often called?",
+      "options": {
+        "A": "Chapter One",
+        "B": "The Bill of Rights (Chapter Three)",
+        "C": "The Appendix",
+        "D": "The Executive Summary"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Individual rights can be limited when they:",
+      "options": {
+        "A": "Are used to criticize the king",
+        "B": "Infringe upon the rights of others or national security",
+        "C": "Are too expensive for the government",
+        "D": "Are not liked by the majority"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "The 'Suppremacy Clause' in a constitution ensures that:",
+      "options": {
+        "A": "The President is the supreme leader",
+        "B": "The constitution is the highest law in the land",
+        "C": "The army is supreme over the police",
+        "D": "One religion is supreme over others"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Corruption is a major threat to the Rule of Law because it:",
+      "options": {
+        "A": "Makes the law too expensive",
+        "B": "Leads to unequal application of the law and bias",
+        "C": "Reduces the number of laws",
+        "D": "Increases the speed of the courts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "A 'Law-abiding' citizen is someone who:",
+      "options": {
+        "A": "Writes the laws",
+        "B": "Voluntarily respects and follows the legal rules",
+        "C": "Only follows laws when the police are watching",
+        "D": "Is a lawyer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Federalism in Ethiopia is designed to:",
+      "options": {
+        "A": "Centralize all power in Addis Ababa",
+        "B": "Accommodate ethnic and cultural diversity",
+        "C": "Create a monarchy",
+        "D": "Abolish the regional states"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The 'Power of the Purse' (controlling the budget) usually belongs to the:",
+      "options": {
+        "A": "Executive branch",
+        "B": "Legislative branch",
+        "C": "Judiciary branch",
+        "D": "National Bank"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "In a Rule of Law system, 'Retroactive' laws (laws that punish acts committed before the law was made) are generally:",
+      "options": {
+        "A": "Encouraged",
+        "B": "Prohibited or discouraged",
+        "C": "The most common types of laws",
+        "D": "Only used for tax purposes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Civil society organizations help promote the Rule of Law by:",
+      "options": {
+        "A": "Replacing the government",
+        "B": "Acting as watchdogs and educating the public",
+        "C": "Paying the salaries of judges",
+        "D": "Making their own laws"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The right to 'Habeas Corpus' protects individuals from:",
+      "options": {
+        "A": "Paying high taxes",
+        "B": "Unlawful and indefinite detention",
+        "C": "Losing their jobs",
+        "D": "Being criticized in the media"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "The 'State of Emergency' provisions in a constitution allow the government to:",
+      "options": {
+        "A": "End the constitution forever",
+        "B": "Temporarily limit some rights to protect the nation during a crisis",
+        "C": "Arrest anyone without a reason forever",
+        "D": "Cancel all debts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is a challenge to the Rule of Law in developing nations?",
+      "options": {
+        "A": "High literacy rates",
+        "B": "Weak institutional capacity and corruption",
+        "C": "Too much transparency",
+        "D": "Strong independent media"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "The principle of 'Publicity of Law' means that:",
+      "options": {
+        "A": "Laws must be advertised on TV",
+        "B": "The public must know the law before they can be punished for breaking it",
+        "C": "The law must be liked by everyone",
+        "D": "Laws are only for famous people"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Immunity for government officials usually means:",
+      "options": {
+        "A": "They can never be sick",
+        "B": "They are protected from certain legal actions while in office",
+        "C": "They are above the law forever",
+        "D": "They don't have to follow traffic lights"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The ultimate goal of the Rule of Law is to ensure:",
+      "options": {
+        "A": "Justice and order in society",
+        "B": "The wealth of the ruling party",
+        "C": "Military superiority",
+        "D": "Economic competition"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

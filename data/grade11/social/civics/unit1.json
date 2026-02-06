@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Civics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The term 'Civics' is derived from the Latin word 'Civis', which means:",
+      "options": {
+        "A": "State",
+        "B": "Government",
+        "C": "Citizen",
+        "D": "Law"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "Ethics is a branch of philosophy that deals with:",
+      "options": {
+        "A": "Physical fitness",
+        "B": "Principles of right and wrong behavior",
+        "C": "The study of ancient fossils",
+        "D": "International trade"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a primary goal of Civic Education?",
+      "options": {
+        "A": "To make all citizens politicians",
+        "B": "To create passive and obedient followers",
+        "C": "To produce competent and responsible citizens",
+        "D": "To teach citizens how to avoid paying taxes"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "A 'Citizen' is best defined as:",
+      "options": {
+        "A": "Any person living within a country's borders",
+        "B": "A legal member of a state with rights and duties",
+        "C": "A tourist visiting a foreign nation",
+        "D": "An employee of the government"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which element of a State refers to the supreme power to make and enforce laws?",
+      "options": {
+        "A": "Population",
+        "B": "Territory",
+        "C": "Government",
+        "D": "Sovereignty"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 6,
+      "question": "Morality refers to:",
+      "options": {
+        "A": "Laws passed by parliament",
+        "B": "The actual practice of right or wrong in a society",
+        "C": "The study of religious texts only",
+        "D": "Scientific theories about nature"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The right to vote and be elected is an example of:",
+      "options": {
+        "A": "Social rights",
+        "B": "Political rights",
+        "C": "Economic rights",
+        "D": "Cultural rights"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "A state that has a population, a defined territory, and a government, but lacks sovereignty, is:",
+      "options": {
+        "A": "A fully independent nation",
+        "B": "Not a state in the legal sense",
+        "C": "A superpower",
+        "D": "A democratic state"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which theory suggests that the state was created by a contract between the people and their rulers?",
+      "options": {
+        "A": "The Divine Right Theory",
+        "B": "The Force Theory",
+        "C": "The Social Contract Theory",
+        "D": "The Evolutionary Theory"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "Competence in civic education includes 'Civic Skills', which are:",
+      "options": {
+        "A": "The ability to fight in wars",
+        "B": "Intellectual and participatory abilities",
+        "C": "Physical strength for labor",
+        "D": "Knowledge of mathematics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "The 'Divine Right Theory' argues that the authority of a leader comes from:",
+      "options": {
+        "A": "The will of the people",
+        "B": "Military conquest",
+        "C": "God",
+        "D": "Wealth"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "What is the main difference between a State and a Government?",
+      "options": {
+        "A": "The State is temporary, the Government is permanent",
+        "B": "The State is the people, the Government is the land",
+        "C": "The State is permanent, the Government is the agency that acts for it",
+        "D": "There is no difference"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "Natural Rights are rights that belong to humans by virtue of:",
+      "options": {
+        "A": "Being born in a specific country",
+        "B": "Being human",
+        "C": "Obeying the law",
+        "D": "Joining a political party"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "The principle of 'Rule of Law' means:",
+      "options": {
+        "A": "The police are always right",
+        "B": "The government is above the law",
+        "C": "No one is above the law, including rulers",
+        "D": "Laws can be ignored during holidays"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which branch of government is responsible for interpreting laws and resolving disputes?",
+      "options": {
+        "A": "Legislative",
+        "B": "Executive",
+        "C": "Judiciary",
+        "D": "The Media"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "The 'Force Theory' of state origin suggests that the state was born through:",
+      "options": {
+        "A": "Peaceful negotiation",
+        "B": "Conquest and coercion",
+        "C": "Religious agreement",
+        "D": "Family expansion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "Ethical Universalism is the idea that:",
+      "options": {
+        "A": "Ethics change from person to person",
+        "B": "There are some moral rules that apply to all people everywhere",
+        "C": "Only rich nations have ethics",
+        "D": "Laws are more important than ethics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "A citizen who pays taxes and obeys the law is fulfilling their:",
+      "options": {
+        "A": "Civic rights",
+        "B": "Civic duties/obligations",
+        "C": "Natural rights",
+        "D": "Political ambitions"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a 'Social Source' of ethics?",
+      "options": {
+        "A": "The Bible or Quran",
+        "B": "Personal intuition",
+        "C": "Culture and community traditions",
+        "D": "Scientific journals"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "The Legislative branch of government is primarily responsible for:",
+      "options": {
+        "A": "Enforcing laws",
+        "B": "Making laws",
+        "C": "Arresting criminals",
+        "D": "Negotiating treaties"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Anarchy is a situation where there is:",
+      "options": {
+        "A": "A strong king",
+        "B": "A perfect democracy",
+        "C": "No government or legal order",
+        "D": "A religious government"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "Who is the famous philosopher associated with the 'Social Contract Theory'?",
+      "options": {
+        "A": "John Locke",
+        "B": "Thomas Hobbes",
+        "C": "Jean-Jacques Rousseau",
+        "D": "All of the above"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 23,
+      "question": "Professional Ethics refers to:",
+      "options": {
+        "A": "How to dress for a party",
+        "B": "The code of conduct within a specific occupation",
+        "C": "Learning how to drive",
+        "D": "The laws of the country"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "A 'Monarchy' is a form of government where power is held by:",
+      "options": {
+        "A": "The people through voting",
+        "B": "A single person (King/Queen) usually by heredity",
+        "C": "A group of religious leaders",
+        "D": "The military"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is an example of an 'Ethical Dilemma'?",
+      "options": {
+        "A": "Choosing between tea and coffee",
+        "B": "Deciding whether to lie to save a friend's life",
+        "C": "Buying a new pair of shoes",
+        "D": "Following a recipe"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The 'Evolutionary Theory' of the state suggests it developed from:",
+      "options": {
+        "A": "Warfare",
+        "B": "The family and kinship structures",
+        "C": "A vote",
+        "D": "A legal contract"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "What does 'Jus Soli' (Right of the Soil) mean in terms of citizenship?",
+      "options": {
+        "A": "Citizenship is based on the parents' nationality",
+        "B": "Citizenship is based on where a person is born",
+        "C": "Citizenship must be purchased",
+        "D": "Citizenship is only for farmers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "What does 'Jus Sanguinis' (Right of Blood) mean?",
+      "options": {
+        "A": "Citizenship is based on the place of birth",
+        "B": "Citizenship is based on the nationality of one's parents",
+        "C": "Citizenship is granted after military service",
+        "D": "Citizenship is lost if you leave the country"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "The process by which a foreigner becomes a citizen of a country is called:",
+      "options": {
+        "A": "Colonization",
+        "B": "Naturalization",
+        "C": "Socialization",
+        "D": "Modernization"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "A 'Direct Democracy' is a system where:",
+      "options": {
+        "A": "People elect representatives to make decisions",
+        "B": "All citizens participate directly in decision-making",
+        "C": "One person has all the power",
+        "D": "The military runs the country"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is NOT a characteristic of a democratic government?",
+      "options": {
+        "A": "Accountability",
+        "B": "Transparency",
+        "C": "Suppression of dissent",
+        "D": "Respect for human rights"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "The 'Executive' branch of government is responsible for:",
+      "options": {
+        "A": "Interpreting the constitution",
+        "B": "Implementing and enforcing laws",
+        "C": "Writing new bills",
+        "D": "Declaring laws unconstitutional"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Civic Disposition refers to:",
+      "options": {
+        "A": "The physical location of a city",
+        "B": "The attitudes and habits of mind of a citizen",
+        "C": "The wealth of a nation",
+        "D": "The size of a population"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Teleological ethics (Utilitarianism) focuses on:",
+      "options": {
+        "A": "The intentions behind an action",
+        "B": "The consequences of an action",
+        "C": "Religious rules only",
+        "D": "The personality of the actor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "Deontological ethics (Duty-based) focuses on:",
+      "options": {
+        "A": "The happiness produced",
+        "B": "Moral duties and the nature of the act itself",
+        "C": "Financial gain",
+        "D": "Public opinion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is a 'Legal Source' of ethics?",
+      "options": {
+        "A": "The national constitution",
+        "B": "Family stories",
+        "C": "Personal hobbies",
+        "D": "Music videos"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "A 'Stateless Person' is someone who:",
+      "options": {
+        "A": "Has dual citizenship",
+        "B": "Is not considered a national by any state under its laws",
+        "C": "Is a citizen of a very small country",
+        "D": "Lives in a forest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Dual Citizenship occurs when a person:",
+      "options": {
+        "A": "Is a citizen of two countries at the same time",
+        "B": "Lives in two different houses",
+        "C": "Has no citizenship",
+        "D": "Loses their passport"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "The term 'Sovereignty' can be divided into:",
+      "options": {
+        "A": "Good and Bad",
+        "B": "Internal and External",
+        "C": "Rich and Poor",
+        "D": "Old and New"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "External Sovereignty means:",
+      "options": {
+        "A": "Power over its own citizens",
+        "B": "Independence from foreign control",
+        "C": "Having a large army",
+        "D": "Being a member of the UN"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "A Republic is a form of government where:",
+      "options": {
+        "A": "The head of state is a monarch",
+        "B": "The head of state is elected or appointed, not a monarch",
+        "C": "Religious leaders rule",
+        "D": "There is no government"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "In a 'Theocracy', the government is led by:",
+      "options": {
+        "A": "The wealthy",
+        "B": "Religious officials based on divine guidance",
+        "C": "The military",
+        "D": "Foreign powers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is a civic responsibility?",
+      "options": {
+        "A": "Getting a high-paying job",
+        "B": "Participating in community service",
+        "C": "Watching television",
+        "D": "Buying expensive clothes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Virtue Ethics focuses on:",
+      "options": {
+        "A": "Rules and laws",
+        "B": "The character and habits of the individual",
+        "C": "The result of the action",
+        "D": "God's commands only"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The 'Golden Rule' (Treat others as you want to be treated) is an example of:",
+      "options": {
+        "A": "A legal code",
+        "B": "An ethical principle",
+        "C": "A scientific law",
+        "D": "A political slogan"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Which type of state structure has one central government with all the power?",
+      "options": {
+        "A": "Federal State",
+        "B": "Unitary State",
+        "C": "Confederation",
+        "D": "Alliance"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which type of state structure divides power between a central government and regional units?",
+      "options": {
+        "A": "Unitary State",
+        "B": "Federal State",
+        "C": "Autocracy",
+        "D": "Dictatorship"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "A 'Constitution' is:",
+      "options": {
+        "A": "A book of religious prayers",
+        "B": "The supreme law of a land",
+        "C": "A list of government employees",
+        "D": "A map of the country"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is a source of citizenship in Ethiopia?",
+      "options": {
+        "A": "By descent (Blood)",
+        "B": "By birth in a specific city only",
+        "C": "By buying land",
+        "D": "By having a college degree"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The ultimate purpose of Civic and Ethical education is to foster:",
+      "options": {
+        "A": "Economic competition",
+        "B": "Democratic culture and good citizenship",
+        "C": "Religious uniformity",
+        "D": "Military strength"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 1: Learning to Learn",
+  "grade": 9,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which study skill involves looking through a text quickly to find a specific piece of information?",
+      "options": {
+        "A": "Scanning",
+        "C": "Skimming",
+        "D": "Summarizing",
+        "B": "Drafting"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "A book that lists words in alphabetical order and gives their meanings is a:",
+      "options": {
+        "A": "Dictionary",
+        "C": "Novel",
+        "D": "Magazine",
+        "B": "Journal"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "I ______ my homework every evening before dinner.",
+      "options": {
+        "A": "do",
+        "C": "does",
+        "D": "doing",
+        "B": "did"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Which of these is a 'frequency adverb'?",
+      "options": {
+        "A": "Usually",
+        "C": "Quickly",
+        "D": "Beautifully",
+        "B": "Happily"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "To find how a word is pronounced in a dictionary, you look at the:",
+      "options": {
+        "A": "Phonetic transcription",
+        "C": "Guide word",
+        "D": "Entry word",
+        "B": "Page number"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "She ______ goes to the library because she loves reading.",
+      "options": {
+        "A": "often",
+        "C": "never",
+        "D": "seldom",
+        "B": "rarely"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "Which skill involves reading a text quickly to get the general idea or 'gist'?",
+      "options": {
+        "A": "Skimming",
+        "C": "Scanning",
+        "D": "Note-taking",
+        "B": "Proofreading"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The words at the top of a dictionary page that help you locate a word are called:",
+      "options": {
+        "A": "Guide words",
+        "C": "Keywords",
+        "D": "Main words",
+        "B": "Headwords"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "What is the opposite of the word 'Always'?",
+      "options": {
+        "A": "Never",
+        "C": "Sometimes",
+        "D": "Often",
+        "B": "Usually"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "In the sentence 'He plays football,' the verb 'plays' is in which tense?",
+      "options": {
+        "A": "Present Simple",
+        "C": "Past Simple",
+        "D": "Future Simple",
+        "B": "Present Continuous"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "A ______ is a short version of a longer text containing only the main points.",
+      "options": {
+        "A": "Summary",
+        "C": "Preface",
+        "D": "Index",
+        "B": "Chapter"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "Which of these helps you organize your study time effectively?",
+      "options": {
+        "A": "A study timetable",
+        "C": "Watching television",
+        "D": "Sleeping all day",
+        "B": "Playing games"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "The word 'Apple' comes ______ the word 'Banana' in a dictionary.",
+      "options": {
+        "A": "before",
+        "C": "after",
+        "D": "under",
+        "B": "behind"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "What is the noun form of the verb 'Learn'?",
+      "options": {
+        "A": "Learner",
+        "C": "Learned",
+        "D": "Learns",
+        "B": "Learningly"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "We use the Present Simple to talk about:",
+      "options": {
+        "A": "Habits and routines",
+        "C": "Actions happening now",
+        "D": "Completed past actions",
+        "B": "Future plans"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "If you don't know the meaning of 'photosynthesis', you should look it ______.",
+      "options": {
+        "A": "up",
+        "C": "at",
+        "D": "for",
+        "B": "down"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Active listeners usually ______ to show they are paying attention.",
+      "options": {
+        "A": "make eye contact",
+        "C": "look away",
+        "D": "talk to others",
+        "B": "sleep"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Which part of speech is 'efficiently'?",
+      "options": {
+        "A": "Adverb",
+        "C": "Noun",
+        "D": "Verb",
+        "B": "Adjective"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "My father ______ coffee every morning.",
+      "options": {
+        "A": "drinks",
+        "C": "drink",
+        "D": "drinking",
+        "B": "drank"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "A strategy to remember information by using the first letters of words is called a:",
+      "options": {
+        "A": "Mnemonic",
+        "C": "Synonym",
+        "D": "Antonym",
+        "B": "Homonym"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "To 'brainstorm' means to:",
+      "options": {
+        "A": "Generate many ideas quickly",
+        "C": "Forget everything",
+        "D": "Sleep deeply",
+        "B": "Argue with a friend"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Where do you usually find the 'Table of Contents' in a book?",
+      "options": {
+        "A": "At the beginning",
+        "C": "At the end",
+        "D": "In the middle",
+        "B": "On the back cover"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "The abbreviation 'adj.' in a dictionary stands for:",
+      "options": {
+        "A": "Adjective",
+        "C": "Adverb",
+        "D": "Adjustment",
+        "B": "Adjunction"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "She always studies hard.",
+        "C": "She studies always hard.",
+        "D": "Always she studies hard.",
+        "B": "She studies hard always."
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "Writing down the most important information from a lecture is called:",
+      "options": {
+        "A": "Note-taking",
+        "C": "Daydreaming",
+        "D": "Scribbling",
+        "B": "Doodling"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "The word 'Library' is a ______.",
+      "options": {
+        "A": "Noun",
+        "C": "Verb",
+        "D": "Adjective",
+        "B": "Preposition"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "I ______ understand this math problem. Can you help me?",
+      "options": {
+        "A": "don't",
+        "C": "doesn't",
+        "D": "not",
+        "B": "am not"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "When you use a dictionary, you are developing your ______ skills.",
+      "options": {
+        "A": "Reference",
+        "C": "Physical",
+        "D": "Mathematical",
+        "B": "Social"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "What is the plural form of 'Dictionary'?",
+      "options": {
+        "A": "Dictionaries",
+        "C": "Dictionarys",
+        "D": "Dictionaryes",
+        "B": "Dictionaris"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "To read a text and check for mistakes in spelling or grammar is to:",
+      "options": {
+        "A": "Proofread",
+        "C": "Translate",
+        "D": "Publish",
+        "B": "Illustrate"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "An 'Antonym' is a word that has ______ meaning to another word.",
+      "options": {
+        "A": "The opposite",
+        "C": "The same",
+        "D": "No",
+        "B": "A funny"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "The prefix 'un-' in the word 'unhappy' means:",
+      "options": {
+        "A": "Not",
+        "C": "Very",
+        "D": "Again",
+        "B": "Before"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Which of the following is a good study habit?",
+      "options": {
+        "A": "Studying in a quiet place",
+        "C": "Studying with the radio loud",
+        "D": "Leaving all work for the last day",
+        "B": "Eating while reading"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "Does he ______ to school by bus?",
+      "options": {
+        "A": "go",
+        "C": "goes",
+        "D": "going",
+        "B": "gone"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "A 'Synonym' is a word that has ______ meaning as another word.",
+      "options": {
+        "A": "Nearly the same",
+        "C": "A completely different",
+        "D": "An opposite",
+        "B": "No"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "The 'Index' of a book is usually found at the ______.",
+      "options": {
+        "A": "End",
+        "C": "Beginning",
+        "D": "Middle",
+        "B": "Front cover"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "Which word is spelled correctly?",
+      "options": {
+        "A": "Knowledge",
+        "C": "Knowlege",
+        "D": "Nolledge",
+        "B": "Knoledge"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "How ______ do you practice English?",
+      "options": {
+        "A": "often",
+        "C": "much",
+        "D": "long",
+        "B": "many"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "The part of a dictionary entry that shows the word class (like noun or verb) is the:",
+      "options": {
+        "A": "Part of speech",
+        "C": "Definition",
+        "D": "Etymology",
+        "B": "Example sentence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Peer teaching means:",
+      "options": {
+        "A": "Students teaching other students",
+        "C": "Teachers teaching parents",
+        "D": "Principal teaching students",
+        "B": "Students teaching teachers"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Water ______ at 100 degrees Celsius.",
+      "options": {
+        "A": "boils",
+        "C": "boil",
+        "D": "boiling",
+        "B": "boiled"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "An 'entry' in a dictionary includes:",
+      "options": {
+        "A": "All of the above",
+        "C": "The spelling",
+        "D": "The definition",
+        "B": "The pronunciation"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "The word 'student' has how many syllables?",
+      "options": {
+        "A": "Two",
+        "C": "One",
+        "D": "Three",
+        "B": "Four"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Which of these is a visual study tool?",
+      "options": {
+        "A": "Mind map",
+        "C": "Audio recording",
+        "D": "Radio program",
+        "B": "Podcast"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "They ______ play football on Sundays.",
+      "options": {
+        "A": "don't",
+        "C": "doesn't",
+        "D": "isn't",
+        "B": "aren't"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "What is the root word of 'Education'?",
+      "options": {
+        "A": "Educate",
+        "C": "Edu",
+        "D": "Cat",
+        "B": "Ion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "A person who translates speech from one language to another is an:",
+      "options": {
+        "A": "Interpreter",
+        "C": "Author",
+        "D": "Editor",
+        "B": "Librarian"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Which of the following describes 'skimming'?",
+      "options": {
+        "A": "Reading for the main idea",
+        "C": "Reading for specific details",
+        "D": "Reading slowly for deep understanding",
+        "B": "Reading every word carefully"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "What is the silent letter in the word 'Knowledge'?",
+      "options": {
+        "A": "K",
+        "C": "N",
+        "D": "O",
+        "B": "L"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "We use the auxiliary verb 'Do/Does' to form ______ in Present Simple.",
+      "options": {
+        "A": "Questions and negatives",
+        "C": "Positive sentences",
+        "D": "Past tense sentences",
+        "B": "Future tense sentences"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

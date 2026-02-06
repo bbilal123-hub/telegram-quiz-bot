@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Economics",
+  "unit": "Unit 1: Basic Global Economic Concepts",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary reason countries engage in international trade?",
+      "options": {
+        "A": "To exploit their absolute or comparative advantages",
+        "B": "To ensure they never have to import goods",
+        "C": "To decrease the variety of goods available to consumers",
+        "D": "To increase the cost of production"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The ability of a country to produce a good at a lower opportunity cost than another country is called:",
+      "options": {
+        "A": "Absolute advantage",
+        "B": "Protective advantage",
+        "C": "Comparative advantage",
+        "D": "Mercantilism"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which economist is credited with developing the theory of 'Comparative Advantage'?",
+      "options": {
+        "A": "David Ricardo",
+        "B": "Adam Smith",
+        "C": "John Maynard Keynes",
+        "D": "Karl Marx"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "A tax imposed on imported goods is known as a:",
+      "options": {
+        "A": "Quota",
+        "B": "Subsidy",
+        "C": "Tariff",
+        "D": "Embargo"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "The 'Balance of Payments' is a record of all economic transactions between:",
+      "options": {
+        "A": "Residents of a country and the rest of the world",
+        "B": "Different states within a single country",
+        "C": "Private companies and the government",
+        "D": "The Central Bank and commercial banks"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 6,
+      "question": "Which account in the Balance of Payments records the export and import of goods and services?",
+      "options": {
+        "A": "Capital Account",
+        "B": "Financial Account",
+        "C": "Current Account",
+        "D": "Reserve Account"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "A 'Trade Deficit' occurs when a country's:",
+      "options": {
+        "A": "Exports of goods exceed its imports",
+        "B": "Government spending is less than its tax revenue",
+        "C": "Imports of goods exceed its exports",
+        "D": "Currency value increases significantly"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "The price of one nation's currency in terms of another nation's currency is the:",
+      "options": {
+        "A": "Exchange rate",
+        "B": "Interest rate",
+        "C": "Inflation rate",
+        "D": "Discount rate"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "If the Ethiopian Birr moves from 50 to 60 Birr per 1 USD, the Birr has:",
+      "options": {
+        "A": "Appreciated",
+        "B": "Stabilized",
+        "C": "Depreciated",
+        "D": "Revalued"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which international organization was primarily created to oversee the global financial system and provide loans to countries in crisis?",
+      "options": {
+        "A": "International Monetary Fund (IMF)",
+        "B": "World Health Organization",
+        "C": "International Labor Organization",
+        "D": "World Trade Organization"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "Free trade is defined as a policy where the government:",
+      "options": {
+        "A": "Owns all means of production",
+        "B": "Bans all imports from other continents",
+        "C": "Does not discriminate against imports or interfere with exports",
+        "D": "Sets the price for all traded goods"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "An 'Embargo' is a government order that:",
+      "options": {
+        "A": "Completely prohibits trade with a particular country",
+        "B": "Provides money to domestic exporters",
+        "C": "Reduces taxes on imported luxury items",
+        "D": "Increases the supply of foreign currency"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "The 'Terms of Trade' refers to the ratio of:",
+      "options": {
+        "A": "Unemployment to inflation",
+        "B": "Domestic consumption to savings",
+        "C": "Export prices to import prices",
+        "D": "Gold reserves to paper money"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "The World Bank’s main purpose is to provide:",
+      "options": {
+        "A": "Long-term loans for development projects in developing nations",
+        "B": "Short-term military assistance",
+        "C": "Emergency food aid during droughts",
+        "D": "Legal advice on divorce laws"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "Globalization is characterized by the increasing:",
+      "options": {
+        "A": "Integration of world economies through trade and financial flows",
+        "B": "Isolation of local markets",
+        "C": "Distance between trading partners",
+        "D": "Difficulty in traveling between countries"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "Foreign Direct Investment (FDI) occurs when:",
+      "options": {
+        "A": "A citizen buys a foreign car",
+        "B": "A country receives a grant from the UN",
+        "C": "A company from one country builds a factory in another country",
+        "D": "A person goes on vacation abroad"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "Protectionism is an economic policy designed to:",
+      "options": {
+        "A": "Restrict imports to protect domestic industries",
+        "B": "Abolish all national borders",
+        "C": "Increase the flow of foreign goods",
+        "D": "End the use of tariffs"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "The 'Infant Industry Argument' suggests that:",
+      "options": {
+        "A": "New industries need temporary protection from foreign competition",
+        "B": "Only old industries should be taxed",
+        "C": "Children should not work in factories",
+        "D": "Agriculture is the only important sector"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "A 'Fixed' exchange rate system is one where the currency value is:",
+      "options": {
+        "A": "Determined solely by market demand and supply",
+        "B": "Changed every hour by commercial banks",
+        "C": "Pegged to another currency or a precious metal like gold",
+        "D": "Not allowed to exist"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "The 'Visible Trade' part of the Current Account includes:",
+      "options": {
+        "A": "Trade in physical goods (tangibles)",
+        "B": "Trade in services (intangibles)",
+        "C": "Transfer payments like gifts",
+        "D": "Investment income"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is an example of an 'Invisible' export for Ethiopia?",
+      "options": {
+        "A": "Selling coffee to Germany",
+        "B": "Importing machinery from China",
+        "C": "Providing Ethiopian Airlines services to foreigners",
+        "D": "Selling gold to the Middle East"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "A 'Quota' is a protectionist measure that limits:",
+      "options": {
+        "A": "The quantity of a good that can be imported",
+        "B": "The amount of tax a company pays",
+        "C": "The number of hours a person can work",
+        "D": "The interest rate on loans"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "The acronym WTO stands for:",
+      "options": {
+        "A": "World Tourism Organization",
+        "B": "World Travel Office",
+        "C": "World Trade Organization",
+        "D": "Western Trade Outreach"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "A 'Managed Float' exchange rate system involves:",
+      "options": {
+        "A": "Government intervention to prevent extreme fluctuations",
+        "B": "Total government control with no market influence",
+        "C": "No use of paper money",
+        "D": "A system where only gold is traded"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "What is the result of a currency appreciation for a country's exporters?",
+      "options": {
+        "A": "Their goods become more expensive for foreign buyers",
+        "B": "Their goods become cheaper for foreign buyers",
+        "C": "They pay fewer taxes",
+        "D": "They receive more subsidies"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "The 'Gains from Trade' refer to the:",
+      "options": {
+        "A": "Increased total production and consumption resulting from specialization",
+        "B": "Profit made by the government from tariffs",
+        "C": "Loss of jobs in the domestic market",
+        "D": "Reduction in global population"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "Dumping in international trade refers to:",
+      "options": {
+        "A": "Throwing garbage into the ocean",
+        "B": "Buying goods only from neighbors",
+        "C": "Selling a product in a foreign market at a price lower than the cost of production",
+        "D": "Increasing the price of exports"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "The 'Capital Account' mainly records:",
+      "options": {
+        "A": "Gifts and aid between governments",
+        "B": "The purchase and sale of consumer goods",
+        "C": "The transfer of ownership of fixed assets and capital",
+        "D": "The payment of wages to workers"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "What is the primary goal of the World Trade Organization (WTO)?",
+      "options": {
+        "A": "To promote free trade and resolve trade disputes",
+        "B": "To create a single world government",
+        "C": "To prevent countries from trading with each other",
+        "D": "To set global interest rates"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "A 'Subsidy' to a domestic producer usually results in:",
+      "options": {
+        "A": "A lower price for the domestic product compared to imports",
+        "B": "An increase in the price of raw materials",
+        "C": "A decrease in the quality of the product",
+        "D": "A total ban on foreign competition"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "The 'Heckscher-Ohlin' theory explains trade based on:",
+      "options": {
+        "A": "Factor endowments (land, labor, capital)",
+        "B": "The weather patterns of a country",
+        "C": "The distance from the Equator",
+        "D": "The size of the national army"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "A 'Trade Surplus' is beneficial because it:",
+      "options": {
+        "A": "Increases a nation's foreign exchange reserves",
+        "B": "Decreases the number of jobs",
+        "C": "Makes imports more expensive",
+        "D": "Leads to higher debt"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "What does a 'Financial Account' surplus indicate?",
+      "options": {
+        "A": "The country is a net debtor to the rest of the world",
+        "B": "The country has no debts",
+        "C": "More investment capital is flowing into the country than out",
+        "D": "The country is giving away all its money"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "Currency 'Devaluation' is a deliberate ______ by the government.",
+      "options": {
+        "A": "Increase in the value of the currency",
+        "B": "Decrease in the interest rate",
+        "C": "Reduction in the value of the currency in a fixed system",
+        "D": "Ban on foreign exchange"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "Which of these is a 'Barrier to Trade'?",
+      "options": {
+        "A": "Technological standards and health regulations",
+        "B": "Free trade zones",
+        "C": "High-speed internet",
+        "D": "A common language"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "International trade often leads to 'Specialization', which means countries:",
+      "options": {
+        "A": "Try to produce every single product they need",
+        "B": "Focus on producing goods where they are most efficient",
+        "C": "Only produce agricultural products",
+        "D": "Stop all manufacturing"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 37,
+      "question": "The 'Prebisch-Singer Hypothesis' suggests that over time:",
+      "options": {
+        "A": "The price of primary commodities falls relative to manufactured goods",
+        "B": "All countries will eventually have the same GDP",
+        "C": "Trade will completely stop",
+        "D": "Gold will lose all its value"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "A 'Common Market' is a type of regional integration that allows:",
+      "options": {
+        "A": "Free movement of goods, services, and factors of production",
+        "B": "Only the trade of agricultural goods",
+        "C": "No movement of people between borders",
+        "D": "Each country to have the same president"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "The 'Foreign Exchange Market' (FOREX) is where:",
+      "options": {
+        "A": "Currencies are bought and sold",
+        "B": "Used cars are traded",
+        "C": "Laborers look for work",
+        "D": "Only gold bars are sold"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "In a 'Flexible' exchange rate system, the value of the currency is determined by:",
+      "options": {
+        "A": "The Minister of Finance",
+        "B": "The United Nations",
+        "C": "Market forces of demand and supply",
+        "D": "The historical value of silver"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 41,
+      "question": "What is 'Outsourcing' in the context of global economics?",
+      "options": {
+        "A": "Hiring a third party (often abroad) to perform tasks previously done in-house",
+        "B": "Increasing the number of government workers",
+        "C": "Closing down all foreign trade",
+        "D": "Selling state-owned companies to local citizens"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "A 'Customs Union' involves free trade among members and:",
+      "options": {
+        "A": "A common external tariff on non-members",
+        "B": "A single shared army",
+        "C": "No taxes for anyone",
+        "D": "The use of the same language"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "The 'Most Favored Nation' (MFN) principle means:",
+      "options": {
+        "A": "A country must treat all WTO members equally in terms of trade barriers",
+        "B": "A country can choose its best friend and only trade with them",
+        "C": "Wealthy nations must give free goods to poor nations",
+        "D": "Only one nation is allowed to export a specific good"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "Exchange control refers to the government's power to:",
+      "options": {
+        "A": "Limit the amount of foreign currency citizens can buy or hold",
+        "B": "Change the price of bread",
+        "C": "Control the weather",
+        "D": "Print as much money as it wants"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "The 'J-Curve' effect describes how a currency depreciation may initially:",
+      "options": {
+        "A": "Worsen a trade deficit before improving it",
+        "B": "Make everyone rich immediately",
+        "C": "Stop all imports forever",
+        "D": "Cause a country to leave the WTO"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following would lead to an increase in the demand for Ethiopian Birr?",
+      "options": {
+        "A": "An increase in foreign tourists visiting Ethiopia",
+        "B": "Ethiopians buying more foreign products online",
+        "C": "A decrease in the quality of Ethiopian exports",
+        "D": "High inflation in Ethiopia"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "A 'Debt Trap' occurs when a country:",
+      "options": {
+        "A": "Borrows so much that it cannot pay the interest on its loans",
+        "B": "Has no debt at all",
+        "C": "Lends money to every other country",
+        "D": "Wins a lottery"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "Comparative advantage is based on differences in:",
+      "options": {
+        "A": "Opportunity costs",
+        "B": "Absolute costs",
+        "C": "Total population",
+        "D": "Military power"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "An 'Optimum Tariff' is one that:",
+      "options": {
+        "A": "Maximizes the economic well-being of the nation imposing it",
+        "B": "Is set at 100% for all goods",
+        "C": "Is zero for all goods",
+        "D": "Is only applied to food"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The primary goal of the IMF's 'Structural Adjustment Programs' (SAPs) is to:",
+      "options": {
+        "A": "Help countries correct fundamental economic imbalances",
+        "B": "Build new schools and hospitals directly",
+        "C": "Increase the power of labor unions",
+        "D": "Ban the use of the US Dollar"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Physics",
+  "unit": "Unit 2: One-Dimensional Motion",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The total length of the path traveled by an object is called:",
+      "options": {
+        "A": "Displacement",
+        "B": "Distance",
+        "C": "Velocity",
+        "D": "Acceleration"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "A vector quantity that represents the change in position of an object is:",
+      "options": {
+        "A": "Speed",
+        "B": "Distance",
+        "C": "Displacement",
+        "D": "Path length"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "The rate of change of displacement is known as:",
+      "options": {
+        "A": "Instantaneous speed",
+        "B": "Average speed",
+        "C": "Velocity",
+        "D": "Acceleration"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "An object moves in a circle and returns to its starting point. Its displacement is:",
+      "options": {
+        "A": "Equal to the circumference",
+        "B": "Zero",
+        "C": "Equal to the diameter",
+        "D": "Infinite"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "Acceleration is defined as the rate of change of:",
+      "options": {
+        "A": "Position",
+        "B": "Distance",
+        "C": "Speed",
+        "D": "Velocity"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is the SI unit for acceleration?",
+      "options": {
+        "A": "m/s",
+        "B": "m.s",
+        "C": "m/s^2",
+        "D": "km/h"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "If an object's velocity is constant, its acceleration is:",
+      "options": {
+        "A": "Increasing",
+        "B": "Zero",
+        "C": "Decreasing",
+        "D": "Positive"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "In a displacement-time graph, a straight line with a positive slope indicates:",
+      "options": {
+        "A": "Constant acceleration",
+        "B": "Constant velocity",
+        "C": "Zero velocity",
+        "D": "Variable speed"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "The slope of a velocity-time graph represents:",
+      "options": {
+        "A": "Distance",
+        "B": "Displacement",
+        "C": "Acceleration",
+        "D": "Speed"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "The area under a velocity-time graph represents:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Displacement",
+        "C": "Force",
+        "D": "Instantaneous velocity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "A car accelerates from rest at 2 m/s^2 for 5 seconds. Its final velocity is:",
+      "options": {
+        "A": "2 m/s",
+        "B": "5 m/s",
+        "C": "10 m/s",
+        "D": "25 m/s"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "Which equation represents the final velocity (v) in terms of initial velocity (u), acceleration (a), and time (t)?",
+      "options": {
+        "A": "v = u + at",
+        "B": "v = u + 0.5at^2",
+        "C": "v^2 = u^2 + at",
+        "D": "v = u/t"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "An object thrown vertically upward reaches its maximum height. At this point, its velocity is:",
+      "options": {
+        "A": "9.8 m/s",
+        "B": "Zero",
+        "C": "Maximum",
+        "D": "Negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "The acceleration due to gravity on Earth is approximately:",
+      "options": {
+        "A": "9.8 m/s",
+        "B": "1.6 m/s^2",
+        "C": "9.8 m/s^2",
+        "D": "0 m/s^2"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "When an object is in free fall, we neglect:",
+      "options": {
+        "A": "Gravity",
+        "B": "Mass",
+        "C": "Air resistance",
+        "D": "Time"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "Deceleration refers to:",
+      "options": {
+        "A": "Positive acceleration",
+        "B": "Acceleration in the opposite direction of motion",
+        "C": "Moving at a very high speed",
+        "D": "Zero velocity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "A scalar quantity among the following is:",
+      "options": {
+        "A": "Velocity",
+        "B": "Speed",
+        "C": "Acceleration",
+        "D": "Displacement"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Instantaneous velocity is defined as:",
+      "options": {
+        "A": "Total displacement divided by total time",
+        "B": "Velocity at a specific moment in time",
+        "C": "The average of initial and final velocity",
+        "D": "The speed shown on a map"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "If an object moves with constant velocity, its displacement-time graph is a:",
+      "options": {
+        "A": "Curve",
+        "B": "Horizontal line",
+        "C": "Straight line through the origin",
+        "D": "Vertical line"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "An object dropped from a height takes 2 seconds to hit the ground. Its height was approximately:",
+      "options": {
+        "A": "9.8 m",
+        "B": "19.6 m",
+        "C": "4.9 m",
+        "D": "39.2 m"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is not a kinematic equation for constant acceleration?",
+      "options": {
+        "A": "v = u + at",
+        "B": "s = ut + 0.5at^2",
+        "C": "v^2 = u^2 + 2as",
+        "D": "a = v^2/r"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 22,
+      "question": "The velocity-time graph of an object at rest is a:",
+      "options": {
+        "A": "Straight line on the time axis",
+        "B": "Vertical line",
+        "C": "Diagonal line",
+        "D": "Parabola"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "Average speed is always ______ the magnitude of average velocity.",
+      "options": {
+        "A": "Less than",
+        "B": "Greater than or equal to",
+        "C": "Equal to",
+        "D": "Half of"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "A body starts from rest. What is its initial velocity (u)?",
+      "options": {
+        "A": "9.8 m/s",
+        "B": "1 m/s",
+        "C": "Zero",
+        "D": "Unknown"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "If an object is slowing down, its acceleration and velocity are in:",
+      "options": {
+        "A": "The same direction",
+        "B": "Opposite directions",
+        "C": "Perpendicular directions",
+        "D": "No direction"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The term 'Uniform Motion' implies:",
+      "options": {
+        "A": "Constant acceleration",
+        "B": "Constant velocity",
+        "C": "Resting state",
+        "D": "Increasing speed"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "What is the slope of a horizontal line on a velocity-time graph?",
+      "options": {
+        "A": "Constant speed",
+        "B": "Zero",
+        "C": "Infinite",
+        "D": "Negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "In the equation s = ut + 0.5at^2, 's' stands for:",
+      "options": {
+        "A": "Speed",
+        "B": "Seconds",
+        "C": "Displacement",
+        "D": "Surface area"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "An object travels 100m in 10s. Its average speed is:",
+      "options": {
+        "A": "1000 m/s",
+        "B": "10 m/s",
+        "C": "0.1 m/s",
+        "D": "100 m/s"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which graph shows a body moving with increasing acceleration?",
+      "options": {
+        "A": "Straight line d-t graph",
+        "B": "Straight line v-t graph",
+        "C": "Curved v-t graph (upward)",
+        "D": "Horizontal v-t graph"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 31,
+      "question": "A ball is thrown upward. During its ascent, its acceleration is:",
+      "options": {
+        "A": "Upward",
+        "B": "Zero",
+        "C": "Downward",
+        "D": "Increasing"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "When an object reaches terminal velocity, its acceleration becomes:",
+      "options": {
+        "A": "9.8 m/s^2",
+        "B": "Zero",
+        "C": "Maximum",
+        "D": "Equal to velocity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "A vector is resolved into components. The component along the x-axis is usually:",
+      "options": {
+        "A": "V sin(theta)",
+        "B": "V tan(theta)",
+        "C": "V cos(theta)",
+        "D": "V/theta"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is true for an object moving at constant speed in a straight line?",
+      "options": {
+        "A": "Displacement = Distance",
+        "B": "Acceleration is positive",
+        "C": "Velocity is changing",
+        "D": "Displacement is zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "Kinematics is the study of motion without considering its:",
+      "options": {
+        "A": "Time",
+        "B": "Velocity",
+        "C": "Causes (forces)",
+        "D": "Position"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "A car slows down from 20 m/s to 10 m/s in 2 seconds. The acceleration is:",
+      "options": {
+        "A": "5 m/s^2",
+        "B": "-5 m/s^2",
+        "C": "10 m/s^2",
+        "D": "-10 m/s^2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "The unit km/h can be converted to m/s by multiplying by:",
+      "options": {
+        "A": "3.6",
+        "B": "5/18",
+        "C": "18/5",
+        "D": "1000"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "If the displacement of an object is proportional to the square of time, it moves with:",
+      "options": {
+        "A": "Uniform velocity",
+        "B": "Uniform acceleration",
+        "C": "Decreasing speed",
+        "D": "Variable acceleration"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "At the start of an experiment, t = 0. The position at this time is called:",
+      "options": {
+        "A": "Final position",
+        "B": "Displacement",
+        "C": "Initial position",
+        "D": "Distance"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 40,
+      "question": "A person walks 3m East and then 4m North. The magnitude of displacement is:",
+      "options": {
+        "A": "7 m",
+        "B": "1 m",
+        "C": "5 m",
+        "D": "12 m"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 41,
+      "question": "On a velocity-time graph, a line sloping downwards to the right shows:",
+      "options": {
+        "A": "Positive acceleration",
+        "B": "Negative acceleration",
+        "C": "Constant velocity",
+        "D": "No motion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following remains constant during free fall?",
+      "options": {
+        "A": "Velocity",
+        "B": "Speed",
+        "C": "Acceleration",
+        "D": "Distance"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 43,
+      "question": "The odometer of a car measures:",
+      "options": {
+        "A": "Speed",
+        "B": "Velocity",
+        "C": "Distance",
+        "D": "Acceleration"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 44,
+      "question": "Motion along a straight line is also called:",
+      "options": {
+        "A": "Rectilinear motion",
+        "B": "Circular motion",
+        "C": "Periodic motion",
+        "D": "Projectile motion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "If an object is at rest, its displacement-time graph is a:",
+      "options": {
+        "A": "Straight line sloping upwards",
+        "B": "Curve",
+        "C": "Horizontal line",
+        "D": "Vertical line"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "The direction of acceleration is always the same as the direction of:",
+      "options": {
+        "A": "Displacement",
+        "B": "Velocity",
+        "C": "Change in velocity",
+        "D": "Initial velocity"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 47,
+      "question": "Which of these quantities can be negative?",
+      "options": {
+        "A": "Distance",
+        "B": "Speed",
+        "C": "Displacement",
+        "D": "Time"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 48,
+      "question": "For a freely falling body, the distance traveled in the first second is:",
+      "options": {
+        "A": "9.8 m",
+        "B": "4.9 m",
+        "C": "1 m",
+        "D": "19.6 m"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The frame of reference is a point from which:",
+      "options": {
+        "A": "Mass is measured",
+        "B": "Motion is observed",
+        "C": "Gravity starts",
+        "D": "Energy is calculated"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "When velocity is constant, the average velocity and instantaneous velocity are:",
+      "options": {
+        "A": "Different",
+        "B": "Zero",
+        "C": "Equal",
+        "D": "Opposite"
+      },
+      "correct_option": "C"
+    }
+  ]
+}
+]

@@ -1,0 +1,310 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Biology",
+  "unit": "Unit 1: Applications of Biology",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which field uses biological systems and organisms to develop products for human welfare?",
+      "options": {"A": "Biotechnology", "B": "Astrophysics", "C": "Geology", "D": "Anthropology"},
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The process of using bacteria to clean up oil spills in the ocean is known as:",
+      "options": {"A": "Bioprospection", "B": "Biomagnification", "C": "Bioremediation", "D": "Biodiversity"},
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "In DNA profiling, which regions of DNA are analyzed because they vary greatly between individuals?",
+      "options": {"A": "Short Tandem Repeats (STRs)", "B": "Exons", "C": "Protein-coding genes", "D": "Ribosomal RNA"},
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "What is the primary benefit of Genetically Modified (GM) crops like Bt cotton?",
+      "options": {"A": "Resistance to pests", "B": "Decreased yield", "C": "Increased water usage", "D": "Higher cost of production"},
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which enzyme is used to 'glue' or join DNA fragments together in genetic engineering?",
+      "options": {"A": "DNA Helicase", "B": "Amylase", "C": "DNA Ligase", "D": "Restriction Endonuclease"},
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "Bioinformatics primarily involves the application of ______ to biological data.",
+      "options": {"A": "Manual labor", "B": "Chemical dyes", "C": "Computer science and statistics", "D": "Traditional farming"},
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "The production of human insulin by E. coli bacteria is made possible by:",
+      "options": {"A": "Recombinant DNA technology", "B": "Natural selection", "C": "Spontaneous generation", "D": "Fermentation only"},
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "What does PCR stand for in the context of DNA amplification?",
+      "options": {"A": "Polymerase Chain Reaction", "B": "Protein Cycle Rate", "C": "Primary Cell Regeneration", "D": "Polynucleotide Case Repair"},
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "A vector in biotechnology is a DNA molecule used to:",
+      "options": {"A": "Carry foreign genetic material into another cell", "B": "Stop the growth of bacteria", "C": "Identify the species of an animal", "D": "Break down cellular waste"},
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which organism is a common natural vector for transferring genes into plant cells?",
+      "options": {"A": "Agrobacterium tumefaciens", "B": "Escherichia coli", "C": "Saccharomyces cerevisiae", "D": "Influenza virus"},
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "Golden Rice was developed to address a deficiency in which nutrient?",
+      "options": {"A": "Vitamin C", "B": "Iron", "C": "Vitamin A", "D": "Calcium"},
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "The study of the complete set of proteins produced by an organism is:",
+      "options": {"A": "Genomics", "B": "Metabolism", "C": "Proteomics", "D": "Cytology"},
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "Gene therapy aims to treat genetic disorders by:",
+      "options": {"A": "Replacing defective genes with functional ones", "B": "Prescribing antibiotics", "C": "Using physical therapy", "D": "Changing the patient's diet"},
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which technique separates DNA fragments based on their size and charge?",
+      "options": {"A": "Gel electrophoresis", "B": "Osmosis", "C": "Active transport", "D": "Gram staining"},
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "Monoclonal antibodies are highly specific because they are derived from:",
+      "options": {"A": "A single clone of B-cells", "B": "Multiple types of T-cells", "C": "Plant roots", "D": "Red blood cells"},
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "Restriction enzymes are often called 'molecular scissors' because they:",
+      "options": {"A": "Cut DNA at specific recognition sequences", "B": "Repair broken cell walls", "C": "Join RNA strands", "D": "Digest food in the stomach"},
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "In forensics, DNA evidence can be extracted from which of the following?",
+      "options": {"A": "Hair follicles", "B": "Distilled water", "C": "Pure gold", "D": "Synthetic clothing fibers"},
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "The term 'Biopiracy' refers to:",
+      "options": {"A": "Unauthorized use of biological resources and traditional knowledge", "B": "Cleaning the ocean", "C": "Illegal fishing in international waters", "D": "Studying marine biology"},
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "Which of these is a bio-pesticide?",
+      "options": {"A": "Bacillus thuringiensis", "B": "DDT", "C": "Malathion", "D": "Urea"},
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "What is the function of a selectable marker in a plasmid vector?",
+      "options": {"A": "To help identify cells that have taken up the plasmid", "B": "To make the cell larger", "C": "To change the cell's color to blue", "D": "To destroy the cell if it mutates"},
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "Stem cells are valuable in medicine because they have the ability to:",
+      "options": {"A": "Differentiate into specialized cell types", "B": "Live forever without nutrients", "C": "Travel through the air", "D": "Only form skin tissue"},
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "Pharmacogenomics is the study of how ______ affect a person's response to drugs.",
+      "options": {"A": "Genetics", "B": "Environment", "C": "Daily exercise", "D": "Dietary habits"},
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "Which technology allows scientists to edit specific parts of the genome with high precision?",
+      "options": {"A": "CRISPR-Cas9", "B": "X-ray crystallography", "C": "MRI scanning", "D": "Light microscopy"},
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "The ethical concerns surrounding biotechnology are addressed by the field of:",
+      "options": {"A": "Bioethics", "B": "Bioinformatics", "C": "Biogeography", "D": "Biophysics"},
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "A transgenic organism contains:",
+      "options": {"A": "DNA from a different species", "B": "No DNA", "C": "Extra cytoplasm", "D": "Only mitochondrial DNA"},
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "Biofuels like ethanol are primarily produced by the process of:",
+      "options": {"A": "Fermentation", "B": "Combustion", "C": "Oxidation", "D": "Sublimation"},
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "In 'Ex-situ' conservation, where are endangered species kept?",
+      "options": {"A": "Outside their natural habitat (e.g., zoos, seed banks)", "B": "Inside their natural habitat", "C": "In the ocean only", "D": "In space stations"},
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "Which molecule acts as the 'template' during the PCR process?",
+      "options": {"A": "Target DNA", "B": "Glucose", "C": "Amino acids", "D": "Lipids"},
+      "correct_option": "A"
+    },
+    {
+      "id": 29,
+      "question": "The use of 'biomarkers' in medicine helps in:",
+      "options": {"A": "Early diagnosis of diseases", "B": "Slowing down digestion", "C": "Changing eye color", "D": "Increasing bone density"},
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "Human growth hormone (hGH) is now synthesized through:",
+      "options": {"A": "Recombinant bacteria", "B": "Extraction from soil", "C": "Chemical synthesis in a test tube", "D": "Boiling plant leaves"},
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "The 'Flavr Savr' tomato was engineered to:",
+      "options": {"A": "Delayed ripening", "B": "Grow faster", "C": "Be blue in color", "D": "Contain no seeds"},
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which branch of biotechnology is focused on industrial processes?",
+      "options": {"A": "White Biotechnology", "B": "Green Biotechnology", "C": "Red Biotechnology", "D": "Blue Biotechnology"},
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "What is the main purpose of a 'DNA probe'?",
+      "options": {"A": "To detect the presence of a specific DNA sequence", "B": "To copy DNA into RNA", "C": "To measure the temperature of a cell", "D": "To speed up cell division"},
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which enzyme is essential for converting mRNA into cDNA in biotechnology?",
+      "options": {"A": "Reverse transcriptase", "B": "Amylase", "C": "Lipase", "D": "Protease"},
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "In forensic science, entomology is used to estimate the time of death by studying:",
+      "options": {"A": "Insects on the body", "B": "Blood type", "C": "Fingerprints", "D": "Stomach contents"},
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "What does a 'knockout' organism have?",
+      "options": {"A": "A gene that has been intentionally made inoperative", "B": "A gene that makes it stronger", "C": "Extra limbs", "D": "The ability to glow in the dark"},
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which technology is used to screen for thousands of genes at once?",
+      "options": {"A": "DNA microarray", "B": "Light microscope", "C": "Centrifuge", "D": "Stethoscope"},
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "Xenotransplantation involves transplanting organs from:",
+      "options": {"A": "One species to another (e.g., pig to human)", "B": "One human to another", "C": "One plant to another", "D": "A lab to a human"},
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a bio-fertilizer used to fix nitrogen?",
+      "options": {"A": "Rhizobium", "B": "Urea", "C": "Potassium nitrate", "D": "Superphosphate"},
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "The use of computers to model the 3D structure of proteins is part of:",
+      "options": {"A": "Structural biology", "B": "Anatomy", "C": "Taxonomy", "D": "Ecology"},
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "What is the primary risk of gene flow from GM crops to wild relatives?",
+      "options": {"A": "Creation of 'super-weeds'", "B": "Increased crop nutrition", "C": "Faster crop growth", "D": "Better soil quality"},
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "A 'clone' is an organism that is ______ to its parent.",
+      "options": {"A": "Genetically identical", "B": "Twice the size", "C": "Genetically different", "D": "Naturally stronger"},
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "Which type of DNA is inherited only from the mother and used in lineage studies?",
+      "options": {"A": "Mitochondrial DNA", "B": "Nuclear DNA", "C": "Y-chromosome DNA", "D": "Ribosomal DNA"},
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "The 'Green Revolution' primarily improved agriculture through:",
+      "options": {"A": "High-yielding variety (HYV) seeds", "B": "Organic farming only", "C": "Decreasing fertilizer use", "D": "Relying only on rainwater"},
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which scientist is often credited with the development of the PCR technique?",
+      "options": {"A": "Kary Mullis", "B": "Charles Darwin", "C": "Gregor Mendel", "D": "Louis Pasteur"},
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Biotechnology in waste management includes the production of ______ from organic waste.",
+      "options": {"A": "Biogas (Methane)", "B": "Plastic bottles", "C": "Nuclear energy", "D": "Coal"},
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "What is 'marker-assisted selection' (MAS)?",
+      "options": {"A": "Using DNA markers to select for desired traits in breeding", "B": "Marking plants with paint", "C": "Selling seeds at a market", "D": "Selecting seeds by their weight"},
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which protein is responsible for the 'Bt' toxicity in insects?",
+      "options": {"A": "Cry protein", "B": "Insulin", "C": "Hemoglobin", "D": "Keratin"},
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "Somatic cell nuclear transfer (SCNT) is a technique used for:",
+      "options": {"A": "Cloning", "B": "Photosynthesis", "C": "Respiration", "D": "Muscle contraction"},
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "Synthetic biology aims to:",
+      "options": {"A": "Redesign organisms for useful purposes by creating new biological parts", "B": "Stop all biological research", "C": "Only study dead tissues", "D": "Turn plants into animals"},
+      "correct_option": "A"
+    }
+  ]
+}
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "question": "What was a primary political characteristic of the 'Dark Ages' in Western Europe (500-1000 AD)?",
+    "choices": [
+      "The establishment of strong, centralized empires.",
+      "A shift of political power from local rulers to kings and emperors.",
+      "The decentralization of power and the rise of local lords.",
+      "The formation of democratic city-states."
+    ],
+    "answer": "C",
+    "explanation": "During the Dark Ages, power was fragmented, and local lords held most authority."
+  },
+  {
+    "question": "The feudal system in Medieval Europe was primarily characterized by:",
+    "choices": [
+      "An economy based on long-distance trade and a powerful merchant class.",
+      "The exchange of land for military service and loyalty.",
+      "A centralized government with absolute monarchs.",
+      "The dominance of secular humanism in political thought."
+    ],
+    "answer": "B",
+    "explanation": "Feudalism was based on land-for-service relationships between lords and vassals."
+  },
+  {
+    "question": "What was the primary economic unit of feudal society?",
+    "choices": [
+      "The Guild",
+      "The Monastery",
+      "The Manor",
+      "The Bank"
+    ],
+    "answer": "C",
+    "explanation": "The manor was self-sufficient, producing most goods for local needs."
+  },
+  {
+    "question": "Which of the following best describes the role of the Catholic Church in Europe during the early Middle Ages?",
+    "choices": [
+      "It was a minor institution with little influence over daily life.",
+      "It acted as a central authority, preserving culture and learning.",
+      "It primarily focused on supporting capitalistic enterprises.",
+      "It promoted scientific inquiry that challenged traditional beliefs."
+    ],
+    "answer": "B",
+    "explanation": "The Church preserved knowledge, educated clergy, and influenced political life."
+  },
+  {
+    "question": "A key feature of the Byzantine Empire's political structure was:",
+    "choices": [
+      "The separation of political and religious authority.",
+      "The election of emperors by a council of nobles.",
+      "The absolute power of the emperor, who was both political and religious leader.",
+      "A decentralized feudal system identical to Western Europe's."
+    ],
+    "answer": "C",
+    "explanation": "Byzantine emperors held both political and religious authority, known as Caesaropapism."
+  },
+  {
+    "question": "The Byzantine Empire is historically significant for:",
+    "choices": [
+      "Conquering the Western Roman Empire and reuniting it.",
+      "Preserving Greco-Roman knowledge and Christian traditions.",
+      "Initiating the Protestant Reformation.",
+      "Pioneering the early capitalist economic system."
+    ],
+    "answer": "B",
+    "explanation": "The Byzantine Empire preserved classical texts and maintained Christian traditions."
+  },
+  {
+    "question": "The rapid expansion of Islam in the 7th and 8th centuries was largely due to:",
+    "choices": [
+      "Peaceful conversion and missionary work alone.",
+      "The teachings that all religions are equal.",
+      "Military conquests led by political-religious leaders (Caliphs).",
+      "The technological superiority of Arab navies."
+    ],
+    "answer": "C",
+    "explanation": "Islam spread through military conquest and leadership of the Caliphs."
+  },
+  {
+    "question": "What was a major cultural achievement of Muslim Arab civilization during the Islamic Golden Age?",
+    "choices": [
+      "The invention of the printing press.",
+      "The preservation and translation of ancient Greek texts.",
+      "The creation of Gothic architecture.",
+      "The establishment of the first democratic government."
+    ],
+    "answer": "B",
+    "explanation": "Muslims translated Greek works and advanced math, science, and medicine."
+  },
+  {
+    "question": "The Ottoman Empire is best known for:",
+    "choices": [
+      "Preventing the spread of Islam into Europe.",
+      "Capturing Constantinople in 1453 and making it their capital.",
+      "Being the first European state to establish colonies in the Americas.",
+      "Promoting the ideals of the Renaissance throughout Asia."
+    ],
+    "answer": "B",
+    "explanation": "The Ottomans captured Constantinople, marking the end of the Byzantine Empire."
+  },
+  {
+    "question": "Which pair of European countries were the pioneers of overseas exploration during the Age of Discovery?",
+    "choices": [
+      "England and France",
+      "Holland and England",
+      "Spain and Portugal",
+      "Italy and Germany"
+    ],
+    "answer": "C",
+    "explanation": "Spain and Portugal led the first major global explorations in the 15th century."
+  },
+  {
+    "question": "The European voyages of exploration in the 15th and 16th centuries were primarily motivated by the desire for:",
+    "choices": [
+      "New lands for peasant resettlement.",
+      "Religious freedom from the Catholic Church.",
+      "New trade routes to access Asian goods like spices and silk.",
+      "Scientific knowledge about the shape of the Earth."
+    ],
+    "answer": "C",
+    "explanation": "Europeans sought direct access to Asian markets and spices."
+  },
+  {
+    "question": "A major consequence of the European 'discoveries' and colonization was:",
+    "choices": [
+      "The immediate and peaceful unification of all indigenous peoples.",
+      "The facilitation of long-distance trade, fueling the growth of early capitalism.",
+      "The decline in wealth and power for European nations.",
+      "The end of all rivalry between European states."
+    ],
+    "answer": "B",
+    "explanation": "Colonization expanded trade, creating wealth and early capitalist systems in Europe."
+  },
+  {
+    "question": "What was a defining feature of early capitalism in Europe?",
+    "choices": [
+      "The economy was based entirely on barter and self-sufficiency.",
+      "The bourgeoisie class gained economic importance through trade and investment.",
+      "Governments seized all private property for the state.",
+      "The manorial system became stronger and more widespread."
+    ],
+    "answer": "B",
+    "explanation": "Merchants and traders (bourgeoisie) became economically powerful through commerce."
+  },
+  {
+    "question": "The Renaissance period was marked by a cultural and intellectual shift towards:",
+    "choices": [
+      "A strict focus on life after death and religious salvation.",
+      "Humanism, reason, and the rediscovery of classical antiquity.",
+      "The complete rejection of all scientific inquiry.",
+      "The strengthening of feudal political structures."
+    ],
+    "answer": "B",
+    "explanation": "Renaissance thinkers focused on human potential and classical knowledge."
+  },
+  {
+    "question": "Leonardo da Vinci's 'The Last Supper' is an example of Renaissance art that demonstrates:",
+    "choices": [
+      "The exclusive use of abstract and non-representational forms.",
+      "A return to the flat, symbolic style of the Dark Ages.",
+      "New techniques like perspective and a focus on human emotion.",
+      "The dominance of Gothic architectural themes in painting."
+    ],
+    "answer": "C",
+    "explanation": "Da Vinci used perspective and realistic emotions, hallmarks of Renaissance art."
+  },
+  {
+    "question": "What was the central theological argument Martin Luther presented in his Ninety-Five Theses?",
+    "choices": [
+      "The Pope is the ultimate and infallible authority on Earth.",
+      "Salvation is achieved through faith alone, not through the purchase of indulgences.",
+      "The Church should accumulate more wealth to build larger cathedrals.",
+      "Good deeds are the only path to salvation."
+    ],
+    "answer": "B",
+    "explanation": "Luther opposed the selling of indulgences and emphasized faith for salvation."
+  },
+  {
+    "question": "A key doctrine of John Calvin's Protestantism was:",
+    "choices": [
+      "The separation of Church and State as an absolute principle.",
+      "The belief in predestination.",
+      "The sale of indulgences to fund church operations.",
+      "The requirement for all priests to marry."
+    ],
+    "answer": "B",
+    "explanation": "Calvin taught that God predestines who will be saved or damned."
+  },
+  {
+    "question": "The Protestant Reformation began in which country?",
+    "choices": ["England", "France", "Italy", "Germany"],
+    "answer": "D",
+    "explanation": "Martin Luther's actions in Germany started the Reformation."
+  },
+  {
+    "question": "The 'Protestant ethic,' as discussed by historians, strongly supported values that aligned with early capitalism, such as:",
+    "choices": [
+      "Hermitage and the rejection of all material possessions.",
+      "Thrift, hard work, and reinvestment of wealth.",
+      "Frequent celebration and lavish spending.",
+      "Avoiding any form of labor or trade."
+    ],
+    "answer": "B",
+    "explanation": "Work ethic, thrift, and reinvestment were linked to economic growth."
+  },
+  {
+    "question": "What technological innovation of the Early Modern period revolutionized the spread of knowledge?",
+    "choices": [
+      "The astrolabe",
+      "The movable-type printing press",
+      "The crossbow",
+      "The steam engine"
+    ],
+    "answer": "B",
+    "explanation": "The printing press enabled mass production of books and knowledge dissemination."
+  },
+  {
+    "question": "How did the barbarian invasions contribute to the emergence of feudalism in Europe?",
+    "choices": [
+      "They introduced a strong centralized government model.",
+      "They facilitated the collapse of the Roman Empire, leading to political fragmentation.",
+      "They immediately established a global trade network.",
+      "They unified all of Europe under a single religion."
+    ],
+    "answer": "B",
+    "explanation": "With Rome's collapse, local lords gained power, forming feudal structures."
+  },
+  {
+    "question": "What was a common feature in the works of Renaissance scholars and writers?",
+    "choices": [
+      "Their challenge to established authority and traditional thinking.",
+      "Their exclusive use of religious themes from the Bible.",
+      "Their reinforcement of medieval scholasticism without question.",
+      "Their focus on the inevitability of human failure."
+    ],
+    "answer": "A",
+    "explanation": "Renaissance thinkers often questioned traditional authorities and promoted humanism."
+  },
+  {
+    "question": "Which of the following was a major outcome of the Reformation?",
+    "choices": [
+      "The permanent religious unification of Western Europe under the Pope.",
+      "The end of all religious conflict in Europe.",
+      "A permanent division within Western Christianity into Catholic and Protestant churches.",
+      "The decline in the importance of religion in European society."
+    ],
+    "answer": "C",
+    "explanation": "Europe split into Catholic and Protestant regions, leading to long-term religious diversity."
+  },
+  {
+    "question": "The Byzantine Empire served as a buffer for Europe by:",
+    "choices": [
+      "Invading and conquering Western European kingdoms.",
+      "Defending Europe from Muslim Arab and Turkish expansions for centuries.",
+      "Spreading the Catholic faith into the Middle East.",
+      "Initiating the Crusades to conquer North Africa."
+    ],
+    "answer": "B",
+    "explanation": "The empire defended Europe from external invasions from the East."
+  },
+  {
+    "question": "Which of the following is NOT true about the manor in feudal Europe?",
+    "choices": [
+      "It was a self-sufficient economic unit.",
+      "It was primarily focused on production for an international market.",
+      "Peasants and serfs lived and worked on the manor.",
+      "The manorial lord exercised significant local power."
+    ],
+    "answer": "B",
+    "explanation": "Manors produced mainly for local needs, not international trade."
+  },
+  {
+    "question": "The Crusades, a series of military campaigns initiated by Christian Europe, had which of the following effects?",
+    "choices": [
+      "They permanently secured Christian control over the Holy Land.",
+      "They strengthened the power of the Byzantine Emperor above all others.",
+      "They weakened feudal nobility in Europe and strengthened the papacy.",
+      "They had no significant impact on trade or cultural exchange."
+    ],
+    "answer": "C",
+    "explanation": "The Crusades reduced feudal power and increased papal influence."
+  },
+  {
+    "question": "Nicolas Copernicus, a Renaissance scientist, is best known for:",
+    "choices": [
+      "Discovering the laws of gravity.",
+      "Proposing a heliocentric model of the solar system.",
+      "Inventing the telescope.",
+      "Writing the 'Divine Comedy.'"
+    ],
+    "answer": "B",
+    "explanation": "He proposed that the Sun, not the Earth, is at the center of the solar system."
+  },
+  {
+    "question": "What was the primary language of government and culture in the Byzantine Empire?",
+    "choices": ["Latin", "Arabic", "Greek", "Turkish"],
+    "answer": "C",
+    "explanation": "Greek became the official language after the division of the Roman Empire."
+  },
+  {
+    "question": "The sale of indulgences, which Martin Luther criticized, was the practice of:",
+    "choices": [
+      "Appointing bishops based on their family connections.",
+      "Selling pardons from the temporal punishment for sins.",
+      "Lending money with interest, which was forbidden.",
+      "Allowing priests to own private property."
+    ],
+    "answer": "B",
+    "explanation": "The Church sold pardons to reduce punishment for sins, which Luther opposed."
+  },
+  {
+    "question": "A key factor that made long-distance oceanic exploration possible in the 15th century was:",
+    "choices": [
+      "The discovery that the Earth was flat.",
+      "The use of the caravel ship and improved navigational tools like the compass.",
+      "The unanimous support of all European populations for exploration.",
+      "The absence of any storms in the Atlantic Ocean."
+    ],
+    "answer": "B",
+    "explanation": "Caravels and navigational instruments enabled explorers to travel farther."
+  },
+  {
+    "question": "Which of the following best describes Gothic architecture?",
+    "choices": [
+      "Use of columns and domes similar to Roman architecture.",
+      "Tall structures with pointed arches and stained glass windows.",
+      "Flat-roofed structures with minimal decoration.",
+      "Buildings with primarily wooden construction."
+    ],
+    "answer": "B",
+    "explanation": "Gothic cathedrals are known for verticality and stained glass."
+  },
+  {
+    "question": "The Hundred Years’ War was primarily fought between:",
+    "choices": ["France and Spain", "England and France", "Germany and Italy", "England and Spain"],
+    "answer": "B",
+    "explanation": "The war was mainly a conflict between England and France over succession."
+  },
+  {
+    "question": "The Magna Carta of 1215 is significant because it:",
+    "choices": [
+      "Limited the power of the English monarchy.",
+      "Granted absolute power to the king.",
+      "Established the feudal system in England.",
+      "Created a new religious order."
+    ],
+    "answer": "A",
+    "explanation": "The Magna Carta restricted the king’s authority and laid the foundation for parliamentary law."
+  },
+  {
+    "question": "The Black Death in the 14th century resulted in:",
+    "choices": [
+      "Population decline and labor shortages in Europe.",
+      "The rise of feudalism.",
+      "Expansion of the Roman Empire.",
+      "The fall of the Byzantine Empire."
+    ],
+    "answer": "A",
+    "explanation": "The plague killed millions, creating labor shortages and social upheaval."
+  },
+  {
+    "question": "Which city was the center of the Italian Renaissance?",
+    "choices": ["Rome", "Venice", "Florence", "Milan"],
+    "answer": "C",
+    "explanation": "Florence was the birthplace of the Renaissance, home to artists and scholars."
+  },
+  {
+    "question": "Which invention by Johannes Gutenberg revolutionized the spread of information?",
+    "choices": [
+      "The telescope",
+      "The printing press",
+      "The mechanical clock",
+      "The compass"
+    ],
+    "answer": "B",
+    "explanation": "Gutenberg’s printing press allowed mass production of books and rapid spread of ideas."
+  },
+  {
+    "question": "The Reconquista was:",
+    "choices": [
+      "The reconquest of Muslim territories by Christian kingdoms in Spain.",
+      "A series of Viking invasions in Northern Europe.",
+      "The Crusades to capture Jerusalem.",
+      "The establishment of feudalism in France."
+    ],
+    "answer": "A",
+    "explanation": "Christian kingdoms gradually reclaimed territory from Muslim rulers in Iberia."
+  },
+  {
+    "question": "The Council of Trent (1545-1563) was part of:",
+    "choices": [
+      "The Protestant Reformation.",
+      "The Catholic Counter-Reformation.",
+      "The Byzantine Empire reforms.",
+      "The French Revolution."
+    ],
+    "answer": "B",
+    "explanation": "It was the Catholic Church’s response to Protestantism, reforming practices and doctrines."
+  },
+  {
+    "question": "Which empire preserved Greco-Roman traditions in the Eastern Mediterranean after 476 AD?",
+    "choices": ["Holy Roman Empire", "Byzantine Empire", "Ottoman Empire", "Carolingian Empire"],
+    "answer": "B",
+    "explanation": "The Byzantine Empire preserved Roman law, architecture, and Greek learning."
+  },
+  {
+    "question": "What was the primary purpose of medieval guilds?",
+    "choices": [
+      "To regulate trade, maintain quality, and protect workers.",
+      "To serve as religious organizations.",
+      "To govern towns and cities independently.",
+      "To lead armies during the Crusades."
+    ],
+    "answer": "A",
+    "explanation": "Guilds ensured consistent standards, trained apprentices, and protected craftsmen."
+  },
+  {
+    "question": "The Edict of Milan (313 AD) established:",
+    "choices": [
+      "Christianity as the official religion of the Roman Empire.",
+      "Religious tolerance for Christianity in the Roman Empire.",
+      "The persecution of pagans.",
+      "The foundation of the Holy Roman Empire."
+    ],
+    "answer": "B",
+    "explanation": "It granted religious freedom to Christians within the empire."
+  },
+  {
+    "question": "The fall of Constantinople in 1453 marked:",
+    "choices": [
+      "The end of the Byzantine Empire and the rise of the Ottoman Empire.",
+      "The beginning of the Roman Empire.",
+      "The start of the Renaissance in France.",
+      "The end of the Ottoman Empire."
+    ],
+    "answer": "A",
+    "explanation": "The Ottomans captured Constantinople, ending Byzantine rule."
+  },
+  {
+    "question": "Which of the following best describes humanism in the Renaissance?",
+    "choices": [
+      "Focus on religious dogma and church authority.",
+      "Emphasis on human potential, classical learning, and reason.",
+      "Promotion of feudal loyalty and chivalry.",
+      "Strict adherence to medieval scholasticism."
+    ],
+    "answer": "B",
+    "explanation": "Humanism emphasized education, arts, and human achievements."
+  }
+]

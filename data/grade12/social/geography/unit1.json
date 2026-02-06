@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Geography",
+  "unit": "Unit 1: The Global Climate",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The state of the atmosphere at a specific place and time is referred to as:",
+      "options": {
+        "A": "Weather",
+        "B": "Climate",
+        "C": "Ecology",
+        "D": "Meteorology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following gases is the most abundant in the Earth's atmosphere?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon Dioxide",
+        "C": "Nitrogen",
+        "D": "Argon"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "The layer of the atmosphere where almost all weather phenomena occur is the:",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Exosphere"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "The 'Greenhouse Effect' is primarily caused by the trapping of:",
+      "options": {
+        "A": "Ultraviolet radiation",
+        "B": "Incoming solar radiation",
+        "C": "Outgoing terrestrial infrared radiation",
+        "D": "Cosmic rays"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "options": {
+        "A": "Barometer",
+        "B": "Anemometer",
+        "C": "Hygrometer",
+        "D": "Thermometer"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 6,
+      "question": "The deflective force caused by the Earth's rotation is known as the:",
+      "options": {
+        "A": "Centrifugal force",
+        "B": "Frictional force",
+        "C": "Coriolis effect",
+        "D": "Gravitational pull"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "In the Northern Hemisphere, the Coriolis effect causes winds to deflect to the:",
+      "options": {
+        "A": "Right",
+        "B": "Left",
+        "C": "North",
+        "D": "South"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "The boundary between the trade winds and the westerlies is generally associated with:",
+      "options": {
+        "A": "Subtropical High Pressure Belts",
+        "B": "Equatorial Low Pressure Belts",
+        "C": "Subpolar Low Pressure Belts",
+        "D": "Polar Highs"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "What is the name of the zone where the trade winds from both hemispheres meet?",
+      "options": {
+        "A": "The Horse Latitudes",
+        "B": "The Jet Stream",
+        "C": "Inter-Tropical Convergence Zone (ITCZ)",
+        "D": "The Arctic Circle"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which type of rainfall occurs when air is forced to rise over a mountain range?",
+      "options": {
+        "A": "Orographic rainfall",
+        "B": "Convectional rainfall",
+        "C": "Cyclonic rainfall",
+        "D": "Frontal rainfall"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "The ratio of the actual amount of water vapor in the air to the maximum amount it can hold at that temperature is:",
+      "options": {
+        "A": "Absolute humidity",
+        "B": "Specific humidity",
+        "C": "Relative humidity",
+        "D": "Dew point"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "A line on a map connecting places with the same temperature is called an:",
+      "options": {
+        "A": "Isotherm",
+        "B": "Isobar",
+        "C": "Isohyet",
+        "D": "Isohel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "Climate change caused by human activities is often referred to as:",
+      "options": {
+        "A": "Natural variability",
+        "B": "Orbital forcing",
+        "C": "Anthropogenic climate change",
+        "D": "Solar cycling"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a major 'Carbon Sink'?",
+      "options": {
+        "A": "Oceans and Forests",
+        "B": "Deserts",
+        "C": "Industrial zones",
+        "D": "Volcanoes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "The primary cause of global sea-level rise is:",
+      "options": {
+        "A": "Thermal expansion of water and melting glaciers",
+        "B": "Increased rainfall over the ocean",
+        "C": "Undersea earthquakes",
+        "D": "Increased ship traffic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "The Köppen climate classification system is primarily based on:",
+      "options": {
+        "A": "Wind speed and direction",
+        "B": "Cloud cover and sunshine",
+        "C": "Temperature and Precipitation",
+        "D": "Soil type and rock structure"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "A tropical cyclone is known as a 'Typhoon' in which region?",
+      "options": {
+        "A": "The Atlantic Ocean",
+        "B": "The Indian Ocean",
+        "C": "The Western Pacific Ocean",
+        "D": "The Mediterranean Sea"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "What is the primary characteristic of an 'Arid' (Type B) climate?",
+      "options": {
+        "A": "High humidity",
+        "B": "Heavy snowfall",
+        "C": "Evaporation exceeds precipitation",
+        "D": "Extreme cold temperatures year-round"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "The seasonal reversal of wind direction that brings heavy rain to South Asia is the:",
+      "options": {
+        "A": "Monsoon",
+        "B": "Mistral",
+        "C": "Chinook",
+        "D": "Sirocco"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "El Niño is a phenomenon characterized by the warming of surface waters in the:",
+      "options": {
+        "A": "North Atlantic",
+        "B": "Indian Ocean",
+        "C": "Central and Eastern Pacific",
+        "D": "Arctic Ocean"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 21,
+      "question": "The layer of the atmosphere containing the 'Ozone Layer' is the:",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Troposphere",
+        "C": "Ionosphere",
+        "D": "Exosphere"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "Albedo refers to the:",
+      "options": {
+        "A": "Heat absorbed by the earth",
+        "B": "Heat released by the earth",
+        "C": "Percentage of solar radiation reflected by a surface",
+        "D": "Temperature of the upper atmosphere"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which surface would likely have the highest albedo?",
+      "options": {
+        "A": "Fresh snow",
+        "B": "Asphalt road",
+        "C": "Dark forest",
+        "D": "Deep ocean water"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "The 'Lapse Rate' is the rate at which temperature decreases with:",
+      "options": {
+        "A": "Increasing Altitude",
+        "B": "Increasing Latitude",
+        "C": "Increasing Longitude",
+        "D": "Increasing Distance from the sea"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "Winds always blow from areas of:",
+      "options": {
+        "A": "High pressure to Low pressure",
+        "B": "Low pressure to High pressure",
+        "C": "High altitude to Low altitude",
+        "D": "West to East always"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "The 'Doldrums' are found near the:",
+      "options": {
+        "A": "Equator",
+        "B": "North Pole",
+        "C": "South Pole",
+        "D": "Tropic of Capricorn"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "A maritime climate (near the ocean) generally has:",
+      "options": {
+        "A": "A small annual temperature range",
+        "B": "Extremely hot summers and freezing winters",
+        "C": "Very little rainfall",
+        "D": "High atmospheric pressure all year"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is a greenhouse gas?",
+      "options": {
+        "A": "Methane",
+        "B": "Argon",
+        "C": "Neon",
+        "D": "Helium"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 29,
+      "question": "The phenomenon where urban areas are warmer than surrounding rural areas is the:",
+      "options": {
+        "A": "Global warming",
+        "B": "Greenhouse effect",
+        "C": "Urban Heat Island effect",
+        "D": "Thermal inversion"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 30,
+      "question": "Permafrost is a characteristic feature of which climate type?",
+      "options": {
+        "A": "Tundra",
+        "B": "Tropical Rainforest",
+        "C": "Mediterranean",
+        "D": "Savanna"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "The 'Milankovitch Cycles' explain long-term climate change based on:",
+      "options": {
+        "A": "Changes in Earth's orbit and tilt",
+        "B": "Volcanic eruptions",
+        "C": "Tectonic plate movements",
+        "D": "Human industrial output"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which cloud type is usually associated with thunderstorms?",
+      "options": {
+        "A": "Cirrus",
+        "B": "Stratus",
+        "C": "Cumulonimbus",
+        "D": "Altocumulus"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "The 'Rain Shadow' effect is found on the:",
+      "options": {
+        "A": "Leeward side of a mountain",
+        "B": "Windward side of a mountain",
+        "C": "Peak of a mountain",
+        "D": "Ocean surface"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which organization is the leading international body for the assessment of climate change?",
+      "options": {
+        "A": "UNESCO",
+        "B": "WHO",
+        "C": "IPCC",
+        "D": "IMF"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "The 2015 international agreement to limit global warming to well below 2 degrees Celsius is the:",
+      "options": {
+        "A": "Kyoto Protocol",
+        "B": "Montreal Protocol",
+        "C": "Paris Agreement",
+        "D": "Geneva Convention"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "Subtropical deserts are primarily located under the:",
+      "options": {
+        "A": "Descending limb of the Hadley Cell",
+        "B": "Ascending limb of the Hadley Cell",
+        "C": "Polar Cell",
+        "D": "Jet Stream"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "The transfer of heat through the movement of a fluid (liquid or gas) is:",
+      "options": {
+        "A": "Convection",
+        "B": "Conduction",
+        "C": "Radiation",
+        "D": "Advection"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "What is the name for the lines of equal rainfall on a map?",
+      "options": {
+        "A": "Isohyets",
+        "B": "Isobars",
+        "C": "Isotherms",
+        "D": "Isonephs"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "The process by which liquid water changes into water vapor is:",
+      "options": {
+        "A": "Evaporation",
+        "B": "Condensation",
+        "C": "Sublimation",
+        "D": "Deposition"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is a 'Short-term' indicator of climate change?",
+      "options": {
+        "A": "Ice core data",
+        "B": "Tree ring analysis",
+        "C": "Direct satellite measurements",
+        "D": "Fossilized pollen"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 41,
+      "question": "A cold air mass displacing a warm air mass forms a:",
+      "options": {
+        "A": "Cold front",
+        "B": "Warm front",
+        "C": "Stationary front",
+        "D": "Occluded front"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "The 'Ferrer's Law' relates to the:",
+      "options": {
+        "A": "Direction of wind deflection",
+        "B": "Speed of sound",
+        "C": "Intensity of solar radiation",
+        "D": "Growth of plants"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "The 'Hadley Cell' operates between:",
+      "options": {
+        "A": "The Equator and 30 degrees latitude",
+        "B": "30 and 60 degrees latitude",
+        "C": "60 and 90 degrees latitude",
+        "D": "The North and South Poles directly"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "The primary source of energy for the Earth's climate system is:",
+      "options": {
+        "A": "The Sun",
+        "B": "Geothermal heat",
+        "C": "Nuclear energy",
+        "D": "Moonlight"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is a characteristic of the Stratosphere?",
+      "options": {
+        "A": "Temperature increases with altitude",
+        "B": "Temperature decreases with altitude",
+        "C": "It contains the most water vapor",
+        "D": "It is the lowest layer"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Ocean currents moving from the Equator toward the Poles are typically:",
+      "options": {
+        "A": "Warm currents",
+        "B": "Cold currents",
+        "C": "Deep water currents",
+        "D": "Salty currents"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "The 'Mistral' is a famous local wind in:",
+      "options": {
+        "A": "France",
+        "B": "Egypt",
+        "C": "USA",
+        "D": "Australia"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "Deforestation contributes to global warming by:",
+      "options": {
+        "A": "Reducing the amount of CO2 absorbed by trees",
+        "B": "Increasing the earth's albedo",
+        "C": "Cooling the local soil",
+        "D": "Increasing oxygen levels"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "What is the standard unit used to measure wind speed?",
+      "options": {
+        "A": "Knots or m/s",
+        "B": "Millibars",
+        "C": "Celsius",
+        "D": "Percentage"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The Earth's axis is tilted at an angle of approximately:",
+      "options": {
+        "A": "23.5 degrees",
+        "B": "45 degrees",
+        "C": "0 degrees",
+        "D": "90 degrees"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

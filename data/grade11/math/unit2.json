@@ -1,0 +1,550 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Mathematics",
+  "unit": "Unit 2: Rational Expressions and Rational Functions",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A rational expression is the ratio of two:",
+      "options": {
+        "A": "Integers",
+        "B": "Irrational numbers",
+        "C": "Polynomials",
+        "D": "Radicals"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "The domain of a rational expression consists of all real numbers except those that make the:",
+      "options": {
+        "A": "Numerator zero",
+        "B": "Denominator zero",
+        "C": "Expression a whole number",
+        "D": "Variable negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "A rational expression is in simplest form if the numerator and denominator have no common factors other than:",
+      "options": {
+        "A": "Zero",
+        "B": "One",
+        "C": "The variable x",
+        "D": "The leading coefficient"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "To simplify a rational expression, the first step is usually to:",
+      "options": {
+        "A": "Multiply the numerator and denominator",
+        "B": "Find the square root",
+        "C": "Factor the numerator and denominator",
+        "D": "Set the expression to zero"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "When multiplying two rational expressions, you multiply the:",
+      "options": {
+        "A": "Numerators together and denominators together",
+        "B": "Numerator of one by the denominator of the other",
+        "C": "Cross products only",
+        "D": "Reciprocals only"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 6,
+      "question": "To divide one rational expression by another, you multiply the first by the ______ of the second.",
+      "options": {
+        "A": "Opposite",
+        "B": "Reciprocal",
+        "C": "Square",
+        "D": "Conjugate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "To add or subtract rational expressions with different denominators, you must first find the:",
+      "options": {
+        "A": "Greatest Common Factor (GCF)",
+        "B": "Least Common Denominator (LCD)",
+        "C": "Square root of the denominator",
+        "D": "Sum of the numerators"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "An expression that contains a rational expression within its numerator or denominator is called a:",
+      "options": {
+        "A": "Simple fraction",
+        "B": "Complex rational expression",
+        "C": "Polynomial expression",
+        "D": "Linear expression"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "Values of the variable that make the denominator of a rational expression zero are called:",
+      "options": {
+        "A": "Solutions",
+        "B": "Intercepts",
+        "C": "Excluded values",
+        "D": "Zeros"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "When solving a rational equation, an apparent solution that does not satisfy the original equation is called a/an:",
+      "options": {
+        "A": "Actual solution",
+        "B": "Extraneous solution",
+        "C": "Complex root",
+        "D": "Denominator"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "The first step in solving a rational equation is often to multiply every term by the:",
+      "options": {
+        "A": "Numerator",
+        "B": "LCD of all denominators",
+        "C": "Variable x",
+        "D": "Reciprocal"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "If f(x) = 1/x, what happens to f(x) as x approaches infinity?",
+      "options": {
+        "A": "It approaches infinity",
+        "B": "It approaches zero",
+        "C": "It remains one",
+        "D": "It becomes negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The graph of the parent rational function f(x) = 1/x is called a:",
+      "options": {
+        "A": "Parabola",
+        "B": "Hyperbola",
+        "C": "Ellipse",
+        "D": "Straight line"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "A horizontal asymptote is a horizontal line that the graph of a function approaches as x approaches:",
+      "options": {
+        "A": "Zero",
+        "B": "The y-intercept",
+        "C": "Positive or negative infinity",
+        "D": "The x-intercept"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "If a rational function has a factor (x - a) in both the numerator and denominator that cancels out, the graph has a:",
+      "options": {
+        "A": "Vertical asymptote at x = a",
+        "B": "Hole at x = a",
+        "C": "Horizontal asymptote at y = a",
+        "D": "Jump discontinuity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "The x-intercepts of a rational function f(x) = P(x)/Q(x) are found by solving:",
+      "options": {
+        "A": "Q(x) = 0",
+        "B": "P(x) = 0",
+        "C": "P(x) = Q(x)",
+        "D": "f(0)"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The y-intercept of a rational function is found by evaluating:",
+      "options": {
+        "A": "f(1)",
+        "B": "f(0)",
+        "C": "The limit as x goes to infinity",
+        "D": "The LCD"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a rational inequality?",
+      "options": {
+        "A": "(x + 1) / (x - 2) = 5",
+        "B": "(x + 1) / (x - 2) > 0",
+        "C": "x^2 - 4 < 0",
+        "D": "3x + 2 = 10"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "To solve a rational inequality, we use critical values which include:",
+      "options": {
+        "A": "Only the zeros of the numerator",
+        "B": "Only the zeros of the denominator",
+        "C": "Zeros of both the numerator and denominator",
+        "D": "Only the y-intercept"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "A sign chart for a rational inequality helps determine the intervals where the expression is:",
+      "options": {
+        "A": "Equal to one",
+        "B": "Positive or negative",
+        "C": "Undefined",
+        "D": "Linear"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The domain of f(x) = (x - 1) / (x^2 - 4) is all real numbers except:",
+      "options": {
+        "A": "1",
+        "B": "2 and -2",
+        "C": "0",
+        "D": "4"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "If the degree of the numerator is equal to the degree of the denominator, the horizontal asymptote is:",
+      "options": {
+        "A": "y = 0",
+        "B": "The ratio of the leading coefficients",
+        "C": "Non-existent",
+        "D": "x = 0"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "What is the LCD of 1/x and 1/(x+1)?",
+      "options": {
+        "A": "x + 1",
+        "B": "x(x + 1)",
+        "C": "2x + 1",
+        "D": "x"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Simplifying (x^2 - 9) / (x - 3) gives:",
+      "options": {
+        "A": "x - 3",
+        "B": "x + 3",
+        "C": "x + 9",
+        "D": "3"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The partial fraction decomposition is a method to break down a rational expression into:",
+      "options": {
+        "A": "A product of polynomials",
+        "B": "A sum of simpler rational expressions",
+        "C": "A single linear equation",
+        "D": "An irrational number"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "An oblique asymptote occurs when the degree of the numerator is exactly ______ than the degree of the denominator.",
+      "options": {
+        "A": "One less",
+        "B": "One more",
+        "C": "The same",
+        "D": "Two more"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "In the graph of a rational function, the vertical asymptotes represent values where the function is:",
+      "options": {
+        "A": "Zero",
+        "B": "Undefined",
+        "C": "At its maximum",
+        "D": "Continuous"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which operation requires finding a common denominator?",
+      "options": {
+        "A": "Multiplication",
+        "B": "Division",
+        "C": "Addition",
+        "D": "Simplification"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "Solving x / (x - 2) = 0 gives the solution:",
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "No solution",
+        "D": "1"
+      },
+      "correct_option": "B"
+    },
+
+    {
+      "id": 31,
+      "question": "Which of the following is NOT a rational function?",
+      "options": {
+        "A": "f(x) = (x^2 + 1) / x",
+        "B": "f(x) = square_root(x) / (x + 1)",
+        "C": "f(x) = 5 / (x - 3)",
+        "D": "f(x) = x / 2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The domain of the function f(x) = 3 / (x^2 + 1) is:",
+      "options": {
+        "A": "x not equal to 1",
+        "B": "All real numbers",
+        "C": "x > 0",
+        "D": "x not equal to -1"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "When solving (x - 3) / (x + 4) <= 0, the critical values are:",
+      "options": {
+        "A": "3 and 4",
+        "B": "3 and -4",
+        "C": "-3 and 4",
+        "D": "0 and 3"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "A rational function f(x) = 1 / (x - 3) has a vertical asymptote at:",
+      "options": {
+        "A": "x = 0",
+        "B": "x = 3",
+        "C": "y = 3",
+        "D": "y = 0"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "If the degree of the numerator is less than the degree of the denominator, the horizontal asymptote is always:",
+      "options": {
+        "A": "y = 1",
+        "B": "y = 0",
+        "C": "None",
+        "D": "x = 0"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The term 'rational' in rational expressions comes from the word:",
+      "options": {
+        "A": "Radical",
+        "B": "Ratio",
+        "C": "Rate",
+        "D": "Radiant"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "To solve (1 / x) + (1 / 2) = 3 / 4, the LCD is:",
+      "options": {
+        "A": "2x",
+        "B": "4x",
+        "C": "8x",
+        "D": "x + 4"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "If x = 2 is an extraneous solution for a rational equation, it means:",
+      "options": {
+        "A": "It makes the numerator zero",
+        "B": "It makes a denominator zero in the original equation",
+        "C": "It is a complex number",
+        "D": "It is negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The expression (x / y) / (z / w) is equivalent to:",
+      "options": {
+        "A": "xz / yw",
+        "B": "xw / yz",
+        "C": "xy / zw",
+        "D": "yz / xw"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "When f(x) = 1/x is transformed to g(x) = 1/(x-2) + 3, the vertical asymptote moves to:",
+      "options": {
+        "A": "x = -2",
+        "B": "x = 2",
+        "C": "y = 3",
+        "D": "x = 3"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "A rational function can have how many horizontal asymptotes at most?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The zeros of a rational function f(x) = (x^2 - 1) / (x + 5) are:",
+      "options": {
+        "A": "5 and -5",
+        "B": "1 and -1",
+        "C": "0",
+        "D": "1 only"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "For the function f(x) = (2x + 1) / (x - 3), what is the horizontal asymptote?",
+      "options": {
+        "A": "y = 0",
+        "B": "y = 2",
+        "C": "y = 3",
+        "D": "x = 3"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "The process of long division of polynomials is used to find:",
+      "options": {
+        "A": "Vertical asymptotes",
+        "B": "Oblique asymptotes",
+        "C": "x-intercepts",
+        "D": "Holes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "In a rational inequality, the solution set is often expressed in:",
+      "options": {
+        "A": "Degrees",
+        "B": "Interval notation",
+        "C": "Coordinates",
+        "D": "Exponential form"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "The function f(x) = (x - 2) / (x - 2) has:",
+      "options": {
+        "A": "A vertical asymptote at x = 2",
+        "B": "A hole at x = 2",
+        "C": "No domain",
+        "D": "A zero at x = 2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "What is the result of (x/y) + (y/x)?",
+      "options": {
+        "A": "(x+y) / xy",
+        "B": "(x^2 + y^2) / xy",
+        "C": "1",
+        "D": "2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "If a rational equation is a proportion (one fraction equals another), it can be solved by:",
+      "options": {
+        "A": "Adding the numerators",
+        "B": "Cross-multiplication",
+        "C": "Squaring both sides",
+        "D": "Taking the log"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The vertical asymptote of f(x) = 5 / (2x - 4) is:",
+      "options": {
+        "A": "x = 4",
+        "B": "x = 2",
+        "C": "y = 0",
+        "D": "x = -2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "A rational expression is undefined when the denominator is:",
+      "options": {
+        "A": "Positive",
+        "B": "Zero",
+        "C": "One",
+        "D": "Negative"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

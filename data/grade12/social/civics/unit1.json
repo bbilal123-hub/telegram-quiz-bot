@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Civics",
+  "unit": "Unit 1: Building a Democratic System",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which type of democracy allows citizens to participate in decision-making through elected officials?",
+      "options": {
+        "A": "Direct Democracy",
+        "B": "Representative Democracy",
+        "C": "Absolute Monarchy",
+        "D": "Oligarchy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The principle of 'Popular Sovereignty' implies that:",
+      "options": {
+        "A": "The military holds the ultimate power",
+        "B": "The source of all political power resides in the people",
+        "C": "Religious leaders guide the state",
+        "D": "The constitution cannot be changed"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is considered a 'Core Value' of democracy?",
+      "options": {
+        "A": "Economic monopoly",
+        "B": "Equality and Liberty",
+        "C": "Secretive governance",
+        "D": "Single-party rule"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The 'Rule of Law' in a democratic system ensures that:",
+      "options": {
+        "A": "Law is applied differently based on social status",
+        "B": "Laws are only meant for the citizens, not the rulers",
+        "C": "No one is above the law, including the government",
+        "D": "The police can make laws on the spot"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "In a 'Liberal Democracy', the government is primarily concerned with protecting:",
+      "options": {
+        "A": "State secrets",
+        "B": "Individual rights and freedoms",
+        "C": "The interests of the ruling elite",
+        "D": "Only the rights of the majority"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "What is the main function of 'Political Parties' in a democratic system?",
+      "options": {
+        "A": "To create conflict among citizens",
+        "B": "To organize and represent the interests of different groups to gain political power",
+        "C": "To replace the judiciary",
+        "D": "To collect taxes from the public"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an example of 'Civic Participation'?",
+      "options": {
+        "A": "Ignoring national elections",
+        "B": "Paying taxes voluntarily and voting",
+        "C": "Refusing to follow traffic laws",
+        "D": "Spreading misinformation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The concept of 'Majority Rule' in democracy must be balanced with:",
+      "options": {
+        "A": "Minority oppression",
+        "B": "Minority rights",
+        "C": "The will of the military",
+        "D": "Totalitarianism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "The term 'Transparency' in democratic governance means:",
+      "options": {
+        "A": "Government actions are hidden from the public",
+        "B": "Decisions and actions are open to public scrutiny",
+        "C": "Only the wealthy can see government documents",
+        "D": "The government uses clear glass in its buildings"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "A 'Multi-party system' is a feature of:",
+      "options": {
+        "A": "Authoritarianism",
+        "B": "Democratic systems",
+        "C": "Feudalism",
+        "D": "Theocracies"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a challenge to building a democratic system in Ethiopia?",
+      "options": {
+        "A": "High levels of civic awareness",
+        "B": "Lack of democratic culture and history",
+        "C": "Strong independent institutions",
+        "D": "Low levels of corruption"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The right to 'Free Press' is essential because it:",
+      "options": {
+        "A": "Entertains the public with rumors",
+        "B": "Acts as a watchdog and informs the citizens",
+        "C": "Promotes the interests of the government only",
+        "D": "Helps the government hide its mistakes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "In a democratic system, 'Accountability' means that officials:",
+      "options": {
+        "A": "Are never responsible for their failures",
+        "B": "Must explain their decisions and be held responsible for their actions",
+        "C": "Are only accountable to their family",
+        "D": "Should be rewarded regardless of their performance"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "The 'Universal Suffrage' principle refers to:",
+      "options": {
+        "A": "The right of only property owners to vote",
+        "B": "The right of all adult citizens to vote regardless of race, gender, or religion",
+        "C": "Compulsory military service",
+        "D": "Universal healthcare for all"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "Tolerance in a democracy refers to:",
+      "options": {
+        "A": "Ignoring all laws",
+        "B": "Respecting and accepting different opinions and beliefs",
+        "C": "Forcefully changing others' views",
+        "D": "Believing only your party is correct"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT a pillar of a democratic system?",
+      "options": {
+        "A": "Human Rights",
+        "B": "Free and Fair Elections",
+        "C": "Absolute power of the Executive",
+        "D": "Constitutionalism"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "Civic organizations (NGOs) contribute to democracy by:",
+      "options": {
+        "A": "Overthrowing the government",
+        "B": "Empowering citizens and advocating for their rights",
+        "C": "Replacing political parties",
+        "D": "Collecting taxes for the state"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The principle of 'Limited Government' is mainly achieved through:",
+      "options": {
+        "A": "Increasing taxes",
+        "B": "The Constitution and Checks and Balances",
+        "C": "A strong secret police",
+        "D": "Expanding the military"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "In a 'Consensus' based democracy, decisions are made by:",
+      "options": {
+        "A": "The strongest leader",
+        "B": "Broad agreement among all participants",
+        "C": "A narrow majority only",
+        "D": "Random lottery"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The 'Separation of Powers' prevents:",
+      "options": {
+        "A": "The government from working",
+        "B": "The concentration of power in a single branch",
+        "C": "Citizens from voting",
+        "D": "Economic growth"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Democratic culture is built through:",
+      "options": {
+        "A": "Strict laws only",
+        "B": "Civic education and practice of democratic values",
+        "C": "Constant war",
+        "D": "Isolation from other countries"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which branch of government is usually responsible for protecting the rights of individuals in a democracy?",
+      "options": {
+        "A": "Legislative",
+        "B": "Executive",
+        "C": "Judiciary",
+        "D": "The Army"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "The 'Right to Dissent' means:",
+      "options": {
+        "A": "Citizens must always agree with the government",
+        "B": "Citizens have the right to disagree and protest peacefully",
+        "C": "The government can silence anyone it dislikes",
+        "D": "Everyone must follow the same religion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "A 'Social Democracy' focuses on:",
+      "options": {
+        "A": "Destroying the market economy",
+        "B": "Combining democratic rights with social justice and economic equality",
+        "C": "Absolute rule by the working class",
+        "D": "Total privatization of all services"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "One of the key requirements for a 'Free and Fair' election is:",
+      "options": {
+        "A": "Having only one candidate",
+        "B": "The use of secret ballots",
+        "C": "Knowing who everyone voted for",
+        "D": "Charging people a fee to vote"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The primary goal of building a democratic system is to ensure:",
+      "options": {
+        "A": "Military dominance",
+        "B": "Individual freedom and social well-being",
+        "C": "Religious uniformity",
+        "D": "Wealth for the ruling class"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The 'Consent of the Governed' means:",
+      "options": {
+        "A": "The government rules by force",
+        "B": "The government's legitimacy comes from the approval of the people",
+        "C": "The people must follow every order without question",
+        "D": "Elections are held only once every fifty years"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Pluralism in a democratic society means:",
+      "options": {
+        "A": "Only one point of view is allowed",
+        "B": "Diversity of groups, interests, and opinions is encouraged",
+        "C": "The government controls all organizations",
+        "D": "There is only one political party"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "What is the role of a 'Constitution' in building a democratic system?",
+      "options": {
+        "A": "To give the president unlimited power",
+        "B": "To set the framework of government and protect citizens' rights",
+        "C": "To serve as a decorative book",
+        "D": "To replace all local traditions"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a symptom of a 'Weak' democratic system?",
+      "options": {
+        "A": "High voter turnout",
+        "B": "Widespread corruption and lack of rule of law",
+        "C": "Independent media",
+        "D": "Active civil society"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Constitutionalism means that:",
+      "options": {
+        "A": "The government is above the constitution",
+        "B": "Government power is limited by the constitution",
+        "C": "The constitution can be ignored during emergencies",
+        "D": "Only lawyers can read the constitution"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The 'Common Good' refers to:",
+      "options": {
+        "A": "Benefits that are only for the rich",
+        "B": "The well-being of the entire community or society",
+        "C": "The profit of a single company",
+        "D": "Personal interests of the prime minister"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is a 'Political' right?",
+      "options": {
+        "A": "Right to food",
+        "B": "Right to vote and run for office",
+        "C": "Right to shelter",
+        "D": "Right to vacation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Direct democracy is most practical in:",
+      "options": {
+        "A": "Large countries with millions of people",
+        "B": "Small communities or organizations",
+        "C": "Global organizations",
+        "D": "Military units"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The 'Executive' branch in a democracy is responsible for:",
+      "options": {
+        "A": "Making laws",
+        "B": "Enforcing and implementing laws",
+        "C": "Interpreting laws",
+        "D": "Ending the constitution"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which form of government is the opposite of democracy?",
+      "options": {
+        "A": "Republic",
+        "B": "Authoritarianism/Dictatorship",
+        "C": "Constitutional Monarchy",
+        "D": "Federalism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "The 'Check and Balance' system ensures that:",
+      "options": {
+        "A": "One branch does not become too powerful",
+        "B": "The legislative branch has all the power",
+        "C": "The government saves money",
+        "D": "The judiciary is controlled by the president"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "A 'Referendum' is an example of:",
+      "options": {
+        "A": "Representative democracy",
+        "B": "Direct democracy",
+        "C": "Monarchy",
+        "D": "Oligarchy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The principle of 'Equality' in democracy means:",
+      "options": {
+        "A": "Everyone must have the same job",
+        "B": "Everyone has the same rights and opportunities under the law",
+        "C": "Everyone must earn the same salary",
+        "D": "Everyone must think the same way"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Civil rights protect citizens from:",
+      "options": {
+        "A": "Paying taxes",
+        "B": "Discrimination and unfair treatment",
+        "C": "Natural disasters",
+        "D": "Competition"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The 'Fourth Estate' is a term used to describe:",
+      "options": {
+        "A": "The Judiciary",
+        "B": "The Media",
+        "C": "The Military",
+        "D": "The Police"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Democratic 'Decentralization' involves:",
+      "options": {
+        "A": "Giving all power to the capital city",
+        "B": "Sharing power with local and regional governments",
+        "C": "Abolishing local governments",
+        "D": "Increasing the power of the central bank"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The 'Bill of Rights' is generally found in:",
+      "options": {
+        "A": "A tax manual",
+        "B": "A Constitution",
+        "C": "A history textbook",
+        "D": "A movie script"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Political 'Apathy' is a threat to democracy because:",
+      "options": {
+        "A": "People care too much about politics",
+        "B": "Citizens lose interest and stop participating in the democratic process",
+        "C": "The government becomes too efficient",
+        "D": "It leads to too many political parties"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "An 'Independent Judiciary' is one that:",
+      "options": {
+        "A": "Depends on the president for decisions",
+        "B": "Is free from political pressure and interference",
+        "C": "Makes its own laws",
+        "D": "Is elected every month"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "A 'Secular' state is one where:",
+      "options": {
+        "A": "Religion is the law of the land",
+        "B": "There is a separation between religion and the state",
+        "C": "Only one religion is allowed",
+        "D": "Religion is banned"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Democracy requires a 'Culture of Dialogue', which means:",
+      "options": {
+        "A": "Using force to settle arguments",
+        "B": "Using peaceful communication and negotiation to resolve differences",
+        "C": "The government giving orders to everyone",
+        "D": "Remaining silent on important issues"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "The 'Due Process of Law' protects people from:",
+      "options": {
+        "A": "Paying for groceries",
+        "B": "Arbitrary or unfair legal treatment",
+        "C": "Elections",
+        "D": "Education"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The 'Majority Rule' should not lead to the 'Tyranny of the Majority', meaning:",
+      "options": {
+        "A": "The majority should have no power",
+        "B": "The majority should not trample on the basic rights of the minority",
+        "C": "The minority should rule the majority",
+        "D": "There should be no voting"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The ultimate success of building a democratic system depends on:",
+      "options": {
+        "A": "The wealth of the country alone",
+        "B": "The active participation and commitment of its citizens",
+        "C": "The strength of the military",
+        "ed": "The number of laws passed"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

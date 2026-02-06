@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Economics",
+  "unit": "Unit 2: Macroeconomic Analysis",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Macroeconomics differs from Microeconomics because it focuses on:",
+      "options": {
+        "A": "Individual household behavior",
+        "B": "The price of a specific commodity",
+        "C": "Aggregate economic variables like total output and inflation",
+        "D": "The profit maximization of a single firm"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the total market value of all final goods and services produced within a country's borders in a given year?",
+      "options": {
+        "A": "Gross National Product (GNP)",
+        "B": "Gross Domestic Product (GDP)",
+        "C": "Net National Product (NNP)",
+        "D": "Personal Income"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "The circular flow of income model in a two-sector economy shows the interaction between:",
+      "options": {
+        "A": "Government and Foreign sector",
+        "B": "Banks and Investors",
+        "C": "Households and Business firms",
+        "D": "Exporters and Importers"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "To avoid 'Double Counting' when calculating GDP, economists only include:",
+      "options": {
+        "A": "The value of final goods and services",
+        "B": "The value of intermediate goods",
+        "C": "Total sales at every stage of production",
+        "D": "The value of second-hand goods"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "The Expenditure Approach to calculating GDP is represented by which formula?",
+      "options": {
+        "A": "GDP = C + I + G + (X - M)",
+        "B": "GDP = W + R + I + P",
+        "C": "GDP = Total Value Added",
+        "D": "GDP = Consumption + Savings"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 6,
+      "question": "What does 'Real GDP' adjust for that 'Nominal GDP' does not?",
+      "options": {
+        "A": "Population growth",
+        "B": "Depreciation",
+        "C": "Changes in quality",
+        "D": "Changes in the price level (Inflation)"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 7,
+      "question": "The 'GDP Deflator' is a measure used to:",
+      "options": {
+        "A": "Calculate the unemployment rate",
+        "B": "Convert Nominal GDP into Real GDP",
+        "C": "Measure the trade deficit",
+        "D": "Determine the tax rate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "Net National Product (NNP) is calculated by subtracting which of the following from GNP?",
+      "options": {
+        "A": "Subsidies",
+        "B": "Indirect taxes",
+        "C": "Depreciation (Consumption of Fixed Capital)",
+        "D": "Net Factor Income from abroad"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "In the context of GDP, 'Transfer Payments' like social security or pensions are:",
+      "options": {
+        "A": "Included in the Expenditure approach",
+        "B": "Included in the Income approach",
+        "C": "Excluded because they do not reflect current production",
+        "D": "Included as government investment"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "If a country's GDP is higher than its GNP, it implies that:",
+      "options": {
+        "A": "The country is a net lender to the world",
+        "B": "Foreigners earn more in that country than its citizens earn abroad",
+        "C": "The country has no depreciation",
+        "D": "The country has a trade surplus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "The 'Value Added' method of calculating GDP involves:",
+      "options": {
+        "A": "Adding the total value of all sales in the economy",
+        "B": "Summing the difference between the value of output and the cost of intermediate inputs",
+        "C": "Subtracting taxes from total income",
+        "D": "Counting the value of raw materials only"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is considered an 'Injection' into the circular flow of income?",
+      "options": {
+        "A": "Taxes",
+        "B": "Savings",
+        "C": "Imports",
+        "D": "Investment"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 13,
+      "question": "A person who is overqualified for their job or working part-time when they want full-time work is:",
+      "options": {
+        "A": "Frictionally unemployed",
+        "B": "Structurally unemployed",
+        "C": "Underemployed",
+        "D": "Discouraged worker"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "Which type of unemployment is caused by a general decline in economic activity during a recession?",
+      "options": {
+        "A": "Frictional unemployment",
+        "B": "Cyclical unemployment",
+        "C": "Structural unemployment",
+        "D": "Seasonal unemployment"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The 'Natural Rate of Unemployment' is the sum of:",
+      "options": {
+        "A": "Cyclical and Frictional unemployment",
+        "B": "Frictional and Structural unemployment",
+        "C": "Cyclical and Structural unemployment",
+        "D": "Seasonal and Cyclical unemployment"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Inflation is defined as:",
+      "options": {
+        "A": "A one-time increase in the price of food",
+        "B": "A sustained increase in the general price level of goods and services",
+        "C": "A decrease in the value of the stock market",
+        "D": "A high level of government debt"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which index is most commonly used to measure the change in the cost of living for a typical household?",
+      "options": {
+        "A": "Producer Price Index (PPI)",
+        "B": "GDP Deflator",
+        "C": "Consumer Price Index (CPI)",
+        "D": "Wholesale Price Index (WPI)"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "Demand-Pull inflation is caused by:",
+      "options": {
+        "A": "An increase in the cost of raw materials",
+        "B": "A decrease in the total supply of goods",
+        "C": "Aggregate demand exceeding the economy's productive capacity",
+        "D": "An increase in the minimum wage"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "Cost-Push inflation is often triggered by:",
+      "options": {
+        "A": "A sudden increase in energy or labor costs",
+        "B": "Excessive printing of money",
+        "C": "High levels of consumer confidence",
+        "D": "Low interest rates"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "Hyperinflation is characterized by:",
+      "options": {
+        "A": "Prices rising at a very slow rate",
+        "B": "Prices staying constant for a decade",
+        "C": "A decrease in the money supply",
+        "D": "Extremely rapid and out-of-control price increases"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 21,
+      "question": "The 'Business Cycle' refers to the:",
+      "options": {
+        "A": "Process of starting a new company",
+        "B": "Fluctuations in economic activity over time",
+        "C": "Daily changes in the stock market",
+        "D": "Seasonal changes in agriculture"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "The phase of the business cycle where real GDP stops falling is the:",
+      "options": {
+        "A": "Peak",
+        "B": "Recession",
+        "C": "Trough",
+        "D": "Expansion"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "Fiscal Policy involves the government using which two tools to influence the economy?",
+      "options": {
+        "A": "Interest rates and Money supply",
+        "B": "Exchange rates and Quotas",
+        "C": "Taxes and Government spending",
+        "D": "Tariffs and Subsidies"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "A 'Budget Surplus' occurs when:",
+      "options": {
+        "A": "Government revenue exceeds government spending",
+        "B": "Government spending exceeds government revenue",
+        "C": "Imports exceed exports",
+        "D": "The money supply increases"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "Monetary Policy is primarily controlled by the:",
+      "options": {
+        "A": "Ministry of Finance",
+        "B": "Commercial Banks",
+        "C": "Parliament",
+        "D": "Central Bank"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 26,
+      "question": "To combat high inflation, the Central Bank would likely:",
+      "options": {
+        "A": "Lower interest rates",
+        "B": "Increase the money supply",
+        "C": "Increase interest rates",
+        "D": "Decrease the reserve requirement"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "The 'Multiplier Effect' suggests that an initial change in spending will lead to:",
+      "options": {
+        "A": "An equal change in total income",
+        "B": "A smaller change in total income",
+        "C": "A larger change in total income",
+        "D": "No change in total income"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "Say's Law of Markets states that:",
+      "options": {
+        "A": "Demand creates its own supply",
+        "B": "Supply creates its own demand",
+        "C": "Prices never change",
+        "D": "Government must control all markets"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "According to the Keynesian view, the main cause of unemployment is:",
+      "options": {
+        "A": "Lack of aggregate demand",
+        "B": "High wages",
+        "C": "Lack of technology",
+        "D": "Too much government spending"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "The relationship between the tax rate and total tax revenue is illustrated by the:",
+      "options": {
+        "A": "Phillips Curve",
+        "B": "Lorenz Curve",
+        "C": "Laffer Curve",
+        "D": "Indifference Curve"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 31,
+      "question": "The Phillips Curve shows an inverse relationship between:",
+      "options": {
+        "A": "Taxes and Revenue",
+        "B": "Inflation and Unemployment",
+        "C": "Income and Savings",
+        "D": "Exports and Imports"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is a 'Leakage' from the circular flow of income?",
+      "options": {
+        "A": "Investment",
+        "B": "Government Spending",
+        "C": "Exports",
+        "D": "Savings"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 33,
+      "question": "Personal Disposable Income is calculated as:",
+      "options": {
+        "A": "Personal Income minus Personal Taxes",
+        "B": "GDP minus Depreciation",
+        "C": "National Income plus Subsidies",
+        "D": "Total Wages plus Profits"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "A 'Deflationary Gap' occurs when equilibrium income is:",
+      "options": {
+        "A": "Equal to full employment income",
+        "B": "Greater than full employment income",
+        "C": "Less than full employment income",
+        "D": "Zero"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "Stagflation is an economic condition where there is simultaneously:",
+      "options": {
+        "A": "High growth and low inflation",
+        "B": "High inflation and high unemployment",
+        "C": "Low inflation and low unemployment",
+        "D": "High investment and high savings"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The 'Marginal Propensity to Consume' (MPC) represents:",
+      "options": {
+        "A": "The fraction of total income spent on consumption",
+        "B": "The fraction of an extra dollar of income that is spent on consumption",
+        "C": "The total amount of savings in the economy",
+        "D": "The minimum level of consumption needed to survive"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "In a closed economy without government, if MPC is 0.8, the multiplier is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "5",
+        "D": "10"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "The 'Absolute Income Hypothesis' was proposed by:",
+      "options": {
+        "A": "Milton Friedman",
+        "B": "John Maynard Keynes",
+        "C": "Adam Smith",
+        "D": "Irving Fisher"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is an example of 'Expansionary Fiscal Policy'?",
+      "options": {
+        "A": "Increasing taxes",
+        "B": "Reducing government spending",
+        "C": "Selling government bonds",
+        "D": "Increasing government spending"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 40,
+      "question": "The 'Quantity Theory of Money' (MV = PY) suggests that an increase in money supply (M) leads directly to an increase in:",
+      "options": {
+        "A": "The Price level (P)",
+        "B": "Velocity (V)",
+        "C": "Real output (Y)",
+        "D": "Savings"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which type of policy is aimed at increasing the productive capacity of the economy?",
+      "options": {
+        "A": "Monetary policy",
+        "B": "Demand-side policy",
+        "C": "Supply-side policy",
+        "D": "Fiscal policy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 42,
+      "question": "GDP measured at 'Constant Prices' is another name for:",
+      "options": {
+        "A": "Nominal GDP",
+        "B": "Real GDP",
+        "C": "Potential GDP",
+        "D": "Per Capita GDP"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The 'Okun's Law' describes the relationship between:",
+      "options": {
+        "A": "Inflation and Interest rates",
+        "B": "GDP growth and Unemployment",
+        "C": "Savings and Investment",
+        "D": "Taxes and Consumption"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "If the Price Index rises from 100 to 110, the inflation rate is:",
+      "options": {
+        "A": "10%",
+        "B": "1%",
+        "C": "110%",
+        "D": "5%"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "What is the primary objective of macroeconomic policy in most developing countries?",
+      "options": {
+        "A": "Achieving rapid economic growth and stability",
+        "B": "Reducing the population",
+        "C": "Increasing the trade deficit",
+        "D": "Maintaining high interest rates"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "The 'Paradox of Thrift' states that an increase in the desire to save by all individuals can lead to:",
+      "options": {
+        "A": "Higher total investment",
+        "B": "A decrease in total aggregate demand and lower total savings",
+        "C": "Economic boom",
+        "D": "Zero unemployment"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following would be included in the 'Investment' component of GDP?",
+      "options": {
+        "A": "Buying shares of stock on the exchange",
+        "B": "A business purchasing new machinery",
+        "C": "Purchasing a used car for personal use",
+        "D": "Putting money in a savings account"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "The labor force is defined as the sum of:",
+      "options": {
+        "A": "Employed and Unemployed persons",
+        "B": "Total population",
+        "C": "Working age population only",
+        "D": "Citizens with a university degree"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "A 'Pro-cyclical' fiscal policy is one that:",
+      "options": {
+        "A": "Goes against the business cycle",
+        "B": "Reinforces the business cycle (e.g., cutting spending during a recession)",
+        "C": "Has no effect on the economy",
+        "D": "Is only used during peaks"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Final goods are those intended for:",
+      "options": {
+        "A": "Resale in the same year",
+        "B": "Further processing in production",
+        "C": "End use by consumers or as capital investment",
+        "D": "Storage as raw materials"
+      },
+      "correct_option": "C"
+    }
+  ]
+}
+]

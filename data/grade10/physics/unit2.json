@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 2: Motion in a Straight Line",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The total length of the path traveled by an object is called:",
+      "options": {
+        "A": "Distance",
+        "C": "Displacement",
+        "D": "Acceleration",
+        "B": "Velocity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of the following is a vector quantity?",
+      "options": {
+        "A": "Speed",
+        "C": "Displacement",
+        "D": "Time",
+        "B": "Mass"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "The rate of change of displacement is known as:",
+      "options": {
+        "A": "Velocity",
+        "C": "Acceleration",
+        "D": "Speed",
+        "B": "Momentum"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Acceleration is defined as the rate of change of:",
+      "options": {
+        "A": "Velocity",
+        "C": "Distance",
+        "D": "Position",
+        "B": "Time"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "The SI unit of acceleration is:",
+      "options": {
+        "A": "m/s^2",
+        "C": "m/s",
+        "D": "km/h",
+        "B": "m.s"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "If an object moves with constant velocity, its acceleration is:",
+      "options": {
+        "A": "Zero",
+        "C": "Increasing",
+        "D": "Constant but non-zero",
+        "B": "Decreasing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "A car travels 100 meters East and then 100 meters West. The total displacement is:",
+      "options": {
+        "A": "200 meters",
+        "C": "0 meters",
+        "D": "100 meters",
+        "B": "50 meters"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "The slope of a position-time (s-t) graph represents:",
+      "options": {
+        "A": "Velocity",
+        "C": "Acceleration",
+        "D": "Force",
+        "B": "Distance"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "The area under a velocity-time (v-t) graph represents:",
+      "options": {
+        "A": "Displacement",
+        "C": "Acceleration",
+        "D": "Speed",
+        "B": "Time"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "When an object is slowing down, its acceleration is:",
+      "options": {
+        "A": "In the opposite direction of its motion",
+        "C": "In the same direction of its motion",
+        "D": "Zero",
+        "B": "Increasing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "An object falling freely under gravity has a constant acceleration of approximately:",
+      "options": {
+        "A": "9.8 m/s^2",
+        "C": "0 m/s^2",
+        "D": "1.6 m/s^2",
+        "B": "3.0 x 10^8 m/s^2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "Which equation represents the first equation of motion?",
+      "options": {
+        "A": "v = u + at",
+        "C": "s = ut + 0.5at^2",
+        "D": "v^2 = u^2 + 2as",
+        "B": "F = ma"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "A body starts from rest. This means its initial velocity (u) is:",
+      "options": {
+        "A": "0 m/s",
+        "C": "9.8 m/s",
+        "D": "Undefined",
+        "B": "10 m/s"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "The slope of a velocity-time graph represents:",
+      "options": {
+        "A": "Acceleration",
+        "C": "Velocity",
+        "D": "Displacement",
+        "B": "Jerk"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "If a body is thrown vertically upward, at its maximum height, its velocity is:",
+      "options": {
+        "A": "Zero",
+        "C": "9.8 m/s",
+        "D": "Maximum",
+        "B": "Negative"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "The velocity of an object at a specific point in time is called:",
+      "options": {
+        "A": "Instantaneous velocity",
+        "C": "Average velocity",
+        "D": "Constant velocity",
+        "B": "Uniform velocity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Uniform motion means an object travels ______ distances in equal intervals of time.",
+      "options": {
+        "A": "Equal",
+        "C": "Unequal",
+        "D": "Increasing",
+        "B": "Decreasing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "A scalar quantity is one that has:",
+      "options": {
+        "A": "Magnitude only",
+        "C": "Both magnitude and direction",
+        "D": "Direction only",
+        "B": "Mass only"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "The formula for average speed is:",
+      "options": {
+        "A": "Total distance / Total time",
+        "C": "Displacement / Time",
+        "D": "Initial velocity + Final velocity",
+        "B": "Mass x Acceleration"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Deceleration is also known as:",
+      "options": {
+        "A": "Negative acceleration",
+        "C": "Positive acceleration",
+        "D": "Constant velocity",
+        "B": "Instantaneous speed"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Which of the following describes an object in equilibrium?",
+      "options": {
+        "A": "An object at rest or moving with constant velocity",
+        "C": "An object accelerating at 9.8 m/s^2",
+        "D": "An object moving in a circle",
+        "B": "An object changing its direction"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "For a horizontal line on a velocity-time graph, the acceleration is:",
+      "options": {
+        "A": "Zero",
+        "C": "Increasing",
+        "D": "Negative",
+        "B": "Infinite"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "Kinematics is the study of motion without considering its:",
+      "options": {
+        "A": "Cause (Force)",
+        "C": "Time",
+        "D": "Position",
+        "B": "Velocity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "If an object's position-time graph is a curved line (parabola), it indicates:",
+      "options": {
+        "A": "Constant acceleration",
+        "C": "Constant velocity",
+        "D": "Zero velocity",
+        "B": "Uniform motion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "How many meters are in a kilometer?",
+      "options": {
+        "A": "1000",
+        "C": "100",
+        "D": "10",
+        "B": "10000"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "The motion of an object under the influence of gravity alone is called:",
+      "options": {
+        "A": "Free fall",
+        "C": "Uniform motion",
+        "D": "Projectile motion",
+        "B": "Linear motion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "Speed is always:",
+      "options": {
+        "A": "Positive or zero",
+        "C": "Negative",
+        "D": "Zero only",
+        "B": "A vector quantity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "If a car accelerates from 0 to 20 m/s in 4 seconds, its acceleration is:",
+      "options": {
+        "A": "5 m/s^2",
+        "C": "80 m/s^2",
+        "D": "4 m/s^2",
+        "B": "2 m/s^2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Displacement is defined as the change in ______ of an object.",
+      "options": {
+        "A": "Position",
+        "C": "Speed",
+        "D": "Mass",
+        "B": "Time"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "In the equation s = ut + 0.5at^2, 'u' represents:",
+      "options": {
+        "A": "Initial velocity",
+        "C": "Final velocity",
+        "D": "Universal constant",
+        "B": "Speed"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "A straight diagonal line on a position-time graph represents:",
+      "options": {
+        "A": "Uniform velocity",
+        "C": "Constant acceleration",
+        "D": "Rest",
+        "B": "Increasing acceleration"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Which of the following is the unit for speed?",
+      "options": {
+        "A": "m/s",
+        "C": "m/s^2",
+        "D": "Newtons",
+        "B": "Seconds"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "The direction of the free-fall acceleration vector is always:",
+      "options": {
+        "A": "Downward",
+        "C": "Upward",
+        "D": "Horizontal",
+        "B": "Tangent to the path"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "Which quantity can be negative?",
+      "options": {
+        "A": "Velocity",
+        "C": "Speed",
+        "D": "Distance",
+        "B": "Mass"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "If the velocity of an object is constant, then its average velocity is:",
+      "options": {
+        "A": "Equal to its instantaneous velocity",
+        "C": "Double its instantaneous velocity",
+        "D": "Zero",
+        "B": "Less than its instantaneous velocity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "The time taken for a stone to reach its peak when thrown up depends on its:",
+      "options": {
+        "A": "Initial velocity",
+        "C": "Weight",
+        "D": "Shape",
+        "B": "Mass"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "What is the shape of a velocity-time graph for an object at rest?",
+      "options": {
+        "A": "A line on the time axis",
+        "C": "A vertical line",
+        "D": "A curved line",
+        "B": "A diagonal line"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Air resistance is usually ______ in basic free-fall problems.",
+      "options": {
+        "A": "Ignored",
+        "C": "Doubled",
+        "D": "Calculated",
+        "B": "Increasing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "To convert km/h to m/s, you should multiply by:",
+      "options": {
+        "A": "5/18",
+        "C": "18/5",
+        "D": "1000",
+        "B": "60"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "A frame of reference is necessary to describe:",
+      "options": {
+        "A": "The motion of an object",
+        "C": "The color of an object",
+        "D": "The mass of an object",
+        "B": "The temperature of an object"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "If an object is moving with constant acceleration, the velocity-time graph is a:",
+      "options": {
+        "A": "Straight diagonal line",
+        "C": "Horizontal line",
+        "D": "Vertical line",
+        "B": "Parabola"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Which of these is NOT a vector?",
+      "options": {
+        "A": "Time",
+        "C": "Velocity",
+        "D": "Acceleration",
+        "B": "Force"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "Average acceleration is change in velocity divided by:",
+      "options": {
+        "A": "Time interval",
+        "C": "Distance",
+        "D": "Speed",
+        "B": "Position"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "If 'a' is positive and 'v' is negative, the object is:",
+      "options": {
+        "A": "Slowing down",
+        "C": "Speeding up",
+        "D": "At rest",
+        "B": "Turning"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "The motion of an object in a straight line is called:",
+      "options": {
+        "A": "Rectilinear motion",
+        "C": "Circular motion",
+        "D": "Rotational motion",
+        "B": "Periodic motion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "When a ball is thrown up, its acceleration at the highest point is:",
+      "options": {
+        "A": "9.8 m/s^2 downward",
+        "C": "Zero",
+        "D": "9.8 m/s^2 upward",
+        "B": "Dependent on mass"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Relative velocity is the velocity of an object with respect to:",
+      "options": {
+        "A": "Another observer or object",
+        "C": "The center of the earth",
+        "D": "The sun",
+        "B": "The speed of light"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "An object travels 5 meters in the 1st second, 5 meters in the 2nd second, and 5 meters in the 3rd second. Its motion is:",
+      "options": {
+        "A": "Uniform",
+        "C": "Accelerated",
+        "D": "De-accelerated",
+        "B": "Random"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "A vector quantity requires both magnitude and ______.",
+      "options": {
+        "A": "Direction",
+        "C": "Units",
+        "D": "Time",
+        "B": "Color"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "The odometer of a car measures:",
+      "options": {
+        "A": "Distance",
+        "C": "Displacement",
+        "D": "Speed",
+        "B": "Velocity"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

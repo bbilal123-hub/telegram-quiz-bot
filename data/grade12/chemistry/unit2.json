@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Chemistry",
+  "unit": "Unit 1: Acid-Base Equilibria",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the Brønsted-Lowry theory, an acid is a substance that:",
+      "options": {
+        "A": "Donates a proton ($H^+$)",
+        "B": "Accepts a proton ($H^+$)",
+        "C": "Produces $OH^-$ ions in water",
+        "D": "Accepts an electron pair"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the conjugate base of $H_2PO_4^-$?",
+      "options": {
+        "A": "$H_3PO_4$",
+        "B": "$PO_4^{3-}$",
+        "C": "$HPO_4^{2-}$",
+        "D": "$OH^-$"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "A solution with a $pH$ of 3.0 is how many times more acidic than a solution with a $pH$ of 6.0?",
+      "options": {
+        "A": "2 times",
+        "B": "30 times",
+        "C": "1000 times",
+        "D": "100 times"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a Lewis acid but not a Brønsted-Lowry acid?",
+      "options": {
+        "A": "$BF_3$",
+        "B": "$HCl$",
+        "C": "$NH_3$",
+        "D": "$CH_4$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "The value of the self-ionization constant of water ($K_w$) at 25°C is:",
+      "options": {
+        "A": "$1.0 \times 10^{-7}$",
+        "B": "$1.0 \times 10^{14}$",
+        "C": "$7.0$",
+        "D": "$1.0 \times 10^{-14}$"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 6,
+      "question": "What is the $pOH$ of a $0.01\text{ M}$ $HCl$ solution?",
+      "options": {
+        "A": "2",
+        "B": "7",
+        "C": "12",
+        "D": "14"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "An amphiprotic substance is one that can:",
+      "options": {
+        "A": "Act as either an acid or a base",
+        "B": "Only donate protons",
+        "C": "Only accept electrons",
+        "D": "Neutralize only strong bases"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "In the reaction $NH_3 + H_2O \rightleftharpoons NH_4^+ + OH^-$, water acts as a/an:",
+      "options": {
+        "A": "Brønsted-Lowry acid",
+        "B": "Lewis base",
+        "C": "Arrhenius base",
+        "D": "Reducing agent"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following salts will form a basic solution when dissolved in water?",
+      "options": {
+        "A": "$NH_4Cl$",
+        "B": "$NaCl$",
+        "C": "$CH_3COONa$",
+        "D": "$KNO_3$"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "A buffer solution can be prepared by mixing:",
+      "options": {
+        "A": "A weak acid and its conjugate base",
+        "B": "A strong acid and a strong base",
+        "C": "A weak acid and a weak base",
+        "D": "A strong acid and its conjugate base"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "The $pH$ range of the indicator Methyl Orange is approximately:",
+      "options": {
+        "A": "3.1 – 4.4",
+        "B": "8.3 – 10.0",
+        "C": "6.0 – 7.6",
+        "D": "1.2 – 2.8"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 12,
+      "question": "What is the $pH$ of a $1.0 \times 10^{-8}\text{ M}$ $NaOH$ solution?",
+      "options": {
+        "A": "6.0",
+        "B": "8.0",
+        "C": "Slightly above 7.0",
+        "D": "2.0"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which theory defines a base as an electron-pair donor?",
+      "options": {
+        "A": "Lewis Theory",
+        "B": "Arrhenius Theory",
+        "C": "Brønsted-Lowry Theory",
+        "D": "Dalton’s Theory"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "The Henderson-Hasselbalch equation is used to calculate the $pH$ of:",
+      "options": {
+        "A": "Buffer solutions",
+        "B": "Strong acid solutions",
+        "C": "Pure water",
+        "D": "Molten salts"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "In a titration of a weak acid with a strong base, the $pH$ at the equivalence point is:",
+      "options": {
+        "A": "Greater than 7",
+        "B": "Exactly 7",
+        "C": "Less than 7",
+        "D": "Zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is a strong base?",
+      "options": {
+        "A": "$NH_3$",
+        "B": "$CH_3NH_2$",
+        "C": "$KOH$",
+        "D": "$Al(OH)_3$"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "Hydrolysis of $AlCl_3$ in water results in a solution that is:",
+      "options": {
+        "A": "Acidic",
+        "B": "Neutral",
+        "C": "Basic",
+        "D": "Amphoteric"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "If the $K_a$ of a weak acid is $1.0 \times 10^{-5}$, what is its $pK_a$?",
+      "options": {
+        "A": "5",
+        "B": "-5",
+        "C": "9",
+        "D": "14"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "Which acid is found in the human stomach to aid digestion?",
+      "options": {
+        "A": "$H_2SO_4$",
+        "B": "$HNO_3$",
+        "C": "$HCl$",
+        "D": "$CH_3COOH$"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "A polyprotic acid is an acid that:",
+      "options": {
+        "A": "Can donate more than one proton per molecule",
+        "B": "Can accept more than one electron",
+        "C": "Has many different elements",
+        "D": "Cannot be neutralized"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is the strongest acid?",
+      "options": {
+        "A": "$HClO_4$",
+        "B": "$HClO_3$",
+        "C": "$HClO_2$",
+        "D": "$HClO$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "The common ion effect ______ the ionization of a weak electrolyte.",
+      "options": {
+        "A": "Increases",
+        "B": "Accelerates",
+        "C": "Suppresses",
+        "D": "Neutralizes"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "What is the conjugate acid of $OH^-$?",
+      "options": {
+        "A": "$H_2O$",
+        "B": "$O^{2-}$",
+        "C": "$H_3O^+$",
+        "D": "$H_2$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "Phenolphthalein turns ______ in a basic solution.",
+      "options": {
+        "A": "Colorless",
+        "B": "Yellow",
+        "C": "Pink/Red",
+        "D": "Blue"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "The level of acidity in a solution is measured by the concentration of:",
+      "options": {
+        "A": "$H_3O^+$ ions",
+        "B": "$OH^-$ ions",
+        "C": "Solvent molecules",
+        "D": "Noble gases"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which salt undergoes no hydrolysis?",
+      "options": {
+        "A": "$KNO_3$",
+        "B": "$Na_2CO_3$",
+        "C": "$NH_4NO_3$",
+        "D": "$CuSO_4$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "For a conjugate acid-base pair, $K_a \times K_b$ equals:",
+      "options": {
+        "A": "$K_w$",
+        "B": "$pH$",
+        "C": "1.0",
+        "D": "$pK_a$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following describes a neutral solution at 25°C?",
+      "options": {
+        "A": "$[H_3O^+] = [OH^-] = 10^{-7}\text{ M}$",
+        "B": "$pH = 14$",
+        "C": "$pOH = 0$",
+        "D": "$[H_3O^+] > 10^{-7}\text{ M}$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 29,
+      "question": "A substance with a high $K_b$ value is a:",
+      "options": {
+        "A": "Strong base",
+        "B": "Weak base",
+        "C": "Strong acid",
+        "D": "Neutral salt"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "According to Arrhenius, an acid is a substance that releases ______ in water.",
+      "options": {
+        "A": "$H^+$ ions",
+        "B": "$OH^-$ ions",
+        "C": "Electrons",
+        "D": "Oxygen"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "What is the $pH$ of a $0.001\text{ M}$ $NaOH$ solution?",
+      "options": {
+        "A": "11",
+        "B": "3",
+        "C": "7",
+        "D": "14"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is a diprotic acid?",
+      "options": {
+        "A": "$H_2SO_4$",
+        "B": "$HCl$",
+        "C": "$H_3PO_4$",
+        "D": "$CH_3COOH$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "The equivalence point in a titration is when:",
+      "options": {
+        "A": "Stoichiometrically equivalent amounts of acid and base have reacted",
+        "B": "The indicator changes color",
+        "C": "The solution becomes pink",
+        "D": "The beaker overflows"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "What is the $pOH$ of a solution with $[OH^-] = 1.0 \times 10^{-4}\text{ M}$?",
+      "options": {
+        "A": "4",
+        "B": "10",
+        "C": "14",
+        "D": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is a characteristic of bases?",
+      "options": {
+        "A": "Bitter taste",
+        "B": "Sour taste",
+        "C": "Turn blue litmus red",
+        "D": "React with metals to produce $H_2$ gas"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "The percent ionization of a weak acid ______ as the concentration of the acid decreases.",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which of the following is an example of a Lewis base?",
+      "options": {
+        "A": "$NH_3$",
+        "B": "$AlCl_3$",
+        "C": "$BF_3$",
+        "D": "$CO_2$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "What is the $pH$ of a solution if $[H_3O^+] = 1.0 \times 10^{-12}\text{ M}$?",
+      "options": {
+        "A": "12",
+        "B": "2",
+        "C": "7",
+        "D": "14"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "The conjugate base of a strong acid is a:",
+      "options": {
+        "A": "Very weak base",
+        "B": "Strong base",
+        "C": "Weak acid",
+        "D": "Strong acid"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "An example of a natural indicator is:",
+      "options": {
+        "A": "Red cabbage juice",
+        "B": "Phenolphthalein",
+        "C": "Methyl orange",
+        "D": "Universal indicator"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "The reaction between an acid and a base is called:",
+      "options": {
+        "A": "Neutralization",
+        "B": "Hydrolysis",
+        "C": "Ionization",
+        "D": "Sublimation"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is an acidic oxide?",
+      "options": {
+        "A": "$SO_2$",
+        "B": "$Na_2O$",
+        "C": "$MgO$",
+        "D": "$CaO$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "What is the $pH$ of pure water at 25°C?",
+      "options": {
+        "A": "7",
+        "B": "0",
+        "C": "14",
+        "D": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "Buffer capacity is highest when:",
+      "options": {
+        "A": "Concentrations of acid and conjugate base are equal",
+        "B": "The solution is very dilute",
+        "C": "A strong acid is used",
+        "D": "The $pH$ is 0"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "The $K_a$ for hydrofluoric acid ($HF$) is $6.8 \times 10^{-4}$. $HF$ is a:",
+      "options": {
+        "A": "Weak acid",
+        "B": "Strong acid",
+        "C": "Strong base",
+        "D": "Neutral substance"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Acid rain typically has a $pH$ value:",
+      "options": {
+        "A": "Below 5.6",
+        "B": "Above 7.0",
+        "C": "Exactly 7.0",
+        "D": "Between 8 and 10"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which titration curve would show a very sharp $pH$ change at $pH$ 7?",
+      "options": {
+        "A": "Strong acid vs. Strong base",
+        "B": "Weak acid vs. Weak base",
+        "C": "Strong acid vs. Weak base",
+        "D": "Weak acid vs. Strong base"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following ions acts as a Lewis acid in complex ion formation?",
+      "options": {
+        "A": "$Cu^{2+}$",
+        "B": "$Cl^-$",
+        "C": "$CN^-$",
+        "D": "$NH_3$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "The auto-ionization of water is an ______ process.",
+      "options": {
+        "A": "Endothermic",
+        "B": "Exothermic",
+        "C": "Athermal",
+        "D": "Explosive"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "What is the conjugate base of $H_3O^+$?",
+      "options": {
+        "A": "$H_2O$",
+        "B": "$OH^-$",
+        "C": "$O^{2-}$",
+        "D": "$H_2$"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Geography",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The science and art of map-making is known as:",
+      "options": {
+        "A": "Geomorphology",
+        "B": "Cartography",
+        "C": "Demography",
+        "D": "Meteorology"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "A map that shows the surface features of the Earth, including both natural and man-made features, is a:",
+      "options": {
+        "A": "Thematic map",
+        "B": "Cadastral map",
+        "C": "Topographic map",
+        "D": "Statistical map"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a 'Large-Scale' map?",
+      "options": {
+        "A": "1:1,000,000",
+        "B": "1:500,000",
+        "C": "1:5,000",
+        "D": "1:250,000"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "The magnetic bearing of a line is measured using a:",
+      "options": {
+        "A": "Protractor",
+        "B": "Magnetic Compass",
+        "C": "Ruler",
+        "D": "Anemometer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "The angle between True North and Magnetic North is called:",
+      "options": {
+        "A": "Grid North",
+        "0B": "Magnetic Declination",
+        "C": "Azimuth",
+        "D": "Vertical Interval"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "If a map has a scale of 1:50,000, 4 cm on the map represents how many kilometers on the ground?",
+      "options": {
+        "A": "1 km",
+        "B": "2 km",
+        "C": "4 km",
+        "D": "20 km"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "Lines on a map that connect points of equal elevation are:",
+      "options": {
+        "A": "Isobars",
+        "B": "Contours",
+        "C": "Isotherms",
+        "D": "Isohyets"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The difference in altitude between two successive contour lines is the:",
+      "options": {
+        "A": "Horizontal Equivalent",
+        "B": "Contour Interval",
+        "C": "Gradient",
+        "D": "Slope Angle"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "When contour lines are spaced far apart, it indicates a:",
+      "options": {
+        "A": "Steep slope",
+        "B": "Gentle slope",
+        "C": "Vertical cliff",
+        "D": "Deep valley"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "A 'V-shaped' contour pattern where the 'V' points toward higher ground indicates a:",
+      "options": {
+        "A": "Ridge",
+        "B": "Spur",
+        "C": "River Valley",
+        "D": "Plateau"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "The direction of 135 degrees on a compass is:",
+      "options": {
+        "A": "Northeast",
+        "B": "Southeast",
+        "C": "Southwest",
+        "D": "Northwest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "A 'Benchmark' on a map shows:",
+      "options": {
+        "A": "A major city",
+        "B": "A precise point of surveyed elevation",
+        "C": "The magnetic pole",
+        "D": "A provincial border"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Grid references are read by looking at:",
+      "options": {
+        "A": "Northings first, then Eastings",
+        "B": "Eastings first, then Northings",
+        "C": "Diagonals only",
+        "D": "Contours only"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "A 'Cliffs' is represented on a map by:",
+      "options": {
+        "A": "Widely spaced contours",
+        "B": "Contours that touch or merge",
+        "C": "Concentric circles",
+        "D": "Dashed lines"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The ratio of the vertical rise to the horizontal distance is called the:",
+      "options": {
+        "A": "Scale",
+        "B": "Gradient",
+        "C": "Azimuth",
+        "D": "Bearing"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Relief on a map refers to the:",
+      "options": {
+        "A": "Population of the area",
+        "B": "Physical shape and height of the land",
+        "C": "Vegetation types",
+        "D": "Political boundaries"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "A spot height is a point on a map that indicates:",
+      "options": {
+        "A": "The depth of a lake",
+        "B": "The exact altitude of a specific point",
+        "C": "The temperature of a place",
+        "D": "The location of a school"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a 'Human Feature' on a topographic map?",
+      "options": {
+        "A": "River",
+        "B": "Railway station",
+        "C": "Mountain peak",
+        "D": "Forest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "A 'Spur' is shown by contours that bend:",
+      "options": {
+        "A": "Towards higher ground",
+        "B": "Towards lower ground",
+        "C": "In a perfect circle",
+        "D": "In a zigzag pattern"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The method of showing relief using short, thin lines drawn in the direction of the steepest slope is:",
+      "options": {
+        "A": "Contouring",
+        "B": "Hachuring",
+        "C": "Hill shading",
+        "D": "Layer tinting"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "A map with a scale of 1:250,000 is considered a:",
+      "options": {
+        "A": "Small-scale map",
+        "B": "Medium-scale map",
+        "C": "Large-scale map",
+        "D": "Cadastral map"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Horizontal Equivalent (HE) is the:",
+      "options": {
+        "A": "Vertical distance between points",
+        "B": "Actual ground distance between points",
+        "C": "Horizontal distance between two points on the map",
+        "D": "Angle of the slope"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which tool is used to measure the distance of a curved road on a map?",
+      "options": {
+        "A": "Ruler",
+        "B": "A piece of string or an opisometer",
+        "C": "Compass",
+        "D": "Protractor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Convex slopes have contour lines that are:",
+      "options": {
+        "A": "Closely spaced at the top and widely spaced at the bottom",
+        "B": "Widely spaced at the top and closely spaced at the bottom",
+        "C": "Equally spaced throughout",
+        "D": "Non-existent"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "Intervisibility between two points on a map means:",
+      "options": {
+        "A": "They are at the same altitude",
+        "B": "One point can be seen from the other without obstruction",
+        "C": "They are exactly 1 km apart",
+        "D": "They both have the same vegetation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "A 'Saddle' or 'Col' is a:",
+      "options": {
+        "A": "High mountain peak",
+        "B": "Low point between two higher peaks",
+        "C": "Steep cliff",
+        "D": "Large flat plateau"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The 'Back Bearing' of 90 degrees is:",
+      "options": {
+        "A": "180 degrees",
+        "B": "270 degrees",
+        "C": "0 degrees",
+        "D": "45 degrees"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "What does a blue line on a topographic map usually represent?",
+      "options": {
+        "A": "A road",
+        "B": "A river or stream",
+        "C": "A contour line",
+        "D": "A political boundary"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following describes a 'Concave' slope?",
+      "options": {
+        "A": "Closely spaced contours at the top, widely spaced at the bottom",
+        "B": "Widely spaced contours at the top, closely spaced at the bottom",
+        "C": "Parallel contour lines",
+        "D": "Concentric contour lines"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "The bearing of 225 degrees corresponds to which direction?",
+      "options": {
+        "A": "Southeast",
+        "B": "Southwest",
+        "C": "Northwest",
+        "D": "Northeast"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Cross-sections are used to:",
+      "options": {
+        "A": "Calculate the population of a region",
+        "B": "Visualize the profile of the land surface",
+        "C": "Determine the type of soil",
+        "D": "Measure the humidity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "On a map with a scale of 1:50,000, 1 cm represents:",
+      "options": {
+        "A": "50 meters",
+        "B": "500 meters",
+        "C": "5 kilometers",
+        "D": "50 kilometers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "A 'Depression' is shown on a map by:",
+      "options": {
+        "A": "Contours with small inward-pointing ticks (hachures)",
+        "B": "A bright red circle",
+        "C": "A single spot height",
+        "D": "A dashed blue line"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Magnetic Variation (Declination) changes over time because:",
+      "options": {
+        "A": "The sun moves",
+        "B": "The Earth's magnetic poles move",
+        "C": "Continents are drifting",
+        "D": "Maps get old"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The vertical interval (VI) of a map is always:",
+      "options": {
+        "A": "Changing between every line",
+        "B": "Constant for a given map",
+        "C": "100 meters",
+        "D": "Equal to the scale"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "When finding a 6-figure grid reference, the third and sixth digits represent:",
+      "options": {
+        "A": "The page number",
+        "B": "The estimated tenths between grid lines",
+        "C": "The altitude",
+        "D": "The scale"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "A 'Pass' is a landform that is most similar to a:",
+      "options": {
+        "A": "Peak",
+        "B": "Col or Saddle",
+        "C": "Escarpment",
+        "D": "Plain"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which color is used for forested or wooded areas on a topographic map?",
+      "options": {
+        "A": "Brown",
+        "B": "Green",
+        "C": "Blue",
+        "D": "Black"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The gradient is calculated using the formula:",
+      "options": {
+        "A": "Distance / Height",
+        "B": "Vertical Rise / Horizontal Distance",
+        "C": "Mass / Volume",
+        "D": "Scale x Distance"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "A 'Ridge' is a landform described as:",
+      "options": {
+        "A": "A deep hole in the ground",
+        "B": "A long, narrow elevated landform with steep sides",
+        "C": "A flat area at sea level",
+        "D": "A bend in a river"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "What is 'Grid North'?",
+      "options": {
+        "A": "The direction of the North Pole",
+        "B": "The direction of the vertical grid lines on a map",
+        "C": "The direction the compass needle points",
+        "D": "The direction of the sun at noon"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The marginal information of a map includes:",
+      "options": {
+        "A": "Only the title",
+        "B": "Key/Legend, scale, and north arrows",
+        "C": "The price of the map",
+        "D": "A list of people living in the area"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following indicates a very steep slope?",
+      "options": {
+        "A": "Contours are widely spaced",
+        "B": "Contours are very close together",
+        "C": "Contours are missing",
+        "D": "Contours are perfectly straight"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "A 'Cuesta' is a type of landform with:",
+      "options": {
+        "A": "Two gentle slopes",
+        "B": "One steep face (escarpment) and one gentle slope (dip slope)",
+        "C": "Two vertical faces",
+        "D": "A circular shape"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "True Bearing is measured from:",
+      "options": {
+        "A": "Magnetic North",
+        "B": "True North",
+        "C": "Grid North",
+        "D": "The Equator"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "The use of different colors to show different heights on a map is called:",
+      "options": {
+        "A": "Contouring",
+        "B": "Layer Tinting",
+        "C": "Spot Height",
+        "D": "Hachuring"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "A 'Plateau' is shown on a map by:",
+      "options": {
+        "A": "A single peak in the center",
+        "B": "A large area of high ground with few or no contours in the middle",
+        "C": "Widely spaced contours near a river",
+        "D": "V-shaped contours"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "To convert a Grid Bearing to a Magnetic Bearing, you must account for:",
+      "options": {
+        "A": "The time of day",
+        "B": "The Magnetic Variation/Declination",
+        "C": "The scale of the map",
+        "D": "The altitude"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Topographic maps are essential for:",
+      "options": {
+        "A": "Urban planning",
+        "B": "Military operations",
+        "C": "Engineering and construction",
+        "D": "All of the above"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 50,
+      "question": "A 4-figure grid reference identifies a:",
+      "options": {
+        "A": "Specific point",
+        "B": "1 km x 1 km grid square",
+        "C": "Large mountain range",
+        "D": "Entire country"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

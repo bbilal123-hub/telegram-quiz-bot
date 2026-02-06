@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "English",
+  "unit": "Unit 1: Socializing",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is the most appropriate formal greeting for a business meeting?",
+      "options": {
+        "A": "Hey, what's up?",
+        "B": "Good morning, it is a pleasure to meet you.",
+        "C": "Hi there!",
+        "D": "How's it going?"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "When you introduce a friend to your parents, which phrase is commonly used?",
+      "options": {
+        "A": "This is...",
+        "B": "Meet my...",
+        "C": "Mother, Father, I'd like you to meet...",
+        "D": "Yo, check out my friend..."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "The phrase 'How do you do?' is typically answered with:",
+      "options": {
+        "A": "I am fine, thank you.",
+        "B": "How do you do?",
+        "C": "Not much.",
+        "D": "I'm a student."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which tense is used for habits, routines, and permanent facts?",
+      "options": {
+        "A": "Present Continuous",
+        "B": "Past Simple",
+        "C": "Present Simple",
+        "D": "Present Perfect"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "Identify the sentence that describes a temporary action happening 'now'.",
+      "options": {
+        "A": "She works in a bank.",
+        "B": "She is working in the garden at the moment.",
+        "C": "She worked late yesterday.",
+        "D": "She has worked there for years."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which of these is a 'stative verb' (rarely used in the continuous form)?",
+      "options": {
+        "A": "Run",
+        "B": "Eat",
+        "C": "Believe",
+        "D": "Dance"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "In a social setting, 'small talk' refers to:",
+      "options": {
+        "A": "Deep political debates",
+        "B": "Casual conversation about light topics",
+        "C": "Whispering to a friend",
+        "D": "Giving a formal speech"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "Complete the sentence: 'The sun _______ in the East.'",
+      "options": {
+        "A": "is rising",
+        "B": "rose",
+        "C": "rises",
+        "D": "rising"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "What is the polite way to ask someone to repeat themselves?",
+      "options": {
+        "A": "What?",
+        "B": "I beg your pardon?",
+        "C": "Repeat that!",
+        "D": "Huh?"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which suffix is added to 'social' to make it a verb?",
+      "options": {
+        "A": "-ly",
+        "B": "-ize",
+        "C": "-ness",
+        "D": "-able"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct question: '________ you coming to the party tonight?'",
+      "options": {
+        "A": "Do",
+        "B": "Are",
+        "C": "Is",
+        "D": "Have"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "When concluding a conversation with a new acquaintance, it is polite to say:",
+      "options": {
+        "A": "I'm leaving now.",
+        "B": "It was a pleasure meeting you.",
+        "C": "Whatever.",
+        "D": "Bye-bye."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The word 'acquaintance' means:",
+      "options": {
+        "A": "A best friend",
+        "|B": "A person you know slightly",
+        "C": "A family member",
+        "D": "An enemy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which of these is an example of an informal closing in an email?",
+      "options": {
+        "A": "Yours sincerely,",
+        "B": "Yours faithfully,",
+        "C": "Best regards,",
+        "D": "Cheers,"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 15,
+      "question": "Complete the sentence: 'Right now, we ________ English grammar.'",
+      "options": {
+        "A": "study",
+        "B": "are studying",
+        "C": "studies",
+        "D": "studied"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which question is used to ask about someone's job?",
+      "options": {
+        "A": "How are you?",
+        "B": "What are you doing?",
+        "C": "What do you do?",
+        "D": "Who are you?"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "If someone says 'Thank you so much,' a common response is:",
+      "options": {
+        "A": "Don't mention it.",
+        "B": "Yes.",
+        "C": "Please.",
+        "D": "It's okay."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "In the sentence 'I am thinking about the answer,' the verb 'think' is used to show:",
+      "options": {
+        "A": "An opinion",
+        "B": "A mental process/action",
+        "C": "A permanent state",
+        "D": "A habit"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which word is an antonym for 'formal'?",
+      "options": {
+        "A": "Official",
+        "B": "Casual",
+        "C": "Strict",
+        "D": "Serious"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The greeting 'Good night' is used when:",
+      "options": {
+        "A": "Arriving at a party at 8 PM",
+        "B": "Leaving someone or going to bed",
+        "C": "Meeting a teacher in the hall",
+        "D": "Starting a presentation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "He is often arriving late.",
+        "B": "He often arrives late.",
+        "C": "He often arriving late.",
+        "D": "He is arrive often late."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "The term 'non-verbal communication' includes:",
+      "options": {
+        "A": "Speaking loudly",
+        "B": "Body language and eye contact",
+        "C": "Writing a letter",
+        "D": "Sending a text message"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "'I ______ my homework every evening.'",
+      "options": {
+        "A": "am doing",
+        "B": "do",
+        "C": "does",
+        "D": "did"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "To 'break the ice' means to:",
+      "options": {
+        "A": "Cool down a drink",
+        "B": "Start a conversation to feel more relaxed",
+        "C": "End a friendship",
+        "D": "Argue with someone"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is a 'wh-question'?",
+      "options": {
+        "A": "Do you like coffee?",
+        "B": "Where is the library?",
+        "C": "Is he coming?",
+        "D": "Can you swim?"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "In formal letters, if you do not know the recipient's name, you start with:",
+      "options": {
+        "A": "Dear Friend,",
+        "B": "Dear Sir/Madam,",
+        "C": "Hello,",
+        "D": "To whom it may concern,"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The word 'polite' is an example of:",
+      "options": {
+        "A": "A noun",
+        "B": "An adjective",
+        "C": "A verb",
+        "D": "An adverb"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct form: 'Water _______ at 100 degrees Celsius.'",
+      "options": {
+        "A": "is boiling",
+        "B": "boiled",
+        "C": "boils",
+        "D": "boil"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "A person who is 'outgoing' is most likely:",
+      "options": {
+        "A": "Shy and quiet",
+        "B": "Friendly and socially confident",
+        "C": "Angry and rude",
+        "D": "Lazy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is used to express a future arrangement?",
+      "options": {
+        "A": "I usually go to the gym.",
+        "B": "I am meeting the doctor tomorrow at 10 AM.",
+        "C": "I went to school yesterday.",
+        "D": "I like ice cream."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which word is a synonym for 'talkative'?",
+      "options": {
+        "A": "Silent",
+        "B": "Loquacious",
+        "C": "Aggressive",
+        "D": "Bored"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Identify the error: 'He is having two brothers.'",
+      "options": {
+        "A": "He",
+        "B": "is having",
+        "C": "two",
+        "D": "brothers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "A 'cliché' is:",
+      "options": {
+        "A": "A new vocabulary word",
+        "B": "An overused expression",
+        "C": "A formal greeting",
+        "D": "A grammar rule"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Which of these adverbs is commonly used with the Present Continuous?",
+      "options": {
+        "A": "Always",
+        "B": "Currently",
+        "C": "Sometimes",
+        "D": "Never"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "When meeting someone for the very first time, it is common to:",
+      "options": {
+        "A": "Hug them",
+        "B": "Shake hands",
+        "C": "Ignore them",
+        "D": "Ask for money"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence shows a permanent state?",
+      "options": {
+        "A": "I am staying at a hotel this week.",
+        "B": "I live in Addis Ababa.",
+        "C": "I am reading a great book.",
+        "D": "It is raining right now."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "To 'keep in touch' means to:",
+      "options": {
+        "A": "Hold hands with someone",
+        "B": "Maintain communication with someone",
+        "C": "Touch someone's shoulder",
+        "D": "Forget someone"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which is a polite way to interrupt a conversation?",
+      "options": {
+        "A": "Stop talking!",
+        "B": "Excuse me, may I say something?",
+        "C": "Listen to me now!",
+        "D": "I am talking now."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The Present Continuous is formed using:",
+      "options": {
+        "A": "Subject + Verb(s/es)",
+        "B": "Subject + am/is/are + Verb-ing",
+        "C": "Subject + have/has + Verb-ed",
+        "D": "Subject + will + Verb"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "If you are 'extroverted', you are generally:",
+      "options": {
+        "A": "Quiet and reserved",
+        "B": "Outgoing and expressive",
+        "C": "Unhappy",
+        "D": "Studious"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Complete the sentence: 'Listen! Someone ________ the piano.'",
+      "options": {
+        "A": "plays",
+        "B": "is playing",
+        "C": "played",
+        "D": "has played"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a formal way to introduce yourself?",
+      "options": {
+        "A": "I'm Rob.",
+        "B": "Allow me to introduce myself; my name is Robert.",
+        "C": "My name is Rob.",
+        "D": "Hey, I'm Robert."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The question 'How are you?' is a:",
+      "options": {
+        "A": "Personal interrogation",
+        "B": "Social pleasantry",
+        "C": "Medical inquiry",
+        "D": "Scientific question"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "In the sentence 'I smell smoke,' why is the Present Simple used?",
+      "options": {
+        "A": "It is a habit.",
+        "B": "Smell is a verb of perception (stative).",
+        "C": "It happened yesterday.",
+        "D": "It is a future plan."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which is an appropriate response to 'Nice to meet you'?",
+      "options": {
+        "A": "You too.",
+        "B": "Nice to meet you, too.",
+        "C": "I know.",
+        "D": "Thanks."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "A 'peer' is someone who:",
+      "options": {
+        "A": "Is much older than you",
+        "B": "Is of the same age or social status",
+        "C": "Is your teacher",
+        "D": "Is your boss"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which is correct? 'They ________ to school by bus every morning.'",
+      "options": {
+        "A": "are going",
+        "B": "go",
+        "C": "goes",
+        "D": "gone"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "A 'dialogue' is a conversation between:",
+      "options": {
+        "A": "One person",
+        "B": "Two or more people",
+        "C": "A group of animals",
+        "D": "No one"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The tone of a formal letter should be:",
+      "options": {
+        "A": "Aggressive",
+        "B": "Polite and professional",
+        "C": "Sarcastic",
+        "D": "Overly emotional"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Which of these shows a 'repeated action' in the present?",
+      "options": {
+        "A": "I am eating lunch right now.",
+        "B": "I eat lunch at 1:00 PM every day.",
+        "C": "I ate lunch an hour ago.",
+        "D": "I will eat lunch soon."
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

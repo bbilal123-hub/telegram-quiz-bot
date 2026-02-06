@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 2: Characteristics and Classification of Living Things",
+  "grade": 9,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which characteristic of life involves the ability to produce new individuals?",
+      "options": {
+        "A": "Reproduction",
+        "C": "Respiration",
+        "D": "Nutrition",
+        "B": "Sensitivity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "The scientific system of naming organisms using two names is called:",
+      "options": {
+        "A": "Binomial nomenclature",
+        "C": "Polynomial system",
+        "D": "Dichotomous key",
+        "B": "Natural selection"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "In the scientific name Homo sapiens, 'Homo' represents the:",
+      "options": {
+        "A": "Genus",
+        "C": "Species",
+        "D": "Family",
+        "B": "Order"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Which of the following is the highest level of classification in the Linnaean system?",
+      "options": {
+        "A": "Kingdom",
+        "C": "Phylum",
+        "D": "Class",
+        "B": "Genus"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "Organisms that consist of only one cell are described as:",
+      "options": {
+        "A": "Unicellular",
+        "C": "Multicellular",
+        "D": "Invertebrates",
+        "B": "Autotrophic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "The process by which organisms release energy from food is:",
+      "options": {
+        "A": "Respiration",
+        "C": "Digestion",
+        "D": "Excretion",
+        "B": "Ingestion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "A tool used to identify organisms based on a series of choices between two alternative characters is a:",
+      "options": {
+        "A": "Dichotomous key",
+        "C": "Microscope",
+        "D": "Quadrat",
+        "B": "Hand lens"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Which kingdom includes organisms like mushrooms and molds?",
+      "options": {
+        "A": "Fungi",
+        "C": "Plantae",
+        "D": "Animalia",
+        "B": "Protista"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "The smallest and most specific group in the classification hierarchy is:",
+      "options": {
+        "A": "Species",
+        "C": "Genus",
+        "D": "Family",
+        "B": "Kingdom"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "Organisms that cannot make their own food and must consume other organisms are:",
+      "options": {
+        "A": "Heterotrophs",
+        "C": "Autotrophs",
+        "D": "Producers",
+        "B": "Photosynthetic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Which characteristic refers to an organism's ability to detect and respond to changes in the environment?",
+      "options": {
+        "A": "Sensitivity",
+        "C": "Growth",
+        "D": "Movement",
+        "B": "Metabolism"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "The Five-Kingdom system was proposed by:",
+      "options": {
+        "A": "Robert Whittaker",
+        "C": "Charles Darwin",
+        "D": "Carl Linnaeus",
+        "B": "Gregor Mendel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Bacteria belong to which kingdom in the older five-kingdom classification?",
+      "options": {
+        "A": "Monera",
+        "C": "Protista",
+        "D": "Fungi",
+        "B": "Animalia"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "Which of the following is an example of excretion?",
+      "options": {
+        "A": "Removing carbon dioxide from the lungs",
+        "C": "Passing undigested food (feces)",
+        "D": "Eating a balanced diet",
+        "B": "The heart beating faster"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "A group of similar cells performing a particular function is a:",
+      "options": {
+        "A": "Tissue",
+        "C": "Organ",
+        "D": "System",
+        "B": "Organelle"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Linnaeus used ______ as the language for scientific names.",
+      "options": {
+        "A": "Latin",
+        "C": "Greek",
+        "D": "English",
+        "B": "German"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Which of these is a non-living thing that shows some characteristics of life but lacks a cellular structure?",
+      "options": {
+        "A": "Virus",
+        "C": "Amoeba",
+        "D": "Yeast",
+        "B": "Moss"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "The permanent increase in size and dry mass is called:",
+      "options": {
+        "A": "Growth",
+        "C": "Development",
+        "D": "Evolution",
+        "B": "Adaptation"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "The first letter of the Genus name must always be:",
+      "options": {
+        "A": "Capitalized",
+        "C": "In lowercase",
+        "D": "Bolded",
+        "B": "Underlined twice"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Which kingdom consists mostly of multicellular, eukaryotic autotrophs?",
+      "options": {
+        "A": "Plantae",
+        "C": "Animalia",
+        "D": "Monera",
+        "B": "Fungi"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Movement in plants is usually seen as:",
+      "options": {
+        "A": "Growth towards light",
+        "C": "Running from predators",
+        "D": "Swimming in water",
+        "B": "Jumping"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "The study of the classification of living things is:",
+      "options": {
+        "A": "Taxonomy",
+        "C": "Physiology",
+        "D": "Ecology",
+        "B": "Genetics"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "Which kingdom contains organisms that have cell walls made of chitin?",
+      "options": {
+        "A": "Fungi",
+        "C": "Plantae",
+        "D": "Protista",
+        "B": "Monera"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "In the hierarchy of classification, which level comes between Class and Family?",
+      "options": {
+        "A": "Order",
+        "C": "Phylum",
+        "D": "Genus",
+        "B": "Kingdom"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "Aerobic respiration requires which gas?",
+      "options": {
+        "A": "Oxygen",
+        "C": "Carbon dioxide",
+        "D": "Nitrogen",
+        "B": "Helium"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "A change in the position of an organism or a part of it is:",
+      "options": {
+        "A": "Movement",
+        "C": "Growth",
+        "D": "Irritability",
+        "B": "Nutrition"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "The species name is always written in:",
+      "options": {
+        "A": "Lowercase",
+        "C": "Uppercase",
+        "D": "Numbers",
+        "B": "Symbols"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "Vertebrates are animals that possess a:",
+      "options": {
+        "A": "Backbone",
+        "C": "Shell",
+        "D": "Cell wall",
+        "B": "Flagellum"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "An example of a unicellular fungus is:",
+      "options": {
+        "A": "Yeast",
+        "C": "Mushroom",
+        "D": "Fern",
+        "B": "Algae"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "Which characteristic ensures the survival of a species over generations?",
+      "options": {
+        "A": "Reproduction",
+        "C": "Excretion",
+        "D": "Nutrition",
+        "B": "Movement"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "Kingdom Animalia is characterized by being:",
+      "options": {
+        "A": "Multicellular and heterotrophic",
+        "C": "Unicellular and autotrophic",
+        "D": "Multicellular and autotrophic",
+        "B": "Unicellular and heterotrophic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "The mnemonic 'King Philip Came Over For Good Soup' helps remember:",
+      "options": {
+        "A": "Levels of classification",
+        "C": "The parts of a cell",
+        "D": "Characteristics of life",
+        "B": "The five kingdoms"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Nutrition is the process of taking in ______ for energy and growth.",
+      "options": {
+        "A": "Nutrients",
+        "C": "Oxygen",
+        "D": "Waste",
+        "B": "Carbon dioxide"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "Prokaryotic organisms lack a defined:",
+      "options": {
+        "A": "Nucleus",
+        "C": "Cytoplasm",
+        "D": "Cell membrane",
+        "B": "DNA"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "Which of these is a characteristic of arthropods?",
+      "options": {
+        "A": "Jointed legs",
+        "C": "Internal skeleton",
+        "D": "Feathers",
+        "B": "Soft bodies"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "The scientific name of the African Elephant is Loxodonta africana. Africana is the:",
+      "options": {
+        "A": "Specific epithet (species)",
+        "C": "Genus",
+        "D": "Kingdom",
+        "B": "Phylum"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "When writing scientific names by hand, they should be:",
+      "options": {
+        "A": "Underlined separately",
+        "C": "In bold",
+        "D": "In ALL CAPS",
+        "B": "Ignored"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Metabolism is the sum of all ______ reactions in the body.",
+      "options": {
+        "A": "Chemical",
+        "C": "Physical",
+        "D": "Mechanical",
+        "B": "Electrical"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Which kingdom contains 'extremophiles' like those living in salty lakes?",
+      "options": {
+        "A": "Archaebacteria (Monera)",
+        "C": "Protista",
+        "D": "Animalia",
+        "B": "Fungi"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "A spider has 8 legs and belongs to the class:",
+      "options": {
+        "A": "Arachnida",
+        "C": "Insecta",
+        "D": "Crustacea",
+        "B": "Myriapoda"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Which of the following does NOT have a cell wall?",
+      "options": {
+        "A": "Human cell",
+        "C": "Plant cell",
+        "D": "Bacterial cell",
+        "B": "Fungal cell"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Evolution is the process of change in a species over ______.",
+      "options": {
+        "A": "Long periods of time",
+        "C": "One week",
+        "D": "One day",
+        "B": "A few seconds"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "Insects are characterized by having ______ pairs of legs.",
+      "options": {
+        "A": "Three",
+        "C": "Four",
+        "D": "Five",
+        "B": "Two"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Which of these is a protozoan (Kingdom Protista)?",
+      "options": {
+        "A": "Amoeba",
+        "C": "Fern",
+        "D": "Moss",
+        "B": "E. coli"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Scientific names are important because they are:",
+      "options": {
+        "A": "Universal (same everywhere)",
+        "C": "Hard to pronounce",
+        "D": "Very long",
+        "B": "Local"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "An organism that can produce its own food using sunlight is:",
+      "options": {
+        "A": "Photoautotroph",
+        "C": "Saprotroph",
+        "D": "Carnivore",
+        "B": "Omnivore"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Angiosperms are plants that produce:",
+      "options": {
+        "A": "Flowers and seeds",
+        "C": "Cones",
+        "D": "Spores",
+        "B": "Naked seeds"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Dichotomous keys usually start with ______ characteristics.",
+      "options": {
+        "A": "General",
+        "C": "Specific",
+        "D": "Microscopic",
+        "B": "Internal"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "Which gas is produced as a waste product of aerobic respiration?",
+      "options": {
+        "A": "Carbon dioxide",
+        "C": "Oxygen",
+        "D": "Hydrogen",
+        "B": "Nitrogen"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "A mule is the offspring of a horse and a donkey. It is sterile, which means horses and donkeys are different:",
+      "options": {
+        "A": "Species",
+        "C": "Kingdoms",
+        "D": "Phyla",
+        "B": "Classes"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

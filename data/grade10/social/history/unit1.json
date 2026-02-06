@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 10",
+  "subject": "History",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following was NOT a long-term cause of World War I?",
+      "options": {
+        "A": "Militarism",
+        "B": "Imperialism",
+        "C": "The Great Depression",
+        "D": "The Alliance System"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "The 'immediate' cause of World War I was the assassination of:",
+      "options": {
+        "A": "Archduke Franz Ferdinand",
+        "B": "Kaiser Wilhelm II",
+        "C": "Tsar Nicholas II",
+        "D": "Woodrow Wilson"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 3,
+      "question": "The Triple Entente was an alliance formed by which three countries?",
+      "options": {
+        "A": "Germany, Austria-Hungary, Italy",
+        "B": "Britain, France, Russia",
+        "C": "USA, Britain, France",
+        "D": "Germany, Turkey, Bulgaria"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "What was the name of the German war plan to avoid a two-front war by quickly defeating France?",
+      "options": {
+        "A": "The Bismarck Plan",
+        "B": "The Schlieffen Plan",
+        "C": "The Barbarossa Plan",
+        "D": "The Hindenburg Line"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "The Western Front during WWI was characterized mainly by:",
+      "options": {
+        "A": "Rapid tank movements",
+        "B": "Trench warfare",
+        "C": "Naval battles only",
+        "D": "Guerrilla tactics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which major country withdrew from WWI in 1917 due to an internal revolution?",
+      "options": {
+        "A": "USA",
+        "B": "Russia",
+        "C": "Italy",
+        "D": "Japan"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The United States entered WWI in 1917 primarily because of:",
+      "options": {
+        "A": "The invasion of Poland",
+        "B": "Unrestricted submarine warfare and the Zimmerman Telegram",
+        "C": "The fall of the Russian Tsar",
+        "D": "The attack on Pearl Harbor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which treaty officially ended WWI and imposed harsh penalties on Germany?",
+      "options": {
+        "A": "Treaty of London",
+        "B": "Treaty of Versailles",
+        "C": "Treaty of Paris",
+        "D": "Treaty of Berlin"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "The international organization created after WWI to maintain world peace was the:",
+      "options": {
+        "A": "United Nations",
+        "B": "League of Nations",
+        "C": "NATO",
+        "D": "European Union"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "The leader of the Bolshevik Revolution in Russia (1917) was:",
+      "options": {
+        "A": "Joseph Stalin",
+        "B": "Vladimir Lenin",
+        "C": "Leon Trotsky",
+        "D": "Alexander Kerensky"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Fascism first emerged as a political movement in which country?",
+      "options": {
+        "A": "Germany",
+        "B": "Italy",
+        "C": "Spain",
+        "D": "Portugal"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "Who was the leader of the Fascist Party in Italy known as 'Il Duce'?",
+      "options": {
+        "A": "Adolf Hitler",
+        "B": "Benito Mussolini",
+        "C": "Francisco Franco",
+        "D": "Victor Emmanuel"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The Nazi Party (NSDAP) rose to power in Germany under the leadership of:",
+      "options": {
+        "A": "Paul von Hindenburg",
+        "B": "Adolf Hitler",
+        "C": "Joseph Goebbels",
+        "D": "Hermann Göring"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "What was the name of Hitler’s book that outlined his ideology of racial superiority and 'Lebensraum'?",
+      "options": {
+        "A": "Das Kapital",
+        "B": "Mein Kampf",
+        "C": "The Social Contract",
+        "D": "Common Sense"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The global economic collapse that began in 1929 is known as:",
+      "options": {
+        "A": "The Industrial Revolution",
+        "B": "The Great Depression",
+        "C": "The Cold War",
+        "D": "The New Deal"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "In 1935, Fascist Italy invaded which African country, violating international law?",
+      "options": {
+        "A": "Egypt",
+        "B": "Ethiopia",
+        "C": "Libya",
+        "D": "South Africa"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The policy of 'Appeasement' followed by Britain and France meant:",
+      "options": {
+        "A": "Attacking Germany immediately",
+        "B": "Giving in to Hitler’s demands to avoid war",
+        "C": "Joining an alliance with Russia",
+        "D": "Abolishing the League of Nations"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "World War II officially began on September 1, 1939, when Germany invaded:",
+      "options": {
+        "A": "France",
+        "B": "Poland",
+        "C": "The Soviet Union",
+        "D": "Czechoslovakia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "The German military tactic 'Blitzkrieg' translates to:",
+      "options": {
+        "A": "Trench war",
+        "B": "Lightning war",
+        "C": "Forest war",
+        "D": "Ocean war"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The 'Axis Powers' in WWII mainly consisted of:",
+      "options": {
+        "A": "USA, Britain, France",
+        "B": "Germany, Italy, Japan",
+        "C": "Germany, Russia, Austria",
+        "D": "Britain, Russia, China"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which event brought the United States into WWII in December 1941?",
+      "options": {
+        "A": "The fall of Paris",
+        "B": "The Japanese attack on Pearl Harbor",
+        "C": "The Battle of Britain",
+        "D": "The sinking of the Lusitania"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "The systematic genocide of 6 million Jews by the Nazi regime is known as:",
+      "options": {
+        "A": "The Great Purge",
+        "B": "The Holocaust",
+        "C": "The Cultural Revolution",
+        "D": "The Reign of Terror"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The Battle of ________ was the major turning point on the Eastern Front, where the Soviet Union defeated Germany.",
+      "options": {
+        "A": "Berlin",
+        "B": "Stalingrad",
+        "C": "Waterloo",
+        "D": "The Bulge"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "D-Day (June 6, 1944) refers to the Allied invasion of:",
+      "options": {
+        "A": "Italy",
+        "B": "Normandy, France",
+        "C": "Berlin",
+        "D": "Tokyo"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "World War II ended in the Pacific after the USA dropped atomic bombs on which two cities?",
+      "options": {
+        "A": "Tokyo and Osaka",
+        "B": "Hiroshima and Nagasaki",
+        "C": "Kyoto and Yokohama",
+        "D": "Seoul and Beijing"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The international peacekeeping organization established after WWII in 1945 is the:",
+      "options": {
+        "A": "League of Nations",
+        "B": "United Nations (UN)",
+        "C": "African Union",
+        "D": "World Bank"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which conference after WWII divided Germany and Berlin into four occupation zones?",
+      "options": {
+        "A": "Berlin Conference",
+        "B": "Yalta and Potsdam Conferences",
+        "C": "Vienna Conference",
+        "D": "Munich Conference"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The term 'Cold War' refers to the period of tension between:",
+      "options": {
+        "A": "Britain and France",
+        "B": "USA and the Soviet Union",
+        "C": "China and Japan",
+        "D": "Germany and Italy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Who was the British Prime Minister during the majority of WWII?",
+      "options": {
+        "A": "Neville Chamberlain",
+        "B": "Winston Churchill",
+        "C": "Clement Attlee",
+        "D": "Margaret Thatcher"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "The Marshall Plan was designed by the USA to:",
+      "options": {
+        "A": "Destroy Germany",
+        "B": "Provide economic aid to rebuild Europe",
+        "C": "Spread Communism",
+        "D": "Invade Russia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "The 'Big Three' leaders during the later stages of WWII were:",
+      "options": {
+        "A": "Hitler, Mussolini, Hirohito",
+        "B": "Roosevelt, Churchill, Stalin",
+        "C": "Wilson, Clemenceau, Lloyd George",
+        "D": "Kennedy, Khrushchev, Castro"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The invasion of Ethiopia by Italy in 1935 showed the failure of:",
+      "options": {
+        "A": "The UN Security Council",
+        "B": "The League of Nations",
+        "C": "The US Army",
+        "D": "The French Government"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "What was the significance of the Battle of Midway?",
+      "options": {
+        "A": "It ended the war in Europe",
+        "B": "It was a turning point for the USA in the Pacific",
+        "C": "It was the first use of tanks",
+        "D": "It led to the surrender of Italy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "The 'Iron Curtain' was a term coined by Churchill to describe:",
+      "options": {
+        "A": "The Berlin Wall",
+        "B": "The division between Democratic West and Communist East Europe",
+        "C": "The strength of the Soviet army",
+        "D": "The fence around Hitler's palace"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "Which ideology supports the state control of the economy and a classless society?",
+      "options": {
+        "A": "Capitalism",
+        "B": "Communism",
+        "C": "Liberalism",
+        "D": "Fascism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The US President who ordered the use of atomic bombs on Japan was:",
+      "options": {
+        "A": "Franklin D. Roosevelt",
+        "B": "Harry S. Truman",
+        "C": "Dwight Eisenhower",
+        "D": "John F. Kennedy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Anti-Semitism is a term meaning prejudice or hatred against:",
+      "options": {
+        "A": "Germans",
+        "B": "Jews",
+        "C": "Communists",
+        "D": "Italians"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "The Munich Agreement of 1938 allowed Hitler to take over:",
+      "options": {
+        "A": "Poland",
+        "B": "The Sudetenland (Czechoslovakia)",
+        "C": "Austria",
+        "D": "The Rhineland"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "What was the name of the Soviet secret police under Stalin?",
+      "options": {
+        "A": "Gestapo",
+        "B": "NKVD (later KGB)",
+        "C": "CIA",
+        "D": "MI6"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "The 'Greater East Asia Co-Prosperity Sphere' was an imperialist concept of:",
+      "options": {
+        "A": "China",
+        "B": "Japan",
+        "C": "India",
+        "D": "USA"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "During WWI, the Ottoman Empire joined which side?",
+      "options": {
+        "A": "The Allies",
+        "B": "The Central Powers",
+        "C": "The League of Nations",
+        "D": "They remained neutral"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which country suffered the highest number of casualties during WWII?",
+      "options": {
+        "A": "Germany",
+        "B": "Soviet Union",
+        "C": "Britain",
+        "D": "USA"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The Nazi secret state police was called the:",
+      "options": {
+        "A": "SS",
+        "B": "Gestapo",
+        "C": "Wehrmacht",
+        "D": "Luftwaffe"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "In 1945, the 'Victory in Europe' (V-E Day) occurred on:",
+      "options": {
+        "A": "June 6",
+        "B": "May 8",
+        "C": "August 15",
+        "D": "September 1"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "What does NATO stand for?",
+      "options": {
+        "A": "North African Trade Organization",
+        "B": "North Atlantic Treaty Organization",
+        "C": "National Alliance of Travelers",
+        "D": "New American Trust Operation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Which country was divided into 'Vichy' (collaborationist) and 'Occupied' zones during WWII?",
+      "options": {
+        "A": "Poland",
+        "B": "France",
+        "C": "Norway",
+        "D": "Belgium"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The 'Final Solution' was the Nazi plan for:",
+      "options": {
+        "A": "Winning the war in Russia",
+        "B": "The mass murder of European Jews",
+        "C": "Rebuilding the German economy",
+        "D": "Invading Britain"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Propaganda during the wars was used to:",
+      "options": {
+        "A": "Provide accurate news",
+        "B": "Influence public opinion and emotions",
+        "C": "Help the enemy",
+        "D": "End the war faster"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The 'Roaring Twenties' in the USA was a period of:",
+      "options": {
+        "A": "Economic depression",
+        "B": "Economic prosperity and social change",
+        "C": "Military rule",
+        "D": "Civil war"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The V-J Day (Victory over Japan) occurred in which month of 1945?",
+      "options": {
+        "A": "May",
+        "B": "August",
+        "C": "December",
+        "D": "January"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

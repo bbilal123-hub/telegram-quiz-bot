@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 2: Environment and Climate Change",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The gradual increase in the Earth's overall temperature is known as:",
+      "options": {
+        "A": "Global warming",
+        "B": "Photosynthesis",
+        "C": "Afforestation",
+        "D": "Erosion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "If we ______ more trees, we will help reduce carbon dioxide in the air.",
+      "options": {
+        "A": "planted",
+        "B": "will plant",
+        "C": "plant",
+        "D": "have planted"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the following is an example of renewable energy?",
+      "options": {
+        "A": "Coal",
+        "B": "Natural gas",
+        "C": "Oil",
+        "D": "Solar power"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "She ______ already finished the report on environmental pollution.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "did",
+        "D": "was"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "The process of cutting down many trees in an area is called:",
+      "options": {
+        "A": "Deforestation",
+        "B": "Reforestation",
+        "C": "Agriculture",
+        "D": "Urbanization"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "I would travel to the Semien Mountains if I ______ more money.",
+      "options": {
+        "A": "have",
+        "B": "will have",
+        "C": "had",
+        "D": "am having"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "Which word means 'to use something again instead of throwing it away'?",
+      "options": {
+        "A": "Reuse",
+        "B": "Discard",
+        "C": "Pollute",
+        "D": "Consume"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "They ______ in this town for ten years.",
+      "options": {
+        "A": "live",
+        "B": "has lived",
+        "C": "lived",
+        "D": "have lived"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 9,
+      "question": "The ______ layer protects the Earth from harmful ultraviolet rays.",
+      "options": {
+        "A": "Ozone",
+        "B": "Oxygen",
+        "C": "Nitrogen",
+        "D": "Carbon"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "If it ______ tomorrow, we will stay at home.",
+      "options": {
+        "A": "rains",
+        "B": "rained",
+        "C": "will rain",
+        "D": "has rained"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "A synonym for 'hazardous' waste is ______ waste.",
+      "options": {
+        "A": "Safe",
+        "B": "Healthy",
+        "C": "Dangerous",
+        "D": "Useful"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "Have you ______ seen a lion in the wild?",
+      "options": {
+        "A": "never",
+        "B": "already",
+        "C": "ever",
+        "D": "yet"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 13,
+      "question": "Climate change is caused ______ by human activities.",
+      "options": {
+        "A": "largely",
+        "B": "slow",
+        "C": "bad",
+        "D": "hard"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "What is the past participle of 'throw'?",
+      "options": {
+        "A": "Threw",
+        "B": "Throws",
+        "C": "Thrown",
+        "D": "Throwing"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 15,
+      "question": "Many species are ______ extinction because of habitat loss.",
+      "options": {
+        "A": "facing",
+        "B": "seeing",
+        "C": "going",
+        "D": "doing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "If I were you, I ______ plastic bags.",
+      "options": {
+        "A": "would not use",
+        "B": "will not use",
+        "C": "do not use",
+        "D": "did not use"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "The ______ of smoke from factories causes air pollution.",
+      "options": {
+        "A": "Emission",
+        "B": "Collection",
+        "C": "Protection",
+        "D": "Creation"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "We haven't cleaned the park ______.",
+      "options": {
+        "A": "already",
+        "B": "since",
+        "C": "yet",
+        "D": "for"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "Plants produce oxygen through the process of ______.",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Evaporation",
+        "C": "Respiration",
+        "D": "Digestion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "If the ice caps melt, the sea level ______.",
+      "options": {
+        "A": "will rise",
+        "B": "rose",
+        "C": "has risen",
+        "D": "rises"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Which word is an antonym for 'natural'?",
+      "options": {
+        "A": "Artificial",
+        "B": "Normal",
+        "C": "Pure",
+        "D": "Real"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "The teacher ______ just explained the rules of the debate.",
+      "options": {
+        "A": "did",
+        "B": "has",
+        "C": "is",
+        "D": "was"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question_number": 23,
+      "question": "Drought is a period of ______.",
+      "options": {
+        "A": "extreme flooding",
+        "B": "heavy snow",
+        "C": "very little rainfall",
+        "D": "mild wind"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "If people ______ less water, there would be more for everyone.",
+      "options": {
+        "A": "waste",
+        "B": "will waste",
+        "C": "wasted",
+        "D": "have wasted"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "The suffix '-able' in 'sustainable' means:",
+      "options": {
+        "A": "Can be done",
+        "B": "The person who",
+        "C": "Without",
+        "D": "State of being"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "I ______ never been to the Bale Mountains.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "am",
+        "D": "did"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "The ______ effect keeps the Earth warm enough to support life.",
+      "options": {
+        "A": "Greenhouse",
+        "B": "Warehouse",
+        "C": "Bluehouse",
+        "D": "Lightroom"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "She ______ English for three years.",
+      "options": {
+        "A": "studied",
+        "B": "studies",
+        "C": "has studied",
+        "D": "study"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "Recycling helps to save ______.",
+      "options": {
+        "A": "Natural resources",
+        "B": "Waste products",
+        "C": "Garbage",
+        "D": "Pollution"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "If you ______ the light, you will save electricity.",
+      "options": {
+        "A": "switch off",
+        "B": "switched off",
+        "C": "will switch off",
+        "D": "switching off"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "Which prefix means 'against'?",
+      "options": {
+        "A": "Anti-",
+        "B": "Pro-",
+        "C": "Re-",
+        "D": "Pre-"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "We ______ lived here since 2015.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "was",
+        "D": "are"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Pollution can be ______ to our health.",
+      "options": {
+        "A": "Harmful",
+        "B": "Useful",
+        "C": "Helpful",
+        "D": "Beautiful"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "If animals ______ their habitat, they die.",
+      "options": {
+        "A": "lose",
+        "B": "lost",
+        "C": "will lose",
+        "D": "were losing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "What is the synonym of 'preserve'?",
+      "options": {
+        "A": "Protect",
+        "B": "Destroy",
+        "C": "Waste",
+        "D": "Change"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "He ______ not seen his friend for a long time.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "did",
+        "D": "is"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "Carbon ______ is a gas that contributes to global warming.",
+      "options": {
+        "A": "Dioxide",
+        "B": "Monoxide",
+        "C": "Oxygen",
+        "D": "Hydrogen"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "If I found a wounded bird, I ______ help it.",
+      "options": {
+        "A": "would",
+        "B": "will",
+        "C": "can",
+        "D": "must"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "What does the prefix 're-' mean in 'reforest'?",
+      "options": {
+        "A": "Again",
+        "B": "Before",
+        "C": "Not",
+        "D": "Under"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "They have ______ written their essays.",
+      "options": {
+        "A": "already",
+        "B": "yet",
+        "C": "since",
+        "D": "ever"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Biodiversity refers to the ______ of life on Earth.",
+      "options": {
+        "A": "Variety",
+        "B": "Death",
+        "C": "End",
+        "D": "Lack"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "If you don't water the plant, it ______.",
+      "options": {
+        "A": "dies",
+        "B": "died",
+        "C": "will die",
+        "D": "is dying"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 43,
+      "question": "The ______ of soil by wind or water is called erosion.",
+      "options": {
+        "A": "Wearing away",
+        "B": "Building up",
+        "C": "Cleaning",
+        "D": "Planting"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Has she ______ her breakfast?",
+      "options": {
+        "A": "eaten",
+        "B": "ate",
+        "C": "eat",
+        "D": "eating"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Which of these is a non-renewable resource?",
+      "options": {
+        "A": "Coal",
+        "B": "Wind",
+        "C": "Water",
+        "D": "Tide"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "If we ______ electricity, we will pay more money.",
+      "options": {
+        "A": "waste",
+        "B": "wasted",
+        "C": "will waste",
+        "D": "have wasted"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "A person who works to protect the environment is an ______.",
+      "options": {
+        "A": "Environmentalist",
+        "B": "Economist",
+        "C": "Architect",
+        "D": "Engineer"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "We have been friends ______ elementary school.",
+      "options": {
+        "A": "since",
+        "B": "for",
+        "C": "during",
+        "D": "until"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "To ______ energy means to use it carefully and not waste it.",
+      "options": {
+        "A": "Conserve",
+        "B": "Destroy",
+        "C": "Spend",
+        "D": "Ignore"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "If there ______ no oxygen, we could not breathe.",
+      "options": {
+        "A": "were",
+        "B": "is",
+        "C": "will be",
+        "D": "are"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

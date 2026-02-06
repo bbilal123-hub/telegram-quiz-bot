@@ -1,0 +1,560 @@
+[
+
+{
+  "grade": "Grade 9",
+  "subject": "Economics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The fundamental economic problem that faces all societies is:",
+      "options": {
+        "A": "Inflation",
+        "B": "Scarcity",
+        "C": "Unemployment",
+        "D": "Poverty"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Scarcity exists because:",
+      "options": {
+        "A": "Human wants are limited",
+        "B": "Resources are unlimited",
+        "C": "Human wants are unlimited while resources are limited",
+        "D": "Governments fail to distribute goods"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of a resource/factor of production?",
+      "options": {
+        "A": "Money",
+        "B": "Labor",
+        "C": "Wants",
+        "D": "Utility"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The process of deciding how to use scarce resources to satisfy unlimited wants is:",
+      "options": {
+        "A": "Competition",
+        "B": "Resource Allocation",
+        "C": "Production",
+        "D": "Consumption"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "Opportunity cost is defined as:",
+      "options": {
+        "A": "The total money spent on an item",
+        "B": "The value of the next best alternative sacrificed",
+        "C": "The price of a product in the market",
+        "D": "The cost of production"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "A student chooses to buy a textbook for 500 Birr instead of a shirt. What is the opportunity cost?",
+      "options": {
+        "A": "500 Birr",
+        "B": "The shirt",
+        "C": "The textbook",
+        "D": "The knowledge from the book"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following would NOT be considered 'Land' in economics?",
+      "options": {
+        "A": "The Blue Nile River",
+        "B": "A tractor",
+        "C": "Gold deposits in Shakiso",
+        "D": "Arable soil in Arsi"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "In economics, 'Capital' refers to:",
+      "options": {
+        "A": "Money in a bank account",
+        "B": "Man-made tools and machinery used in production",
+        "C": "The city where the government is located",
+        "D": "Natural forests"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "The Production Possibilities Frontier (PPF) shows:",
+      "options": {
+        "A": "The price of two goods",
+        "B": "The maximum possible combinations of two goods an economy can produce",
+        "C": "The demand for products",
+        "D": "The distribution of wealth"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "A point located OUTSIDE the PPF represents a combination that is:",
+      "options": {
+        "A": "Efficient",
+        "B": "Unattainable with current resources",
+        "C": "Inefficient",
+        "D": "Wasteful"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "A point INSIDE the PPF indicates that:",
+      "options": {
+        "A": "Resources are fully utilized",
+        "B": "There is unemployment or underutilization of resources",
+        "C": "The economy is growing",
+        "D": "Technology is improving"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following causes an OUTWARD shift of the PPF?",
+      "options": {
+        "A": "Decrease in labor force",
+        "B": "Natural disaster",
+        "C": "Technological advancement",
+        "D": "Choosing to produce more of one good"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "The 'For whom to produce' question deals with:",
+      "options": {
+        "A": "What technology to use",
+        "B": "Distribution of national income",
+        "C": "The types of crops to grow",
+        "D": "Reducing waste"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "In a Command Economic System, who answers the basic economic questions?",
+      "options": {
+        "A": "Private individuals",
+        "B": "The Government (Central Planning)",
+        "C": "Religious leaders",
+        "D": "Consumers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The Market Economic System is also known as:",
+      "options": {
+        "A": "Socialism",
+        "B": "Capitalism",
+        "C": "Traditionalism",
+        "D": "Feudalism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "The main motive of an entrepreneur in a market economy is:",
+      "options": {
+        "A": "Public service",
+        "B": "Profit maximization",
+        "C": "Environmental protection",
+        "D": "Equality"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "A Mixed Economic System combines elements of:",
+      "options": {
+        "A": "Farming and Mining",
+        "B": "Market and Command economies",
+        "C": "Barter and Money",
+        "D": "Internal and External trade"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The law of increasing opportunity cost causes the PPF to be:",
+      "options": {
+        "A": "A straight line",
+        "B": "Bowed outward (concave to the origin)",
+        "C": "A vertical line",
+        "D": "A circle"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which factor of production takes the risk of starting a business?",
+      "options": {
+        "A": "Land",
+        "B": "Labor",
+        "C": "Capital",
+        "D": "Entrepreneurship"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 20,
+      "question": "Productive efficiency occurs when an economy is:",
+      "options": {
+        "A": "Producing inside the PPF",
+        "B": "Producing on any point on the PPF",
+        "C": "Producing outside the PPF",
+        "D": "Importing more goods"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Scarcity is a ___________ concept, meaning it applies to all countries.",
+      "options": {
+        "A": "Relative",
+        "B": "Universal",
+        "C": "Temporary",
+        "D": "Minor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Human capital refers to:",
+      "options": {
+        "A": "Machinery",
+        "B": "The skills and knowledge of workers",
+        "C": "The number of workers",
+        "D": "Government buildings"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The 'Invisible Hand' theory suggests that markets are guided by:",
+      "options": {
+        "A": "Government regulation",
+        "B": "Self-interest and competition",
+        "C": "International aid",
+        "D": "The central bank"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The payment for Capital is:",
+      "options": {
+        "A": "Rent",
+        "B": "Wages",
+        "C": "Interest",
+        "D": "Profit"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "Economic growth is shown by a shift of the PPF to the:",
+      "options": {
+        "A": "Left",
+        "B": "Right (Outward)",
+        "C": "Origin",
+        "D": "Vertical axis"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is a characteristic of a traditional economy?",
+      "options": {
+        "A": "High use of technology",
+        "B": "Economic decisions based on custom and heritage",
+        "C": "Central planning by the state",
+        "D": "Stock market trading"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "When an economy chooses to produce more 'Capital Goods' today, it is likely to have:",
+      "options": {
+        "A": "Less growth in the future",
+        "B": "More growth in the future",
+        "C": "No change in the future",
+        "D": "Immediate increase in consumption"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The central problem in 'How to produce' is:",
+      "options": {
+        "A": "Choosing the target consumers",
+        "B": "Choosing the most efficient production technique",
+        "C": "Deciding the price",
+        "D": "Paying taxes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Economic goods are those that:",
+      "options": {
+        "A": "Are provided free by nature in abundance",
+        "B": "Are scarce and have an opportunity cost",
+        "C": "Everyone can have as much as they want",
+        "D": "Do not require resources to produce"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which economic system emphasizes social welfare and equality over individual profit?",
+      "options": {
+        "A": "Market economy",
+        "B": "Command economy",
+        "C": "Laissez-faire economy",
+        "D": "Pure capitalism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "In the circular flow model, households provide __________ to firms.",
+      "options": {
+        "A": "Goods and services",
+        "B": "Factors of production",
+        "C": "Wages",
+        "D": "Subsidies"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "An outward shift in the PPF can be caused by:",
+      "options": {
+        "A": "An increase in the quantity of resources",
+        "B": "A decrease in efficiency",
+        "C": "A fall in the population",
+        "D": "A strike by workers"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "Opportunity cost exists because of:",
+      "options": {
+        "A": "Money",
+        "B": "Scarcity",
+        "C": "Greed",
+        "D": "Trade"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "In a pure market economy, the government:",
+      "options": {
+        "A": "Owns all factories",
+        "B": "Plays little or no role in economic decisions",
+        "C": "Sets all prices",
+        "D": "Decides who gets which job"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "What is the reward for the factor 'Land'?",
+      "options": {
+        "A": "Wage",
+        "B": "Rent",
+        "C": "Profit",
+        "D": "Interest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The problem of scarcity:",
+      "options": {
+        "A": "Disappears as a country gets richer",
+        "B": "Exists in both rich and poor countries",
+        "C": "Can be solved by printing more money",
+        "D": "Is only found in Africa"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "If an economy moves from one point on its PPF to another point on the same PPF:",
+      "options": {
+        "A": "More of both goods are produced",
+        "B": "There is a trade-off (more of one, less of the other)",
+        "C": "Resources become wasted",
+        "D": "Technology must have changed"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is a macroeconomic goal?",
+      "options": {
+        "A": "Price of a loaf of bread",
+        "B": "Full employment",
+        "C": "Profit of a coffee shop",
+        "D": "Individual household saving"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Physical capital includes:",
+      "options": {
+        "A": "Education",
+        "B": "Machinery and buildings",
+        "C": "Raw minerals",
+        "D": "Shares in a company"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "The word 'Marginal' in economics means:",
+      "options": {
+        "A": "Total",
+        "B": "Additional or extra",
+        "C": "Unimportant",
+        "D": "Average"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which economic system is most common in the world today?",
+      "options": {
+        "A": "Pure Command",
+        "B": "Mixed economy",
+        "C": "Pure Market",
+        "D": "Barter economy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The production of more 'Consumer Goods' today leads to:",
+      "options": {
+        "A": "Higher future growth",
+        "B": "Higher current standard of living",
+        "C": "Increase in capital stock",
+        "D": "Technological shift"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "An economy is producing efficiently if it is:",
+      "options": {
+        "A": "Inside the PPF",
+        "B": "On the PPF",
+        "C": "Outside the PPF",
+        "D": "Not producing anything"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Scarcity implies that:",
+      "options": {
+        "A": "Goods are free",
+        "B": "We must make choices",
+        "C": "Resources are infinite",
+        "D": "Everyone is poor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is a MICROECONOMIC topic?",
+      "options": {
+        "A": "The price of sugar in Adama",
+        "B": "The GDP of Ethiopia",
+        "C": "National inflation",
+        "D": "General unemployment"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "When we study 'What is', we are engaging in:",
+      "options": {
+        "A": "Normative economics",
+        "B": "Positive economics",
+        "C": "Philosophical economics",
+        "D": "Subjective economics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "A straight-line PPF indicates:",
+      "options": {
+        "A": "Increasing opportunity costs",
+        "B": "Constant opportunity costs",
+        "C": "Zero opportunity costs",
+        "D": "Decreasing opportunity costs"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "A socialist economy is most closely related to a:",
+      "options": {
+        "A": "Market economy",
+        "B": "Command economy",
+        "C": "Mixed economy",
+        "D": "Traditional economy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which factor of production is the primary source of 'Human Effort'?",
+      "options": {
+        "A": "Land",
+        "B": "Labor",
+        "C": "Capital",
+        "D": "Interest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The ultimate goal of economic activity is to satisfy:",
+      "options": {
+        "A": "Government targets",
+        "B": "Human wants",
+        "C": "Bank requirements",
+        "D": "Foreign debt"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

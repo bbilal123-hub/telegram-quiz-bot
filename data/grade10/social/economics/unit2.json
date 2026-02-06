@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 10",
+  "subject": "Economics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Law of Demand states that, ceteris paribus, as the price of a good increases:",
+      "options": {
+        "A": "Quantity demanded increases",
+        "B": "Quantity demanded decreases",
+        "C": "Demand curve shifts to the right",
+        "D": "Supply increases"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "A table showing the relationship between the price of a good and the quantity demanded is called a:",
+      "options": {
+        "A": "Demand Curve",
+        "B": "Demand Schedule",
+        "C": "Supply Schedule",
+        "D": "Market Equilibrium"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "The downward slope of the demand curve is primarily due to:",
+      "options": {
+        "A": "The Law of Supply",
+        "B": "The Law of Diminishing Marginal Utility",
+        "C": "Increasing returns to scale",
+        "D": "Profit maximization"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following causes a movement ALONG the demand curve rather than a shift?",
+      "options": {
+        "A": "A change in consumer income",
+        "B": "A change in the price of the good itself",
+        "C": "A change in tastes and preferences",
+        "D": "A change in the price of substitutes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "If an increase in the price of Good A leads to an increase in the demand for Good B, then A and B are:",
+      "options": {
+        "A": "Complementary goods",
+        "B": "Substitute goods",
+        "C": "Inferior goods",
+        "D": "Normal goods"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Sugar and Tea are examples of:",
+      "options": {
+        "A": "Substitute goods",
+        "B": "Complementary goods",
+        "C": "Independent goods",
+        "D": "Luxury goods"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "An 'Inferior Good' is a good for which demand decreases when:",
+      "options": {
+        "A": "Price increases",
+        "B": "Consumer income increases",
+        "C": "The price of substitutes falls",
+        "D": "Tastes change"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The Law of Supply states that, ceteris paribus, producers will offer more of a product for sale at:",
+      "options": {
+        "A": "Lower prices",
+        "B": "Higher prices",
+        "C": "Constant prices",
+        "D": "Zero prices"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "A shift of the supply curve to the right indicates:",
+      "options": {
+        "A": "A decrease in supply",
+        "B": "An increase in supply",
+        "C": "A decrease in quantity supplied",
+        "D": "An increase in price"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following would cause the supply curve for bread to shift to the left?",
+      "options": {
+        "A": "A decrease in the price of flour",
+        "B": "An increase in the wages of bakery workers",
+        "C": "An improvement in baking technology",
+        "D": "A decrease in the price of bread"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Market equilibrium occurs at the price where:",
+      "options": {
+        "A": "Demand is greater than supply",
+        "B": "Quantity demanded equals quantity supplied",
+        "C": "The government sets a price ceiling",
+        "D": "Producers make the highest profit"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "If the market price is above the equilibrium price, there will be a:",
+      "options": {
+        "A": "Shortage",
+        "B": "Surplus (excess supply)",
+        "C": "Black market",
+        "D": "Increase in demand"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "A 'Shortage' in the market exists when:",
+      "options": {
+        "A": "Quantity supplied exceeds quantity demanded",
+        "B": "Quantity demanded exceeds quantity supplied",
+        "C": "Price is above equilibrium",
+        "D": "Supply shifts to the right"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "Price Elasticity of Demand measures the responsiveness of:",
+      "options": {
+        "A": "Demand to a change in income",
+        "B": "Quantity demanded to a change in price",
+        "C": "Supply to a change in demand",
+        "D": "Price to a change in supply"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "If the price elasticity of demand is greater than 1 ($|Ed| > 1$), demand is said to be:",
+      "options": {
+        "A": "Inelastic",
+        "B": "Elastic",
+        "C": "Unitary elastic",
+        "D": "Perfectly inelastic"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "For a perfectly inelastic demand curve, the shape of the graph is:",
+      "options": {
+        "A": "Horizontal",
+        "B": "Vertical",
+        "C": "Downward sloping",
+        "D": "Upward sloping"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "A good with many close substitutes tends to have:",
+      "options": {
+        "A": "Inelastic demand",
+        "B": "Elastic demand",
+        "C": "Zero elasticity",
+        "D": "Unitary elasticity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Necessities like salt or basic medicine usually have:",
+      "options": {
+        "A": "Highly elastic demand",
+        "B": "Inelastic demand",
+        "C": "Perfectly elastic demand",
+        "D": "Positive supply elasticity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "The formula for Price Elasticity of Demand is:",
+      "options": {
+        "A": "% Change in Price / % Change in Quantity",
+        "B": "% Change in Quantity Demanded / % Change in Price",
+        "C": "Total Revenue / Price",
+        "D": "Change in Supply / Change in Demand"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "If a 10% increase in price leads to a 10% decrease in quantity demanded, elasticity is:",
+      "options": {
+        "A": "Elastic",
+        "B": "Unitary elastic",
+        "C": "Inelastic",
+        "D": "Infinite"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Income Elasticity of Demand measures how demand changes in response to a change in:",
+      "options": {
+        "A": "Price of substitutes",
+        "B": "Consumer income",
+        "C": "Production costs",
+        "D": "Number of sellers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "If the income elasticity of demand is positive ($Ei > 0$), the good is a:",
+      "options": {
+        "A": "Inferior good",
+        "B": "Normal good",
+        "C": "Giffen good",
+        "D": "Complementary good"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "Cross-price elasticity of demand for two goods that are complements will be:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The 'Market Clearing Price' is another name for:",
+      "options": {
+        "A": "Maximum price",
+        "B": "Equilibrium price",
+        "C": "Minimum price",
+        "D": "Subsidized price"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "A 'Price Ceiling' is a government-imposed:",
+      "options": {
+        "A": "Minimum price above equilibrium",
+        "B": "Maximum price below equilibrium",
+        "C": "Tax on luxury goods",
+        "D": "Subsidy for farmers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Price floors are often used to protect:",
+      "options": {
+        "A": "Consumers from high prices",
+        "B": "Producers/Farmers from low prices",
+        "C": "Importers",
+        "D": "The government from debt"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is a determinant of supply?",
+      "options": {
+        "A": "Consumer taste",
+        "B": "Technology",
+        "C": "Consumer income",
+        "D": "Price of complements"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "If producers expect the price of their product to rise in the future, current supply will likely:",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Stay the same",
+        "D": "Become perfectly elastic"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Total Revenue (TR) is calculated as:",
+      "options": {
+        "A": "Price + Quantity",
+        "B": "Price × Quantity",
+        "C": "Price / Quantity",
+        "D": "Demand - Supply"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "If demand is inelastic, an increase in price will cause Total Revenue to:",
+      "options": {
+        "A": "Decrease",
+        "B": "Increase",
+        "C": "Stay unchanged",
+        "D": "Fall to zero"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "In the long run, the price elasticity of supply is generally:",
+      "options": {
+        "A": "More inelastic",
+        "B": "More elastic",
+        "C": "Perfectly inelastic",
+        "D": "Negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "A vertical supply curve represents:",
+      "options": {
+        "A": "Perfectly elastic supply",
+        "B": "Perfectly inelastic supply",
+        "C": "Unitary elastic supply",
+        "D": "Infinite supply"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following will shift the demand curve for coffee to the right?",
+      "options": {
+        "A": "A report stating coffee is bad for health",
+        "B": "An increase in the price of tea (a substitute)",
+        "C": "A decrease in consumer income (if coffee is normal)",
+        "D": "A decrease in the price of coffee"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "The point where the supply and demand curves intersect is:",
+      "options": {
+        "A": "The point of maximum profit",
+        "B": "The equilibrium point",
+        "C": "The point of scarcity",
+        "D": "The point of surplus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "When the government provides a 'Subsidy' to a firm, the supply curve shifts:",
+      "options": {
+        "A": "Leftward",
+        "B": "Rightward",
+        "C": "Upward",
+        "D": "It does not shift"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Price elasticity of supply measures how quantity supplied responds to:",
+      "options": {
+        "A": "Consumer tastes",
+        "B": "Price changes",
+        "C": "Income changes",
+        "D": "Government regulations"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "If a small change in price leads to an infinitely large change in quantity demanded, demand is:",
+      "options": {
+        "A": "Perfectly inelastic",
+        "B": "Perfectly elastic",
+        "C": "Unitary",
+        "D": "Relatively inelastic"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "A 'Giffen Good' is a rare exception to the Law of Demand where:",
+      "options": {
+        "A": "Demand decreases as price rises",
+        "B": "Demand increases as price rises",
+        "C": "Demand is always zero",
+        "D": "Supply is perfectly elastic"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The time period in which at least one factor of production is fixed is the:",
+      "options": {
+        "A": "Long run",
+        "B": "Short run",
+        "C": "Market period",
+        "D": "Secular period"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Elasticity of supply depends mostly on:",
+      "options": {
+        "A": "Income of consumers",
+        "B": "Time and ease of switching resources",
+        "C": "Number of buyers",
+        "D": "Advertising"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "A decrease in the price of a complement for Good X will:",
+      "options": {
+        "A": "Decrease demand for X",
+        "B": "Increase demand for X",
+        "C": "Decrease supply of X",
+        "D": "Have no effect"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The market demand curve is the __________ summation of individual demand curves.",
+      "options": {
+        "A": "Vertical",
+        "B": "Horizontal",
+        "C": "Diagonal",
+        "D": "Random"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which coefficient represents unitary elastic demand?",
+      "options": {
+        "A": "Ed = 0",
+        "B": "Ed = 1",
+        "C": "Ed < 1",
+        "D": "Ed > 1"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "When quantity demanded is greater than quantity supplied, price tends to:",
+      "options": {
+        "A": "Fall",
+        "B": "Rise",
+        "C": "Stay constant",
+        "D": "Oscillate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Taxes on producers usually cause the supply curve to:",
+      "options": {
+        "A": "Shift right",
+        "B": "Shift left",
+        "C": "Become vertical",
+        "D": "Become horizontal"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Utility in economics means:",
+      "options": {
+        "A": "Usefulness only",
+        "B": "Satisfaction derived from consuming a good",
+        "C": "The price of a good",
+        "D": "How much a good weighs"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Engel's Law states that as income rises, the proportion of income spent on food:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Stays the same",
+        "D": "Becomes zero"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "If cross-price elasticity is zero, the two goods are:",
+      "options": {
+        "A": "Substitutes",
+        "B": "Unrelated",
+        "C": "Complements",
+        "D": "Identical"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "An increase in the number of sellers in the market shifts the:",
+      "options": {
+        "A": "Demand curve left",
+        "B": "Supply curve right",
+        "C": "Supply curve left",
+        "D": "Demand curve right"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Elasticity is a unit-free measure because it uses:",
+      "options": {
+        "A": "Absolute changes",
+        "B": "Percentage changes",
+        "C": "Total values",
+        "D": "Average values"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

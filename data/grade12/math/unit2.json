@@ -1,0 +1,510 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Mathematics",
+  "unit": "Unit 2: Introduction to Differential Calculus",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The limit of a function f(x) as x approaches c is L if the values of f(x) get arbitrarily close to L. This is denoted as:",
+      "options": {
+        "A": "lim f(x) = L",
+        "C": "f(c) = L",
+        "D": "f'(c) = L"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "What is the limit of f(x) = 5 as x approaches 10?",
+      "options": {
+        "A": "10",
+        "C": "5",
+        "D": "0"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "A function f is continuous at x = c if which of the following is true?",
+      "options": {
+        "A": "The limit exists, f(c) is defined, and they are equal",
+        "C": "f(c) is undefined",
+        "D": "The limit is infinity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "The derivative of a function represents the ______ of the tangent line to the graph at a point.",
+      "options": {
+        "A": "Slope",
+        "C": "Length",
+        "D": "Area"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "What is the derivative of a constant k?",
+      "options": {
+        "A": "k",
+        "C": "0",
+        "D": "1"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "Using the Power Rule, what is the derivative of x raised to the power of n?",
+      "options": {
+        "A": "n * x^(n-1)",
+        "C": "x^(n+1) / (n+1)",
+        "D": "n * x^n"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 7,
+      "question": "The derivative of f(x) = x^2 is:",
+      "options": {
+        "A": "x",
+        "C": "2x",
+        "D": "2"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "What is the limit of (3x + 1) as x approaches 2?",
+      "options": {
+        "A": "7",
+        "C": "6",
+        "D": "5"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "If the limit from the left is not equal to the limit from the right, the limit at that point:",
+      "options": {
+        "A": "Is zero",
+        "C": "Does not exist",
+        "D": "Is infinity"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "The process of finding the derivative is called:",
+      "options": {
+        "A": "Differentiation",
+        "C": "Integration",
+        "D": "Summation"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "Find the derivative of f(x) = 10x.",
+      "options": {
+        "A": "10",
+        "C": "x",
+        "D": "0"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 12,
+      "question": "The limit of sin(x)/x as x approaches 0 is:",
+      "options": {
+        "A": "0",
+        "C": "1",
+        "D": "Undefined"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "If f(x) = x^3, then f'(x) is:",
+      "options": {
+        "A": "3x^2",
+        "C": "x^2",
+        "D": "3x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "According to the Sum Rule, the derivative of [f(x) + g(x)] is:",
+      "options": {
+        "A": "f'(x) + g'(x)",
+        "C": "f'(x) * g'(x)",
+        "D": "f(x) * g'(x) + g(x) * f'(x)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "The derivative of f(x) = e^x is:",
+      "options": {
+        "A": "e^x",
+        "C": "x * e^(x-1)",
+        "D": "log(x)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "A point where the derivative is zero or undefined is called a:",
+      "options": {
+        "A": "Critical point",
+        "C": "Inflection point",
+        "D": "Zero point"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "Find the limit of (x^2 - 4) / (x - 2) as x approaches 2.",
+      "options": {
+        "A": "0",
+        "C": "4",
+        "D": "Undefined"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "If f(x) = sin(x), then its derivative f'(x) is:",
+      "options": {
+        "A": "cos(x)",
+        "C": "-cos(x)",
+        "D": "-sin(x)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "The derivative of cos(x) is:",
+      "options": {
+        "A": "sin(x)",
+        "C": "-sin(x)",
+        "D": "cos(x)"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "What is the derivative of f(x) = 5x^2 + 3x?",
+      "options": {
+        "A": "10x + 3",
+        "C": "5x + 3",
+        "D": "10x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "If a function is differentiable at a point, it must also be ______ at that point.",
+      "options": {
+        "A": "Continuous",
+        "C": "Positive",
+        "D": "Zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "The instantaneous rate of change of position with respect to time is called:",
+      "options": {
+        "A": "Velocity",
+        "C": "Acceleration",
+        "D": "Speed"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "The derivative of the velocity function is:",
+      "options": {
+        "A": "Acceleration",
+        "C": "Position",
+        "D": "Jerk"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "Using the Product Rule, the derivative of f(x)g(x) is:",
+      "options": {
+        "A": "f'(x)g(x) + f(x)g'(x)",
+        "C": "f'(x)g'(x)",
+        "D": "f(x)g(x) / f'(x)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "Find the derivative of f(x) = 1/x.",
+      "options": {
+        "A": "-1 / x^2",
+        "C": "1 / x^2",
+        "D": "log(x)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "The limit of 1/x as x approaches infinity is:",
+      "options": {
+        "A": "0",
+        "C": "1",
+        "D": "Infinity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "The notation dy/dx was introduced by:",
+      "options": {
+        "A": "Leibniz",
+        "C": "Newton",
+        "D": "Euler"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "What is the derivative of f(x) = ln(x)?",
+      "options": {
+        "A": "1/x",
+        "C": "e^x",
+        "D": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 29,
+      "question": "Find the derivative of f(x) = 7x^4.",
+      "options": {
+        "A": "28x^3",
+        "C": "7x^3",
+        "D": "28x^4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "Which rule is used to find the derivative of a composite function like f(g(x))?",
+      "options": {
+        "A": "Chain Rule",
+        "C": "Quotient Rule",
+        "D": "Product Rule"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "The derivative of tan(x) is:",
+      "options": {
+        "A": "sec^2(x)",
+        "C": "sec(x)",
+        "D": "cos^2(x)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "In the Quotient Rule, the derivative of u/v is:",
+      "options": {
+        "A": "(v u' - u v') / v^2",
+        "C": "(u v' - v u') / v^2",
+        "D": "u' / v'"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "If f(x) = |x|, the derivative at x = 0:",
+      "options": {
+        "A": "Does not exist",
+        "C": "Is 0",
+        "D": "Is 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "What is the slope of the line tangent to y = x^2 at x = 3?",
+      "options": {
+        "A": "6",
+        "C": "9",
+        "D": "3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "The second derivative of f(x) = x^3 is:",
+      "options": {
+        "A": "6x",
+        "C": "3x^2",
+        "D": "6"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "A function is increasing on an interval if its first derivative is ______ on that interval.",
+      "options": {
+        "A": "Positive",
+        "C": "Negative",
+        "D": "Zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "The limit of a constant times a function is the constant times the ______ of the function.",
+      "options": {
+        "A": "Limit",
+        "C": "Derivative",
+        "D": "Square"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "Find the derivative of f(x) = x^(1/2).",
+      "options": {
+        "A": "1 / (2 * x^(1/2))",
+        "C": "x^(-1/2)",
+        "D": "2 * x^(1/2)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "The limit of (1 + 1/n)^n as n approaches infinity is the mathematical constant:",
+      "options": {
+        "A": "e",
+        "C": "pi",
+        "D": "0"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is not a type of discontinuity?",
+      "options": {
+        "A": "Tangent discontinuity",
+        "C": "Jump discontinuity",
+        "D": "Removable discontinuity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "The derivative of f(x) = 4x^3 - 2x + 5 is:",
+      "options": {
+        "A": "12x^2 - 2",
+        "C": "12x^2 + 5",
+        "D": "4x^2 - 2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "The value of f'(x) at a local maximum or minimum is:",
+      "options": {
+        "A": "0",
+        "C": "1",
+        "D": "Infinity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "What is the derivative of f(x) = 2^x?",
+      "options": {
+        "A": "2^x * ln(2)",
+        "C": "x * 2^(x-1)",
+        "D": "2^x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "The limit of x^2 as x approaches -3 is:",
+      "options": {
+        "A": "9",
+        "C": "-9",
+        "D": "6"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "If s(t) is the position function, then s''(t) represents:",
+      "options": {
+        "A": "Acceleration",
+        "C": "Velocity",
+        "D": "Distance"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Find the derivative of f(x) = (2x + 1)^2 using the chain rule.",
+      "options": {
+        "A": "4(2x + 1)",
+        "C": "2(2x + 1)",
+        "D": "8x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "The limit of a sum is equal to the ______ of the limits.",
+      "options": {
+        "A": "Sum",
+        "C": "Product",
+        "D": "Difference"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "Derivative of f(x) = c * g(x) is f'(x) = :",
+      "options": {
+        "A": "c * g'(x)",
+        "C": "g'(x)",
+        "D": "0"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "What is the derivative of the identity function f(x) = x?",
+      "options": {
+        "A": "1",
+        "C": "0",
+        "D": "x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "Differential calculus is primarily concerned with the study of:",
+      "options": {
+        "A": "Rates of change",
+        "C": "Accumulated areas",
+        "D": "Static shapes"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

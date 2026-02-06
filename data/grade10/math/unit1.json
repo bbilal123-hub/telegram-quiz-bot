@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 1: Relations and Functions",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "A set of ordered pairs (x, y) where no two different pairs have the same first element is called a:",
+      "options": {
+        "A": "Function",
+        "B": "Relation only",
+        "C": "Constant",
+        "D": "Variable"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "The set of all first elements in a relation is known as the:",
+      "options": {
+        "A": "Codomain",
+        "B": "Range",
+        "C": "Domain",
+        "D": "Element"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the following represents a function?",
+      "options": {
+        "A": "{(1,2), (2,3), (3,4)}",
+        "B": "{(1,2), (1,3), (2,4)}",
+        "C": "{(5,5), (5,6), (6,7)}",
+        "D": "{(0,1), (0,2), (0,3)}"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "In the function f(x) = 2x + 3, what is the value of f(5)?",
+      "options": {
+        "A": "10",
+        "B": "8",
+        "C": "15",
+        "D": "13"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 5,
+      "question": "The vertical line test is used to determine if a graph represents a:",
+      "options": {
+        "A": "Function",
+        "B": "Point",
+        "C": "Square",
+        "D": "Relation only"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "If f(x) = x^2 - 1, find f(-2).",
+      "options": {
+        "A": "-5",
+        "B": "-3",
+        "C": "3",
+        "D": "5"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "A function where every element of the domain is mapped to exactly one unique element in the range is called:",
+      "options": {
+        "A": "One-to-one function",
+        "B": "Many-to-one function",
+        "C": "Constant function",
+        "D": "Onto function"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The range of the constant function f(x) = 7 is:",
+      "options": {
+        "A": "All real numbers",
+        "B": "Zero",
+        "C": "Negative numbers",
+        "D": "{7}"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 9,
+      "question": "What is the domain of the function f(x) = 1 / x?",
+      "options": {
+        "A": "All real numbers except 0",
+        "B": "Only positive numbers",
+        "C": "All real numbers",
+        "D": "Only negative numbers"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "If R = {(a,1), (b,2), (c,3)}, what is the inverse relation R^-1?",
+      "options": {
+        "A": "{(1,a), (2,b), (3,c)}",
+        "B": "{(a,1), (b,2), (c,3)}",
+        "C": "{(1,1), (2,2), (3,3)}",
+        "D": "{(a,a), (b,b), (c,c)}"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "A relation is a subset of the ______ of two sets.",
+      "options": {
+        "A": "Intersection",
+        "B": "Union",
+        "C": "Cartesian Product",
+        "D": "Difference"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "For a linear function f(x) = mx + c, the letter 'm' represents the:",
+      "options": {
+        "A": "Slope",
+        "B": "Y-intercept",
+        "C": "X-intercept",
+        "D": "Domain"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "What is the slope of the line passing through points (1, 2) and (3, 6)?",
+      "options": {
+        "A": "4",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "If f(x) = 3x and g(x) = x + 2, what is (f + g)(x)?",
+      "options": {
+        "A": "4x + 2",
+        "B": "3x^2 + 6x",
+        "C": "3x + 2",
+        "D": "2x - 2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "The identity function is defined as f(x) = :",
+      "options": {
+        "A": "1",
+        "C": "x",
+        "D": "x^2",
+        "B": "0"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "The set of all second elements in a relation is called the:",
+      "options": {
+        "A": "Range",
+        "B": "Domain",
+        "C": "Origin",
+        "D": "Function"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "If a relation is defined by y = x + 5, and the domain is {0, 1, 2}, what is the range?",
+      "options": {
+        "A": "{5, 6, 7}",
+        "B": "{0, 1, 2}",
+        "C": "{1, 2, 3}",
+        "D": "{10, 11, 12}"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "A function f is onto if its range is equal to its:",
+      "options": {
+        "A": "Domain",
+        "B": "Inverse",
+        "C": "Codomain",
+        "D": "Slope"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 19,
+      "question": "The intersection of the x-axis and y-axis is called the:",
+      "options": {
+        "A": "Vertex",
+        "B": "Center",
+        "C": "Origin",
+        "D": "Intercept"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following is a quadratic function?",
+      "options": {
+        "A": "f(x) = x^2 + 2x + 1",
+        "B": "f(x) = 3x - 5",
+        "C": "f(x) = 5",
+        "D": "f(x) = 1/x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Find the y-intercept of f(x) = 4x - 9.",
+      "options": {
+        "A": "4",
+        "B": "0",
+        "C": "-9",
+        "D": "9"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "If f(x) = 10, what is f(100)?",
+      "options": {
+        "A": "10",
+        "B": "100",
+        "C": "0",
+        "D": "1000"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "Two lines are parallel if they have the same:",
+      "options": {
+        "A": "Slope",
+        "B": "Intercept",
+        "C": "Domain",
+        "D": "Length"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "The inverse of a function f(x) is denoted by:",
+      "options": {
+        "A": "f'(x)",
+        "B": "-f(x)",
+        "C": "f^-1(x)",
+        "D": "1/f(x)"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "What is the degree of the polynomial function f(x) = x^3 - 4x + 2?",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "A relation where (x,y) implies (y,x) for all elements is called:",
+      "options": {
+        "A": "Symmetric",
+        "B": "Reflexive",
+        "C": "Transitive",
+        "D": "Identity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "The domain of f(x) = sq-root(x) is:",
+      "options": {
+        "A": "All negative numbers",
+        "B": "All real numbers",
+        "C": "x greater than or equal to 0",
+        "D": "x less than 0"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "What is the slope of a horizontal line?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "Infinity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "If f(x) = x + 3, find the inverse function f^-1(x).",
+      "options": {
+        "A": "x - 3",
+        "B": "3 - x",
+        "C": "x / 3",
+        "D": "3x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "Which quadrant has only negative x and y coordinates?",
+      "options": {
+        "A": "Quadrant I",
+        "B": "Quadrant II",
+        "C": "Quadrant III",
+        "D": "Quadrant IV"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "If f(x) = 2x and g(x) = 3x, what is (f * g)(x)?",
+      "options": {
+        "A": "6x^2",
+        "B": "5x",
+        "C": "x",
+        "D": "6x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "A function f(x) = |x| is known as the:",
+      "options": {
+        "A": "Absolute value function",
+        "B": "Step function",
+        "C": "Signum function",
+        "D": "Power function"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "The point where a graph crosses the x-axis is called the:",
+      "options": {
+        "A": "X-intercept",
+        "B": "Y-intercept",
+        "C": "Origin",
+        "D": "Vertex"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "If (2, k) belongs to the relation y = 3x - 1, find k.",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "The set of points (x, y) such that y = x represents a line that:",
+      "options": {
+        "A": "Is horizontal",
+        "B": "Is vertical",
+        "C": "Passes through the origin",
+        "D": "Is parallel to the y-axis"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 36,
+      "question": "What is the range of f(x) = x^2?",
+      "options": {
+        "A": "y greater than or equal to 0",
+        "B": "All real numbers",
+        "C": "y less than 0",
+        "D": "Only integers"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "If f(x) = 2x + 1, what is the slope of its inverse?",
+      "options": {
+        "A": "1/2",
+        "B": "2",
+        "C": "-2",
+        "D": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Which of these is NOT a function?",
+      "options": {
+        "A": "x = y^2",
+        "B": "y = x^2",
+        "C": "y = 2x + 1",
+        "D": "y = 5"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "The composition of functions f and g is written as:",
+      "options": {
+        "A": "(f o g)(x)",
+        "B": "f + g",
+        "C": "f / g",
+        "D": "f - g"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "If f(x) = x^2 and g(x) = x + 1, find (f o g)(1).",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "1",
+        "D": "3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "The graph of a linear function is always a:",
+      "options": {
+        "A": "Straight line",
+        "B": "Parabola",
+        "C": "Circle",
+        "D": "Point"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Which function is symmetric with respect to the y-axis?",
+      "options": {
+        "A": "f(x) = x^2",
+        "B": "f(x) = x^3",
+        "C": "f(x) = x",
+        "D": "f(x) = x + 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "In a relation, if every element in set A is related to itself, the relation is:",
+      "options": {
+        "A": "Reflexive",
+        "B": "Transitive",
+        "C": "Symmetric",
+        "D": "Empty"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "The domain of a polynomial function is always:",
+      "options": {
+        "A": "All real numbers",
+        "B": "Positive numbers only",
+        "C": "Integers only",
+        "D": "Rational numbers only"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "What is the slope of the line y = 5?",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "Undefined",
+        "D": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "If f(x) = x^2 - 4, what are the x-intercepts?",
+      "options": {
+        "A": "{2, -2}",
+        "B": "{4, -4}",
+        "C": "{0, 4}",
+        "D": "{2, 0}"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "The inverse of a one-to-one function is also a:",
+      "options": {
+        "A": "Function",
+        "B": "Relation only",
+        "C": "Constant",
+        "D": "Vertical line"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "What is the value of 5! (5 factorial)?",
+      "options": {
+        "A": "120",
+        "B": "25",
+        "C": "60",
+        "D": "100"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "A function that is both one-to-one and onto is called a:",
+      "options": {
+        "A": "Bijective function",
+        "B": "Injective function",
+        "C": "Surjective function",
+        "D": "Linear function"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "If f(x) = 3x - 6, what is the x-intercept?",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "-6",
+        "D": "3"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

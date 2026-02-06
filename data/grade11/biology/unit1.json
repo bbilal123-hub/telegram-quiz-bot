@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Biology",
+  "unit": "Unit 1: The Science of Biology",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which branch of biology focuses on the study of the structure of organisms?",
+      "options": {
+        "A": "Morphology",
+        "B": "Physiology",
+        "C": "Ecology",
+        "D": "Genetics"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The study of the relationship between organisms and their environment is:",
+      "options": {
+        "A": "Evolution",
+        "B": "Botany",
+        "C": "Ecology",
+        "D": "Zoology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "The basic unit of life is the:",
+      "options": {
+        "A": "Tissue",
+        "B": "Cell",
+        "C": "Organ",
+        "D": "Atom"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which step of the scientific method follows the observation and question phase?",
+      "options": {
+        "A": "Drawing a conclusion",
+        "B": "Analyzing data",
+        "C": "Formulating a hypothesis",
+        "D": "Reporting results"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "A group of similar cells working together to perform a specific function is a:",
+      "options": {
+        "A": "Tissue",
+        "B": "Population",
+        "C": "Community",
+        "D": "System"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 6,
+      "question": "The maintenance of a stable internal environment in a living organism is called:",
+      "options": {
+        "A": "Metabolism",
+        "B": "Growth",
+        "C": "Homeostasis",
+        "D": "Adaptation"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which tool is used to magnify images by using a beam of electrons?",
+      "options": {
+        "A": "Optical microscope",
+        "B": "Electron microscope",
+        "C": "Binoculars",
+        "D": "Stethoscope"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The field of biology that deals with identifying and naming species is:",
+      "options": {
+        "A": "Taxonomy",
+        "B": "Paleontology",
+        "C": "Biotechnology",
+        "D": "Anatomy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "Sum of all the chemical reactions in an organism is called:",
+      "options": {
+        "A": "Digestion",
+        "B": "Respiration",
+        "C": "Metabolism",
+        "D": "Excretion"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which of these is a characteristic of all living things?",
+      "options": {
+        "A": "Movement from place to place",
+        "B": "Breathing with lungs",
+        "C": "Responsiveness to stimuli",
+        "D": "Eating solid food"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "A proposed explanation for an observation that can be tested is a:",
+      "options": {
+        "A": "Theory",
+        "B": "Fact",
+        "C": "Conclusion",
+        "D": "Hypothesis"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 12,
+      "question": "In an experiment, the factor that is being measured or observed is the:",
+      "options": {
+        "A": "Independent variable",
+        "B": "Dependent variable",
+        "C": "Control group",
+        "D": "Experimental group"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The total magnification of a microscope with a 10x eyepiece and 40x objective is:",
+      "options": {
+        "A": "50x",
+        "B": "4x",
+        "C": "400x",
+        "D": "100x"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "The process by which an organism increases in size is:",
+      "options": {
+        "A": "Growth",
+        "B": "Evolution",
+        "C": "Reproduction",
+        "D": "Metabolism"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "The study of heredity and how traits are passed from parents to offspring is:",
+      "options": {
+        "A": "Botany",
+        "B": "Physiology",
+        "C": "Genetics",
+        "D": "Cytology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "A microscope that allows you to see the three-dimensional surface of a specimen is a:",
+      "options": {
+        "A": "Compound microscope",
+        "B": "Scanning electron microscope",
+        "C": "Transmission electron microscope",
+        "D": "Simple microscope"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is the most inclusive level of biological organization?",
+      "options": {
+        "A": "Ecosystem",
+        "B": "Population",
+        "C": "Community",
+        "D": "Biosphere"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 18,
+      "question": "The scientist who is credited with the discovery of cells is:",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Robert Hooke",
+        "C": "Louis Pasteur",
+        "D": "Gregor Mendel"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Qualitative data is data that is:",
+      "options": {
+        "A": "Numerical",
+        "B": "Statistical",
+        "C": "Descriptive",
+        "D": "Measured with a ruler"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "The part of the microscope used to adjust the amount of light reaching the specimen is the:",
+      "options": {
+        "A": "Objective lens",
+        "B": "Eyepiece",
+        "C": "Diaphragm",
+        "D": "Stage"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 21,
+      "question": "What is the primary purpose of a control group in an experiment?",
+      "options": {
+        "A": "To provide a basis for comparison",
+        "B": "To ensure the experiment is dangerous",
+        "C": "To test multiple variables at once",
+        "D": "To prove the hypothesis correct"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "The study of organisms that are too small to be seen with the naked eye is:",
+      "options": {
+        "A": "Zoology",
+        "B": "Botany",
+        "C": "Microbiology",
+        "D": "Paleontology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "A group of different populations living and interacting in the same area is a:",
+      "options": {
+        "A": "Biosphere",
+        "B": "Species",
+        "C": "Community",
+        "D": "Organism"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "Which macromolecule contains the genetic code for an organism?",
+      "options": {
+        "A": "Protein",
+        "B": "Lipid",
+        "C": "DNA",
+        "D": "Starch"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "The ethical application of biological knowledge is known as:",
+      "options": {
+        "A": "Biotechnology",
+        "B": "Bioethics",
+        "C": "Biometry",
+        "D": "Biochemistry"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Which instrument is used to separate components of a mixture based on their density?",
+      "options": {
+        "A": "Microscope",
+        "B": "Spectrophotometer",
+        "C": "Centrifuge",
+        "D": "Electrophoresis"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "What happens when an organism adapts to its environment?",
+      "options": {
+        "A": "It changes its genes instantly",
+        "B": "It develops traits that help it survive over generations",
+        "C": "It stops growing",
+        "D": "It stops needing energy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The study of how biological processes work within an organism is:",
+      "options": {
+        "A": "Anatomy",
+        "B": "Physiology",
+        "C": "Histology",
+        "D": "Taxonomy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Which of these levels of organization comes directly after 'Organ'?",
+      "options": {
+        "A": "Organ System",
+        "B": "Cell",
+        "C": "Organism",
+        "D": "Tissue"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "The ability of a microscope to show detail clearly is called:",
+      "options": {
+        "A": "Magnification",
+        "B": "Focus",
+        "C": "Resolution",
+        "D": "Illumination"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 31,
+      "question": "Who is considered the 'Father of Taxonomy'?",
+      "options": {
+        "A": "Aristotle",
+        "B": "Carl Linnaeus",
+        "C": "Gregor Mendel",
+        "D": "Alfred Wallace"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The study of fossils is known as:",
+      "options": {
+        "A": "Histology",
+        "B": "Embryology",
+        "C": "Paleontology",
+        "D": "Zoology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "Science is based on evidence that is:",
+      "options": {
+        "A": "Theoretical",
+        "B": "Empirical",
+        "C": "Imaginary",
+        "D": "Opinionated"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "An organism that can make its own food is called a:",
+      "options": {
+        "A": "Heterotroph",
+        "B": "Decomposer",
+        "C": "Autotroph",
+        "D": "Consumer"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "The knob on a microscope used for rough focusing is the:",
+      "options": {
+        "A": "Fine adjustment knob",
+        "B": "Condenser knob",
+        "C": "Coarse adjustment knob",
+        "D": "Diaphragm knob"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "A scientific theory is:",
+      "options": {
+        "A": "A guess",
+        "B": "An untested idea",
+        "C": "A well-substantiated explanation",
+        "D": "A law that cannot change"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 37,
+      "question": "Which branch of biology focuses on the study of fungi?",
+      "options": {
+        "A": "Bacteriology",
+        "B": "Virology",
+        "C": "Mycology",
+        "D": "Entomology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "Living things are organized into how many main kingdoms?",
+      "options": {
+        "A": "Three",
+        "B": "Six",
+        "C": "Two",
+        "D": "Eight"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The use of statistics in the study of biology is:",
+      "options": {
+        "A": "Biochemistry",
+        "B": "Biophysics",
+        "C": "Biometry",
+        "D": "Biogeography"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 40,
+      "question": "A Transmission Electron Microscope (TEM) is best for observing:",
+      "options": {
+        "A": "Living moving cells",
+        "B": "Surface details of a leaf",
+        "C": "Internal cell structures",
+        "D": "Large whole organisms"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 41,
+      "question": "Which of these is the correct order of the scientific method?",
+      "options": {
+        "A": "Hypothesis -> Question -> Experiment",
+        "B": "Experiment -> Conclusion -> Observation",
+        "C": "Observation -> Hypothesis -> Experiment",
+        "D": "Conclusion -> Hypothesis -> Observation"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 42,
+      "question": "The study of the development of an organism from a fertilized egg is:",
+      "options": {
+        "A": "Genetics",
+        "B": "Evolution",
+        "C": "Embryology",
+        "D": "Anatomy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 43,
+      "question": "A group of organisms that can interbreed and produce fertile offspring is a:",
+      "options": {
+        "A": "Population",
+        "B": "Species",
+        "C": "Genus",
+        "D": "Family"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "The field that applies biology to create useful products and technology is:",
+      "options": {
+        "A": "Ecology",
+        "B": "Biotechnology",
+        "C": "Anatomy",
+        "D": "Taxonomy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The 'if...then' statement in science is usually associated with:",
+      "options": {
+        "A": "The conclusion",
+        "B": "The observation",
+        "C": "The prediction",
+        "D": "The data analysis"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "The study of tissues is called:",
+      "options": {
+        "A": "Cytology",
+        "B": "Histology",
+        "C": "Botany",
+        "D": "Zoology"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which of these is the smallest unit of biological organization?",
+      "options": {
+        "A": "Tissue",
+        "B": "Cell",
+        "C": "Molecule",
+        "D": "Organism"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 48,
+      "question": "Science seeks to find ______ for natural phenomena.",
+      "options": {
+        "A": "Supernatural reasons",
+        "B": "Magical origins",
+        "C": "Natural explanations",
+        "D": "Fixed opinions"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 49,
+      "question": "Reproduction that involves two parents is called:",
+      "options": {
+        "A": "Asexual",
+        "B": "Sexual",
+        "C": "Binary fission",
+        "D": "Budding"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The study of birds is known as:",
+      "options": {
+        "A": "Entomology",
+        "B": "Ichthyology",
+        "C": "Ornithology",
+        "D": "Herpetology"
+      },
+      "correct_option": "C"
+    }
+  ]
+}
+]

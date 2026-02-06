@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Economics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "National Income Accounting is a system used to measure:",
+      "options": {
+        "A": "The total wealth of all individuals",
+        "B": "The total volume of exports only",
+        "C": "The aggregate economic activity of a nation",
+        "D": "The amount of money printed by the central bank"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "Gross Domestic Product (GDP) measures the total market value of all final goods and services produced:",
+      "options": {
+        "A": "By citizens of a country, regardless of where they live",
+        "B": "Within the domestic borders of a country in a given period",
+        "C": "Only by government-owned enterprises",
+        "D": "For the purpose of export"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "The difference between GDP and GNP is:",
+      "options": {
+        "A": "Depreciation",
+        "B": "Indirect business taxes",
+        "C": "Net Factor Income from Abroad (NFIA)",
+        "D": "Subsidies"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a method of calculating National Income?",
+      "options": {
+        "A": "The Product (Value Added) Method",
+        "B": "The Expenditure Method",
+        "C": "The Income Method",
+        "D": "The Consumption Substitution Method"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 5,
+      "question": "In the expenditure approach, GDP is calculated as $C + I + G + (X - M)$. What does 'G' represent?",
+      "options": {
+        "A": "Gross Investment",
+        "B": "Government Spending",
+        "C": "General Exports",
+        "D": "Growth Rate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Final goods are those that are:",
+      "options": {
+        "A": "Used as raw materials for other products",
+        "B": "Sold to the ultimate user and not for resale",
+        "C": "Produced in the last month of the year",
+        "D": "Exported to other countries"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The problem of 'Double Counting' in GDP is avoided by:",
+      "options": {
+        "A": "Counting only intermediate goods",
+        "B": "Counting only the value added at each stage of production",
+        "C": "Excluding services from the calculation",
+        "D": "Using only the income method"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "Net Domestic Product (NDP) is calculated by subtracting ________ from GDP:",
+      "options": {
+        "A": "Taxes",
+        "B": "Subsidies",
+        "C": "Depreciation (Capital Consumption Allowance)",
+        "D": "Imports"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "Transfer payments, such as pensions and unemployment benefits, are:",
+      "options": {
+        "A": "Included in GDP because they represent income",
+        "B": "Excluded from GDP because they do not reflect current production",
+        "C": "Included in the expenditure method",
+        "D": "Only counted if they come from abroad"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "Real GDP is adjusted for:",
+      "options": {
+        "A": "Changes in the population",
+        "B": "Changes in the price level (inflation)",
+        "C": "Changes in the quality of goods",
+        "D": "Changes in tax rates"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "If Nominal GDP is higher than Real GDP, it implies that:",
+      "options": {
+        "A": "The economy is in a recession",
+        "B": "Prices have increased since the base year",
+        "C": "Production has decreased",
+        "D": "The currency has gained value"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The GDP Deflator is used to measure:",
+      "options": {
+        "A": "Economic growth",
+        "B": "The overall price change in the economy",
+        "C": "The unemployment rate",
+        "D": "The trade deficit"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Personal Income (PI) refers to:",
+      "options": {
+        "A": "The total income received by households before taxes",
+        "B": "The total income after paying all taxes",
+        "C": "Income earned only from wages",
+        "D": "The profit made by corporations"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "Disposable Personal Income (DPI) is equal to:",
+      "options": {
+        "A": "Personal Income + Savings",
+        "B": "Personal Income - Personal Taxes",
+        "C": "National Income + Depreciation",
+        "D": "GDP - Imports"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is an example of an intermediate good?",
+      "options": {
+        "A": "A loaf of bread bought by a consumer",
+        "B": "Flour bought by a bakery to make bread",
+        "C": "A new car bought by a family",
+        "D": "A laptop bought by a student"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "The income approach to GDP adds up which of the following?",
+      "options": {
+        "A": "Consumption, Investment, and Exports",
+        "B": "Wages, Rent, Interest, and Profit",
+        "C": "Final goods and Intermediate goods",
+        "D": "Domestic and Foreign production"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "Per Capita GDP is calculated by dividing GDP by:",
+      "options": {
+        "A": "The total number of factories",
+        "B": "The total number of employed people",
+        "C": "The total population",
+        "D": "The total number of households"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "Economic growth is typically measured by the annual percentage change in:",
+      "options": {
+        "A": "Nominal GDP",
+        "B": "Real GDP",
+        "C": "The price of gold",
+        "D": "The stock market index"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "If a country's exports exceed its imports, it has a:",
+      "options": {
+        "A": "Trade deficit",
+        "B": "Trade surplus",
+        "C": "Balanced budget",
+        "D": "Negative GDP"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "Value Added is defined as:",
+      "options": {
+        "A": "The price of the final product",
+        "B": "The value of output minus the cost of intermediate inputs",
+        "C": "The profit made by a firm",
+        "D": "The tax paid on a product"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Non-market activities, such as housework performed by family members, are:",
+      "options": {
+        "A": "Included in GDP",
+        "B": "Excluded from GDP because they lack market prices",
+        "C": "Estimated and added to GDP",
+        "D": "Only included in the income method"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "The 'Underground Economy' or black market activity is:",
+      "options": {
+        "A": "Fully recorded in GDP",
+        "B": "A reason why GDP may understate true production",
+        "C": "Included in the expenditure approach",
+        "D": "Managed by the government"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "GDP does not account for the 'Quality of Life' because it ignores:",
+      "options": {
+        "A": "Total output",
+        "B": "Leisure time and environmental health",
+        "C": "Market transactions",
+        "D": "Government spending"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Net Factor Income from Abroad (NFIA) is positive if:",
+      "options": {
+        "A": "Imports are greater than exports",
+        "B": "Income earned by citizens abroad is greater than income earned by foreigners domestically",
+        "C": "The government runs a surplus",
+        "D": "Inflation is low"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The base year in Real GDP calculation is the year:",
+      "options": {
+        "A": "With the highest production",
+        "B": "Whose prices are used as a reference point",
+        "C": "With the lowest inflation",
+        "D": "Current year"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "In the circular flow model, payments for factors of production flow from:",
+      "options": {
+        "A": "Households to firms",
+        "B": "Firms to households",
+        "C": "Government to firms",
+        "D": "Firms to the rest of the world"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Indirect taxes include which of the following?",
+      "options": {
+        "A": "Income tax",
+        "B": "Sales tax and excise duty",
+        "C": "Corporate profit tax",
+        "D": "Inheritance tax"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Investment (I) in GDP accounting includes:",
+      "options": {
+        "A": "Buying shares on the stock market",
+        "B": "Purchase of new machinery and construction of buildings",
+        "C": "Buying an old house built 10 years ago",
+        "D": "Saving money in a bank"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Consumption (C) is the largest component of GDP in most market economies and refers to:",
+      "options": {
+        "A": "Government purchase of goods",
+        "B": "Household spending on goods and services",
+        "C": "Business spending on new tools",
+        "D": "Spending on exports"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "What is the formula for GNP?",
+      "options": {
+        "A": "GDP - Depreciation",
+        "B": "GDP + Net Factor Income from Abroad",
+        "C": "GDP - Net Factor Income from Abroad",
+        "D": "GDP + Taxes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "The 'Value Added' at the final stage of production is equal to:",
+      "options": {
+        "A": "The price of the final good",
+        "B": "The total cost of production",
+        "C": "Zero",
+        "D": "The profit margin"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "Corporate profit is a component of which method?",
+      "options": {
+        "A": "Expenditure method",
+        "B": "Income method",
+        "C": "Output method",
+        "D": "Stock method"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "National Income (NI) is formally defined as:",
+      "options": {
+        "A": "GNP at market prices",
+        "B": "Net National Product (NNP) at factor cost",
+        "C": "GDP plus subsidies",
+        "D": "Total savings in the economy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following would NOT increase a nation's GDP?",
+      "options": {
+        "A": "An increase in government road construction",
+        "B": "An increase in people painting their own houses themselves",
+        "C": "An increase in the export of coffee",
+        "D": "An increase in factory production"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "In the circular flow, 'leakages' include:",
+      "options": {
+        "A": "Investment and Exports",
+        "B": "Savings, Taxes, and Imports",
+        "C": "Consumption and Government spending",
+        "D": "Wages and Profits"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Inventory investment refers to:",
+      "options": {
+        "A": "Goods that are sold immediately",
+        "B": "Changes in the stock of finished goods and raw materials",
+        "C": "The purchase of a new warehouse",
+        "D": "Foreign direct investment"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "If a shoe is produced in 2025 but sold in 2026, it is counted in the GDP of:",
+      "options": {
+        "A": "2026",
+        "B": "2025",
+        "C": "Both years",
+        "D": "Neither year"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "The 'Injections' into the circular flow of income are:",
+      "options": {
+        "A": "Savings and Taxes",
+        "B": "Investment, Government spending, and Exports",
+        "C": "Imports and Savings",
+        "D": "Taxes and Consumption"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Nominal GDP is often referred to as:",
+      "options": {
+        "A": "Constant-price GDP",
+        "B": "Current-price GDP",
+        "C": "Adjusted GDP",
+        "D": "Physical GDP"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "A high Per Capita GDP generally indicates:",
+      "options": {
+        "A": "High population growth",
+        "B": "A higher standard of living on average",
+        "C": "Low government spending",
+        "D": "High inflation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The 'Services' sector includes:",
+      "options": {
+        "A": "Farming and Mining",
+        "B": "Banking, Education, and Healthcare",
+        "C": "Manufacturing and Construction",
+        "D": "Oil refining"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Subsidies are:",
+      "options": {
+        "A": "Taxes paid by firms to the government",
+        "B": "Financial aid given by the government to producers",
+        "C": "Interest paid on government loans",
+        "D": "Payments for imported goods"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The 'Output Method' sums the production of which three sectors?",
+      "options": {
+        "A": "Food, Clothes, and Shelter",
+        "B": "Primary, Secondary, and Tertiary",
+        "C": "Public, Private, and Foreign",
+        "D": "Urban, Rural, and Industrial"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "What is 'Net Investment'?",
+      "options": {
+        "A": "Gross Investment + Depreciation",
+        "B": "Gross Investment - Depreciation",
+        "C": "Investment minus Taxes",
+        "D": "Total Savings"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "GDP at Factor Cost is calculated as:",
+      "options": {
+        "A": "GDP at Market Price + Indirect Taxes - Subsidies",
+        "B": "GDP at Market Price - Indirect Taxes + Subsidies",
+        "C": "GDP at Market Price + Depreciation",
+        "D": "GDP at Market Price - Imports"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "A recession is typically defined as two consecutive quarters of:",
+      "options": {
+        "A": "Rising inflation",
+        "B": "Negative Real GDP growth",
+        "C": "Increasing exports",
+        "D": "Falling interest rates"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Net National Product (NNP) is equal to:",
+      "options": {
+        "A": "GNP + Depreciation",
+        "B": "GNP - Depreciation",
+        "C": "GDP - Taxes",
+        "D": "NI + Subsidies"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Personal Income includes transfer payments but excludes:",
+      "options": {
+        "A": "Wages",
+        "B": "Undistributed corporate profits",
+        "C": "Interest income",
+        "D": "Rent"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The Green GDP is a measurement that attempts to account for:",
+      "options": {
+        "A": "The production of vegetables",
+        "B": "Environmental degradation and resource depletion",
+        "C": "The growth of the agricultural sector",
+        "D": "The printing of paper money"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Economic welfare is better represented by 'Real Per Capita GDP' because it accounts for both:",
+      "options": {
+        "A": "Inflation and Population size",
+        "B": "Taxes and Savings",
+        "C": "Exports and Imports",
+        "D": "Investment and Consumption"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Chemistry",
+  "unit": "Unit 1: Atomic Structure and Periodicity",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which quantum number describes the main energy level of an electron?",
+      "options": {
+        "A": "Principal quantum number (n)",
+        "B": "Azimuthal quantum number (l)",
+        "C": "Magnetic quantum number (ml)",
+        "D": "Spin quantum number (ms)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The region in space where there is a maximum probability of finding an electron is called:",
+      "options": {
+        "A": "Orbit",
+        "B": "Orbital",
+        "C": "Nucleus",
+        "D": "Shell"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "According to the Aufbau principle, which subshell is filled after the 4s subshell?",
+      "options": {
+        "A": "4p",
+        "B": "3p",
+        "C": "3d",
+        "D": "4d"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which rule states that electrons occupy degenerate orbitals singly with parallel spins before pairing?",
+      "options": {
+        "A": "Pauli Exclusion Principle",
+        "B": "Aufbau Principle",
+        "C": "Heisenberg Principle",
+        "D": "Hund's Rule"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 5,
+      "question": "The azimuthal quantum number (l) for a 'p' orbital is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following elements has the largest atomic radius?",
+      "options": {
+        "A": "Fluorine",
+        "B": "Chlorine",
+        "C": "Cesium",
+        "D": "Lithium"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "The energy required to remove the most loosely bound electron from an isolated gaseous atom is:",
+      "options": {
+        "A": "Electron affinity",
+        "B": "Electronegativity",
+        "C": "Lattice energy",
+        "D": "Ionization energy"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 8,
+      "question": "Across a period from left to right, electronegativity generally:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Stays the same",
+        "D": "Decreases then increases"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "How many electrons can the 'd' subshell hold at maximum?",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "10",
+        "D": "14"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which scientist discovered the nucleus through the Gold Foil Experiment?",
+      "options": {
+        "A": "J.J. Thomson",
+        "B": "John Dalton",
+        "C": "Ernest Rutherford",
+        "D": "Niels Bohr"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "The shape of an 's' orbital is best described as:",
+      "options": {
+        "A": "Spherical",
+        "B": "Dumbbell",
+        "C": "Cloverleaf",
+        "D": "Double dumbbell"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 12,
+      "question": "Isotopes are atoms of the same element with different numbers of:",
+      "options": {
+        "A": "Protons",
+        "B": "Electrons",
+        "C": "Neutrons",
+        "D": "Positrons"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which quantum number determines the orientation of an orbital in space?",
+      "options": {
+        "A": "ml (Magnetic)",
+        "B": "n (Principal)",
+        "C": "l (Azimuthal)",
+        "D": "ms (Spin)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "The modern periodic table is arranged based on increasing:",
+      "options": {
+        "A": "Atomic mass",
+        "B": "Neutron number",
+        "C": "Mass number",
+        "D": "Atomic number"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 15,
+      "question": "Which element belongs to the Halogen group?",
+      "options": {
+        "A": "Sodium",
+        "B": "Calcium",
+        "C": "Chlorine",
+        "D": "Argon"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "The electron configuration 1s2 2s2 2p6 3s1 belongs to which element?",
+      "options": {
+        "A": "Sodium",
+        "B": "Magnesium",
+        "C": "Lithium",
+        "D": "Potassium"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following has the highest electronegativity?",
+      "options": {
+        "A": "Carbon",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Fluorine"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 18,
+      "question": "The 'f' subshell consists of how many orbitals?",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 19,
+      "question": "Transition metals are found in which block of the periodic table?",
+      "options": {
+        "A": "s-block",
+        "B": "p-block",
+        "C": "d-block",
+        "D": "f-block"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "What is the maximum number of electrons in the second main energy level (n=2)?",
+      "options": {
+        "A": "2",
+        "B": "8",
+        "C": "18",
+        "D": "32"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which principle states it is impossible to know both the position and momentum of an electron simultaneously?",
+      "options": {
+        "A": "Heisenberg Uncertainty Principle",
+        "B": "Pauli Exclusion Principle",
+        "C": "Aufbau Principle",
+        "D": "Dalton's Atomic Theory"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "An element with atomic number 18 is a:",
+      "options": {
+        "A": "Metal",
+        "B": "Metalloid",
+        "C": "Noble gas",
+        "D": "Halogen"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "The energy change when an electron is added to a neutral gaseous atom is:",
+      "options": {
+        "A": "Electron affinity",
+        "B": "Ionization energy",
+        "C": "Bond energy",
+        "D": "Activation energy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which orbital is dumbbell-shaped?",
+      "options": {
+        "A": "s orbital",
+        "B": "p orbital",
+        "C": "d orbital",
+        "D": "f orbital"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "Effective nuclear charge increases across a period because of:",
+      "options": {
+        "A": "Increasing number of inner shells",
+        "B": "Decreasing number of protons",
+        "C": "Increasing number of protons without increasing shielding",
+        "D": "Increasing atomic mass"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "The azimuthal quantum number (l) for an 's' orbital is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "The 4th period of the periodic table contains how many elements?",
+      "options": {
+        "A": "8",
+        "B": "18",
+        "C": "32",
+        "D": "2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following atoms is the most metallic in nature?",
+      "options": {
+        "A": "Sodium",
+        "B": "Magnesium",
+        "C": "Aluminum",
+        "D": "Potassium"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 29,
+      "question": "A cation is always ______ than its parent atom.",
+      "options": {
+        "A": "Smaller",
+        "B": "Larger",
+        "C": "The same size",
+        "D": "Heavier"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "In the hydrogen spectrum, the Balmer series corresponds to transitions to n = :",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which subatomic particle has the smallest mass?",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Alpha particle"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "Elements in Group 1 are known as:",
+      "options": {
+        "A": "Alkali metals",
+        "B": "Alkaline earth metals",
+        "C": "Noble gases",
+        "D": "Chalcogens"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "The maximum number of electrons in a single orbital is:",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which element has the electron configuration [Ar] 4s2 3d10 4p5?",
+      "options": {
+        "A": "Iodine",
+        "B": "Chlorine",
+        "C": "Bromine",
+        "D": "Fluorine"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "The 'd' subshell starts appearing in which principal energy level?",
+      "options": {
+        "A": "n=1",
+        "B": "n=2",
+        "C": "n=3",
+        "D": "n=4"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "Which scientist proposed that electrons move in fixed circular orbits around the nucleus?",
+      "options": {
+        "A": "Niels Bohr",
+        "B": "Ernest Rutherford",
+        "C": "Erwin Schrodinger",
+        "D": "John Dalton"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "Down a group, the atomic radius increases because:",
+      "options": {
+        "A": "Nuclear charge decreases",
+        "B": "Number of protons decreases",
+        "C": "Number of energy shells increases",
+        "D": "Electronegativity increases"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is a d-block element?",
+      "options": {
+        "A": "Calcium",
+        "B": "Iron",
+        "C": "Sulfur",
+        "D": "Neon"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The dual nature of matter (wave-particle duality) was proposed by:",
+      "options": {
+        "A": "Albert Einstein",
+        "B": "Louis de Broglie",
+        "C": "Max Planck",
+        "D": "Werner Heisenberg"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Which of these orbitals has the highest energy?",
+      "options": {
+        "A": "3s",
+        "B": "3p",
+        "C": "3d",
+        "D": "4s"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 41,
+      "question": "An orbital with n=3 and l=0 is a:",
+      "options": {
+        "A": "3s orbital",
+        "B": "3p orbital",
+        "C": "3d orbital",
+        "D": "4s orbital"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "The mass number of an atom is the sum of:",
+      "options": {
+        "A": "Protons and Electrons",
+        "B": "Neutrons and Electrons",
+        "C": "Protons and Neutrons",
+        "D": "Atomic number and electrons"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 43,
+      "question": "Metalloids have properties that are:",
+      "options": {
+        "A": "Exactly like metals",
+        "B": "Exactly like non-metals",
+        "C": "Intermediate between metals and non-metals",
+        "D": "Neither metallic nor non-metallic"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 44,
+      "question": "Which block includes the lanthanides and actinides?",
+      "options": {
+        "A": "s-block",
+        "B": "p-block",
+        "C": "d-block",
+        "D": "f-block"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 45,
+      "question": "The magnetic quantum number ml can have values ranging from:",
+      "options": {
+        "A": "0 to n-1",
+        "B": "1 to n",
+        "C": "-l to +l",
+        "D": "-1/2 to +1/2"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is a p-block element?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Sodium",
+        "C": "Copper",
+        "D": "Magnesium"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "The shielding effect is most significant in which trend?",
+      "options": {
+        "A": "Across a period",
+        "B": "Down a group",
+        "C": "For noble gases only",
+        "D": "For s-block only"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "What is the common charge for Group 17 elements when they form ions?",
+      "options": {
+        "A": "+1",
+        "B": "-1",
+        "C": "+2",
+        "D": "-2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The valence shell of Potassium (Z=19) is:",
+      "options": {
+        "A": "n=1",
+        "B": "n=2",
+        "C": "n=3",
+        "D": "n=4"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is not a transition metal?",
+      "options": {
+        "A": "Zinc",
+        "B": "Iron",
+        "C": "Gold",
+        "D": "Calcium"
+      },
+      "correct_option": "D"
+    }
+  ]
+}
+]

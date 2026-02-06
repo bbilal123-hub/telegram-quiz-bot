@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 2: Solution of Equations",
+  "grade": 9,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What is the solution to the equation x + 15 = 20?",
+      "options": {
+        "A": "5",
+        "C": "35",
+        "D": "-5",
+        "B": "10"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "An equation of the form ax + b = 0, where a is not zero, is called a:",
+      "options": {
+        "A": "Linear equation",
+        "C": "Quadratic equation",
+        "D": "Cubic equation",
+        "B": "Identity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "Solve for y: 3y = 21.",
+      "options": {
+        "A": "7",
+        "C": "18",
+        "D": "63",
+        "B": "3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "If you multiply or divide both sides of an inequality by a negative number, the inequality sign must be:",
+      "options": {
+        "A": "Reversed",
+        "C": "Kept the same",
+        "D": "Removed",
+        "B": "Changed to an equal sign"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "Find the solution set for 2x - 4 > 6.",
+      "options": {
+        "A": "x > 5",
+        "C": "x < 5",
+        "D": "x > 1",
+        "B": "x < 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "Two equations that have the same solution set are called:",
+      "options": {
+        "A": "Equivalent equations",
+        "C": "Linear equations",
+        "D": "Inconsistent equations",
+        "B": "Opposite equations"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "Solve the equation: 5x + 2 = 3x + 10.",
+      "options": {
+        "A": "4",
+        "C": "6",
+        "D": "2",
+        "B": "8"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The statement 'a number x increased by 7 is 12' is written algebraically as:",
+      "options": {
+        "A": "x + 7 = 12",
+        "C": "7x = 12",
+        "D": "x - 7 = 12",
+        "B": "x / 7 = 12"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "Which of the following is a solution to the inequality x + 3 <= 5?",
+      "options": {
+        "A": "2",
+        "C": "3",
+        "D": "4",
+        "B": "5"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "To solve x/4 = 8, you should:",
+      "options": {
+        "A": "Multiply both sides by 4",
+        "C": "Divide both sides by 4",
+        "D": "Subtract 4 from both sides",
+        "B": "Add 4 to both sides"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "The solution set of x + 5 = x + 5 is:",
+      "options": {
+        "A": "The set of all real numbers",
+        "C": "Empty set",
+        "D": "Only zero",
+        "B": "Only 5"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "A linear inequality in one variable can be represented on a:",
+      "options": {
+        "A": "Number line",
+        "C": "Circle",
+        "D": "Triangle",
+        "B": "Square"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Solve for w: 2(w - 3) = 10.",
+      "options": {
+        "A": "8",
+        "C": "5",
+        "D": "13",
+        "B": "2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "When graphing x >= 2, the circle at 2 should be:",
+      "options": {
+        "A": "Filled (closed)",
+        "C": "Open",
+        "D": "Removed",
+        "B": "A square"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "The perimeter of a square is 4x. If the perimeter is 20cm, what is x?",
+      "options": {
+        "A": "5cm",
+        "C": "80cm",
+        "D": "10cm",
+        "B": "4cm"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Solve: -x < 4.",
+      "options": {
+        "A": "x > -4",
+        "C": "x < -4",
+        "D": "x < 4",
+        "B": "x = -4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "In the equation 4x - 7 = 9, the first step is to:",
+      "options": {
+        "A": "Add 7 to both sides",
+        "C": "Divide by 4",
+        "D": "Subtract 9",
+        "B": "Multiply by 4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "What is the solution of 0 * x = 5?",
+      "options": {
+        "A": "No solution",
+        "C": "0",
+        "D": "5",
+        "B": "All real numbers"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "An inequality like 2 < x < 5 is called a ______ inequality.",
+      "options": {
+        "A": "Compound",
+        "C": "Single",
+        "D": "Absolute",
+        "B": "Simple"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "If x is an integer, the solution set for 1 < x < 4 is:",
+      "options": {
+        "A": "{2, 3}",
+        "C": "{1, 2, 3, 4}",
+        "D": "{2, 3, 4}",
+        "B": "{1, 4}"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "The value that makes an equation true is called the ______.",
+      "options": {
+        "A": "Root or Solution",
+        "C": "Variable",
+        "D": "Coefficient",
+        "B": "Constant"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Solve for m: m/5 + 1 = 3.",
+      "options": {
+        "A": "10",
+        "C": "2",
+        "D": "15",
+        "B": "5"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "A father is 3 times as old as his son. If the son is x years old, the father's age is:",
+      "options": {
+        "A": "3x",
+        "C": "x + 3",
+        "D": "x/3",
+        "B": "x - 3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "The addition property of equality states if a = b, then a + c = ______.",
+      "options": {
+        "A": "b + c",
+        "C": "b - c",
+        "D": "c",
+        "B": "a"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "Solving an inequality means finding the ______ of all values that make it true.",
+      "options": {
+        "A": "Solution set",
+        "C": "Single number",
+        "D": "Equation",
+        "B": "Ratio"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "Solve for x: 0.5x = 10.",
+      "options": {
+        "A": "20",
+        "C": "5",
+        "D": "15",
+        "B": "2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "Which symbol represents 'less than or equal to'?",
+      "options": {
+        "A": "<=",
+        "C": ">=",
+        "D": "!=",
+        "B": "<"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "Solve the inequality: 3x - 1 >= 8.",
+      "options": {
+        "A": "x >= 3",
+        "C": "x <= 3",
+        "D": "x > 9",
+        "B": "x < 9"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "If 3 is a solution to 2x + k = 10, what is k?",
+      "options": {
+        "A": "4",
+        "C": "6",
+        "D": "1",
+        "B": "16"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "The sum of three consecutive integers can be written as:",
+      "options": {
+        "A": "n + (n + 1) + (n + 2)",
+        "C": "n + n + n",
+        "D": "3n",
+        "B": "n * n * n"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "Which of the following is NOT a linear equation?",
+      "options": {
+        "A": "x^2 + 5 = 0",
+        "C": "x - 1 = 0",
+        "D": "2x + 3 = 7",
+        "B": "4y = 8"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "A student spends 1/2 of their money and has 20 Birr left. How much did they have?",
+      "options": {
+        "A": "40 Birr",
+        "C": "30 Birr",
+        "D": "10 Birr",
+        "B": "60 Birr"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "To isolate x in the equation x + a = b, you should:",
+      "options": {
+        "A": "Subtract a from both sides",
+        "C": "Add a to both sides",
+        "D": "Divide by b",
+        "B": "Multiply by b"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "What is the solution set of 2x + 3 = 2x + 4?",
+      "options": {
+        "A": "Empty set",
+        "C": "All real numbers",
+        "D": "{0}",
+        "B": "{1}"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "Solve: 4(x + 1) = 2(x + 5).",
+      "options": {
+        "A": "3",
+        "C": "1",
+        "D": "6",
+        "B": "2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "The direction of the inequality remains the same when you ______ a number from both sides.",
+      "options": {
+        "A": "Subtract",
+        "C": "Multiply by negative",
+        "D": "Divide by negative",
+        "B": "Invert"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "If x is less than y, we write:",
+      "options": {
+        "A": "x < y",
+        "C": "x > y",
+        "D": "x = y",
+        "B": "x != y"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Which of the following is a solution to 2x + 1 > 7?",
+      "options": {
+        "A": "4",
+        "C": "3",
+        "D": "2",
+        "B": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Solve for p: 0.2p = 4.",
+      "options": {
+        "A": "20",
+        "C": "2",
+        "D": "8",
+        "B": "40"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "An inequality that is always false has a solution set of:",
+      "options": {
+        "A": "Empty set",
+        "C": "All real numbers",
+        "D": "{0}",
+        "B": "{-1}"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "The cost of 5 pens is 50 Birr. The equation for the price of 1 pen (p) is:",
+      "options": {
+        "A": "5p = 50",
+        "C": "p + 5 = 50",
+        "D": "p - 5 = 50",
+        "B": "p/5 = 50"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Solve for x: 7 - x = 12.",
+      "options": {
+        "A": "-5",
+        "C": "5",
+        "D": "19",
+        "B": "-19"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "If x > 10, then 2x must be:",
+      "options": {
+        "A": "Greater than 20",
+        "C": "Less than 20",
+        "D": "Equal to 20",
+        "B": "Exactly 21"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "The first step in solving a word problem is to ______ the variable.",
+      "options": {
+        "A": "Define",
+        "C": "Multiply",
+        "D": "Graph",
+        "B": "Erase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Solve for a: 3a + 4 = 3a + 4.",
+      "options": {
+        "A": "All real numbers",
+        "C": "No solution",
+        "D": "0",
+        "B": "4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "Which of these represents 'at most 10'?",
+      "options": {
+        "A": "x <= 10",
+        "C": "x >= 10",
+        "D": "x < 10",
+        "B": "x > 10"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Solve: x/3 - 2 = 1.",
+      "options": {
+        "A": "9",
+        "C": "3",
+        "D": "1",
+        "B": "6"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "The ratio of two numbers is 2:3. If the smaller is 10, the equation for the larger (x) is:",
+      "options": {
+        "A": "10/x = 2/3",
+        "C": "10x = 2/3",
+        "D": "x - 10 = 2/3",
+        "B": "10 + x = 2/3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "What is the reciprocal of 1/4?",
+      "options": {
+        "A": "4",
+        "C": "-4",
+        "D": "0.4",
+        "B": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "When solving 2x = 0, the value of x is:",
+      "options": {
+        "A": "0",
+        "C": "2",
+        "D": "Undefined",
+        "B": "No solution"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

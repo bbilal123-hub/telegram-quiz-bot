@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Physics",
+  "unit": "Unit 1: Physics and Measurement",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a fundamental SI unit?",
+      "options": {
+        "A": "Newton",
+        "B": "Kelvin",
+        "C": "Joule",
+        "D": "Watt"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The process of comparing an unknown physical quantity with a known standard is called:",
+      "options": {
+        "A": "Measurement",
+        "B": "Calculation",
+        "C": "Estimation",
+        "D": "Observation"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which instrument is most suitable for measuring the internal diameter of a small test tube?",
+      "options": {
+        "A": "Meter rule",
+        "B": "Vernier calipers",
+        "C": "Micrometer screw gauge",
+        "D": "Measuring tape"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "A physical quantity that has both magnitude and direction is known as a:",
+      "options": {
+        "A": "Scalar quantity",
+        "B": "Derived quantity",
+        "C": "Vector quantity",
+        "D": "Dimensionless quantity"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "The closeness of a measurement to the true or accepted value is called:",
+      "options": {
+        "A": "Precision",
+        "B": "Accuracy",
+        "C": "Reliability",
+        "D": "Significant figure"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "What is the SI unit for the amount of substance?",
+      "options": {
+        "A": "Mole",
+        "B": "Kilogram",
+        "C": "Candela",
+        "D": "Ampere"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 7,
+      "question": "How many significant figures are in the value 0.00340?",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "The error that occurs due to faulty calibration of an instrument is:",
+      "options": {
+        "A": "Random error",
+        "B": "Systematic error",
+        "C": "Parallax error",
+        "D": "Human error"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "What is the dimension of velocity?",
+      "options": {
+        "A": "[L T^-1]",
+        "B": "[L T^-2]",
+        "C": "[M L T^-1]",
+        "D": "[L^2 T]"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a vector quantity?",
+      "options": {
+        "A": "Speed",
+        "B": "Distance",
+        "C": "Displacement",
+        "D": "Mass"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "Parallax error is best avoided by:",
+      "options": {
+        "A": "Using a digital meter",
+        "B": "Positioning the eye perpendicular to the scale",
+        "C": "Taking the average of ten readings",
+        "D": "Adjusting the zero error"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The dimension of force is given by:",
+      "options": {
+        "A": "[M L T^-1]",
+        "B": "[M L T^-2]",
+        "C": "[M L^2 T^-2]",
+        "D": "[M T^-2]"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Two vectors are equal if they have:",
+      "options": {
+        "A": "The same magnitude only",
+        "B": "The same direction only",
+        "C": "The same magnitude and direction",
+        "D": "The same starting point"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "What is the least count of a standard metric ruler?",
+      "options": {
+        "A": "0.1 cm",
+        "B": "0.01 cm",
+        "C": "1.0 cm",
+        "D": "0.001 cm"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "The prefix 'Giga' represents which power of ten?",
+      "options": {
+        "A": "10^6",
+        "B": "10^12",
+        "C": "10^9",
+        "D": "10^-9"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "Which of these is used to represent the uncertainty in a measurement?",
+      "options": {
+        "A": "Significant figures",
+        "B": "Percentage error",
+        "C": "Absolute error",
+        "D": "All of the above"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 17,
+      "question": "Dimensional analysis can be used to:",
+      "options": {
+        "A": "Check the correctness of an equation",
+        "B": "Derive new physical laws",
+        "C": "Find the numerical value of constants",
+        "D": "Measure the mass of an object"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "The scalar product (dot product) of two perpendicular vectors is always:",
+      "options": {
+        "A": "One",
+        "B": "Zero",
+        "C": "Maximum",
+        "D": "Equal to the product of their magnitudes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "The vector product (cross product) of two parallel vectors is:",
+      "options": {
+        "A": "Maximum",
+        "B": "A scalar value",
+        "C": "Zero",
+        "D": "Unity"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a derived physical quantity?",
+      "options": {
+        "A": "Length",
+        "B": "Pressure",
+        "C": "Time",
+        "D": "Temperature"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Scientific notation for 45,000 is:",
+      "options": {
+        "A": "4.5 x 10^3",
+        "B": "45 x 10^3",
+        "C": "4.5 x 10^4",
+        "D": "0.45 x 10^5"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "If a measurement is repeated multiple times and the results are very close to each other, the measurement is:",
+      "options": {
+        "A": "Precise",
+        "B": "Accurate",
+        "C": "Absolute",
+        "D": "Theoretical"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "The unit of luminous intensity is:",
+      "options": {
+        "A": "Lumen",
+        "B": "Candela",
+        "C": "Lux",
+        "D": "Watt"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following does NOT have dimensions?",
+      "options": {
+        "A": "Stress",
+        "B": "Strain",
+        "C": "Work",
+        "D": "Power"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "Resultant vector is defined as:",
+      "options": {
+        "A": "The difference between two vectors",
+        "B": "The product of a scalar and a vector",
+        "C": "A single vector that has the same effect as two or more vectors combined",
+        "D": "The direction of a moving object"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "The angle between a vector and its x-component can be found using:",
+      "options": {
+        "A": "The tangent function",
+        "B": "The sine function",
+        "C": "The cosine function",
+        "D": "The square root"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is the dimension of energy?",
+      "options": {
+        "A": "[M L T^-2]",
+        "B": "[M L^2 T^-2]",
+        "C": "[M L^-1 T^-2]",
+        "D": "[M L^2 T^-3]"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Unit of plane angle in SI is:",
+      "options": {
+        "A": "Degree",
+        "B": "Radian",
+        "C": "Steradian",
+        "D": "Minute"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "A micrometer screw gauge is more precise than a vernier caliper because:",
+      "options": {
+        "A": "It is larger",
+        "B": "It has a smaller least count",
+        "C": "It is easier to read",
+        "D": "It uses a digital display"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Random errors can be reduced by:",
+      "options": {
+        "A": "Calibrating the instrument",
+        "B": "Changing the instrument",
+        "C": "Taking the average of many readings",
+        "D": "Eliminating zero error"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 31,
+      "question": "The magnitude of a unit vector is always:",
+      "options": {
+        "A": "Zero",
+        "B": "One",
+        "C": "Infinity",
+        "D": "Negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is NOT a scalar quantity?",
+      "options": {
+        "A": "Work",
+        "B": "Energy",
+        "C": "Momentum",
+        "D": "Electric Charge"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "The resolution of a measuring instrument is:",
+      "options": {
+        "A": "The total range of the scale",
+        "B": "The smallest change in the quantity it can detect",
+        "C": "The error in the measurement",
+        "D": "The accuracy of the device"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "What is the dimension of 'Universal Gravitational Constant' G?",
+      "options": {
+        "A": "[M^-1 L^3 T^-2]",
+        "B": "[M L^3 T^-2]",
+        "C": "[M^-1 L^2 T^-2]",
+        "D": "[M L^2 T^-1]"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "A vector is multiplied by a negative scalar. The new vector will have:",
+      "options": {
+        "A": "The same direction",
+        "B": "The opposite direction",
+        "C": "No direction",
+        "D": "A perpendicular direction"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Percentage error is calculated as:",
+      "options": {
+        "A": "(Relative error x 100) percent",
+        "B": "(Absolute error x 100) percent",
+        "C": "(True value / Measured value) percent",
+        "D": "None of the above"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "The component of a vector along its own direction is:",
+      "options": {
+        "A": "Zero",
+        "B": "Its full magnitude",
+        "C": "Half its magnitude",
+        "D": "None of the above"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which system of units is used globally for scientific work?",
+      "options": {
+        "A": "FPS",
+        "B": "CGS",
+        "C": "MKS",
+        "D": "SI"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 39,
+      "question": "The zero error of an instrument belongs to which category?",
+      "options": {
+        "A": "Random Error",
+        "B": "Systematic Error",
+        "C": "Gross Error",
+        "D": "Relative Error"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "How many meters are in 5 kilometers?",
+      "options": {
+        "A": "500",
+        "B": "5000",
+        "C": "50",
+        "D": "0.005"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Two vectors A and B are added. The maximum magnitude of their resultant is when the angle between them is:",
+      "options": {
+        "A": "0 degrees",
+        "B": "90 degrees",
+        "C": "180 degrees",
+        "D": "45 degrees"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "The minimum magnitude of the resultant of two vectors is obtained when they are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Anti-parallel",
+        "D": "Inclined at 60 degrees"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 43,
+      "question": "Significant figures in 20.00 are:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 44,
+      "question": "Unit of power is:",
+      "options": {
+        "A": "Joule",
+        "B": "Watt",
+        "C": "Pascal",
+        "D": "Newton-meter"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Dimensions of density are:",
+      "options": {
+        "A": "[M L^-3]",
+        "B": "[M L^3]",
+        "C": "[M L^-2]",
+        "D": "[M L^-1]"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Light year is a unit of:",
+      "options": {
+        "A": "Time",
+        "B": "Intensity",
+        "C": "Distance",
+        "D": "Speed"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 47,
+      "question": "A vector that has its starting point at the origin is a:",
+      "options": {
+        "A": "Unit vector",
+        "B": "Position vector",
+        "C": "Null vector",
+        "D": "Displacement vector"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "The product of the magnitude of two vectors and the sine of the angle between them is:",
+      "options": {
+        "A": "Dot product",
+        "B": "Scalar product",
+        "C": "Cross product (magnitude)",
+        "D": "Resultant sum"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 49,
+      "question": "The 'second' is currently defined based on the vibrations of which atom?",
+      "options": {
+        "A": "Carbon-12",
+        "B": "Cesium-133",
+        "C": "Hydrogen-1",
+        "D": "Krypton-86"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is dimensionless?",
+      "options": {
+        "A": "Relative density",
+        "B": "Acceleration",
+        "C": "Torque",
+        "D": "Specific heat"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 1: Physical Quantities and Measurement",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of the following is a fundamental physical quantity in the SI system?",
+      "options": {
+        "A": "Mass",
+        "B": "Velocity",
+        "C": "Force",
+        "D": "Area"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "The SI unit of thermodynamic temperature is the:",
+      "options": {
+        "A": "Celsius",
+        "B": "Fahrenheit",
+        "C": "Kelvin",
+        "D": "Joule"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of these instruments is most suitable for measuring the internal diameter of a small pipe?",
+      "options": {
+        "A": "Meter rule",
+        "B": "Measuring tape",
+        "C": "Screw gauge",
+        "D": "Vernier calipers"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "The prefix 'Mega' represents a factor of:",
+      "options": {
+        "A": "10^6",
+        "B": "10^3",
+        "C": "10^-6",
+        "D": "10^9"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "Which of the following is a vector quantity?",
+      "options": {
+        "A": "Speed",
+        "B": "Time",
+        "C": "Displacement",
+        "D": "Density"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "The closeness of a measurement to the true or accepted value is called:",
+      "options": {
+        "A": "Precision",
+        "B": "Significant figures",
+        "C": "Accuracy",
+        "D": "Error"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 7,
+      "question": "How many significant figures are in the measurement 0.00502 kg?",
+      "options": {
+        "A": "Three",
+        "B": "Five",
+        "C": "Six",
+        "D": "Two"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Errors that occur due to the limitations of the measuring instrument are known as:",
+      "options": {
+        "A": "Systematic errors",
+        "B": "Random errors",
+        "C": "Human errors",
+        "D": "Parallax errors"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "Which physical quantity has the dimension [L^3]?",
+      "options": {
+        "A": "Area",
+        "B": "Length",
+        "C": "Volume",
+        "D": "Density"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "The degree of exactness of a measurement is referred to as:",
+      "options": {
+        "A": "Precision",
+        "B": "Magnitude",
+        "C": "Calibration",
+        "D": "Uncertainty"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "What is the SI unit of luminous intensity?",
+      "options": {
+        "A": "Mole",
+        "B": "Watt",
+        "C": "Candela",
+        "D": "Ampere"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "The measurement 5200 meters expressed in scientific notation is:",
+      "options": {
+        "A": "5.2 x 10^3 m",
+        "B": "52 x 10^2 m",
+        "C": "0.52 x 10^4 m",
+        "D": "5.2 x 10^-3 m"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Parallax error can be minimized by:",
+      "options": {
+        "A": "Using a digital meter",
+        "B": "Taking a single reading",
+        "C": "Reading the scale at eye level",
+        "D": "Using a smaller scale"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "Which of the following is a derived quantity?",
+      "options": {
+        "A": "Force",
+        "B": "Length",
+        "C": "Time",
+        "D": "Electric current"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "The dimension of velocity is:",
+      "options": {
+        "A": "[L T^-1]",
+        "B": "[L T]",
+        "C": "[M L T^-2]",
+        "D": "[L^2]"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "A micrometer screw gauge has a pitch of 0.5 mm and 50 divisions on the circular scale. Its least count is:",
+      "options": {
+        "A": "0.01 mm",
+        "B": "0.1 mm",
+        "C": "0.001 mm",
+        "D": "0.5 mm"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Which of the following quantities is dimensionless?",
+      "options": {
+        "A": "Relative density",
+        "B": "Mass",
+        "C": "Density",
+        "D": "Acceleration"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "The SI unit of force is the Newton (N), which is equivalent to:",
+      "options": {
+        "A": "kg m/s^2",
+        "B": "kg m/s",
+        "C": "kg m^2/s^2",
+        "D": "m/s^2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "One kilometer is equal to how many millimeters?",
+      "options": {
+        "A": "10^6 mm",
+        "B": "10^3 mm",
+        "C": "10^5 mm",
+        "D": "10^4 mm"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "The uncertain digit in the measurement 12.4 cm is:",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "1",
+        "D": "All digits"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Which of the following is a scalar quantity?",
+      "options": {
+        "A": "Power",
+        "B": "Acceleration",
+        "C": "Momentum",
+        "D": "Weight"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "The prefix 'nano' corresponds to:",
+      "options": {
+        "A": "10^-9",
+        "B": "10^-6",
+        "C": "10^-3",
+        "D": "10^-12"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "A measurement of 10.0 meters has how many significant figures?",
+      "options": {
+        "A": "Three",
+        "B": "One",
+        "C": "Two",
+        "D": "Zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "Pressure is defined as force per unit area. Its SI unit is the:",
+      "options": {
+        "A": "Pascal",
+        "B": "Watt",
+        "C": "Newton",
+        "D": "Joule"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "What is the dimension of acceleration?",
+      "options": {
+        "A": "[L T^-2]",
+        "B": "[L T^-1]",
+        "C": "[M L T^-2]",
+        "D": "[L^2]"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "The symbol 'mu' (Greek letter) is used for the prefix:",
+      "options": {
+        "A": "Micro",
+        "B": "Milli",
+        "C": "Nano",
+        "D": "Mega"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "Systematic errors can be reduced by:",
+      "options": {
+        "A": "Calibrating the instrument",
+        "B": "Taking more readings",
+        "C": "Improving lighting",
+        "D": "Working faster"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "Which of the following is not a base unit in the SI system?",
+      "options": {
+        "A": "Joule",
+        "B": "Mole",
+        "C": "Second",
+        "D": "Kilogram"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "The volume of a cube with side 2 cm is:",
+      "options": {
+        "A": "8 cm^3",
+        "B": "4 cm^3",
+        "C": "6 cm^3",
+        "D": "2 cm^3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "Density is calculated as mass divided by volume. Its dimension is:",
+      "options": {
+        "A": "[M L^-3]",
+        "B": "[M L^3]",
+        "C": "[M L^-2]",
+        "D": "[L^-3]"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "A stopwatch has a least count of 0.1 seconds. This refers to its:",
+      "options": {
+        "A": "Precision",
+        "B": "Accuracy",
+        "C": "Systematic error",
+        "D": "Calibration"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "The prefix 'centi' means:",
+      "options": {
+        "A": "1/100",
+        "B": "1/10",
+        "C": "1/1000",
+        "D": "100"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Which of the following tools is used to measure the mass of an object?",
+      "options": {
+        "A": "Beam balance",
+        "B": "Spring balance",
+        "C": "Thermometer",
+        "D": "Protractor"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "Zero error is a type of:",
+      "options": {
+        "A": "Systematic error",
+        "B": "Random error",
+        "C": "Personal error",
+        "D": "Logical error"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "If the density of water is 1000 kg/m^3, what is it in g/cm^3?",
+      "options": {
+        "A": "1 g/cm^3",
+        "B": "10 g/cm^3",
+        "C": "0.1 g/cm^3",
+        "D": "100 g/cm^3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "The SI unit for amount of substance is:",
+      "options": {
+        "A": "Mole",
+        "B": "Kilogram",
+        "C": "Candela",
+        "D": "Liter"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "Which instrument uses a thimble and a ratchet?",
+      "options": {
+        "A": "Micrometer screw gauge",
+        "B": "Vernier calipers",
+        "C": "Meter rule",
+        "D": "Spherometer"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Dimensional analysis can be used to:",
+      "options": {
+        "A": "Check the consistency of an equation",
+        "B": "Find the numerical value of a constant",
+        "C": "Measure time accurately",
+        "D": "Calibrate an instrument"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "The SI unit of work and energy is:",
+      "options": {
+        "A": "Joule",
+        "B": "Newton",
+        "C": "Watt",
+        "D": "Pascal"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "What is the result of 2.5 m + 0.12 m using significant figure rules?",
+      "options": {
+        "A": "2.6 m",
+        "B": "2.62 m",
+        "C": "3 m",
+        "D": "2.5 m"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "A vector is a physical quantity that has:",
+      "options": {
+        "A": "Both magnitude and direction",
+        "B": "Only magnitude",
+        "C": "Only direction",
+        "D": "Neither magnitude nor direction"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "One liter is equivalent to:",
+      "options": {
+        "A": "1000 cm^3",
+        "B": "1 m^3",
+        "C": "10 cm^3",
+        "D": "100 cm^3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "The dimension of force is:",
+      "options": {
+        "A": "[M L T^-2]",
+        "B": "[M L T^-1]",
+        "C": "[M L^2 T^-2]",
+        "D": "[L T^-2]"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "The time period of a simple pendulum is measured in:",
+      "options": {
+        "A": "Seconds",
+        "B": "Hertz",
+        "C": "Meters",
+        "D": "Degrees"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "The prefix 'pico' means:",
+      "options": {
+        "A": "10^-12",
+        "B": "10^-15",
+        "C": "10^-9",
+        "D": "10^12"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "Which of these is a dimensionless physical quantity?",
+      "options": {
+        "A": "Strain",
+        "B": "Stress",
+        "C": "Frequency",
+        "D": "Power"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "The smallest division on a meter rule is 1 mm. Its uncertainty is:",
+      "options": {
+        "A": "0.5 mm",
+        "B": "1 mm",
+        "C": "0.1 mm",
+        "D": "0.01 mm"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "1 Newton per square meter (N/m^2) is called a:",
+      "options": {
+        "A": "Pascal",
+        "B": "Coulomb",
+        "C": "Ohm",
+        "D": "Tesla"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "Random errors can be minimized by:",
+      "options": {
+        "A": "Taking the average of multiple readings",
+        "B": "Cleaning the instrument",
+        "C": "Using a bigger scale",
+        "D": "Changing the environment"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "What is the SI unit of electric current?",
+      "options": {
+        "A": "Ampere",
+        "B": "Volt",
+        "C": "Ohm",
+        "D": "Farad"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

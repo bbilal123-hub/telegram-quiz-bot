@@ -1,0 +1,557 @@
+[{
+  "grade": "Grade 9",
+  "subject": "History",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The term 'History' is derived from the Greek word 'Istoria', which means:",
+      "options": {
+        "A": "Past events",
+        "B": "An inquiry or knowledge acquired by investigation",
+        "C": "A collection of myths",
+        "D": "The study of ancient artifacts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Who is often referred to as the 'Father of History'?",
+      "options": {
+        "A": "Thucydides",
+        "B": "Herodotus",
+        "C": "Leopold von Ranke",
+        "D": "Ibn Khaldun"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is considered a primary source of history?",
+      "options": {
+        "A": "A history textbook written in 2020",
+        "B": "An original letter written during the Battle of Adwa",
+        "C": "A movie about the Aksumite Empire",
+        "D": "A biography of Emperor Haile Selassie written last year"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The study of remains of the past through excavation is known as:",
+      "options": {
+        "A": "Paleontology",
+        "B": "Anthropology",
+        "C": "Archaeology",
+        "D": "Ethnography"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a secondary source of history?",
+      "options": {
+        "A": "The Aksumite obelisks",
+        "B": "The Chronicles of Zara Yaqob",
+        "C": "An encyclopedia entry about Ethiopia",
+        "D": "Coins from the reign of King Ezana"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "What is the main difference between history and legend?",
+      "options": {
+        "A": "History is written, legends are oral",
+        "B": "History is based on evidence, legends are based on imagination",
+        "C": "History is about kings, legends are about common people",
+        "D": "There is no difference"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "A person who studies and writes about the past is called a:",
+      "options": {
+        "A": "Geologist",
+        "B": "Historian",
+        "C": "Biologist",
+        "D": "Archeologist"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The period of time before the invention of writing is called:",
+      "options": {
+        "A": "Ancient History",
+        "B": "Prehistory",
+        "C": "Medieval History",
+        "D": "Modern History"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which dating method is commonly used by scientists to determine the age of organic remains?",
+      "options": {
+        "A": "Potassium-argon dating",
+        "B": "Radiocarbon (Carbon-14) dating",
+        "C": "Stratigraphy",
+        "D": "Dendrochronology"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "The famous hominid fossil 'Lucy' (Dinknesh) was discovered in which part of Ethiopia?",
+      "options": {
+        "A": "Omo Valley",
+        "B": "Hadar (Afar Region)",
+        "C": "Konso",
+        "D": "Melka Kunture"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Lucy belongs to which species of hominids?",
+      "options": {
+        "A": "Ardipithecus ramidus",
+        "B": "Australopithecus afarensis",
+        "C": "Homo habilis",
+        "D": "Homo erectus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The scientific name for modern humans is:",
+      "options": {
+        "A": "Homo habilis",
+        "B": "Homo sapiens sapiens",
+        "C": "Homo erectus",
+        "D": "Australopithecus africanus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The 'Out of Africa' theory suggests that:",
+      "options": {
+        "A": "Humans originated in Europe",
+        "B": "Modern humans originated in Africa and migrated to the rest of the world",
+        "C": "Humans originated in Asia and migrated to Africa",
+        "D": "Humans originated on all continents simultaneously"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "The oldest stone tools discovered in Ethiopia, found at Gona, are known as:",
+      "options": {
+        "A": "Acheulean tools",
+        "B": "Oldowan tools",
+        "C": "Sangoan tools",
+        "D": "Microliths"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is an example of an oral tradition source?",
+      "options": {
+        "A": "Folk tales and legends told by elders",
+        "B": "Stone inscriptions",
+        "C": "Manuscripts",
+        "D": "Government documents"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "The fossil 'Ardi' (Ardipithecus ramidus), discovered in the Middle Awash, dates back to approximately:",
+      "options": {
+        "A": "3.2 million years ago",
+        "B": "4.4 million years ago",
+        "C": "1.5 million years ago",
+        "D": "100,000 years ago"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The transition from food gathering to food producing is known as the:",
+      "options": {
+        "A": "Industrial Revolution",
+        "B": "Neolithic Revolution",
+        "C": "Scientific Revolution",
+        "D": "Urban Revolution"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which species was the first to use fire and migrate out of Africa?",
+      "options": {
+        "A": "Homo habilis",
+        "B": "Homo erectus",
+        "C": "Australopithecus afarensis",
+        "D": "Ardipithecus kadabba"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "History is considered a 'science' because it:",
+      "options": {
+        "A": "Uses laboratory experiments",
+        "B": "Follows a systematic method of investigation and evidence",
+        "C": "Studies only the physical world",
+        "D": "Predicts the future with 100% accuracy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The chronological order of human evolution species (oldest to newest) is:",
+      "options": {
+        "A": "Homo sapiens, Homo habilis, Ardipithecus",
+        "B": "Ardipithecus, Australopithecus, Homo erectus, Homo sapiens",
+        "C": "Homo erectus, Ardipithecus, Australopithecus",
+        "D": "Australopithecus, Homo sapiens, Homo habilis"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The Latin word 'Humanitas' refers to:",
+      "options": {
+        "A": "Ancient tools",
+        "B": "Human culture and civilization",
+        "C": "The study of animals",
+        "D": "Religious laws"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "What makes Ethiopia a 'Cradle of Mankind'?",
+      "options": {
+        "A": "Its large population",
+        "B": "The abundance of early hominid fossils and stone tools",
+        "C": "The beauty of its mountains",
+        "D": "Its historical isolation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The study of human beings, their culture, and their development is called:",
+      "options": {
+        "A": "History",
+        "B": "Anthropology",
+        "C": "Biology",
+        "D": "Geography"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which of these hominids was the first to be called 'Handy Man' due to tool-making?",
+      "options": {
+        "A": "Homo erectus",
+        "B": "Homo habilis",
+        "C": "Australopithecus",
+        "D": "Homo sapiens"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "A major limitation of oral tradition is:",
+      "options": {
+        "A": "It is too expensive",
+        "B": "It may be distorted or forgotten over time",
+        "C": "It is only available in writing",
+        "D": "It is only used by modern societies"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The time period 'millennium' refers to:",
+      "options": {
+        "A": "10 years",
+        "B": "100 years",
+        "C": "1,000 years",
+        "D": "10,000 years"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "The stone tool tradition associated with Homo erectus is:",
+      "options": {
+        "A": "Oldowan",
+        "B": "Acheulean",
+        "C": "Mousterian",
+        "D": "Microlithic"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The 'Omo-Kibish' fossils found in southern Ethiopia are significant because they represent:",
+      "options": {
+        "A": "The first tool users",
+        "B": "The earliest known remains of Homo sapiens",
+        "C": "The first evidence of fire",
+        "D": "An extinct species of apes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "In history, AD stands for 'Anno Domini', which means:",
+      "options": {
+        "A": "After Death",
+        "B": "In the Year of the Lord",
+        "C": "Ancient Days",
+        "D": "Always Documented"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "The process by which historians verify the authenticity of a source is called:",
+      "options": {
+        "A": "Historical imagination",
+        "B": "Source criticism",
+        "C": "Storytelling",
+        "D": "Chronicle writing"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is an example of a linguistic source of history?",
+      "options": {
+        "A": "Ancient coins",
+        "B": "Study of language families (e.g., Afro-Asiatic)",
+        "C": "A cave painting",
+        "D": "A broken pottery piece"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The fossil 'Selam', a 3-year-old child of the species A. afarensis, was found in:",
+      "options": {
+        "A": "Dikika",
+        "B": "Axum",
+        "C": "Lalibela",
+        "D": "Gondar"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "Why is the study of history important for a nation?",
+      "options": {
+        "A": "To ignore past mistakes",
+        "B": "To build national identity and learn from the past",
+        "C": "To create conflicts with neighbors",
+        "D": "To memorize random dates"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is NOT a characteristic of primary sources?",
+      "options": {
+        "A": "They are eyewitness accounts",
+        "B": "They are created at the time of the event",
+        "C": "They are summaries written by modern authors",
+        "D": "They can be physical objects"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "Bipedalism refers to:",
+      "options": {
+        "A": "Eating only meat",
+        "B": "Walking on two legs",
+        "C": "Living in caves",
+        "D": "The ability to speak"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The Paleolithic Age is also known as the:",
+      "options": {
+        "A": "New Stone Age",
+        "B": "Old Stone Age",
+        "C": "Iron Age",
+        "D": "Bronze Age"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "The branch of history that focuses on the life of common people rather than rulers is:",
+      "options": {
+        "A": "Political History",
+        "B": "Social History",
+        "C": "Economic History",
+        "D": "Military History"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which dating technique is used for non-organic materials like volcanic ash layers?",
+      "options": {
+        "A": "Radiocarbon dating",
+        "B": "Potassium-argon dating",
+        "C": "Oral tradition",
+        "D": "Ethnography"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "A historian who biasedly favors one side of a story is showing:",
+      "options": {
+        "A": "Objectivity",
+        "B": "Subjectivity (Bias)",
+        "C": "Scientific rigor",
+        "D": "Neutrality"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "The 'Mesolithic' period is the transition between:",
+      "options": {
+        "A": "Ancient and Modern times",
+        "B": "Paleolithic and Neolithic ages",
+        "C": "Iron and Bronze ages",
+        "D": "Prehistory and History"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following describes the 'Hadar' site?",
+      "options": {
+        "A": "A site where Aksumite coins were found",
+        "B": "A site where the fossil 'Lucy' was found",
+        "C": "A site where the first church was built",
+        "D": "A site of ancient rock paintings"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The Ethiopian calendar is a:",
+      "options": {
+        "A": "Lunar calendar",
+        "B": "Solar calendar",
+        "C": "Religious calendar only",
+        "D": "Modern invention"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "A 'Century' consists of how many years?",
+      "options": {
+        "A": "10",
+        "B": "50",
+        "C": "100",
+        "D": "1,000"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 44,
+      "question": "The earliest stone tools were mainly used for:",
+      "options": {
+        "A": "Building houses",
+        "B": "Butchering meat and scraping hides",
+        "C": "Farming",
+        "D": "Writing"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The study of old handwritings and manuscripts is known as:",
+      "options": {
+        "A": "Paleography",
+        "B": "Numismatics",
+        "C": "Epigraphy",
+        "D": "Geology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which hominid species is associated with the first clear evidence of burial of the dead (though primarily in Europe/Asia)?",
+      "options": {
+        "A": "Homo habilis",
+        "B": "Neanderthals",
+        "C": "Australopithecus",
+        "D": "Ardipithecus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The time period 'BCE' stands for:",
+      "options": {
+        "A": "Before the Common Era",
+        "B": "Before Christian Enlightenment",
+        "C": "Basic Central Era",
+        "D": "Beginning of Current Era"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which of these is a physical remains source?",
+      "options": {
+        "A": "A traditional song",
+        "B": "A piece of ancient pottery",
+        "C": "A story about a great grandfather",
+        "D": "A dictionary"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "In the study of human evolution, 'Lucy' lived approximately:",
+      "options": {
+        "A": "2,000 years ago",
+        "B": "10,000 years ago",
+        "C": "3.2 million years ago",
+        "D": "100 million years ago"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 50,
+      "question": "History helps us understand:",
+      "options": {
+        "A": "Only the lives of rich people",
+        "B": "How our present society was shaped by the past",
+        "C": "Only what happened in Europe",
+        "D": "Nothing useful for today"
+      },
+      "correct_option": "B"
+    }
+  ]
+}]

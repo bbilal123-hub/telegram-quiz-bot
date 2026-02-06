@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 1: Sub-fields of Biology",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which sub-field of biology specifically studies the inheritance of traits from parents to offspring?",
+      "options": {
+        "A": "Genetics",
+        "B": "Taxonomy",
+        "C": "Ecology",
+        "D": "Anatomy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "The study of the internal structure of organisms as revealed by dissection is called:",
+      "options": {
+        "A": "Physiology",
+        "B": "Genetics",
+        "C": "Anatomy",
+        "D": "Histology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "A biologist focusing on the interaction between living organisms and their physical environment is working in:",
+      "options": {
+        "A": "Mycology",
+        "B": "Zoology",
+        "C": "Microbiology",
+        "D": "Ecology"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "Which branch of biology deals with the classification and naming of organisms?",
+      "options": {
+        "A": "Taxonomy",
+        "B": "Morphology",
+        "C": "Cytology",
+        "D": "Evolution"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "The study of the functions and activities of living organisms and their parts is known as:",
+      "options": {
+        "A": "Botany",
+        "B": "Anatomy",
+        "C": "Physiology",
+        "D": "Paleontology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "If a scientist is studying mushrooms and molds, their specific field of study is:",
+      "options": {
+        "A": "Bacteriology",
+        "B": "Botany",
+        "C": "Virology",
+        "D": "Mycology"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "Which field uses biological systems or living organisms to develop products like vaccines and biofuels?",
+      "options": {
+        "A": "Biotechnology",
+        "B": "Biochemistry",
+        "C": "Bioinformatics",
+        "D": "Biophysics"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The study of cells, their structure, and functions is called:",
+      "options": {
+        "A": "Histology",
+        "B": "Physiology",
+        "C": "Cytology",
+        "D": "Embryology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "Which sub-field focuses on the study of fishes?",
+      "options": {
+        "A": "Ornithology",
+        "B": "Entomology",
+        "C": "Herpetology",
+        "D": "Ichthyology"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "A scientist studying the chemical processes within and relating to living organisms is a:",
+      "options": {
+        "A": "Biochemist",
+        "B": "Biophysicist",
+        "C": "Biogeographer",
+        "D": "Bioethicist"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "The study of the early development of an organism from a fertilized egg is:",
+      "options": {
+        "A": "Evolution",
+        "B": "Genetics",
+        "C": "Embryology",
+        "D": "Morphology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "Which branch of biology focuses on the study of insects?",
+      "options": {
+        "A": "Entomology",
+        "B": "Ornithology",
+        "C": "Mammalogy",
+        "D": "Herpetology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "A researcher analyzing the physical principles of biological processes like nerve impulses is in the field of:",
+      "options": {
+        "A": "Biochemistry",
+        "B": "Astrobiology",
+        "C": "Bioinformatics",
+        "D": "Biophysics"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "The study of tissues using a microscope is known as:",
+      "options": {
+        "A": "Histology",
+        "B": "Cytology",
+        "C": "Anatomy",
+        "D": "Microbiology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Which of the following studies the distribution of species and ecosystems in geographic space and through geological time?",
+      "options": {
+        "A": "Ecology",
+        "B": "Paleontology",
+        "C": "Biogeography",
+        "D": "Evolution"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "The study of birds is scientifically referred to as:",
+      "options": {
+        "A": "Ornithology",
+        "B": "Ichthyology",
+        "C": "Entomology",
+        "D": "Herpetology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Which sub-field is concerned with the fossils of plants and animals to understand the history of life?",
+      "options": {
+        "A": "Archeology",
+        "B": "Anthropology",
+        "C": "Paleontology",
+        "D": "Phylogeny"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "The study of microscopic organisms, such as bacteria, viruses, and archaea, is called:",
+      "options": {
+        "A": "Microbiology",
+        "B": "Macrobiology",
+        "C": "Zoology",
+        "D": "Botany"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "Which field focuses on the moral principles and values related to biomedical research and its applications?",
+      "options": {
+        "A": "Biostatistics",
+        "B": "Biophysics",
+        "C": "Bioinformatics",
+        "D": "Bioethics"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 20,
+      "question": "A biologist studying the external form and structure of an organism is working in:",
+      "options": {
+        "A": "Morphology",
+        "B": "Physiology",
+        "C": "Biochemistry",
+        "D": "Genetics"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "The branch of biology that explores the origin and changes in the diversity of organisms over time is:",
+      "options": {
+        "A": "Taxonomy",
+        "B": "Ecology",
+        "C": "Evolution",
+        "D": "Paleontology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "Which sub-field focuses on the study of reptiles and amphibians?",
+      "options": {
+        "A": "Herpetology",
+        "B": "Ornithology",
+        "C": "Ichthyology",
+        "D": "Entomology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "The use of computer technology to manage and analyze biological data is called:",
+      "options": {
+        "A": "Biotechnology",
+        "B": "Cybernetics",
+        "C": "Bioinformatics",
+        "D": "Biometry"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "Which sub-field of biology studies viruses and viral diseases?",
+      "options": {
+        "A": "Virology",
+        "B": "Bacteriology",
+        "C": "Parasitology",
+        "D": "Mycology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "The study of the relationship between the structure and function of biological macromolecules is:",
+      "options": {
+        "A": "Molecular Biology",
+        "B": "Cell Biology",
+        "C": "Evolutionary Biology",
+        "D": "Organismal Biology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "The branch of biology that specifically studies mammals is:",
+      "options": {
+        "A": "Zoology",
+        "B": "Entomology",
+        "C": "Mammalogy",
+        "D": "Herpetology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 27,
+      "question": "Which field focuses on how biological processes can be applied in agriculture, like developing drought-resistant crops?",
+      "options": {
+        "A": "Agricultural Biology",
+        "B": "Marine Biology",
+        "C": "Conservation Biology",
+        "D": "Theoretical Biology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "The study of the biological and chemical processes that occur within the oceans is:",
+      "options": {
+        "A": "Limnology",
+        "B": "Astrology",
+        "C": "Marine Biology",
+        "D": "Hydrology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 29,
+      "question": "Which sub-field involves the application of statistics to biological data?",
+      "options": {
+        "A": "Biostatistics",
+        "B": "Biophysics",
+        "C": "Biotechnology",
+        "D": "Bioethics"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "A scientist studying the life and environment on other planets would be in the field of:",
+      "options": {
+        "A": "Exobiology",
+        "B": "Paleontology",
+        "C": "Astrobiology",
+        "D": "Option A and C are correct"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 31,
+      "question": "The study of parasites and their relationship with their hosts is:",
+      "options": {
+        "A": "Parasitology",
+        "B": "Microbiology",
+        "C": "Immunology",
+        "D": "Pathology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Which field focuses on protecting and restoring biodiversity and natural habitats?",
+      "options": {
+        "A": "Ecology",
+        "B": "Phylogeny",
+        "C": "Conservation Biology",
+        "D": "Taxonomy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 33,
+      "question": "The study of the body's defense system against diseases is:",
+      "options": {
+        "A": "Immunology",
+        "B": "Virology",
+        "C": "Hematology",
+        "D": "Epidemiology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "A biologist who studies the nature, causes, and effects of diseases is a:",
+      "options": {
+        "A": "Physiologist",
+        "B": "Geneticist",
+        "C": "Pathologist",
+        "D": "Anatomist"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 35,
+      "question": "The study of the chemical substances and vital processes occurring in living organisms is:",
+      "options": {
+        "A": "Biochemistry",
+        "B": "Inorganic Chemistry",
+        "C": "Analytical Chemistry",
+        "D": "Physical Chemistry"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Which sub-field focuses on the nervous system?",
+      "options": {
+        "A": "Endocrinology",
+        "B": "Cardiology",
+        "C": "Neurobiology",
+        "D": "Dermatology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 37,
+      "question": "The study of plants, including their structure, properties, and biochemical processes, is:",
+      "options": {
+        "A": "Botany",
+        "B": "Zoology",
+        "C": "Mycology",
+        "D": "Ecology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "Which sub-field studies the aging process in living organisms?",
+      "options": {
+        "A": "Gerontology",
+        "B": "Embryology",
+        "C": "Oncology",
+        "D": "Pediatrics"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "The scientific study of animal behavior is called:",
+      "options": {
+        "A": "Psychology",
+        "B": "Sociology",
+        "C": "Ethology",
+        "D": "Anthropology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "Which field focuses on the study of algae?",
+      "options": {
+        "A": "Phycology",
+        "B": "Mycology",
+        "C": "Bryology",
+        "D": "Pteridology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "The study of the relationship between organisms and the flow of energy is often linked to:",
+      "options": {
+        "A": "Bioenergetics",
+        "B": "Thermodynamics",
+        "C": "Biophysics",
+        "D": "All of the above"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 42,
+      "question": "A scientist studying how genes are turned on and off is working in:",
+      "options": {
+        "A": "Epigenetics",
+        "B": "Classical Genetics",
+        "C": "Genomics",
+        "D": "Proteomics"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "Which sub-field is dedicated to the study of the structure and function of the heart and blood vessels?",
+      "options": {
+        "A": "Pulmonology",
+        "B": "Nephrology",
+        "C": "Cardiovascular Biology",
+        "D": "Hematology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 44,
+      "question": "The study of fresh water ecosystems, such as lakes and rivers, is:",
+      "options": {
+        "A": "Limnology",
+        "B": "Oceanography",
+        "C": "Hydrobiology",
+        "D": "Geology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Which branch studies the effects of radiation on living organisms?",
+      "options": {
+        "A": "Radiobiology",
+        "B": "Photobiology",
+        "C": "Toxicology",
+        "D": "Oncology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "The study of the structure and function of the genome is known as:",
+      "options": {
+        "A": "Proteomics",
+        "B": "Metabolomics",
+        "C": "Genomics",
+        "D": "Transcriptomics"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 47,
+      "question": "Which field focuses on the medical application of biological research to improve human health?",
+      "options": {
+        "A": "Biomedical Science",
+        "B": "Forensic Biology",
+        "C": "Industrial Biology",
+        "D": "Environmental Biology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "The study of the evolutionary relationships among groups of organisms is:",
+      "options": {
+        "A": "Phylogeny",
+        "B": "Ontogeny",
+        "C": "Morphology",
+        "D": "Taxonomy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "A biologist who studies tree growth and forest management is specializing in:",
+      "options": {
+        "A": "Horticulture",
+        "B": "Agriculture",
+        "C": "Silviculture",
+        "D": "Floriculture"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 50,
+      "question": "Which branch of biology uses biological knowledge to solve legal problems or crimes?",
+      "options": {
+        "A": "Forensic Biology",
+        "B": "Criminology",
+        "C": "Paleontology",
+        "D": "Social Biology"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

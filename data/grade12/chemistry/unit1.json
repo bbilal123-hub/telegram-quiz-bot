@@ -1,0 +1,310 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Chemistry",
+  "unit": "Unit 1: Acid-Base Equilibria",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the Brønsted-Lowry theory, an acid is a substance that:",
+      "options": {"A": "Accepts an electron pair", "B": "Donates a proton ($H^+$)", "C": "Produces $OH^-$ ions", "D": "Accepts a proton"},
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the conjugate base of $H_2PO_4^-$?",
+      "options": {"A": "H3PO4", "B": "HPO4^{2-}", "C": "PO4^{3-}", "D": "OH^-"},
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "A Lewis acid is defined as a(n):",
+      "options": {"A": "Proton donor", "B": "Proton acceptor", "C": "Electron pair acceptor", "D": "Electron pair donor"},
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "What is the pH of a 0.001 M NaOH solution at 25°C?",
+      "options": {"A": "3", "B": "11", "C": "7", "D": "14"},
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "The ionic product of water ($K_w$) increases when:",
+      "options": {"A": "Pressure increases", "B": "Temperature increases", "C": "Catalyst is added", "D": "pH decreases"},
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a strong acid?",
+      "options": {"A": "HF", "B": "CH3COOH", "C": "HClO4", "D": "H2CO3"},
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "A buffer solution can be prepared by mixing:",
+      "options": {"A": "HCl and NaCl", "B": "CH3COOH and CH3COONa", "C": "NaOH and KOH", "D": "NH3 and NaOH"},
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The point in a titration where the indicator changes color is the:",
+      "options": {"A": "Equivalence point", "B": "End point", "C": "Neutral point", "D": "Half-way point"},
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which salt undergoes cationic hydrolysis?",
+      "options": {"A": "KNO3", "B": "NH4Cl", "C": "CH3COONa", "D": "NaCl"},
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "If $K_a$ for an acid is $1.0 \\times 10^{-5}$, its $pK_a$ is:",
+      "options": {"A": "10", "B": "5", "C": "-5", "D": "1"},
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an amphiprotic species?",
+      "options": {"A": "SO4^{2-}", "B": "HCO3^-", "C": "NH4^+", "D": "Cl^-"},
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "In the reaction $AlCl_3 + Cl^- \\to [AlCl_4]^-$, $AlCl_3$ acts as a:",
+      "options": {"A": "Lewis acid", "B": "Lewis base", "C": "Brønsted acid", "D": "Brønsted base"},
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "The pH of a 0.1 M weak acid with $K_a = 10^{-5}$ is approximately:",
+      "options": {"A": "1", "B": "3", "C": "5", "D": "7"},
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "A solution with pOH = 4 is:",
+      "options": {"A": "Acidic", "B": "Basic", "C": "Neutral", "D": "Amphoteric"},
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which indicator is best for a weak acid-strong base titration?",
+      "options": {"A": "Methyl orange", "B": "Phenolphthalein", "C": "Methyl red", "D": "Bromocresol green"},
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "The percent ionization of a weak acid ______ as its concentration decreases.",
+      "options": {"A": "Increases", "B": "Decreases", "C": "Remains constant", "D": "Becomes zero"},
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "What is the conjugate acid of $NH_3$?",
+      "options": {"A": "NH2^-", "B": "NH4^+", "C": "N2", "D": "H2"},
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a property of a basic solution?",
+      "options": {"A": "Turns blue litmus red", "B": "pH < 7", "C": "Conducts electricity", "D": "Has $[H^+] > [OH^-]$"},
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "The Henderson-Hasselbalch equation relates:",
+      "options": {"A": "pH, pKa, and salt/acid ratio", "B": "pOH, pKb, and pH", "C": "Kw and temperature", "D": "Mass and volume"},
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "The common ion effect ______ the solubility of a sparingly soluble salt.",
+      "options": {"A": "Increases", "B": "Decreases", "C": "Has no effect on", "D": "Doubles"},
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "What is the $OH^-$ concentration in a solution with pH = 9?",
+      "options": {"A": "10^{-9} M", "B": "10^{-5} M", "C": "9 M", "D": "10^{-7} M"},
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is NOT a Lewis base?",
+      "options": {"A": "NH3", "B": "H2O", "C": "BF3", "D": "F^-"},
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "A solution of ammonium acetate ($CH_3COONH_4$) is nearly neutral because:",
+      "options": {"A": "It doesn't hydrolyze", "B": "Ka of acetic acid approx. equals Kb of ammonia", "C": "It is a strong electrolyte", "D": "It is an organic salt"},
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The degree of ionization of water is very low because:",
+      "options": {"A": "Water is a liquid", "B": "Strong hydrogen bonding", "C": "It is a weak electrolyte", "D": "It has high density"},
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following acids is diprotic?",
+      "options": {"A": "HCl", "B": "CH3COOH", "C": "H2SO4", "D": "H3PO4"},
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "In a titration of NaOH with HCl, the equivalence point pH is:",
+      "options": {"A": "5", "B": "7", "C": "9", "D": "1"},
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Buffer capacity is maximum when:",
+      "options": {"A": "pH = 7", "B": "pH = pKa", "C": "Concentration is low", "D": "[Salt] > [Acid]"},
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "What is the pH of 0.1 M $H_2SO_4$ (assuming complete ionization)?",
+      "options": {"A": "1", "B": "0.7", "C": "2", "D": "1.3"},
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Lewis acids are often referred to as:",
+      "options": {"A": "Electrophiles", "B": "Nucleophiles", "C": "Protonators", "D": "Reducers"},
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a neutral salt?",
+      "options": {"A": "Na2CO3", "B": "NH4NO3", "C": "KCl", "D": "NaF"},
+      "correct_option": "C"
+    },
+    {
+      "id": 31,
+      "question": "The pOH of a solution is 9.4. The solution is:",
+      "options": {"A": "Acidic", "B": "Basic", "C": "Neutral", "D": "Strongly basic"},
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "According to Arrhenius, a base is a substance that releases ______ in water.",
+      "options": {"A": "H+", "B": "OH-", "C": "Electrons", "D": "Protons"},
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following species cannot act as a Brønsted-Lowry acid?",
+      "options": {"A": "H2O", "B": "NH4+", "C": "CO3^{2-}", "D": "HCO3^-"},
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "The value of $pK_w$ at 25°C is:",
+      "options": {"A": "7", "B": "14", "C": "10^{-14}", "D": "1"},
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "What is the [H+] of a solution with pH = 3.3? ($10^{0.7} \\approx 5$)",
+      "options": {"A": "5 x 10^{-3} M", "B": "5 x 10^{-4} M", "C": "3.3 M", "D": "10^{-3} M"},
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "For a weak base, the relationship between $K_b$ and $pK_b$ is:",
+      "options": {"A": "Directly proportional", "B": "Inverse logarithmic", "C": "No relationship", "D": "Exponential"},
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "A substance that can act as either an acid or a base is called:",
+      "options": {"A": "Amorphous", "B": "Amphoteric", "C": "Ambiguous", "D": "Allotropic"},
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "In the titration curve of a strong base added to a weak acid, the vertical section occurs:",
+      "options": {"A": "At pH 7", "B": "Above pH 7", "C": "Below pH 7", "D": "At pH 1"},
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following ions is the strongest conjugate base?",
+      "options": {"A": "Cl^-", "B": "NO3^-", "C": "CH3COO^-", "D": "HSO4^-"},
+      "correct_option": "C"
+    },
+    {
+      "id": 40,
+      "question": "What is the pH of a solution containing 0.1 M acetic acid and 0.1 M sodium acetate? ($pKa = 4.74$)",
+      "options": {"A": "7.00", "B": "4.74", "C": "1.00", "D": "9.26"},
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The hydrolysis of $NaCN$ produces a solution that is:",
+      "options": {"A": "Acidic", "B": "Basic", "C": "Neutral", "D": "Volatile"},
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Auto-ionization of water is an ______ process.",
+      "options": {"A": "Exothermic", "B": "Endothermic", "C": "Isothermal", "D": "Adiabatic"},
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is a Lewis base?",
+      "options": {"A": "Fe^{3+}", "B": "BCl3", "C": "H2O", "D": "CO2"},
+      "correct_option": "C"
+    },
+    {
+      "id": 44,
+      "question": "The pH of a 1.0 M HCl solution is:",
+      "options": {"A": "1", "B": "0", "C": "7", "D": "14"},
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The range of phenolphthalein indicator is approximately:",
+      "options": {"A": "3.1 - 4.4", "B": "8.3 - 10.0", "C": "6.0 - 7.6", "D": "1.2 - 2.8"},
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "The strength of a Brønsted acid depends on its tendency to:",
+      "options": {"A": "Accept electrons", "B": "Lose protons", "C": "Gain protons", "D": "Dissolve in oil"},
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which concentration of $H_3O^+$ represents a neutral solution at 25°C?",
+      "options": {"A": "10^{-14} M", "B": "10^{-7} M", "C": "1 M", "D": "7 M"},
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Salt hydrolysis is the reaction of an ion with ______ to affect pH.",
+      "options": {"A": "Acid", "B": "Water", "C": "Base", "D": "Indicator"},
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "A solution has a pH of 13. It is:",
+      "options": {"A": "Weakly acidic", "B": "Strongly basic", "C": "Neutral", "D": "Weakly basic"},
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The conjugate acid of $H_2O$ is:",
+      "options": {"A": "OH^-", "B": "H3O^+", "C": "O^{2-}", "D": "H2"},
+      "correct_option": "B"
+    }
+  ]
+}
+]

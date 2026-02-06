@@ -1,0 +1,510 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Mathematics",
+  "unit": "Unit 1: Sequences and Series",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A sequence in which each term is found by adding a constant to the previous term is called:",
+      "options": {
+        "A": "Arithmetic Sequence",
+        "C": "Geometric Sequence",
+        "D": "Harmonic Sequence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The constant value added to each term in an arithmetic sequence is the:",
+      "options": {
+        "A": "Common ratio",
+        "C": "Common difference",
+        "D": "Summation factor"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is the formula for the nth term of an arithmetic sequence?",
+      "options": {
+        "A": "An = A1 + (n - 1)d",
+        "C": "An = A1 + nd",
+        "D": "An = A1 * r^(n-1)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "A sequence in which each term is found by multiplying the previous term by a constant is a:",
+      "options": {
+        "A": "Geometric Sequence",
+        "C": "Arithmetic Sequence",
+        "D": "Linear Sequence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "What is the common ratio (r) of the sequence 3, 9, 27, 81, ...?",
+      "options": {
+        "A": "6",
+        "C": "3",
+        "D": "2"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "The sum of the terms of a sequence is called a:",
+      "options": {
+        "A": "Series",
+        "C": "Limit",
+        "D": "Difference"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 7,
+      "question": "The Greek letter used to indicate the sum of a series is:",
+      "options": {
+        "A": "Sigma",
+        "C": "Delta",
+        "D": "Alpha"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "If the common ratio (r) of an infinite geometric series satisfies |r| < 1, the series is:",
+      "options": {
+        "A": "Convergent",
+        "C": "Divergent",
+        "D": "Increasing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "The nth term of a geometric sequence is given by the formula:",
+      "options": {
+        "A": "An = A1 * r^(n-1)",
+        "C": "An = A1 + (n-1)r",
+        "D": "An = n * r"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "Find the 5th term of an arithmetic sequence where A1 = 10 and d = 5.",
+      "options": {
+        "A": "30",
+        "C": "25",
+        "D": "35"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "The sum of an infinite geometric series is calculated using S = A1 / (1 - r). This is valid only when:",
+      "options": {
+        "A": "|r| < 1",
+        "C": "r > 1",
+        "D": "r = 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 12,
+      "question": "In the sequence 1, 1, 2, 3, 5, 8, ..., each term is the sum of the two preceding terms. This is the:",
+      "options": {
+        "A": "Fibonacci Sequence",
+        "C": "Pascal Sequence",
+        "D": "Newton Sequence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "What is the sum of the first 5 terms of the arithmetic sequence 2, 4, 6, 8, 10?",
+      "options": {
+        "A": "20",
+        "C": "30",
+        "D": "25"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "A sequence that goes on forever without ending is called an:",
+      "options": {
+        "A": "Infinite sequence",
+        "C": "Finite sequence",
+        "D": "Limited sequence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "If a series does not have a finite sum, it is said to:",
+      "options": {
+        "A": "Converge",
+        "C": "Diverge",
+        "D": "Equal zero"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "Find the common difference for the sequence: 100, 90, 80, 70...",
+      "options": {
+        "A": "10",
+        "C": "-10",
+        "D": "0"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "The expression 'Sum from k=1 to 4 of (2k)' is equal to:",
+      "options": {
+        "A": "20",
+        "C": "12",
+        "D": "10"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which of these is a geometric sequence?",
+      "options": {
+        "A": "2, 4, 8, 16",
+        "C": "2, 4, 6, 8",
+        "D": "1, 2, 3, 4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "If the first term A1 = 5 and common ratio r = 2, the 4th term is:",
+      "options": {
+        "A": "40",
+        "C": "20",
+        "D": "10"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "The arithmetic mean of 4 and 16 is:",
+      "options": {
+        "A": "10",
+        "C": "8",
+        "D": "12"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "What is the 100th term of the sequence An = n + 1?",
+      "options": {
+        "A": "100",
+        "C": "101",
+        "D": "99"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "A sequence defined by its previous terms is called a:",
+      "options": {
+        "A": "Recursive sequence",
+        "C": "Direct sequence",
+        "D": "Random sequence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "The sum of the first n terms of an arithmetic sequence is Sn = (n/2)(A1 + An). This is the:",
+      "options": {
+        "A": "Partial sum",
+        "C": "Infinite sum",
+        "D": "Product sum"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "The common ratio for the sequence 1/2, 1/4, 1/8 is:",
+      "options": {
+        "A": "2",
+        "C": "1/2",
+        "D": "1/4"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is an arithmetic progression?",
+      "options": {
+        "A": "5, 10, 15, 20",
+        "C": "5, 10, 20, 40",
+        "D": "1, 3, 9, 27"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "If a1 = 7 and d = 0, the first five terms are:",
+      "options": {
+        "A": "7, 7, 7, 7, 7",
+        "C": "7, 0, 0, 0, 0",
+        "D": "0, 7, 14, 21, 28"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "The value of 'Sum from i=1 to 3 of (i^2)' is:",
+      "options": {
+        "A": "14",
+        "C": "9",
+        "D": "6"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "The common ratio in the sequence 5, -5, 5, -5 is:",
+      "options": {
+        "A": "1",
+        "C": "-1",
+        "D": "5"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "A sequence whose terms are the reciprocals of an arithmetic sequence is:",
+      "options": {
+        "A": "Harmonic Sequence",
+        "C": "Geometric Sequence",
+        "D": "Logarithmic Sequence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "What is the sum of an arithmetic series where n=10, a1=1, and a10=19?",
+      "options": {
+        "A": "100",
+        "C": "200",
+        "D": "190"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "The 10th term of the sequence defined by An = 2n - 1 is:",
+      "options": {
+        "A": "19",
+        "C": "21",
+        "D": "20"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which formula represents the sum of a finite geometric series?",
+      "options": {
+        "A": "Sn = A1(1 - r^n) / (1 - r)",
+        "C": "Sn = A1 + (n-1)d",
+        "D": "Sn = A1 / (1-r)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "If r = 1, a geometric sequence becomes a:",
+      "options": {
+        "A": "Constant sequence",
+        "C": "Divergent sequence",
+        "D": "Null sequence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "The geometric mean between 2 and 8 is:",
+      "options": {
+        "A": "5",
+        "C": "4",
+        "D": "6"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "The sum of the series 1 + 2 + 3 + ... + n is given by:",
+      "options": {
+        "A": "n(n+1)/2",
+        "C": "n^2",
+        "D": "2n + 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "A sequence that has a limited number of terms is a:",
+      "options": {
+        "A": "Finite sequence",
+        "C": "Infinite sequence",
+        "D": "Convergent sequence"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which of the following is the 3rd term of An = 3^n - 1?",
+      "options": {
+        "A": "26",
+        "C": "8",
+        "D": "10"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "The limit of 1/n as n approaches infinity is:",
+      "options": {
+        "A": "0",
+        "C": "1",
+        "D": "Infinity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "If a sequence is 2, 5, 8, 11, the next term is:",
+      "options": {
+        "A": "14",
+        "C": "13",
+        "D": "15"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "The sum of a geometric series 1 + 1/2 + 1/4 + ... to infinity is:",
+      "options": {
+        "A": "2",
+        "C": "1.5",
+        "D": "Infinity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "Find d if A1 = 4 and A3 = 12 in an arithmetic sequence.",
+      "options": {
+        "A": "4",
+        "C": "8",
+        "D": "2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "What is the 1st term of the sequence An = 5n - 2?",
+      "options": {
+        "A": "3",
+        "C": "5",
+        "D": "2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "The sum of the first 4 terms of the sequence An = 2^n is:",
+      "options": {
+        "A": "30",
+        "C": "15",
+        "D": "20"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "A sequence is increasing if An+1 is:",
+      "options": {
+        "A": "Greater than An",
+        "C": "Less than An",
+        "D": "Equal to An"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "The common ratio in 100, 50, 25 is:",
+      "options": {
+        "A": "2",
+        "C": "0.5",
+        "D": "10"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "The nth term of the sequence 2, 4, 6, 8 is:",
+      "options": {
+        "A": "2n",
+        "C": "n + 2",
+        "D": "2^n"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "In an arithmetic sequence, if d is negative, the sequence is:",
+      "options": {
+        "A": "Decreasing",
+        "C": "Increasing",
+        "D": "Constant"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "The sum of a series with 10 terms is called a:",
+      "options": {
+        "A": "Partial sum",
+        "C": "Infinite sum",
+        "D": "Total sum"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "If An = (-1)^n, the first three terms are:",
+      "options": {
+        "A": "-1, 1, -1",
+        "C": "1, -1, 1",
+        "D": "-1, -1, -1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The sum to infinity of 1 + 3 + 9 + 27 is:",
+      "options": {
+        "A": "Undefined (Divergent)",
+        "C": "40",
+        "D": "81"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

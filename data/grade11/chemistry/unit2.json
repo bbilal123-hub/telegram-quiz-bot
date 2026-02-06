@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Chemistry",
+  "unit": "Unit 2: Chemical Bonding and Structure",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which type of chemical bond is formed by the complete transfer of electrons from one atom to another?",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Ionic bond",
+        "C": "Metallic bond",
+        "D": "Hydrogen bond"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The force that holds atoms together in a chemical compound is called a:",
+      "options": {
+        "A": "Chemical bond",
+        "B": "Nuclear force",
+        "C": "Gravitational force",
+        "D": "Magnetic force"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 3,
+      "question": "According to the Octet Rule, atoms tend to gain, lose, or share electrons to achieve a configuration of how many valence electrons?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a characteristic property of ionic compounds?",
+      "options": {
+        "A": "Low melting points",
+        "B": "High electrical conductivity in solid state",
+        "C": "High melting and boiling points",
+        "D": "Gaseous at room temperature"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "A covalent bond formed by the equal sharing of electrons between two identical atoms is called:",
+      "options": {
+        "A": "Polar covalent bond",
+        "B": "Non-polar covalent bond",
+        "C": "Coordinate covalent bond",
+        "D": "Ionic bond"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which theory is used to predict the three-dimensional shapes of molecules based on electron pair repulsion?",
+      "options": {
+        "A": "Dalton's Theory",
+        "B": "VSEPR Theory",
+        "C": "Kinetic Molecular Theory",
+        "D": "Bohr's Theory"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The geometry of a molecule with two bonding pairs and zero lone pairs on the central atom is:",
+      "options": {
+        "A": "Linear",
+        "B": "Bent",
+        "C": "Trigonal planar",
+        "D": "Tetrahedral"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "What is the bond angle in a perfectly tetrahedral molecule like Methane (CH4)?",
+      "options": {
+        "A": "90 degrees",
+        "B": "120 degrees",
+        "C": "109.5 degrees",
+        "D": "180 degrees"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "In a water molecule (H2O), the shape is bent rather than linear because of:",
+      "options": {
+        "A": "Two lone pairs on the Oxygen atom",
+        "B": "The high electronegativity of Hydrogen",
+        "C": "Triple bonding",
+        "D": "Metallic character"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "Hybridization involving one 's' and three 'p' orbitals results in which type of hybrid orbitals?",
+      "options": {
+        "A": "sp",
+        "B": "sp2",
+        "C": "sp3",
+        "D": "dsp2"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "The 'sea of electrons' model is used to explain which type of bonding?",
+      "options": {
+        "A": "Ionic",
+        "B": "Metallic",
+        "C": "Covalent",
+        "D": "Van der Waals"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following molecules contains a triple covalent bond?",
+      "options": {
+        "A": "H2",
+        "B": "O2",
+        "C": "N2",
+        "D": "CH4"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "A coordinate covalent bond (dative bond) is formed when:",
+      "options": {
+        "A": "Both electrons in the shared pair come from one atom",
+        "B": "Electrons are shared equally",
+        "C": "Electrons are transferred",
+        "D": "Metal atoms vibrate"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "Lattice energy is a measure of the strength of which type of bond?",
+      "options": {
+        "A": "Covalent",
+        "B": "Metallic",
+        "C": "Hydrogen",
+        "D": "Ionic"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 15,
+      "question": "Which of these factors increases the polarity of a covalent bond?",
+      "options": {
+        "A": "Similar electronegativity values",
+        "B": "Large difference in electronegativity",
+        "C": "Formation of a double bond",
+        "D": "Increased atomic radius"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "The mixing of atomic orbitals to form new, identical orbitals for bonding is called:",
+      "options": {
+        "A": "Ionization",
+        "B": "Resonance",
+        "C": "Hybridization",
+        "D": "Polarization"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which molecule has a trigonal pyramidal shape?",
+      "options": {
+        "A": "BF3",
+        "B": "NH3",
+        "C": "CH4",
+        "D": "CO2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Metals are malleable and ductile because:",
+      "options": {
+        "A": "Metallic bonds are directional",
+        "B": "Cations can slide past each other in the electron sea",
+        "C": "They contain ionic crystals",
+        "D": "They have low melting points"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "The strongest type of intermolecular force among the following is:",
+      "options": {
+        "A": "London dispersion forces",
+        "B": "Dipole-dipole interactions",
+        "C": "Hydrogen bonding",
+        "D": "Ion-dipole forces"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "Resonance structures are used when:",
+      "options": {
+        "A": "A single Lewis structure cannot correctly represent a molecule",
+        "B": "The molecule is ionic",
+        "C": "There are no lone pairs",
+        "D": "The atom violates the octet rule"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "What is the hybridization of Carbon in Ethene (C2H4)?",
+      "options": {
+        "A": "sp",
+        "B": "sp2",
+        "C": "sp3",
+        "D": "dsp2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "A sigma (σ) bond is formed by the:",
+      "options": {
+        "A": "Side-to-side overlap of orbitals",
+        "B": "End-to-end overlap of orbitals",
+        "C": "Transfer of electrons",
+        "D": "Electrostatic attraction"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "Pi (π) bonds are generally ______ than sigma bonds.",
+      "options": {
+        "A": "Stronger",
+        "B": "Weaker",
+        "C": "Longer",
+        "D": "More stable"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The electronegativity difference for a bond to be considered purely ionic is usually greater than:",
+      "options": {
+        "A": "0.5",
+        "B": "1.0",
+        "C": "1.7",
+        "D": "0.1"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following molecules is non-polar despite having polar bonds?",
+      "options": {
+        "A": "H2O",
+        "B": "NH3",
+        "C": "CCl4",
+        "D": "HCl"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "How many pi bonds are present in an Ethyne (C2H2) molecule?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "Which crystalline solid is a good conductor of electricity in the solid state?",
+      "options": {
+        "A": "Molecular solid",
+        "B": "Ionic solid",
+        "C": "Metallic solid",
+        "D": "Network covalent solid"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "Diamond and Graphite are examples of:",
+      "options": {
+        "A": "Isotopes",
+        "B": "Allotropes",
+        "C": "Isomers",
+        "D": "Polymers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "The bond angle in a trigonal planar molecule is:",
+      "options": {
+        "A": "90 degrees",
+        "B": "120 degrees",
+        "C": "109.5 degrees",
+        "D": "180 degrees"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which molecule violates the octet rule by having an 'expanded octet'?",
+      "options": {
+        "A": "CH4",
+        "B": "SF6",
+        "C": "NH3",
+        "D": "H2O"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "What happens to the potential energy of two atoms as they form a chemical bond?",
+      "options": {
+        "A": "It increases",
+        "B": "It decreases",
+        "C": "It stays the same",
+        "D": "It doubles"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Bond length is the distance between two nuclei where:",
+      "options": {
+        "A": "Repulsion is maximum",
+        "B": "Potential energy is minimum",
+        "C": "Electrons are lost",
+        "D": "Gravity is strongest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of these is a polar molecule?",
+      "options": {
+        "A": "CO2",
+        "B": "CH4",
+        "C": "NH3",
+        "D": "BF3"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "The dipole moment of a non-polar molecule is:",
+      "options": {
+        "A": "Positive",
+        "B": "Zero",
+        "C": "Negative",
+        "D": "Infinite"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "Formal charge is used to:",
+      "options": {
+        "A": "Calculate the mass of a molecule",
+        "B": "Determine the most stable Lewis structure",
+        "C": "Find the boiling point",
+        "D": "Measure radioactivity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following has an sp hybridization?",
+      "options": {
+        "A": "BeCl2",
+        "B": "BCl3",
+        "C": "CCl4",
+        "D": "H2O"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "The tendency of an atom to attract a bonding pair of electrons is:",
+      "options": {
+        "A": "Ionization energy",
+        "B": "Electron affinity",
+        "C": "Electronegativity",
+        "D": "Activation energy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "Ionic compounds are generally soluble in:",
+      "options": {
+        "A": "Non-polar solvents",
+        "B": "Polar solvents like water",
+        "C": "Oil",
+        "D": "Benzene"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "A double bond consists of:",
+      "options": {
+        "A": "Two sigma bonds",
+        "B": "Two pi bonds",
+        "C": "One sigma and one pi bond",
+        "D": "One sigma and two pi bonds"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 40,
+      "question": "Graphite conducts electricity because it has:",
+      "options": {
+        "A": "Ionic bonds",
+        "B": "Delocalized electrons",
+        "C": "Triple bonds",
+        "D": "Lone pairs on every carbon"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The strength of a metallic bond increases with:",
+      "options": {
+        "A": "Decreasing number of valence electrons",
+        "B": "Increasing number of valence electrons",
+        "C": "Increasing atomic size",
+        "D": "Decreasing nuclear charge"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which theory considers the overlap of atomic orbitals to form bonds?",
+      "options": {
+        "A": "Molecular Orbital Theory",
+        "B": "Valence Bond Theory",
+        "C": "Crystal Field Theory",
+        "D": "Atomic Theory"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "In the VSEPR model, which repulsion is the strongest?",
+      "options": {
+        "A": "Bonding pair - Bonding pair",
+        "B": "Lone pair - Lone pair",
+        "C": "Lone pair - Bonding pair",
+        "D": "They are all equal"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which of these is a network covalent solid?",
+      "options": {
+        "A": "Ice",
+        "B": "Dry Ice (CO2)",
+        "C": "Quartz (SiO2)",
+        "D": "Salt (NaCl)"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 45,
+      "question": "Dipole-dipole forces occur between:",
+      "options": {
+        "A": "Non-polar molecules",
+        "B": "Polar molecules",
+        "C": "Noble gases",
+        "D": "Ionic crystals"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Which molecule has a linear shape?",
+      "options": {
+        "A": "CO2",
+        "B": "SO2",
+        "C": "H2O",
+        "D": "O3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "The bond order of a single bond is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "London dispersion forces are the only intermolecular forces present in:",
+      "options": {
+        "A": "Noble gases and non-polar molecules",
+        "B": "Water",
+        "C": "Acids",
+        "D": "Ionic liquids"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "The hybridization of Carbon in Diamond is:",
+      "options": {
+        "A": "sp",
+        "B": "sp2",
+        "C": "sp3",
+        "D": "dsp2"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 50,
+      "question": "Hydrogen bonding occurs when Hydrogen is bonded to:",
+      "options": {
+        "A": "C, Si, or P",
+        "B": "N, O, or F",
+        "C": "Na, K, or Li",
+        "D": "Cl, Br, or I"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

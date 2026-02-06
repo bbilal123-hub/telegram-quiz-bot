@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Biology",
+  "unit": "Unit 1: Applications of Biology",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which field of biology involves the use of living organisms to develop or make products for human use?",
+      "options": {
+        "A": "Biotechnology",
+        "B": "Taxonomy",
+        "C": "Ecology",
+        "D": "Anatomy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The use of biological systems to remove pollutants from a contaminated site is known as:",
+      "options": {
+        "A": "Bioprospecting",
+        "B": "Biomagnification",
+        "C": "Bioremediation",
+        "D": "Biosynthesis"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which molecule is primarily used in DNA profiling (fingerprinting) for forensic investigations?",
+      "options": {
+        "A": "Short Tandem Repeats (STRs)",
+        "B": "Messenger RNA",
+        "C": "Hemoglobin",
+        "D": "Glucose"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "In agriculture, 'Bt cotton' is a genetically modified crop that is resistant to:",
+      "options": {
+        "A": "Drought",
+        "B": "Salinity",
+        "C": "Insect pests",
+        "D": "Cold temperatures"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "The production of human insulin using genetically engineered bacteria is an application of:",
+      "options": {
+        "A": "Recombinant DNA technology",
+        "B": "Natural selection",
+        "C": "Traditional breeding",
+        "D": "Asexual reproduction"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a primary goal of bioinformatics?",
+      "options": {
+        "A": "Manual dissection of animals",
+        "B": "Field observation of birds",
+        "C": "Analyzing biological data using computer software",
+        "D": "Selling organic fertilizers"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "What is the function of a restriction enzyme in biotechnology?",
+      "options": {
+        "A": "To cut DNA at specific sequences",
+        "B": "To join two DNA fragments",
+        "C": "To translate RNA into protein",
+        "D": "To speed up cellular respiration"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "A Genetically Modified Organism (GMO) is an organism whose genetic material has been:",
+      "options": {
+        "A": "Left unchanged for centuries",
+        "B": "Damaged by UV radiation",
+        "C": "Altered using genetic engineering techniques",
+        "D": "Lost during cell division"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which method is used to amplify small amounts of DNA found at a crime scene?",
+      "options": {
+        "A": "Polymerase Chain Reaction (PCR)",
+        "B": "Centrifugation",
+        "C": "Simple Diffusion",
+        "D": "Osmosis"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "In medicine, 'Gene Therapy' involves:",
+      "options": {
+        "A": "Replacing a faulty gene with a functional one",
+        "B": "Drinking herbal tea",
+        "C": "Removing all genes from a patient",
+        "D": "Exercising to change DNA"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "Which organism is commonly used as a 'vector' to transfer genes into plants?",
+      "options": {
+        "A": "Agrobacterium tumefaciens",
+        "B": "Amoeba proteus",
+        "C": "Plasmodium falciparum",
+        "D": "Homo sapiens"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 12,
+      "question": "Golden Rice is genetically engineered to contain high levels of:",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin D",
+        "C": "Pro-vitamin A (Beta-carotene)",
+        "D": "Vitamin B12"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "The study of the entire set of proteins expressed by a genome is called:",
+      "options": {
+        "A": "Proteomics",
+        "B": "Genomics",
+        "C": "Cytology",
+        "D": "Histology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "Monoclonal antibodies are used in medicine for:",
+      "options": {
+        "A": "Diagnosing diseases like cancer",
+        "B": "Increasing body weight",
+        "C": "Providing structure to bones",
+        "D": "Replacing red blood cells"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a potential risk associated with GMOs?",
+      "options": {
+        "A": "Increased crop yield",
+        "B": "Reduced use of pesticides",
+        "C": "Transfer of genes to wild relatives (gene flow)",
+        "D": "Improved nutritional value"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "The use of living organisms to produce medicines like vaccines is called:",
+      "options": {
+        "A": "Biopharmaceuticals",
+        "B": "Biophysics",
+        "C": "Geobiology",
+        "D": "Paleontology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "DNA ligase is an enzyme used to:",
+      "options": {
+        "A": "Break hydrogen bonds",
+        "B": "Copy RNA into DNA",
+        "C": "Paste or join DNA fragments together",
+        "D": "Digest cellulose in plants"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "Bioethics is a field that deals with:",
+      "options": {
+        "A": "The moral implications of biological research",
+        "B": "The cost of biological equipment",
+        "C": "The speed of animal migration",
+        "D": "The classification of rocks"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "A 'DNA probe' is used to:",
+      "options": {
+        "A": "Detect specific DNA sequences",
+        "B": "Kill harmful bacteria",
+        "C": "Produce glucose in leaves",
+        "D": "Build cell membranes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "Stem cell research is promising for 'Regenerative Medicine' because stem cells can:",
+      "options": {
+        "A": "Differentiate into various cell types",
+        "B": "Only become skin cells",
+        "C": "Destroy healthy tissues",
+        "D": "Live without water"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "In the process of cloning 'Dolly the sheep', which technique was used?",
+      "options": {
+        "A": "Somatic Cell Nuclear Transfer (SCNT)",
+        "B": "Cross-pollination",
+        "C": "Binary fission",
+        "D": "Budding"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "Which branch of biotechnology deals with industrial processes?",
+      "options": {
+        "A": "White Biotechnology",
+        "B": "Green Biotechnology",
+        "C": "Red Biotechnology",
+        "D": "Blue Biotechnology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "The 'Human Genome Project' was an international effort to:",
+      "options": {
+        "A": "Sequence all the base pairs in human DNA",
+        "B": "Create a new human species",
+        "C": "Count the number of humans on Earth",
+        "D": "Eliminate the use of computers in biology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is a bio-fertilizer?",
+      "options": {
+        "A": "Urea",
+        "B": "Potassium sulfate",
+        "C": "Rhizobium",
+        "D": "DDT"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "Biotechnology in waste management includes the use of microorganisms to produce:",
+      "options": {
+        "A": "Biogas (Methane)",
+        "B": "Plastic bottles",
+        "C": "Nuclear waste",
+        "D": "Iron ore"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "Gel electrophoresis is a technique used to:",
+      "options": {
+        "A": "Separate DNA fragments by size",
+        "B": "Mix different types of blood",
+        "C": "Measure heart rate",
+        "D": "See viruses with the naked eye"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "Which of these is an example of 'Ex-situ' conservation?",
+      "options": {
+        "A": "National Parks",
+        "B": "Wilderness areas",
+        "C": "Seed banks",
+        "D": "Biosphere reserves"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "The enzyme used in PCR that can withstand high temperatures is:",
+      "options": {
+        "A": "Taq polymerase",
+        "B": "Pepsin",
+        "C": "Amylase",
+        "D": "Lipase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 29,
+      "question": "What is the primary role of bioinformatics in drug discovery?",
+      "options": {
+        "A": "Testing drugs on large animals",
+        "B": "Packaging medicines",
+        "C": "Modeling protein-ligand interactions",
+        "D": "Selling drugs in pharmacies"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 30,
+      "question": "A transgenic animal is one that has:",
+      "options": {
+        "A": "Foreign DNA in its genome",
+        "B": "Two heads",
+        "C": "No DNA at all",
+        "D": "Been born in a forest"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "Which gas is released during the fermentation process in bread making?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon dioxide",
+        "D": "Helium"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "What is 'Biopiracy'?",
+      "options": {
+        "A": "The unethical use of biological resources without permission",
+        "B": "Studying fish in the ocean",
+        "C": "Planting trees in the desert",
+        "D": "Recycling paper"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "Plasmid DNA is found in:",
+      "options": {
+        "A": "Viruses",
+        "B": "Human muscle cells",
+        "C": "Bacteria",
+        "D": "Plant vacuoles"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "Forensic entomology is the study of ______ to investigate crimes.",
+      "options": {
+        "A": "Insects",
+        "B": "Rocks",
+        "C": "Stars",
+        "D": "Fingerprints"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "A major application of 'Green Biotechnology' is:",
+      "options": {
+        "A": "Developing drought-resistant crops",
+        "B": "Making blue jeans",
+        "C": "Designing faster cars",
+        "D": "Building underwater cities"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "What is the purpose of 'Marker-Assisted Selection' (MAS) in farming?",
+      "options": {
+        "A": "To select plants with desirable traits using DNA markers",
+        "B": "To mark plants with paint",
+        "C": "To kill all weeds",
+        "D": "To increase the price of seeds"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which of these is used as a 'biological pesticide'?",
+      "options": {
+        "A": "Bacillus thuringiensis (Bt)",
+        "B": "Lead arsenate",
+        "C": "Sulfuric acid",
+        "D": "Plastic mulch"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "Synthetic Biology aims to:",
+      "options": {
+        "A": "Design and construct new biological parts and systems",
+        "B": "Eliminate all life on Earth",
+        "C": "Only study dead organisms",
+        "D": "Turn animals into plants"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "Human growth hormone (hGH) is now produced using:",
+      "options": {
+        "A": "Genetically modified E. coli",
+        "B": "Extracted from soil",
+        "C": "Boiling seawater",
+        "D": "Chemical synthesis in a test tube"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which field uses biological data to create simulations of life processes?",
+      "options": {
+        "A": "Computational Biology",
+        "B": "Astrology",
+        "C": "Architecture",
+        "D": "Sociology"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "The total genetic information of an organism is its:",
+      "options": {
+        "A": "Phenotype",
+        "B": "Cytoplasm",
+        "C": "Genome",
+        "D": "Ribosome"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 42,
+      "question": "What is a 'DNA microarray' used for?",
+      "options": {
+        "A": "Measuring the expression levels of many genes at once",
+        "B": "Cutting DNA into small pieces",
+        "C": "Injecting DNA into a cell",
+        "D": "Magnifying DNA 10,000 times"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "The term 'Bioprospecting' refers to:",
+      "options": {
+        "A": "Searching for useful products in nature",
+        "B": "Mining for gold",
+        "C": "Selling fake medicines",
+        "D": "Hunting for endangered animals"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "Which of these is an example of an 'Interdisciplinary' application of biology?",
+      "options": {
+        "A": "Bioinformatics (Biology + Computer Science)",
+        "B": "Sleeping",
+        "C": "Eating bread",
+        "D": "Running a race"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "Enzymes used in laundry detergents to remove protein stains are usually:",
+      "options": {
+        "A": "Proteases",
+        "B": "Cellulases",
+        "C": "Amylases",
+        "D": "Pectinases"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "In 'Pharmacogenomics', doctors study how ______ affect a person's response to drugs.",
+      "options": {
+        "A": "Genes",
+        "B": "Clothes",
+        "C": "Friends",
+        "D": "Dreams"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which of these organisms is a popular 'model organism' in genetic research?",
+      "options": {
+        "A": "Fruit fly (Drosophila melanogaster)",
+        "B": "African Elephant",
+        "C": "Blue Whale",
+        "D": "Giant Sequoia tree"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "The use of 'biological markers' in forensics can help determine:",
+      "options": {
+        "A": "The time of death",
+        "B": "The price of the crime",
+        "C": "The victim's favorite color",
+        "D": "The weather next week"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "CRISPR-Cas9 is a revolutionary tool used for:",
+      "options": {
+        "A": "Gene editing",
+        "B": "Making cheese",
+        "C": "Water purification",
+        "D": "Growing hair"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The application of biological principles to solve engineering problems is:",
+      "options": {
+        "A": "Bioengineering",
+        "B": "Mechanical engineering",
+        "C": "Civil engineering",
+        "D": "Software engineering"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

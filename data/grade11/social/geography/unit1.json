@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Geography",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The word 'Geography' was first coined by the Greek scholar:",
+      "options": {
+        "A": "Herodotus",
+        "B": "Eratosthenes",
+        "C": "Aristotle",
+        "D": "Hipparchus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which school of thought suggests that the physical environment dictates human behavior and culture?",
+      "options": {
+        "A": "Environmental Determinism",
+        "B": "Possibilism",
+        "C": "Neo-determinism",
+        "D": "Stop-and-go Determinism"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 3,
+      "question": "The view that 'The Earth provides possibilities, but man is the master of their use' belongs to:",
+      "options": {
+        "A": "Environmental Determinism",
+        "B": "Probabilism",
+        "C": "Possibilism",
+        "D": "Pragmatism"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is considered a 'Secondary' source of geographic data?",
+      "options": {
+        "A": "Field observation",
+        "B": "Interviews",
+        "C": "Questionnaires",
+        "D": "Census reports"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 5,
+      "question": "The approach in geography that studies a specific region and all its characteristics is:",
+      "options": {
+        "A": "Systematic Geography",
+        "B": "Regional Geography",
+        "C": "Human Geography",
+        "D": "Physical Geography"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Who is often referred to as the 'Father of Modern Geography'?",
+      "options": {
+        "A": "Alexander von Humboldt",
+        "B": "Carl Ritter",
+        "C": "Both A and B",
+        "D": "Friedrich Ratzel"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which branch of geography deals with the study of landforms and their origin?",
+      "options": {
+        "A": "Climatology",
+        "B": "Geomorphology",
+        "C": "Biogeography",
+        "D": "Hydrology"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The 'Quantitative Revolution' in geography emphasized the use of:",
+      "options": {
+        "A": "Descriptive stories",
+        "B": "Religious texts",
+        "C": "Statistical methods and models",
+        "D": "Artistic sketches"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "What is the primary tool used by geographers to display spatial data?",
+      "options": {
+        "A": "Microscope",
+        "B": "Telescope",
+        "C": "Stethoscope",
+        "D": "Map"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 10,
+      "question": "A location defined by its latitude and longitude is known as:",
+      "options": {
+        "A": "Relative location",
+        "B": "Absolute location",
+        "C": "Vicinal location",
+        "D": "Geographical position"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "The relationship between distance on a map and the actual distance on the ground is:",
+      "options": {
+        "A": "Scale",
+        "B": "Projection",
+        "C": "Orientation",
+        "D": "Legend"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 12,
+      "question": "Which type of map scale is written as a ratio, such as 1:50,000?",
+      "options": {
+        "A": "Linear scale",
+        "B": "Statement scale",
+        "C": "Representative Fraction (RF)",
+        "D": "Graphic scale"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "If you want to show a very small area with a lot of detail, you should use a:",
+      "options": {
+        "A": "Small scale map",
+        "B": "Large scale map",
+        "C": "Global map",
+        "D": "Wall map"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "Lines on a map joining places of equal elevation above sea level are:",
+      "options": {
+        "A": "Isobars",
+        "B": "Isotherms",
+        "C": "Contours",
+        "D": "Isohyets"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "The system used to capture, store, analyze, and manage spatial data is:",
+      "options": {
+        "A": "GPS",
+        "B": "GIS",
+        "C": "RS",
+        "D": "CPU"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Remote sensing involves gathering information about the Earth using:",
+      "options": {
+        "A": "Direct contact with the soil",
+        "B": "Underwater diving",
+        "C": "Satellites or aircraft sensors",
+        "D": "Interviews with locals"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which theme of geography examines how people, goods, and ideas get from one place to another?",
+      "options": {
+        "A": "Region",
+        "B": "Place",
+        "C": "Movement",
+        "D": "Human-Environment Interaction"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "The exact point where a place is located is its 'Site', while its 'Situation' refers to its:",
+      "options": {
+        "A": "Physical features",
+        "B": "Location relative to other places",
+        "C": "Elevation",
+        "D": "Population density"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which type of region is defined by a common characteristic, such as a shared language or climate?",
+      "options": {
+        "A": "Formal Region",
+        "B": "Functional Region",
+        "C": "Vernacular Region",
+        "D": "Nodal Region"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "Geography is often called a 'bridge' science because it links:",
+      "options": {
+        "A": "History and Art",
+        "B": "Natural sciences and Social sciences",
+        "C": "Math and Religion",
+        "D": "Music and Physical Education"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The study of the spatial distribution of plants and animals is:",
+      "options": {
+        "A": "Anthropogeography",
+        "B": "Biogeography",
+        "C": "Pedology",
+        "D": "Ecology"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which geographer is famous for his work 'Kosmos'?",
+      "options": {
+        "A": "Alexander von Humboldt",
+        "B": "Immanuel Kant",
+        "C": "Carl Sauer",
+        "D": "Ellen Churchill Semple"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "A map showing the distribution of one specific topic, like population, is a:",
+      "options": {
+        "A": "General purpose map",
+        "B": "Topographic map",
+        "C": "Thematic map",
+        "D": "Reference map"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "The cardinal direction of 270 degrees on a compass is:",
+      "options": {
+        "A": "North",
+        "B": "East",
+        "C": "South",
+        "D": "West"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 25,
+      "question": "The 0° line of longitude that passes through Greenwich is called the:",
+      "options": {
+        "A": "Equator",
+        "B": "Prime Meridian",
+        "C": "International Date Line",
+        "D": "Tropic of Cancer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The 'Geocentric' model of the universe was championed by:",
+      "options": {
+        "A": "Galileo",
+        "B": "Ptolemy",
+        "C": "Copernicus",
+        "D": "Newton"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is NOT a major sphere of the Earth's environment?",
+      "options": {
+        "A": "Atmosphere",
+        "B": "Hydrosphere",
+        "C": "Astrosphere",
+        "D": "Biosphere"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "The study of the relationship between human society and the environment is:",
+      "options": {
+        "A": "Physical Geography",
+        "B": "Cultural Geography",
+        "C": "Human Ecology",
+        "D": "Economic Geography"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "During the Medieval period (Middle Ages), geography in Europe was largely dominated by:",
+      "options": {
+        "A": "Scientific discoveries",
+        "B": "Religious dogma (T-O maps)",
+        "C": "Computer modeling",
+        "D": "Space exploration"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which civilization made significant contributions to geography during the Dark Ages in Europe?",
+      "options": {
+        "A": "The Romans",
+        "B": "The Mayans",
+        "C": "The Muslim/Arab scholars",
+        "D": "The Vikings"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 31,
+      "question": "The Mercator projection is most useful for:",
+      "options": {
+        "A": "Measuring the size of landmasses accurately",
+        "B": "Navigation at sea",
+        "C": "Comparing the population of countries",
+        "D": "Showing the North Pole clearly"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The scale 1:1,000,000 is a __________ scale compared to 1:10,000.",
+      "options": {
+        "A": "Larger",
+        "B": "Smaller",
+        "C": "Identical",
+        "D": "More detailed"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "GPS stands for:",
+      "options": {
+        "A": "Geographic Positioning System",
+        "B": "Global Placement Service",
+        "C": "Global Positioning System",
+        "D": "General Purpose Satellite"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "What is the primary objective of applying the Scientific Method in geography?",
+      "options": {
+        "A": "To prove old myths are true",
+        "B": "To solve problems through logical reasoning and testing",
+        "C": "To write poetry about nature",
+        "D": "To memorize map names"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The branch of geography that studies the use and management of natural resources is:",
+      "options": {
+        "A": "Political Geography",
+        "B": "Resource Geography",
+        "C": "Population Geography",
+        "D": "Urban Geography"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "A statement scale that reads '1 cm represents 5 km' means that 2 cm on the map equals:",
+      "options": {
+        "A": "5 km",
+        "B": "10 km",
+        "C": "2.5 km",
+        "D": "1 cm"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "The vertical distance between two successive contour lines is the:",
+      "options": {
+        "A": "Horizontal equivalent",
+        "B": "Contour interval",
+        "C": "Vertical exaggeration",
+        "D": "Gradient"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "When contour lines are very close together, it indicates a:",
+      "options": {
+        "A": "Gentle slope",
+        "B": "Steep slope",
+        "C": "Flat plain",
+        "D": "Depression"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a physical feature that can be a 'Place' characteristic?",
+      "options": {
+        "A": "Architecture",
+        "B": "Religion",
+        "C": "Climate",
+        "D": "Political system"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 40,
+      "question": "The 'Five Themes of Geography' were developed to:",
+      "options": {
+        "A": "Make geography harder for students",
+        "B": "Organize the study of geography",
+        "C": "Identify the names of all rivers",
+        "D": "Build better satellites"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The study of the atmosphere and weather patterns is:",
+      "options": {
+        "A": "Geology",
+        "B": "Meteorology/Climatology",
+        "C": "Astronomy",
+        "D": "Physiography"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Who stated that 'Geography is the science which deals with the art of map-making'?",
+      "options": {
+        "A": "Strabo",
+        "B": "Ptolemy",
+        "C": "Al-Idrisi",
+        "D": "Bernhardus Varenius"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The 'Heliocentric' model suggests that the __________ is at the center of the solar system.",
+      "options": {
+        "A": "Earth",
+        "B": "Moon",
+        "C": "Sun",
+        "D": "Mars"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 44,
+      "question": "The study of how people organize themselves spatially and interact with their surroundings is:",
+      "options": {
+        "A": "Human Geography",
+        "B": "Biogeography",
+        "C": "Soil Geography",
+        "D": "Oceanography"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which era of geography is characterized by the discovery of new lands like the Americas?",
+      "options": {
+        "A": "Ancient Era",
+        "B": "Modern Era",
+        "C": "The Age of Exploration",
+        "D": "Contemporary Era"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "An example of a 'Functional Region' would be:",
+      "options": {
+        "A": "A wheat-growing area",
+        "B": "The delivery area of a pizza shop",
+        "C": "A country with a single language",
+        "D": "A mountain range"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The Greek philosopher who believed that the Earth was a sphere was:",
+      "options": {
+        "A": "Plato",
+        "B": "Aristotle",
+        "C": "Pythagoras",
+        "D": "All of the above"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 48,
+      "question": "Geography provides us with the skills to:",
+      "options": {
+        "A": "Interpret maps and aerial photos",
+        "B": "Understand global diversity",
+        "C": "Analyze environmental issues",
+        "D": "All of the above"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 49,
+      "question": "Systematic geography was strongly advocated by:",
+      "options": {
+        "A": "Carl Ritter",
+        "B": "Alexander von Humboldt",
+        "C": "Richard Hartshorne",
+        "D": "Vidall de la Blache"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Which geographic tool is best for showing changes in land use over 20 years?",
+      "options": {
+        "A": "Compass",
+        "B": "Theodolite",
+        "C": "Time-series Satellite Imagery",
+        "D": "Barometer"
+      },
+      "correct_option": "C"
+    }
+  ]
+}
+]

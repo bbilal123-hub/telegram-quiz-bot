@@ -1,0 +1,395 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "English",
+  "unit": "Unit 1: Family and Society",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 16,
+      "question": "Which of the following is a synonym for 'nurture' in a family context?",
+      "options": {
+        "A": "Care for",
+        "B": "Neglect",
+        "C": "Ignore",
+        "D": "Compete"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "By the time the guests arrived, my mother ______ all the traditional dishes.",
+      "options": {
+        "A": "had prepared",
+        "B": "has prepared",
+        "C": "prepares",
+        "D": "preparing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct sentence in the Present Perfect Tense.",
+      "options": {
+        "A": "They has lived here for ten years.",
+        "B": "They lived here for ten years.",
+        "C": "They have lived here for ten years.",
+        "D": "They living here for ten years."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "A person who is related to you by blood or marriage is a:",
+      "options": {
+        "A": "Relative",
+        "B": "Colleague",
+        "C": "Stranger",
+        "D": "Neighbor"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "When my father was young, he ______ walk five kilometers to school every day.",
+      "options": {
+        "A": "used to",
+        "B": "is used to",
+        "C": "using to",
+        "D": "was use to"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which word describes a family consisting of parents and their children only?",
+      "options": {
+        "A": "Extended",
+        "B": "Blended",
+        "C": "Nuclear",
+        "D": "Tribal"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "Identify the suffix in the word 'Relationship'.",
+      "options": {
+        "A": "Re-",
+        "B": "Relation",
+        "C": "-ship",
+        "D": "-ion"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "Selam: 'I passed my entrance exams!' \nKebede: '______!'",
+      "options": {
+        "A": "Congratulations",
+        "B": "Never mind",
+        "C": "I'm sorry",
+        "D": "Excuse me"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "The children ______ in the garden when the rain started.",
+      "options": {
+        "A": "were playing",
+        "B": "was playing",
+        "C": "plays",
+        "D": "have played"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "What is the antonym of 'Elderly'?",
+      "options": {
+        "A": "Ancient",
+        "B": "Senior",
+        "C": "Young",
+        "D": "Old"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "In our culture, showing ______ to our parents is highly valued.",
+      "options": {
+        "A": "Respect",
+        "B": "Rude",
+        "C": "Arrogance",
+        "D": "Selfishness"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "I ______ my homework yet. Can I submit it later?",
+      "options": {
+        "A": "haven't finished",
+        "B": "didn't finish",
+        "C": "not finish",
+        "D": "don't finish"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "Which of these is a 'transitional' word used for adding information?",
+      "options": {
+        "A": "However",
+        "B": "Therefore",
+        "C": "Furthermore",
+        "D": "Instead"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "A child whose parents have died is called an:",
+      "options": {
+        "A": "Orphan",
+        "B": "Infant",
+        "C": "Adopted",
+        "D": "Only child"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "If you are the only child in your family, you have no:",
+      "options": {
+        "A": "Siblings",
+        "B": "Parents",
+        "C": "Ancestors",
+        "D": "Guardians"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "She ______ English for five years before she moved to London.",
+      "options": {
+        "A": "had been studying",
+        "B": "has been studying",
+        "C": "studies",
+        "D": "was study"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "A family that includes grandparents, aunts, and uncles is an ______ family.",
+      "options": {
+        "A": "Extended",
+        "B": "Small",
+        "C": "Immediate",
+        "D": "Independent"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following sentences is grammatically correct?",
+      "options": {
+        "A": "I usually go to my grandmother's house on Sundays.",
+        "B": "I am usually go to my grandmother's house on Sundays.",
+        "C": "I usually going to my grandmother's house on Sundays.",
+        "D": "I goes usually to my grandmother's house on Sundays."
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Your father’s brother is your:",
+      "options": {
+        "A": "Cousin",
+        "B": "Nephew",
+        "C": "Uncle",
+        "D": "Brother-in-law"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "The synonym of 'Conflict' in a social context is:",
+      "options": {
+        "A": "Agreement",
+        "B": "Peace",
+        "C": "Dispute",
+        "D": "Harmony"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "We ______ for three hours when it finally started to get dark.",
+      "options": {
+        "A": "had been walking",
+        "B": "was walking",
+        "C": "walked",
+        "D": "have been walking"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "The legal ending of a marriage is called:",
+      "options": {
+        "A": "Wedding",
+        "B": "Engagement",
+        "C": "Divorce",
+        "D": "Adoption"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "Chala: 'Would you like some more coffee?' \nAbeba: '______, I've had enough.'",
+      "options": {
+        "A": "Yes, please",
+        "B": "I don't know",
+        "C": "No, thank you",
+        "D": "Give me more"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which word is used to describe a person you know but who is not a close friend?",
+      "options": {
+        "A": "Acquaintance",
+        "B": "Stranger",
+        "C": "Relative",
+        "D": "Enemy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "While I ______ dinner, my sister was setting the table.",
+      "options": {
+        "A": "was cooking",
+        "B": "am cooking",
+        "C": "cooked",
+        "D": "had cooked"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "What is the female equivalent of 'Nephew'?",
+      "options": {
+        "A": "Niece",
+        "B": "Cousin",
+        "C": "Aunt",
+        "D": "Sister"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which prefix can be added to the word 'Trust' to mean the opposite?",
+      "options": {
+        "A": "Mis-",
+        "B": "Un-",
+        "C": "Dis-",
+        "D": "In-"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 43,
+      "question": "I ______ never been to Lalibela, but I hope to go next year.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "am",
+        "D": "did"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "A person's child's child is their:",
+      "options": {
+        "A": "Grandchild",
+        "B": "Stepchild",
+        "C": "Nephew",
+        "D": "Cousin"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "Identify the formal way to introduce yourself.",
+      "options": {
+        "A": "Hey, I'm [Name].",
+        "B": "My name is [Name].",
+        "C": "Allow me to introduce myself; I am [Name].",
+        "D": "I am the one called [Name]."
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "They ______ to each other since their big argument last month.",
+      "options": {
+        "A": "haven't spoken",
+        "B": "not speaking",
+        "C": "wasn't spoken",
+        "D": "don't spoke"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "A 'Generation Gap' refers to differences in ______ between young and old people.",
+      "options": {
+        "A": "Attitudes and values",
+        "B": "Physical height",
+        "C": "Clothing sizes",
+        "D": "Eye color"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which of these is a typical duty of a family member?",
+      "options": {
+        "A": "Helping with chores",
+        "B": "Running away",
+        "C": "Stealing money",
+        "D": "Ignoring the elderly"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "We usually ______ coffee after dinner in my family.",
+      "options": {
+        "A": "drink",
+        "B": "drinks",
+        "C": "drank",
+        "D": "drinking"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "What does 'Ancestry' mean?",
+      "options": {
+        "A": "One's family descent or lineage",
+        "B": "One's future children",
+        "C": "One's neighbors",
+        "D": "One's physical strength"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

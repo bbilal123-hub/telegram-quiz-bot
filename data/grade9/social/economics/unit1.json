@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 9",
+  "subject": "Economics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The word 'Economics' is derived from the Greek word 'Oikonomia', which means:",
+      "options": {
+        "A": "Wealth creation",
+        "B": "Household management",
+        "C": "Government policy",
+        "D": "Market exchange"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The fundamental problem of economics that arises because human wants are unlimited but resources are limited is:",
+      "options": {
+        "A": "Inflation",
+        "B": "Scarcity",
+        "C": "Poverty",
+        "D": "Unemployment"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Economics is best defined as the study of:",
+      "options": {
+        "A": "How to make as much money as possible",
+        "B": "How society manages its scarce resources",
+        "C": "The stock market and banking",
+        "D": "How to eliminate human wants"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which branch of economics studies the behavior of individual decision-making units such as households and firms?",
+      "options": {
+        "A": "Macroeconomics",
+        "B": "Microeconomics",
+        "C": "Political Economics",
+        "D": "International Economics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "The value of the next best alternative that is sacrificed when a choice is made is called:",
+      "options": {
+        "A": "Fixed cost",
+        "B": "Opportunity cost",
+        "C": "Variable cost",
+        "D": "Sunk cost"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a macroeconomic issue?",
+      "options": {
+        "A": "The price of Teff in a local market",
+        "B": "The national unemployment rate of Ethiopia",
+        "C": "The profit of a specific coffee exporter",
+        "D": "A household's monthly budget"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The four factors of production are:",
+      "options": {
+        "A": "Money, Banks, Markets, Trade",
+        "B": "Land, Labor, Capital, Entrepreneurship",
+        "C": "Rent, Wages, Interest, Profit",
+        "D": "Food, Clothing, Shelter, Education"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "In economics, 'Land' as a factor of production includes:",
+      "options": {
+        "A": "Only the soil used for farming",
+        "B": "All natural resources above and below the ground",
+        "C": "Factories built on the earth",
+        "D": "Money used to buy property"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "A curve that shows the maximum combinations of two goods an economy can produce is the:",
+      "options": {
+        "A": "Demand Curve",
+        "B": "Production Possibilities Frontier (PPF)",
+        "C": "Supply Curve",
+        "D": "Lorenz Curve"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "If a point lies inside the Production Possibilities Frontier, it indicates that resources are:",
+      "options": {
+        "A": "Being used efficiently",
+        "B": "Underutilized or inefficiently used",
+        "C": "Unattainable with current technology",
+        "D": "Being used for maximum growth"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "The 'father of modern economics' who wrote 'The Wealth of Nations' is:",
+      "options": {
+        "A": "John Maynard Keynes",
+        "B": "Adam Smith",
+        "C": "Karl Marx",
+        "D": "David Ricardo"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "An economic system where the government makes all decisions regarding production and distribution is a:",
+      "options": {
+        "A": "Market economy",
+        "B": "Command (Planned) economy",
+        "C": "Mixed economy",
+        "D": "Traditional economy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The basic economic questions every society must answer are:",
+      "options": {
+        "A": "How much to tax? Who should vote? When to trade?",
+        "B": "What to produce? How to produce? For whom to produce?",
+        "C": "Where to build? Why to farm? How to sell?",
+        "D": "Who is rich? Who is poor? Why is it so?"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which factor of production is responsible for organizing the other three and taking risks?",
+      "options": {
+        "A": "Labor",
+        "B": "Capital",
+        "C": "Entrepreneurship",
+        "D": "Land"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "The reward or payment for 'Labor' is called:",
+      "options": {
+        "A": "Rent",
+        "B": "Interest",
+        "C": "Wages",
+        "D": "Profit"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "Economic growth can be represented on a PPF by:",
+      "options": {
+        "A": "A movement along the curve",
+        "B": "An outward shift of the curve",
+        "C": "An inward shift of the curve",
+        "D": "A movement toward the origin"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "Resources that are available in limited quantities are called:",
+      "options": {
+        "A": "Free goods",
+        "B": "Economic goods",
+        "C": "Public goods",
+        "D": "Common goods"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Positive economics deals with:",
+      "options": {
+        "A": "What 'ought' to be in an economy",
+        "B": "Facts and 'what is' in the economy",
+        "C": "Value judgments and opinions",
+        "D": "How to make people happy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Normative economics is based on:",
+      "options": {
+        "A": "Objective facts",
+        "B": "Value judgments and beliefs",
+        "C": "Scientific data",
+        "D": "Mathematical models"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The physical tools, machinery, and buildings used in production are called:",
+      "options": {
+        "A": "Financial Capital",
+        "B": "Physical Capital",
+        "C": "Human Capital",
+        "D": "Natural Resources"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The process of choosing one thing over another due to scarcity is called:",
+      "options": {
+        "A": "Competition",
+        "B": "Trade-off",
+        "C": "Surplus",
+        "D": "Elasticity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is an example of a 'free good'?",
+      "options": {
+        "A": "Clean drinking water in a city",
+        "B": "Sunshine",
+        "C": "Electricity",
+        "D": "Medical care"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The primary goal of a firm in a market economy is to:",
+      "options": {
+        "A": "Provide social welfare",
+        "B": "Maximize profit",
+        "C": "Pay high taxes",
+        "D": "Follow government orders"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The main objective of a household in an economy is to:",
+      "options": {
+        "A": "Maximize production",
+        "B": "Maximize utility (satisfaction)",
+        "C": "Collect interest",
+        "D": "Employ workers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "In a mixed economy, economic decisions are made by:",
+      "options": {
+        "A": "Only the government",
+        "B": "Only private individuals",
+        "C": "Both the government and private individuals",
+        "D": "Foreign investors only"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "Capitalism is another name for which economic system?",
+      "options": {
+        "A": "Command economy",
+        "B": "Market economy",
+        "C": "Traditional economy",
+        "D": "Socialist economy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Socialism is most closely associated with:",
+      "options": {
+        "A": "Free markets",
+        "B": "Command or Planned economies",
+        "C": "Barter systems",
+        "D": "Laissez-faire"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The problem of 'for whom to produce' refers to:",
+      "options": {
+        "A": "The technology used in production",
+        "B": "The distribution of goods and services among citizens",
+        "C": "The types of crops to plant",
+        "D": "The location of factories"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following would cause the PPF to shift inward?",
+      "options": {
+        "A": "New technology",
+        "B": "A natural disaster destroying resources",
+        "C": "Increase in the labor force",
+        "D": "Discovery of new oil fields"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "The economic school of thought that emphasizes government intervention to manage the economy is:",
+      "options": {
+        "A": "Classical Economics",
+        "B": "Keynesian Economics",
+        "C": "Monetarism",
+        "D": "Mercantilism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "A student spends 2 hours studying for an exam instead of sleeping. The opportunity cost is:",
+      "options": {
+        "A": "The grade on the exam",
+        "B": "The 2 hours of sleep",
+        "C": "The cost of the textbook",
+        "D": "The knowledge gained"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which economic agent provides the factors of production to firms?",
+      "options": {
+        "A": "The Government",
+        "B": "Households",
+        "C": "Banks",
+        "D": "Foreigners"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The payment for 'Capital' as a factor of production is:",
+      "options": {
+        "A": "Rent",
+        "B": "Interest",
+        "C": "Wage",
+        "D": "Profit"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Microeconomics would study which of the following?",
+      "options": {
+        "A": "Gross Domestic Product (GDP)",
+        "B": "The price of coffee in the international market",
+        "C": "Total inflation in Ethiopia",
+        "D": "National debt"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "What happens when resources are limited but wants are unlimited?",
+      "options": {
+        "A": "Everyone gets what they want",
+        "B": "Prices must be set at zero",
+        "C": "Choices must be made",
+        "D": "Economy stops working"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "The 'Invisible Hand' concept was introduced by:",
+      "options": {
+        "A": "Karl Marx",
+        "B": "Adam Smith",
+        "C": "Alfred Marshall",
+        "D": "J.M. Keynes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "An economy based on customs, beliefs, and habits is a:",
+      "options": {
+        "A": "Market economy",
+        "B": "Traditional economy",
+        "C": "Command economy",
+        "D": "Modern economy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Macroeconomics focuses on:",
+      "options": {
+        "A": "The behavior of individual consumers",
+        "B": "The performance of the economy as a whole",
+        "C": "Setting the price of a single good",
+        "D": "The competition between two firms"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a 'Capital' good?",
+      "options": {
+        "A": "A bag of Teff for home consumption",
+        "B": "A tractor used on a farm",
+        "C": "A pair of shoes worn to school",
+        "D": "A movie ticket"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "If an economy is producing on its PPF, it is:",
+      "options": {
+        "A": "Wasting resources",
+        "B": "Producing efficiently",
+        "C": "In a recession",
+        "D": "Suffering from inflation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The study of the relationship between economic variables like income and consumption is:",
+      "options": {
+        "A": "Economic Analysis",
+        "B": "Economic Policy",
+        "C": "Economic Goal",
+        "D": "Economic Theory"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 42,
+      "question": "The problem of 'how to produce' deals with:",
+      "options": {
+        "A": "Consumer income",
+        "B": "Techniques of production (Labor-intensive vs Capital-intensive)",
+        "C": "The quantity of goods",
+        "D": "Exporting goods"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which factor of production includes human effort, both physical and mental?",
+      "options": {
+        "A": "Land",
+        "B": "Labor",
+        "C": "Capital",
+        "D": "Entrepreneur"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "The primary problem in economics is:",
+      "options": {
+        "A": "How to make more money",
+        "B": "Allocating scarce resources to satisfy unlimited wants",
+        "C": "Controlling the population",
+        "D": "Reducing exports"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "In a command economy, who owns the most resources?",
+      "options": {
+        "A": "Private firms",
+        "B": "The State (Government)",
+        "C": "Foreign banks",
+        "D": "The Church"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Which of these is a characteristic of a market economy?",
+      "options": {
+        "A": "Central planning",
+        "B": "Private ownership of resources",
+        "C": "Price controls",
+        "D": "Absence of competition"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "A model used by economists to simplify and explain reality is called:",
+      "options": {
+        "A": "A dream",
+        "B": "An economic model",
+        "C": "A fallacy",
+        "D": "A policy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "The cost of an item in terms of the time and energy required to get it is its:",
+      "options": {
+        "A": "Market price",
+        "B": "Real cost",
+        "C": "Money cost",
+        "D": "Tax cost"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following describes the 'Entrepreneur'?",
+      "options": {
+        "A": "A person who works for a fixed salary",
+        "B": "A person who combines factors of production and takes risks",
+        "C": "A person who only saves money in a bank",
+        "D": "A person who buys natural resources"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The payment for 'Land' is:",
+      "options": {
+        "A": "Profit",
+        "B": "Interest",
+        "C": "Wage",
+        "D": "Rent"
+      },
+      "correct_option": "D"
+    }
+  ]
+}
+]

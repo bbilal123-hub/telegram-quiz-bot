@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 2: Energy Changes in Chemical Reactions",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "The study of heat energy changes during chemical reactions is called:",
+      "options": {
+        "A": "Thermochemistry",
+        "B": "Electrochemistry",
+        "C": "Biochemistry",
+        "D": "Analytical chemistry"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "A reaction that absorbs heat from the surroundings is known as an:",
+      "options": {
+        "A": "Exothermic reaction",
+        "B": "Isothermic reaction",
+        "C": "Endothermic reaction",
+        "D": "Adiabatic reaction"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "In an exothermic reaction, the temperature of the surroundings:",
+      "options": {
+        "A": "Decreases",
+        "B": "Stays the same",
+        "C": "Fluctuates",
+        "D": "Increases"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "The total heat content of a system at constant pressure is called:",
+      "options": {
+        "A": "Enthalpy",
+        "B": "Entropy",
+        "C": "Internal energy",
+        "D": "Work"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "For an exothermic reaction, the change in enthalpy (delta H) is always:",
+      "options": {
+        "A": "Positive",
+        "B": "Zero",
+        "C": "Negative",
+        "D": "One"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "Which of the following is an example of an exothermic process?",
+      "options": {
+        "A": "Combustion of charcoal",
+        "B": "Photosynthesis",
+        "C": "Evaporation of water",
+        "D": "Melting of ice"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "In an endothermic reaction, the energy of the products is:",
+      "options": {
+        "A": "Higher than the energy of reactants",
+        "B": "Lower than the energy of reactants",
+        "C": "Equal to the energy of reactants",
+        "D": "Zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "The SI unit of heat and energy is the:",
+      "options": {
+        "A": "Newton",
+        "B": "Pascal",
+        "C": "Joule",
+        "D": "Watt"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "Which instrument is used to measure the heat of a reaction?",
+      "options": {
+        "A": "Thermometer",
+        "B": "Barometer",
+        "C": "Hygrometer",
+        "D": "Calorimeter"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "The amount of heat required to raise the temperature of 1 gram of a substance by 1 degree Celsius is:",
+      "options": {
+        "A": "Specific heat capacity",
+        "B": "Molar heat capacity",
+        "C": "Heat of fusion",
+        "D": "Heat of vaporization"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Energy stored in the chemical bonds of a substance is a form of:",
+      "options": {
+        "A": "Potential energy",
+        "B": "Kinetic energy",
+        "C": "Thermal energy",
+        "D": "Light energy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "The equation delta H = H(products) - H(reactants) is used to calculate:",
+      "options": {
+        "A": "Enthalpy change",
+        "B": "Reaction rate",
+        "C": "Equilibrium constant",
+        "D": "Activation energy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Which process is endothermic?",
+      "options": {
+        "A": "Sublimation of dry ice",
+        "B": "Freezing of water",
+        "C": "Condensation of steam",
+        "D": "Respiration"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "In a thermochemical equation, if delta H is written on the product side, the reaction is:",
+      "options": {
+        "A": "Exothermic",
+        "B": "Endothermic",
+        "C": "Catalytic",
+        "D": "Slow"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Standard enthalpy changes are measured at what temperature?",
+      "options": {
+        "A": "25 degrees Celsius",
+        "B": "0 degrees Celsius",
+        "C": "100 degrees Celsius",
+        "D": "273 Kelvin"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "The minimum energy required to start a chemical reaction is the:",
+      "options": {
+        "A": "Potential energy",
+        "B": "Kinetic energy",
+        "C": "Activation energy",
+        "D": "Bond energy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "Bond breaking is an ______ process, while bond making is an ______ process.",
+      "options": {
+        "A": "Endothermic, Exothermic",
+        "B": "Exothermic, Endothermic",
+        "C": "Exothermic, Exothermic",
+        "D": "Endothermic, Endothermic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Hess's Law states that the total enthalpy change for a reaction is:",
+      "options": {
+        "A": "Dependent on the path taken",
+        "B": "Independent of the path taken",
+        "C": "Always zero",
+        "D": "Always negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question_number": 19,
+      "question": "The enthalpy change when one mole of a compound is formed from its elements in their standard states is:",
+      "options": {
+        "A": "Heat of combustion",
+        "B": "Heat of neutralization",
+        "C": "Standard enthalpy of formation",
+        "D": "Heat of solution"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "If a reaction releases 500 kJ of heat, its delta H is:",
+      "options": {
+        "A": "-500 kJ",
+        "B": "+500 kJ",
+        "C": "0 kJ",
+        "D": "500 J"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Which of the following has the highest specific heat capacity?",
+      "options": {
+        "A": "Water",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Aluminum"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Standard pressure for thermochemical measurements is:",
+      "options": {
+        "A": "1 atm",
+        "B": "10 atm",
+        "C": "0 atm",
+        "D": "100 atm"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "A spontaneous reaction at all temperatures must be:",
+      "options": {
+        "A": "Exothermic with increasing entropy",
+        "B": "Endothermic with decreasing entropy",
+        "C": "Exothermic with decreasing entropy",
+        "D": "Endothermic with increasing entropy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "The heat of neutralization for a strong acid and a strong base is approximately:",
+      "options": {
+        "A": "-57.3 kJ/mol",
+        "B": "+57.3 kJ/mol",
+        "C": "0 kJ/mol",
+        "D": "-100 kJ/mol"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "Which state of matter generally has the highest entropy?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Crystal"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "The heat energy required to melt 1 mole of a solid at its melting point is:",
+      "options": {
+        "A": "Molar heat of fusion",
+        "B": "Molar heat of vaporization",
+        "C": "Molar heat of sublimation",
+        "D": "Molar heat of reaction"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "In an energy level diagram for an endothermic reaction, the products are drawn:",
+      "options": {
+        "A": "Above the reactants",
+        "B": "Below the reactants",
+        "C": "At the same level as reactants",
+        "D": "Inside the reactants"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "An isolated system is one that exchanges:",
+      "options": {
+        "A": "Neither matter nor energy with surroundings",
+        "B": "Only energy with surroundings",
+        "C": "Only matter with surroundings",
+        "D": "Both matter and energy with surroundings"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "The change in enthalpy when one mole of a substance is completely burned in oxygen is:",
+      "options": {
+        "A": "Enthalpy of formation",
+        "B": "Enthalpy of combustion",
+        "C": "Enthalpy of hydration",
+        "D": "Enthalpy of solution"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question_number": 30,
+      "question": "If the delta H of a reaction is positive, the reaction is:",
+      "options": {
+        "A": "Endothermic",
+        "B": "Exothermic",
+        "C": "Fast",
+        "D": "Spontaneous"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "The First Law of Thermodynamics is also known as the Law of:",
+      "options": {
+        "A": "Conservation of Energy",
+        "B": "Conservation of Mass",
+        "C": "Constant Proportions",
+        "D": "Multiple Proportions"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "What is the delta H for the formation of an element in its standard state?",
+      "options": {
+        "A": "Zero",
+        "B": "Positive",
+        "C": "Negative",
+        "D": "100 kJ"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "A 'bomb calorimeter' is typically used for reactions involving:",
+      "options": {
+        "A": "Gases at high pressure",
+        "B": "Liquids at low temperature",
+        "C": "Solids at room temperature",
+        "D": "Aqueous solutions"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "When steam condenses into liquid water, energy is:",
+      "options": {
+        "A": "Released",
+        "B": "Absorbed",
+        "C": "Created",
+        "D": "Destroyed"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "Specific heat capacity is measured in:",
+      "options": {
+        "A": "J/(g deg C)",
+        "B": "J/g",
+        "C": "J/deg C",
+        "D": "Calories"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "If we reverse a chemical reaction, the sign of delta H:",
+      "options": {
+        "A": "Remains the same",
+        "B": "Changes to its opposite",
+        "C": "Becomes zero",
+        "D": "Becomes doubled"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question_number": 37,
+      "question": "A reaction with a very high activation energy will likely be:",
+      "options": {
+        "A": "Very slow",
+        "B": "Very fast",
+        "C": "Exothermic",
+        "D": "Endothermic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "The standard state of carbon is:",
+      "options": {
+        "A": "Graphite",
+        "B": "Diamond",
+        "C": "Carbon dioxide",
+        "D": "Carbon monoxide"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Which of the following is an intensive property?",
+      "options": {
+        "A": "Temperature",
+        "B": "Mass",
+        "C": "Volume",
+        "D": "Enthalpy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "The heat of solution can be:",
+      "options": {
+        "A": "Either endothermic or exothermic",
+        "B": "Only exothermic",
+        "C": "Only endothermic",
+        "D": "Zero only"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Energy is defined as the capacity to do:",
+      "options": {
+        "A": "Work",
+        "B": "Force",
+        "C": "Power",
+        "D": "Pressure"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "In a coffee-cup calorimeter, the pressure is assumed to be:",
+      "options": {
+        "A": "Constant",
+        "B": "Increasing",
+        "C": "Decreasing",
+        "D": "Zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "The symbol used for enthalpy is:",
+      "options": {
+        "A": "H",
+        "B": "E",
+        "C": "S",
+        "D": "G"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Freezing of water is an ______ process.",
+      "options": {
+        "A": "Exothermic",
+        "B": "Endothermic",
+        "C": "Isothermal",
+        "D": "Internal"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "Standard enthalpy of reaction is denoted by:",
+      "options": {
+        "A": "delta H deg",
+        "B": "H",
+        "C": "delta E",
+        "D": "Q"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "Which of the following is a state function?",
+      "options": {
+        "A": "Enthalpy",
+        "B": "Heat",
+        "C": "Work",
+        "D": "Distance"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "When a fuel burns, chemical energy is converted mostly into:",
+      "options": {
+        "A": "Thermal energy",
+        "B": "Nuclear energy",
+        "C": "Mechanical energy",
+        "D": "Electrical energy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Which prefix indicates a 'standard' condition in thermochemistry?",
+      "options": {
+        "A": "A degree symbol (deg)",
+        "B": "A plus sign (+)",
+        "C": "A minus sign (-)",
+        "D": "The letter 'S'"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "The thermal energy of a substance depends on its:",
+      "options": {
+        "A": "Mass and temperature",
+        "B": "Color and shape",
+        "C": "Position and height",
+        "D": "Velocity and direction"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "The sum of the kinetic and potential energies of all particles in a system is:",
+      "options": {
+        "A": "Internal energy",
+        "B": "Enthalpy",
+        "C": "Entropy",
+        "D": "Free energy"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 2: The Structure of the Atom",
+  "grade": 9,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Who is credited with the first modern atomic theory based on experimental evidence?",
+      "options": {
+        "A": "John Dalton",
+        "C": "Ernest Rutherford",
+        "D": "Niels Bohr",
+        "B": "J.J. Thomson"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "The central part of an atom that contains protons and neutrons is the:",
+      "options": {
+        "A": "Nucleus",
+        "C": "Electron cloud",
+        "D": "Shell",
+        "B": "Orbit"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "Which subatomic particle has a negative charge?",
+      "options": {
+        "A": "Electron",
+        "C": "Proton",
+        "D": "Neutron",
+        "B": "Positron"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "The atomic number of an element is equal to the number of ______ in its nucleus.",
+      "options": {
+        "A": "Protons",
+        "C": "Neutrons",
+        "D": "Electrons",
+        "B": "Positrons"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "Atoms of the same element with different numbers of neutrons are called:",
+      "options": {
+        "A": "Isotopes",
+        "C": "Ions",
+        "D": "Isomers",
+        "B": "Allotropes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "Who discovered the electron using the Cathode Ray Tube experiment?",
+      "options": {
+        "A": "J.J. Thomson",
+        "C": "James Chadwick",
+        "D": "John Dalton",
+        "B": "Ernest Rutherford"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "The mass number of an atom is the sum of:",
+      "options": {
+        "A": "Protons and Neutrons",
+        "C": "Protons and Electrons",
+        "D": "Neutrons and Electrons",
+        "B": "Only Protons"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Which subatomic particle was the last to be discovered (by James Chadwick)?",
+      "options": {
+        "A": "Neutron",
+        "C": "Proton",
+        "D": "Electron",
+        "B": "Nucleus"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "Rutherford's Gold Foil experiment led to the discovery of the:",
+      "options": {
+        "A": "Nucleus",
+        "C": "Electron",
+        "D": "Neutron",
+        "B": "Quark"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "The maximum number of electrons that the first energy level (K shell) can hold is:",
+      "options": {
+        "A": "2",
+        "C": "8",
+        "D": "18",
+        "B": "32"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "In the Bohr model, electrons move in fixed paths called:",
+      "options": {
+        "A": "Energy levels (Orbits)",
+        "C": "Nuclei",
+        "D": "Quarks",
+        "B": "Protons"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "The charge of a neutron is:",
+      "options": {
+        "A": "Neutral (Zero)",
+        "C": "Positive",
+        "D": "Negative",
+        "B": "Variable"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "If an atom has 11 protons and 12 neutrons, its mass number is:",
+      "options": {
+        "A": "23",
+        "C": "11",
+        "D": "12",
+        "B": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "The word 'atom' comes from the Greek word 'atomos', which means:",
+      "options": {
+        "A": "Indivisible",
+        "C": "Invisible",
+        "D": "Small ball",
+        "B": "Liquid"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Which model of the atom is often called the 'Plum Pudding' model?",
+      "options": {
+        "A": "Thomson's Model",
+        "C": "Dalton's Model",
+        "D": "Bohr's Model",
+        "B": "Rutherford's Model"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Isotopes of an element have the same ______ but different mass numbers.",
+      "options": {
+        "A": "Atomic number",
+        "C": "Neutron number",
+        "D": "Number of shells",
+        "B": "Density"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "Most of the mass of an atom is concentrated in the:",
+      "options": {
+        "A": "Nucleus",
+        "C": "Electron cloud",
+        "D": "Outer shell",
+        "B": "Space between shells"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Which subatomic particle determines the identity of an element?",
+      "options": {
+        "A": "Proton",
+        "C": "Neutron",
+        "D": "Electron",
+        "B": "Ion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "An atom is electrically neutral because it has an equal number of:",
+      "options": {
+        "A": "Protons and Electrons",
+        "C": "Protons and Neutrons",
+        "D": "Neutrons and Electrons",
+        "B": "Shells and Nuclei"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "The second energy level (L shell) can hold a maximum of ______ electrons.",
+      "options": {
+        "A": "8",
+        "C": "2",
+        "D": "18",
+        "B": "10"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "The unit used to measure the mass of subatomic particles is:",
+      "options": {
+        "A": "Atomic Mass Unit (amu)",
+        "C": "Gram",
+        "D": "Kilogram",
+        "B": "Liter"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "Which particles are found in the nucleus of an atom?",
+      "options": {
+        "A": "Protons and Neutrons",
+        "C": "Electrons and Protons",
+        "D": "Only Electrons",
+        "B": "Electrons and Neutrons"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "A neutral atom of Sodium (Na) has an atomic number of 11. How many electrons does it have?",
+      "options": {
+        "A": "11",
+        "C": "12",
+        "D": "23",
+        "B": "22"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "Cathode rays are streams of fast-moving:",
+      "options": {
+        "A": "Electrons",
+        "C": "Protons",
+        "D": "Neutrons",
+        "B": "Alpha particles"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "Alpha particles are ______ charged particles used in Rutherford's experiment.",
+      "options": {
+        "A": "Positively",
+        "C": "Negatively",
+        "D": "Neutrally",
+        "B": "Weightless"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "What happens when an electron jumps from a lower energy level to a higher energy level?",
+      "options": {
+        "A": "It absorbs energy",
+        "C": "It releases energy",
+        "D": "It gains a proton",
+        "B": "It loses mass"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "The arrangement of electrons in the various shells of an atom is called:",
+      "options": {
+        "A": "Electronic configuration",
+        "C": "Atomic notation",
+        "D": "Isotopic ratio",
+        "B": "Nuclear force"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "Which element has only one proton and no neutrons in its most common isotope?",
+      "options": {
+        "A": "Hydrogen",
+        "C": "Helium",
+        "D": "Lithium",
+        "B": "Carbon"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Carbon-12 and Carbon-14 are examples of:",
+      "options": {
+        "A": "Isotopes",
+        "C": "Ions",
+        "D": "Compounds",
+        "B": "Metals"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "The mass of an electron is ______ compared to a proton.",
+      "options": {
+        "A": "Very small (negligible)",
+        "C": "Almost equal",
+        "D": "Double",
+        "B": "Much larger"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "What is the atomic number of Carbon?",
+      "options": {
+        "A": "6",
+        "C": "12",
+        "D": "14",
+        "B": "8"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Which of these is the correct formula for the maximum number of electrons in a shell 'n'?",
+      "options": {
+        "A": "2n^2",
+        "C": "n^2",
+        "D": "2n",
+        "B": "4n"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Electrons found in the outermost shell are called ______ electrons.",
+      "options": {
+        "A": "Valence",
+        "C": "Core",
+        "D": "Free",
+        "B": "Bonded"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "If an atom gains an electron, it becomes a:",
+      "options": {
+        "A": "Negatively charged ion (Anion)",
+        "C": "Positively charged ion (Cation)",
+        "D": "New element",
+        "B": "Neutral atom"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "The path of an electron around the nucleus in the Bohr model is:",
+      "options": {
+        "A": "Circular",
+        "C": "Linear",
+        "D": "Random",
+        "B": "Triangular"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Who proposed that an atom is a solid, indivisible sphere?",
+      "options": {
+        "A": "John Dalton",
+        "C": "Niels Bohr",
+        "D": "J.J. Thomson",
+        "B": "Ernest Rutherford"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "A Helium atom has 2 protons and 2 neutrons. What is its mass number?",
+      "options": {
+        "A": "4",
+        "C": "2",
+        "D": "0",
+        "B": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "The fundamental particle with a mass of 1 amu and a positive charge is a:",
+      "options": {
+        "A": "Proton",
+        "C": "Neutron",
+        "D": "Electron",
+        "B": "Nucleus"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "What is the electronic configuration of Oxygen (Atomic number 8)?",
+      "options": {
+        "A": "2, 6",
+        "C": "2, 8",
+        "D": "6, 2",
+        "B": "8, 0"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "How many neutrons are in an atom with atomic number 17 and mass number 35?",
+      "options": {
+        "A": "18",
+        "C": "17",
+        "D": "35",
+        "B": "52"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "The region outside the nucleus where electrons are most likely found is the:",
+      "options": {
+        "A": "Electron cloud/shells",
+        "C": "Nucleus",
+        "D": "Proton field",
+        "B": "Empty space"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Which of these is the symbol for the mass number?",
+      "options": {
+        "A": "A",
+        "C": "Z",
+        "D": "M",
+        "B": "X"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "Which scientist discovered that the atom is mostly empty space?",
+      "options": {
+        "A": "Ernest Rutherford",
+        "C": "John Dalton",
+        "D": "James Chadwick",
+        "B": "Niels Bohr"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Valence electrons determine the ______ properties of an element.",
+      "options": {
+        "A": "Chemical",
+        "C": "Physical",
+        "D": "Nuclear",
+        "B": "Biological"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "An atom with 8 valence electrons (like Neon) is usually:",
+      "options": {
+        "A": "Stable and unreactive",
+        "C": "Highly reactive",
+        "D": "A metal",
+        "B": "An isotope"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "The atomic number is usually written as a ______ in the standard notation of an element.",
+      "options": {
+        "A": "Subscript",
+        "C": "Superscript",
+        "D": "Prefix",
+        "B": "Suffix"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Which of these describes the Bohr model correctly?",
+      "options": {
+        "A": "Electrons orbit the nucleus like planets around the sun",
+        "C": "The atom is a solid ball of positive charge",
+        "D": "Electrons are stuck in the nucleus",
+        "B": "Neutrons orbit the electrons"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Protons and Neutrons are together called:",
+      "options": {
+        "A": "Nucleons",
+        "C": "Isotopes",
+        "D": "Ions",
+        "B": "Atoms"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "What is the charge of an alpha particle?",
+      "options": {
+        "A": "+2",
+        "C": "-1",
+        "D": "0",
+        "B": "-2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "When an electron falls from a higher energy level to a lower one, it emits energy in the form of:",
+      "options": {
+        "A": "Light (Photons)",
+        "C": "Mass",
+        "D": "Protons",
+        "B": "Gravity"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

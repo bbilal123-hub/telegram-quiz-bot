@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 10",
+  "subject": "History",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The term 'Renaissance' literally means:",
+      "options": {
+        "A": "Revolution",
+        "B": "Rebirth",
+        "C": "Reform",
+        "D": "Resistance"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The Renaissance began in which European country?",
+      "options": {
+        "A": "France",
+        "B": "Italy",
+        "C": "Germany",
+        "D": "England"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Who is the author of the famous book 'The Prince'?",
+      "options": {
+        "A": "Leonardo da Vinci",
+        "B": "Niccolò Machiavelli",
+        "C": "William Shakespeare",
+        "D": "Dante Alighieri"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The invention of the printing press in Europe is credited to:",
+      "options": {
+        "A": "Johannes Gutenberg",
+        "B": "Isaac Newton",
+        "C": "Martin Luther",
+        "D": "Galileo Galilei"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "Humanism, a key intellectual movement of the Renaissance, focused on:",
+      "options": {
+        "A": "Religious rituals",
+        "B": "Military expansion",
+        "C": "Human potential and achievements",
+        "D": "The afterlife"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "The Reformation movement was started by Martin Luther in 1517 in:",
+      "options": {
+        "A": "Italy",
+        "B": "Spain",
+        "C": "Switzerland",
+        "D": "Germany"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 7,
+      "question": "Martin Luther protested against the Catholic Church primarily because of:",
+      "options": {
+        "A": "The sale of indulgences",
+        "B": "The use of Latin in bibles",
+        "C": "The election of the Pope",
+        "D": "The design of churches"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "Which Portuguese explorer was the first European to reach India by sea in 1498?",
+      "options": {
+        "A": "Christopher Columbus",
+        "B": "Ferdinand Magellan",
+        "C": "Vasco da Gama",
+        "D": "Bartholomew Diaz"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "Christopher Columbus reached the Americas in 1492 while sailing for which country?",
+      "options": {
+        "A": "Portugal",
+        "B": "Spain",
+        "C": "France",
+        "D": "Holland"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "The first expedition to circumnavigate the world was led by:",
+      "options": {
+        "A": "Amerigo Vespucci",
+        "B": "John Cabot",
+        "C": "James Cook",
+        "D": "Ferdinand Magellan"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 11,
+      "question": "The 'Trans-Atlantic Slave Trade' is also known as:",
+      "options": {
+        "A": "The Silk Road",
+        "B": "The Triangular Trade",
+        "C": "The Saharan Trade",
+        "D": "The Indian Ocean Trade"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "In the Triangular Trade, what was typically transported from Africa to the Americas?",
+      "options": {
+        "A": "Sugar and Tobacco",
+        "B": "Manufactured goods",
+        "C": "Enslaved human beings",
+        "D": "Guns and Rum"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "The 'Middle Passage' refers to:",
+      "options": {
+        "A": "The route from Europe to Africa",
+        "B": "A trade route through Central Asia",
+        "C": "The passage around South America",
+        "D": "The horrific journey of enslaved Africans across the Atlantic"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 14,
+      "question": "The Industrial Revolution first began in which country?",
+      "options": {
+        "A": "Great Britain",
+        "B": "The USA",
+        "C": "France",
+        "D": "Japan"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "Which invention was the most important power source of the early Industrial Revolution?",
+      "options": {
+        "A": "The internal combustion engine",
+        "B": "The Steam Engine",
+        "C": "Electric Motor",
+        "D": "Water Wheel"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "James Watt is famous for improving the:",
+      "options": {
+        "A": "Spinning Jenny",
+        "B": "Locomotive",
+        "C": "Steam Engine",
+        "D": "Telegraph"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "The Enlightenment was an intellectual movement that emphasized:",
+      "options": {
+        "A": "Reason and individualism",
+        "B": "Blind faith in tradition",
+        "C": "Absolute monarchy",
+        "D": "Religious dogma"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "The American War of Independence was fought against which colonial power?",
+      "options": {
+        "A": "France",
+        "B": "Spain",
+        "C": "Britain",
+        "D": "The Netherlands"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "The French Revolution began in which year?",
+      "options": {
+        "A": "1776",
+        "B": "1789",
+        "C": "1815",
+        "D": "1799"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The famous slogan of the French Revolution was 'Liberty, Equality, and _________':",
+      "options": {
+        "A": "Prosperity",
+        "B": "Democracy",
+        "C": "Fraternity",
+        "D": "Loyalty"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 21,
+      "question": "Napoleon Bonaparte became the Emperor of which country?",
+      "options": {
+        "A": "Italy",
+        "B": "Germany",
+        "C": "Russia",
+        "D": "France"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 22,
+      "question": "The Battle of Waterloo (1815) marked the final defeat of:",
+      "options": {
+        "A": "Napoleon Bonaparte",
+        "B": "King George III",
+        "C": "Louis XVI",
+        "D": "Maximilien Robespierre"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "The Congress of Vienna (1814-1815) aimed to:",
+      "options": {
+        "A": "Start a new revolution",
+        "B": "Restore order and balance of power in Europe",
+        "C": "Promote democracy",
+        "D": "Abolish slavery immediately"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Who led the unification of Germany in 1871?",
+      "options": {
+        "A": "Otto von Bismarck",
+        "B": "Guiseppe Garibaldi",
+        "C": "Adolf Hitler",
+        "D": "Kaiser Wilhelm II"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "Mercantilism was an economic theory that suggested a nation's wealth depended on:",
+      "options": {
+        "A": "Free trade",
+        "B": "Agricultural output only",
+        "C": "Accumulating gold and silver",
+        "D": "High wages for workers"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "The Scientific Revolution was characterized by the use of:",
+      "options": {
+        "A": "Observation and experimentation",
+        "B": "Superstition",
+        "C": "Ancient myths",
+        "D": "Strict religious laws"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "Nicolaus Copernicus is famous for proposing the:",
+      "options": {
+        "A": "Geocentric theory",
+        "B": "Heliocentric theory",
+        "C": "Theory of Gravity",
+        "D": "Circulation of blood"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The policy of 'Laissez-faire' in economics means:",
+      "options": {
+        "A": "Strict government control",
+        "B": "High taxes on imports",
+        "C": "Minimal government interference",
+        "D": "Abolition of private property"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "Karl Marx is the co-author of which influential book?",
+      "options": {
+        "A": "The Wealth of Nations",
+        "B": "Social Contract",
+        "C": "Spirit of Laws",
+        "D": "The Communist Manifesto"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 30,
+      "question": "The 'Enclosure Movement' in England was related to:",
+      "options": {
+        "A": "Factory safety",
+        "B": "Agriculture and land ownership",
+        "C": "Religious freedom",
+        "D": "Building of schools"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which social class grew significantly during the Industrial Revolution?",
+      "options": {
+        "A": "The Peasantry",
+        "B": "The Clergy",
+        "C": "The Urban Working Class",
+        "D": "The Nobility"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "Eli Whitney's invention of the 'Cotton Gin' led to an increase in:",
+      "options": {
+        "A": "Industrial safety",
+        "B": "The demand for slave labor in the US South",
+        "C": "The price of clothing",
+        "D": "Peace between North and South"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The Monroe Doctrine (1823) warned European powers against:",
+      "options": {
+        "A": "Trading with China",
+        "B": "Intervening in the Americas",
+        "C": "Developing steam engines",
+        "D": "Abolishing the slave trade"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Which European explorer claimed Australia for Great Britain?",
+      "options": {
+        "A": "James Cook",
+        "B": "John Smith",
+        "C": "Henry Hudson",
+        "D": "Francis Drake"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "The Ottoman Empire's control over trade routes was a factor that led Europeans to:",
+      "options": {
+        "A": "Stop trading with Asia",
+        "B": "Join the Ottoman Empire",
+        "C": "Find new sea routes to the East",
+        "D": "Invade Russia"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "The Jesuits were a religious order created to:",
+      "options": {
+        "A": "Spread Protestantism",
+        "B": "Lead the French Revolution",
+        "C": "Spread Catholicism and counter the Reformation",
+        "D": "Promote the Industrial Revolution"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 37,
+      "question": "Simón Bolívar is known as the 'Liberator' of:",
+      "options": {
+        "A": "South America",
+        "B": "Africa",
+        "C": "Southeast Asia",
+        "D": "The Balkans"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "Urbanization during the 19th century was primarily caused by:",
+      "options": {
+        "A": "A decrease in population",
+        "B": "The factory system and industrial growth",
+        "C": "The spread of the plague",
+        "D": "Government forced migration"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The 'Bastille' was a symbol of royal tyranny in:",
+      "options": {
+        "A": "England",
+        "B": "Germany",
+        "C": "Russia",
+        "D": "France"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 40,
+      "question": "The Treaty of Tordesillas (1494) divided the newly discovered lands between:",
+      "options": {
+        "A": "England and France",
+        "B": "Spain and Portugal",
+        "C": "Italy and Germany",
+        "D": "The US and Britain"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The 'Reign of Terror' is associated with which historical figure?",
+      "options": {
+        "A": "Maximilien Robespierre",
+        "B": "Napoleon Bonaparte",
+        "C": "George Washington",
+        "D": "Louis XIV"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "What was the main outcome of the Glorious Revolution (1688) in England?",
+      "options": {
+        "A": "Absolute Monarchy was established",
+        "B": "Constitutional Monarchy was established",
+        "C": "England became a Catholic nation",
+        "D": "Slavery was abolished"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "John Locke's 'Natural Rights' included:",
+      "options": {
+        "A": "Life, Liberty, and Property",
+        "B": "Food, Shelter, and Clothing",
+        "C": "Speech, Religion, and Press",
+        "D": "War, Peace, and Justice"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following was a result of the Meiji Restoration in Japan?",
+      "options": {
+        "A": "Japan became an isolationist country",
+        "B": "Japan modernized and industrialized rapidly",
+        "C": "Japan was colonized by Britain",
+        "D": "The Shogunate gained more power"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The Qing Dynasty was the last imperial dynasty of:",
+      "options": {
+        "A": "Japan",
+        "B": "Vietnam",
+        "C": "China",
+        "D": "Korea"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "The Abolitionist movement aimed to end:",
+      "options": {
+        "A": "Taxes",
+        "B": "Monarchy",
+        "C": "War",
+        "D": "Slavery"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 47,
+      "question": "The Edict of Nantes (1598) granted religious tolerance to:",
+      "options": {
+        "A": "Catholics in England",
+        "B": "Huguenots in France",
+        "C": "Muslims in Spain",
+        "D": "Jews in Germany"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "The 1848 Revolutions across Europe are often called the:",
+      "options": {
+        "A": "Springtime of Peoples",
+        "B": "Great Awakening",
+        "C": "Reign of Terror",
+        "D": "Golden Age"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "The 'Declaration of the Rights of Man and of the Citizen' was a document from the:",
+      "options": {
+        "A": "American Revolution",
+        "B": "Glorious Revolution",
+        "C": "French Revolution",
+        "D": "Russian Revolution"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 50,
+      "question": "The industrial city of Manchester became famous for its:",
+      "options": {
+        "A": "Mining",
+        "B": "Textile industry",
+        "C": "Shipbuilding",
+        "D": "Farming"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

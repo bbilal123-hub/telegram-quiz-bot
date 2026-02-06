@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "English",
+  "unit": "Unit 2: Education and Life Skills",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Education that takes place in a classroom and follows a structured curriculum is called:",
+      "options": {
+        "A": "Informal education",
+        "B": "Formal education",
+        "C": "Non-formal education",
+        "D": "Self-learning"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Learning that occurs through daily life experiences and interactions is known as:",
+      "options": {
+        "A": "Formal education",
+        "B": "Informal education",
+        "C": "Tertiary education",
+        "D": "Vocational training"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which tense is used for an action that was completed at a specific time in the past?",
+      "options": {
+        "A": "Past Continuous",
+        "B": "Past Simple",
+        "C": "Present Perfect",
+        "D": "Past Perfect"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "Complete the sentence: 'While I ________ for the exam, the lights went out.'",
+      "options": {
+        "A": "studied",
+        "B": "was studying",
+        "C": "am studying",
+        "D": "had studied"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "A person who continues to learn new skills throughout their entire life is a:",
+      "options": {
+        "A": "Dropout",
+        "B": "Lifelong learner",
+        "C": "Graduate",
+        "D": "Professor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of a study skill?",
+      "options": {
+        "A": "Sleeping late",
+        "B": "Time management",
+        "C": "Watching television",
+        "D": "Skipping classes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "Vocational education focuses primarily on:",
+      "options": {
+        "A": "Theoretical philosophy",
+        "B": "Practical skills and trade",
+        "C": "Ancient history",
+        "D": "Poetry writing"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "Identify the correct past form of the irregular verb 'teach'.",
+      "options": {
+        "A": "Teached",
+        "B": "Taught",
+        "C": "Taughten",
+        "D": "Teaching"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "What does the 'S' stand for in SMART goals?",
+      "options": {
+        "A": "Simple",
+        "B": "Specific",
+        "C": "Strong",
+        "D": "Smart"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "Education levels such as University and College are referred to as:",
+      "options": {
+        "A": "Primary education",
+        "B": "Tertiary education",
+        "C": "Secondary education",
+        "D": "Kindergarten"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "In the sentence 'I was walking to school when I saw him,' the action 'was walking' is:",
+      "options": {
+        "A": "A completed short action",
+        "B": "An ongoing background action",
+        "C": "A future intention",
+        "D": "A permanent habit"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which of these is a synonym for 'compulsory'?",
+      "options": {
+        "A": "Optional",
+        "B": "Mandatory",
+        "C": "Unnecessary",
+        "D": "Voluntary"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The prefix 'il-' is used to make the opposite of which word?",
+      "options": {
+        "A": "Legal",
+        "B": "Literate",
+        "C": "Logical",
+        "D": "All of the above"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 14,
+      "question": "The ability to read and write is called:",
+      "options": {
+        "A": "Numeracy",
+        "B": "Literacy",
+        "C": "Legacy",
+        "D": "Accuracy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which phrase is used to give advice about education?",
+      "options": {
+        "A": "I don't think so.",
+        "B": "You should focus on your studies.",
+        "C": "What time is it?",
+        "D": "I am eating."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "'They ________ football when it started to rain.'",
+      "options": {
+        "A": "played",
+        "B": "were playing",
+        "C": "are playing",
+        "D": "have played"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "A 'curriculum' is:",
+      "options": {
+        "A": "A school building",
+        "B": "The subjects comprising a course of study",
+        "C": "A type of student",
+        "D": "An examination paper"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The word 'scholarship' refers to:",
+      "options": {
+        "A": "A school bus",
+        "B": "Financial aid for a student's education",
+        "C": "A student's backpack",
+        "D": "A summer vacation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is NOT a soft skill?",
+      "options": {
+        "A": "Communication",
+        "B": "Computer programming",
+        "C": "Teamwork",
+        "D": "Problem-solving"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The Past Continuous tense is formed with:",
+      "options": {
+        "A": "am/is/are + verb-ing",
+        "B": "was/were + verb-ing",
+        "C": "have/has + verb-ed",
+        "D": "did + verb"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "What is the primary goal of 'non-formal' education?",
+      "options": {
+        "A": "To get a PhD",
+        "B": "To provide flexible learning outside the school system",
+        "C": "To learn by accident",
+        "D": "To play games"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Choosing a 'career path' involves:",
+      "options": {
+        "A": "Buying new clothes",
+        "B": "Selecting a professional direction for the future",
+        "C": "Going for a walk",
+        "D": "Fixing a car"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which verb form is correct? 'Last year, I ________ to Jimma.'",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "am going",
+        "D": "gone"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The 'Cornell Method' is a popular technique for:",
+      "options": {
+        "A": "Cooking",
+        "B": "Note-taking",
+        "C": "Running",
+        "D": "Singing"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "To 'enrol' in a course means to:",
+      "options": {
+        "A": "Finish the course",
+        "B": "Officially register for the course",
+        "C": "Fail the course",
+        "D": "Teach the course"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Critical thinking involves:",
+      "options": {
+        "A": "Believing everything you read",
+        "B": "Analyzing and evaluating information objectively",
+        "C": "Memorizing facts only",
+        "D": "Agreeing with the teacher always"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence is in the Past Continuous?",
+      "options": {
+        "A": "I studied hard.",
+        "B": "I was studying all night.",
+        "C": "I will study later.",
+        "D": "I have studied."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The abbreviation 'ICT' stands for:",
+      "options": {
+        "A": "International Center of Teaching",
+        "B": "Information and Communication Technology",
+        "C": "Internal Computer Training",
+        "D": "Integrated Classroom Tools"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "A 'dropout' is a student who:",
+      "options": {
+        "A": "Excels in sports",
+        "B": "Leaves school before finishing their degree",
+        "C": "Graduates with honors",
+        "D": "Enrolls in two schools"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "'At 8:00 PM last night, I ________ dinner.'",
+      "options": {
+        "A": "eat",
+        "B": "was eating",
+        "C": "eaten",
+        "D": "ate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Peer pressure can be:",
+      "options": {
+        "A": "Only negative",
+        "B": "Both positive and negative",
+        "C": "Only positive",
+        "D": "Non-existent in schools"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "A 'mentor' is someone who:",
+      "options": {
+        "A": "Competes with you",
+        "B": "Guides and advises a less experienced person",
+        "C": "Is a total stranger",
+        "D": "Is a younger student"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is a transition word for showing contrast?",
+      "options": {
+        "A": "Furthermore",
+        "B": "However",
+        "C": "Therefore",
+        "D": "In addition"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Plagiarism is the act of:",
+      "options": {
+        "A": "Studying in a group",
+        "B": "Taking someone else's work and passing it off as your own",
+        "C": "Writing a long essay",
+        "D": "Citing sources correctly"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The 'past simple' of the verb 'buy' is:",
+      "options": {
+        "A": "Buyed",
+        "B": "Bought",
+        "C": "Brought",
+        "D": "Buying"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Distance learning refers to:",
+      "options": {
+        "A": "Running a long distance",
+        "B": "Education where students and teachers are not in the same place",
+        "C": "Learning about geography",
+        "D": "Studying in a library"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which is correct? 'I ________ my key while I was playing.'",
+      "options": {
+        "A": "was losing",
+        "B": "lost",
+        "C": "lose",
+        "D": "had lost"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Co-curricular activities are:",
+      "options": {
+        "A": "Illegal activities",
+        "B": "Activities that complement the regular curriculum",
+        "C": "Subjects that are not graded",
+        "D": "Homework assignments"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "A 'synonym' for 'intelligent' is:",
+      "options": {
+        "A": "Dull",
+        "B": "Bright",
+        "C": "Lazy",
+        "D": "Slow"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'used to' correctly for a past habit?",
+      "options": {
+        "A": "I am used to play tennis.",
+        "B": "I used to play tennis when I was young.",
+        "C": "I use to play tennis.",
+        "D": "I using to play tennis."
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "What is 'financial literacy'?",
+      "options": {
+        "A": "The ability to write a check",
+        "B": "Understanding how to manage money effectively",
+        "C": "Knowing the history of money",
+        "D": "Working in a bank"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Self-discipline is important in education because it helps with:",
+      "options": {
+        "A": "Making friends",
+        "B": "Staying focused and achieving goals",
+        "C": "Eating healthy",
+        "D": "Sleeping more"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which suffix makes 'educate' a noun?",
+      "options": {
+        "A": "-ly",
+        "B": "-ion",
+        "C": "-ive",
+        "D": "-able"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "The word 'comprehensive' means:",
+      "options": {
+        "A": "Incomplete",
+        "B": "Including all or nearly all elements",
+        "C": "Very difficult",
+        "D": "Very easy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Identify the past continuous form: 'We ________ (work) all day.'",
+      "options": {
+        "A": "worked",
+        "B": "were working",
+        "C": "are working",
+        "D": "was working"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "A 'vocational' school is best for someone who wants to be a:",
+      "options": {
+        "A": "Philosopher",
+        "B": "Mechanic",
+        "C": "Historian",
+        "D": "Theoretical physicist"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Active listening in a classroom means:",
+      "options": {
+        "A": "Writing down every word",
+        "B": "Paying close attention and responding meaningfully",
+        "C": "Looking out the window",
+        "D": "Talking to classmates"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "What is 'intrinsic motivation'?",
+      "options": {
+        "A": "Doing something for a reward",
+        "B": "Doing something because it is inherently satisfying",
+        "C": "Doing something because you are forced",
+        "D": "Not doing anything at all"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The opposite of 'success' is:",
+      "options": {
+        "A": "Victory",
+        "B": "Failure",
+        "C": "Progress",
+        "D": "Achievement"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "When taking notes, 'paraphrasing' means:",
+      "options": {
+        "A": "Copying word for word",
+        "B": "Rewriting information in your own words",
+        "C": "Deleting information",
+        "D": "Ignoring the teacher"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

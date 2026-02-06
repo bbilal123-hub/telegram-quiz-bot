@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "History",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The linguistic classification of the peoples of Ethiopia and the Horn belongs to which major family?",
+      "options": {
+        "A": "Nilo-Saharan",
+        "B": "Afro-Asiatic",
+        "C": "Niger-Congo",
+        "D": "Khoisan"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a branch of the Afro-Asiatic super-family in Ethiopia?",
+      "options": {
+        "A": "Cushitic",
+        "B": "Semitic",
+        "C": "Bantu",
+        "D": "Omotic"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "The Kingdom of Damat (D'mt) is believed to have existed in northern Ethiopia around:",
+      "options": {
+        "A": "1000 BCE to 400 BCE",
+        "B": "500 CE to 1000 CE",
+        "C": "2000 BCE",
+        "D": "1500 CE"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "Aksum reached its height of power and converted to Christianity during the reign of:",
+      "options": {
+        "A": "King Kaleb",
+        "B": "King Ezana",
+        "C": "King Armah",
+        "D": "King Zoskales"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "The legendary Queen Yodit (Gudit) is associated with the downfall of which empire?",
+      "options": {
+        "A": "Zagwe",
+        "B": "Aksumite",
+        "C": "Gondarine",
+        "D": "Adal"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "The Zagwe Dynasty is most famous for the rock-hewn churches of Lalibela, which were built in the style of:",
+      "options": {
+        "A": "Egyptian Pyramids",
+        "B": "Aksumite architecture",
+        "C": "Greek temples",
+        "D": "Indian stupas"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The 'Solomonic' Dynasty was 'restored' in 1270 by:",
+      "options": {
+        "A": "Yekuno Amlak",
+        "B": "Amda Seyon",
+        "C": "Zara Yaqob",
+        "D": "Lalibela"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "Which monarch is known as the greatest expansionist of the Solomonic Dynasty in the 14th century?",
+      "options": {
+        "A": "Libne Dingel",
+        "B": "Amda Seyon",
+        "C": "Susenyos",
+        "D": "Iyasu I"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "The system of 'Royal Prison' for male heirs to the throne was located at:",
+      "options": {
+        "A": "Amba Geshen",
+        "B": "Debre Damo",
+        "C": "Lalibela",
+        "D": "Gondar"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "The Muslim Sultanate that became the primary rival of the Christian Kingdom in the 14th and 15th centuries was:",
+      "options": {
+        "A": "Mogadishu",
+        "B": "Adal",
+        "C": "Ifat",
+        "D": "Bali"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "Imam Ahmed ibn Ibrahim al-Ghazi (Ahmed Gragn) defeated the Christian army at the Battle of Shimbra Kure in:",
+      "options": {
+        "A": "1529",
+        "B": "1444",
+        "C": "1543",
+        "D": "1632"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 12,
+      "question": "The Christian Kingdom finally defeated Imam Ahmed in 1543 with the help of:",
+      "options": {
+        "A": "The Ottoman Turks",
+        "B": "The Portuguese",
+        "C": "The British",
+        "D": "The Egyptians"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The Oromo population movement of the 16th century was facilitated by which social organization?",
+      "options": {
+        "A": "The Sharia law",
+        "B": "The Gadaa System",
+        "C": "The Feudal system",
+        "D": "The Monarchy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "The Oromo initiation ceremony held every eight years is known as:",
+      "options": {
+        "A": "Mooti",
+        "B": "Butta",
+        "C": "Gumi Gaayo",
+        "D": "Jila"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The capital of the Ethiopian Empire was permanently established at Gondar in 1636 by:",
+      "options": {
+        "A": "Emperor Yohannes I",
+        "B": "Emperor Fasiladas",
+        "C": "Emperor Bakaffa",
+        "D": "Emperor Tewodros II"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "The 'Zemene Mesafint' (Era of Princes) is characterized by:",
+      "options": {
+        "A": "Strong central authority",
+        "B": "The dominance of regional lords and a weak Emperor",
+        "C": "Peace and prosperity",
+        "D": "The end of Christianity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "Who was the powerful figure that began the Zemene Mesafint after the assassination of Iyasu I?",
+      "options": {
+        "A": "Ras Ali I",
+        "B": "Ras Michael Sehul",
+        "C": "Ras Gugsa",
+        "D": "Ras Wube"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The Gibe states (like Limmu-Enarya and Jimma) became wealthy primarily through the trade of:",
+      "options": {
+        "A": "Salt and Iron",
+        "B": "Coffee, Gold, and Civet Musk",
+        "C": "Sugar and Tea",
+        "D": "Fish and Timber"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "The Kingdom of Kaffa was ruled by a king who held the title of:",
+      "options": {
+        "A": "Mooti",
+        "B": "Gaki Sherocho",
+        "C": "Tato",
+        "D": "Negus"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "The Oromo states in the Gibe region converted mostly to which religion in the 19th century?",
+      "options": {
+        "A": "Orthodox Christianity",
+        "B": "Islam",
+        "C": "Catholicism",
+        "D": "Judaism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The 'Kebra Nagast' is a document used to legitimize:",
+      "options": {
+        "A": "The Zagwe Dynasty",
+        "B": "The Solomonic Dynasty",
+        "C": "The Ottoman Empire",
+        "D": "The Emirate of Harar"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which group belongs to the Omotic language family?",
+      "options": {
+        "A": "Amhara",
+        "B": "Oromo",
+        "C": "Wolayta",
+        "D": "Tigray"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "The main cause of the conflict between the Christian Kingdom and Adal in the 16th century was:",
+      "options": {
+        "A": "Control over trade routes",
+        "B": "A dispute over marriage",
+        "C": "The location of a church",
+        "D": "The use of the Ge'ez language"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "The Gult system in medieval Ethiopia referred to:",
+      "options": {
+        "A": "A type of military weapon",
+        "B": "A system of land rights and tribute",
+        "C": "A religious festival",
+        "D": "The king's council"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "King Kaleb of Aksum is famous for his military expedition to:",
+      "options": {
+        "A": "Egypt",
+        "B": "South Arabia (Yemen)",
+        "C": "Rome",
+        "D": "India"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The council of senior advisors to the King of Kaffa was known as:",
+      "options": {
+        "A": "Gadaa",
+        "B": "Mikrecho",
+        "C": "Afe Negus",
+        "D": "Duenna"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The process of 'Mormor' in Oromo history refers to:",
+      "options": {
+        "A": "A peaceful migration",
+        "B": "The first phase of the Oromo movements",
+        "C": "The end of the Gadaa system",
+        "D": "A trade agreement"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Emperor Susenyos caused civil war in the 17th century by converting to:",
+      "options": {
+        "A": "Islam",
+        "B": "Catholicism",
+        "C": "Lutheranism",
+        "D": "Buddhism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "The 'Yejju Dynasty' refers to the Oromo lords who dominated the politics of:",
+      "options": {
+        "A": "The Zagwe Era",
+        "B": "The Zemene Mesafint",
+        "C": "The Aksumite Empire",
+        "D": "The Harar Emirate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "The Battle of Derasge in 1855 led to the rise of:",
+      "options": {
+        "A": "Emperor Menelik II",
+        "B": "Emperor Tewodros II",
+        "C": "Emperor Yohannes IV",
+        "D": "Emperor Haile Selassie"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which state was known for its 'Stone Wall' fortifications around its city?",
+      "options": {
+        "A": "Jimma",
+        "B": "Harar",
+        "C": "Kaffa",
+        "D": "Gondar"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The 'Malassay' was the elite military force of:",
+      "options": {
+        "A": "The Christian Kingdom",
+        "B": "The Adal Sultanate",
+        "C": "The Kingdom of Damot",
+        "D": "The Funj Sultanate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The Oromo adoptation of outsiders into their clans is called:",
+      "options": {
+        "A": "Gumi Gaayo",
+        "B": "Mogasa/Gudifacha",
+        "C": "Butta",
+        "D": "Luwa"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "The 'Periplus of the Erythraean Sea' is an ancient document that describes:",
+      "options": {
+        "A": "The life of Lalibela",
+        "B": "Trade and ports of the Aksumite Empire",
+        "C": "The Gadaa system",
+        "D": "The Gondarine period"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "Which of these was the administrative center of the Mahfuz and later Ahmed Gragn?",
+      "options": {
+        "A": "Zeila",
+        "B": "Harar",
+        "C": "Dakkar",
+        "D": "Massawa"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "The 'Dahlak' Islands were important as a gateway for:",
+      "options": {
+        "A": "The expansion of the Oromo",
+        "B": "The introduction of Islam into Ethiopia",
+        "C": "The Zagwe Dynasty",
+        "D": "The coffee trade"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "The 'Ba'it' (House) system of ruling was found in:",
+      "options": {
+        "A": "Aksum",
+        "B": "The Agaw states",
+        "C": "The Afar Sultanate",
+        "D": "The Wolayta Kingdom"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "One major consequence of the 16th-century wars was:",
+      "options": {
+        "A": "The complete destruction of Islam",
+        "B": "The demographic and cultural integration of the region",
+        "C": "The arrival of the British army",
+        "D": "The invention of the Ge'ez alphabet"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The term 'Bete-Israel' refers to:",
+      "options": {
+        "A": "Ethiopian Catholics",
+        "B": "Ethiopian Jews",
+        "C": "Ethiopian Muslims",
+        "D": "Ethiopian Protestants"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following was a mobile capital before Gondar?",
+      "options": {
+        "A": "Axum",
+        "B": "Adefa",
+        "C": "Tegulet",
+        "D": "All of the above"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 41,
+      "question": "The expansion of the Kingdom of Shewa in the 18th century was led by:",
+      "options": {
+        "A": "Sahle Selassie",
+        "B": "Abba Jifar",
+        "C": "Ras Alula",
+        "D": "Emperor Yohannes IV"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "The 'Walasma' Dynasty ruled which state?",
+      "options": {
+        "A": "Hadiya",
+        "B": "Ifat/Adal",
+        "C": "Bali",
+        "D": "Fatagar"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The 'Hegira' refers to the migration of early Muslims to:",
+      "options": {
+        "A": "Egypt",
+        "B": "Ethiopia (Aksum)",
+        "C": "Persia",
+        "D": "China"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "The Gadaa grade associated with the transition to adulthood and leadership is:",
+      "options": {
+        "A": "Dabballe",
+        "B": "Luba",
+        "C": "Raaba",
+        "D": "Kuusaa"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The city of Gondar is known for its architectural style influenced by:",
+      "options": {
+        "A": "Indian and Portuguese styles",
+        "B": "Ancient Egyptian styles",
+        "C": "Modern American styles",
+        "D": "Chinese styles"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "The revival of external trade in the 19th century centered on which port?",
+      "options": {
+        "A": "Assab",
+        "B": "Massawa",
+        "C": "Djibouti",
+        "D": "Mogadishu"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The Nilo-Saharan peoples are mostly located in which part of Ethiopia?",
+      "options": {
+        "A": "Northern Highlands",
+        "B": "Western and Southwestern lowlands",
+        "C": "Eastern lowlands",
+        "D": "Central plateau"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "The 'Abba Dula' in the Gadaa system was the leader of:",
+      "options": {
+        "A": "Religious ceremonies",
+        "B": "Military campaigns",
+        "C": "Trade caravans",
+        "D": "Marriage festivals"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "King Ezana’s inscriptions were written in which three languages?",
+      "options": {
+        "A": "Ge'ez, Greek, and Sabaean",
+        "B": "Ge'ez, Arabic, and Latin",
+        "C": "Amharic, Tigrinya, and Oromo",
+        "D": "English, French, and German"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The end of the Zemene Mesafint was marked by the coronation of:",
+      "options": {
+        "A": "Kassa Hailu (Tewodros II)",
+        "B": "Menelik II",
+        "C": "Yohannes IV",
+        "D": "Lij Iyasu"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

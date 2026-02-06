@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 1: Communication and Study Skills",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Choose the correct sentence: I ______ my homework when the light went out.",
+      "options": {
+        "A": "was doing",
+        "B": "did",
+        "C": "have done",
+        "D": "do"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "Which word is a synonym for 'essential' in the context of study skills?",
+      "options": {
+        "A": "Optional",
+        "B": "Useless",
+        "C": "Vital",
+        "D": "Minor"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "The prefix 'mis-' in the word 'misunderstand' means:",
+      "options": {
+        "A": "Again",
+        "B": "Before",
+        "C": "Not",
+        "D": "Wrongly"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "Identify the correct comparative form: This book is ______ than the one I read last week.",
+      "options": {
+        "A": "more interesting",
+        "B": "interesting",
+        "C": "most interesting",
+        "D": "as interesting"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "Which of the following is a sign of 'non-verbal' communication?",
+      "options": {
+        "A": "Writing a letter",
+        "B": "Speaking on the phone",
+        "C": "Eye contact",
+        "D": "Giving a speech"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "I ______ to the market every Saturday morning.",
+      "options": {
+        "A": "going",
+        "B": "gone",
+        "C": "have go",
+        "D": "go"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "What is the suffix in the word 'development'?",
+      "options": {
+        "A": "-ment",
+        "B": "de-",
+        "C": "-velop",
+        "D": "-ent"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "Which modal verb is used to express a strong obligation?",
+      "options": {
+        "A": "Might",
+        "B": "Could",
+        "C": "Must",
+        "D": "May"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "If you ______ hard, you will pass the national exam.",
+      "options": {
+        "A": "study",
+        "B": "studied",
+        "C": "will study",
+        "D": "have studied"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "Which word is correctly spelled?",
+      "options": {
+        "A": "Communication",
+        "B": "Comunecation",
+        "C": "Comunication",
+        "D": "Comunecashon"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "She has been living in Addis Ababa ______ 2010.",
+      "options": {
+        "A": "for",
+        "B": "ago",
+        "C": "since",
+        "D": "during"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "A person who is 'fluent' in a language can:",
+      "options": {
+        "A": "Speak it easily and smoothly",
+        "B": "Hardly understand it",
+        "C": "Only write it",
+        "D": "Speak it with many mistakes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Which sentence is in the Passive Voice?",
+      "options": {
+        "A": "The teacher graded the papers",
+        "B": "They play football",
+        "C": "The window was broken by the boy",
+        "D": "She is eating an apple"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "The opposite of 'formal' is:",
+      "options": {
+        "A": "Informal",
+        "B": "Unformal",
+        "C": "Disformal",
+        "D": "Non-formal"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Look! The baby ______.",
+      "options": {
+        "A": "cried",
+        "B": "was crying",
+        "C": "has cried",
+        "D": "is crying"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 16,
+      "question": "Which part of speech is the word 'quickly'?",
+      "options": {
+        "A": "Adverb",
+        "B": "Noun",
+        "C": "Verb",
+        "D": "Adjective"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "We ______ finished our project yet.",
+      "options": {
+        "A": "has not",
+        "B": "did not",
+        "C": "haven't",
+        "D": "was not"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "What is the main idea of a 'topic sentence'?",
+      "options": {
+        "A": "It summarizes the entire paragraph",
+        "B": "It is always the last sentence",
+        "C": "It provides a list of sources",
+        "D": "It contains only numbers"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "I would help you if I ______ more time.",
+      "options": {
+        "A": "have",
+        "B": "will have",
+        "C": "had",
+        "D": "am having"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "The word 'active' can be changed into a noun by adding which suffix?",
+      "options": {
+        "A": "-ity",
+        "B": "-ment",
+        "C": "-ness",
+        "D": "-tion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Which of these is used for 'skimming' a text?",
+      "options": {
+        "A": "Reading every single word",
+        "B": "Looking for specific dates",
+        "C": "Reading quickly to get the general idea",
+        "D": "Using a dictionary for every word"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "They ______ to Jimma yesterday.",
+      "options": {
+        "A": "travel",
+        "B": "will travel",
+        "C": "have traveled",
+        "D": "traveled"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 23,
+      "question": "Identify the adjective in this sentence: The diligent student passed the exam.",
+      "options": {
+        "A": "Diligent",
+        "B": "Student",
+        "C": "Passed",
+        "D": "Exam"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "He is ______ at English than his brother.",
+      "options": {
+        "A": "good",
+        "B": "best",
+        "C": "better",
+        "D": "more good"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 25,
+      "question": "What does the abbreviation 'e.g.' stand for?",
+      "options": {
+        "A": "For example",
+        "B": "That is",
+        "C": "And others",
+        "D": "Specifically"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "Neither my father ______ my mother likes coffee.",
+      "options": {
+        "A": "nor",
+        "B": "or",
+        "C": "and",
+        "D": "but"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "A 'dictionary' is primarily used to check:",
+      "options": {
+        "A": "Mathematical formulas",
+        "B": "Historical dates",
+        "C": "Word meanings and spellings",
+        "D": "Daily news"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "Which word is an antonym of 'polite'?",
+      "options": {
+        "A": "Kind",
+        "B": "Rude",
+        "C": "Calm",
+        "D": "Friendly"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question_number": 29,
+      "question": "Wait a minute, I ______ you with those bags.",
+      "options": {
+        "A": "will help",
+        "B": "help",
+        "C": "helping",
+        "D": "helped"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "In a formal letter, 'Dear Sir/Madam' is known as the:",
+      "options": {
+        "A": "Salutation",
+        "B": "Signature",
+        "C": "Body",
+        "D": "Conclusion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "The plural of 'child' is:",
+      "options": {
+        "A": "Childs",
+        "B": "Childes",
+        "C": "Children",
+        "D": "Childrens"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 32,
+      "question": "I haven't seen him ______ a long time.",
+      "options": {
+        "A": "since",
+        "B": "for",
+        "C": "from",
+        "D": "during"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question_number": 33,
+      "question": "Which of these is a compound word?",
+      "options": {
+        "A": "Notebook",
+        "B": "Paper",
+        "C": "Pen",
+        "D": "Book"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "He _______ to school by bus every day.",
+      "options": {
+        "A": "goes",
+        "B": "go",
+        "C": "going",
+        "D": "gone"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "Which sentence uses the correct punctuation?",
+      "options": {
+        "A": "Where are you going?",
+        "B": "Where are you going.",
+        "C": "Where are you going!",
+        "D": "where are you going"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "The prefix 'un-' in 'unhappy' makes the word:",
+      "options": {
+        "A": "Positive",
+        "B": "A verb",
+        "C": "A noun",
+        "D": "Negative"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 37,
+      "question": "Listen! Someone _______ the piano.",
+      "options": {
+        "A": "plays",
+        "B": "played",
+        "C": "is playing",
+        "D": "has played"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 38,
+      "question": "Which word is a synonym for 'rapidly'?",
+      "options": {
+        "A": "Slowly",
+        "B": "Carefully",
+        "C": "Quickly",
+        "D": "Happily"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "We ______ to the cinema last night.",
+      "options": {
+        "A": "go",
+        "B": "gone",
+        "C": "went",
+        "D": "were going"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "Which of the following is a conjunction?",
+      "options": {
+        "A": "But",
+        "B": "Blue",
+        "C": "Run",
+        "D": "He"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "The cat is sitting ______ the table.",
+      "options": {
+        "A": "under",
+        "B": "between",
+        "C": "into",
+        "D": "during"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "I ______ my keys. I can't find them anywhere.",
+      "options": {
+        "A": "lose",
+        "B": "was losing",
+        "C": "have lost",
+        "D": "am losing"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 43,
+      "question": "Which is the most appropriate way to end a formal letter to someone whose name you don't know?",
+      "options": {
+        "A": "Yours faithfully",
+        "B": "See you soon",
+        "C": "Best wishes",
+        "D": "Bye"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "What is the past participle of the verb 'speak'?",
+      "options": {
+        "A": "Spoke",
+        "B": "Speaking",
+        "C": "Speaks",
+        "D": "Spoken"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 45,
+      "question": "She is the _______ girl in our class.",
+      "options": {
+        "A": "tallest",
+        "B": "taller",
+        "C": "tall",
+        "D": "more tall"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "Which of these words is a noun?",
+      "options": {
+        "A": "Education",
+        "B": "Educate",
+        "C": "Educated",
+        "D": "Educational"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "They ______ dinner when the guests arrived.",
+      "options": {
+        "A": "were having",
+        "B": "have",
+        "C": "are having",
+        "D": "will have"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "What does 'scanning' a text involve?",
+      "options": {
+        "A": "Looking for specific information like names or numbers",
+        "B": "Reading to enjoy the story",
+        "C": "Reading the first and last sentence only",
+        "D": "Translating the text"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "Choose the correctly spelled word:",
+      "options": {
+        "A": "Necessary",
+        "B": "Necesary",
+        "C": "Neccesary",
+        "D": "Nessasary"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "This is the car ______ I bought last month.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_option": "D"
+    }
+  ]
+}
+]

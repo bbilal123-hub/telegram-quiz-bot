@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Civics",
+  "unit": "Unit 2: Rule of Law",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is the most comprehensive definition of the 'Rule of Law'?",
+      "options": {
+        "A": "Laws are whatever the current leader decides",
+        "B": "A system where the police have total authority",
+        "C": "A principle where everyone, including the state, is accountable to laws",
+        "D": "A system where laws apply only to common citizens"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "The primary purpose of a 'Constitutional Review' is to:",
+      "options": {
+        "A": "Rewrite the constitution every five years",
+        "B": "Ensure that all laws and government actions align with the constitution",
+        "C": "Abolish the legislative branch",
+        "D": "Increase the salaries of government officials"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "In Ethiopia, the power of 'Constitutional Interpretation' is specifically granted to the:",
+      "options": {
+        "A": "Federal Supreme Court",
+        "B": "Prime Minister's Office",
+        "C": "House of Federation",
+        "D": "House of Peoples' Representatives"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a core element of 'Due Process of Law'?",
+      "options": {
+        "A": "The right to a fair and public trial",
+        "B": "Guilt by association",
+        "C": "Indefinite detention without charges",
+        "D": "Secret court proceedings"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "An 'Independent Judiciary' means that judges should be free from:",
+      "options": {
+        "A": "Following the law",
+        "B": "Any influence from the executive or legislative branches",
+        "C": "Paying taxes",
+        "D": "Public criticism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "The principle of 'Judicial Review' allows the court to:",
+      "options": {
+        "A": "Draft new legislation",
+        "B": "Veto the results of a national election",
+        "C": "Declare a law unconstitutional and therefore void",
+        "D": "Command the national army"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "Administrative law is primarily concerned with:",
+      "options": {
+        "A": "Crimes like theft and assault",
+        "B": "The rules governing the operation of government agencies",
+        "C": "International trade agreements",
+        "D": "Family inheritance disputes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "What happens when a lower law (like a regulation) conflicts with the Constitution?",
+      "options": {
+        "A": "The Constitution is amended to match the regulation",
+        "B": "Both laws are applied simultaneously",
+        "C": "The regulation is considered invalid to the extent of the conflict",
+        "D": "The matter is ignored"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "The 'Ombudsman' is an institution designed to:",
+      "options": {
+        "A": "Enforce military discipline",
+        "B": "Protect citizens against administrative injustice and corruption",
+        "C": "Monitor the stock market",
+        "D": "Supervise the educational system"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which of these is NOT a characteristic of a democratic constitution?",
+      "options": {
+        "A": "Protection of fundamental human rights",
+        "B": "Concentration of all power in the hands of a single individual",
+        "C": "Clear distribution of power among government organs",
+        "D": "Provisions for its own amendment"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "A 'Rigid Constitution' is one that:",
+      "options": {
+        "A": "Can never be changed",
+        "B": "Is written on stone tablets",
+        "C": "Requires a complex and difficult process for amendment",
+        "D": "Is only used in totalitarian states"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "The term 'Legal Supremacy' implies that:",
+      "options": {
+        "A": "The Constitution is the highest law of the land",
+        "B": "The police are the highest authority",
+        "C": "Judges can do whatever they want",
+        "D": "The Prime Minister is above the law"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "Arbitrary arrest is a violation of the Rule of Law because it:",
+      "options": {
+        "A": "Costs the government too much money",
+        "B": "Is not based on established legal procedures or evidence",
+        "C": "Only happens to wealthy people",
+        "D": "Is too slow to execute"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "A 'Law-abiding' society is characterized by:",
+      "options": {
+        "A": "Fear of the police",
+        "B": "Voluntary compliance with the law by the majority",
+        "C": "The absence of any laws",
+        "D": "Constant changes in the legal system"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The 'Power of the Purse' is a check on the executive branch held by the:",
+      "options": {
+        "A": "Judiciary",
+        "B": "Legislature",
+        "C": "Central Bank",
+        "D": "Electoral Commission"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which document serves as the 'Supreme Law' of Ethiopia?",
+      "options": {
+        "A": "The Penal Code",
+        "B": "The Civil Code",
+        "C": "The FDRE Constitution",
+        "D": "The Charter of the United Nations"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "The separation of the state and religion (Secularism) is intended to:",
+      "options": {
+        "A": "Ban all religious practices",
+        "B": "Ensure that no single religion dominates the government",
+        "C": "Create a new state religion",
+        "D": "Control the finances of religious institutions"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The 'Principles of Legality' suggest that:",
+      "options": {
+        "A": "No one should be punished for an act that was not a crime when committed",
+        "B": "The government can invent laws retroactively",
+        "C": "Laws should be kept secret from the public",
+        "D": "Only lawyers should follow the law"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "Transparency in the judicial process is important to:",
+      "options": {
+        "A": "Make trials more entertaining",
+        "B": "Ensure public confidence and prevent bias",
+        "C": "Allow the government to choose the winners",
+        "D": "Shorten the length of trials"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "A 'Limited Government' is a government that:",
+      "options": {
+        "A": "Has no army",
+        "B": "Operates within the boundaries set by the law and the constitution",
+        "C": "Has only a few employees",
+        "D": "Meets only once a year"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is a threat to the Rule of Law?",
+      "options": {
+        "A": "Public education",
+        "B": "An independent media",
+        "C": "Corruption in the judiciary",
+        "D": "Strict adherence to the constitution"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "The 'Habeas Corpus' right is used to:",
+      "options": {
+        "A": "Collect debts",
+        "B": "Challenge the legality of a person's detention",
+        "C": "Register a new business",
+        "D": "Apply for a passport"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "In a democracy, the military is typically:",
+      "options": {
+        "A": "Superior to the civil government",
+        "B": "Under civilian control",
+        "C": "The maker of all laws",
+        "D": "Independent of the constitution"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The concept of 'Equality before the Law' means:",
+      "options": {
+        "A": "Everyone must have the same income",
+        "B": "The law ignores the specific circumstances of a crime",
+        "C": "Everyone is entitled to equal protection and treatment by the law",
+        "D": "Only government officials are protected by the law"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "What is the primary role of the 'Legislative' branch in upholding the Rule of Law?",
+      "options": {
+        "A": "Enforcing the law in the streets",
+        "B": "Creating clear, just, and applicable laws",
+        "C": "Judging criminal cases",
+        "D": "Appointing the head of the church"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The 'Council of Constitutional Inquiry' in Ethiopia serves as:",
+      "options": {
+        "A": "A final decision-maker on constitutional disputes",
+        "B": "An advisory body to the House of Federation on constitutional matters",
+        "C": "A special court for politicians",
+        "D": "The main law-making body"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The 'Social Contract' theory suggests that people obey the law because:",
+      "options": {
+        "A": "They are forced by nature",
+        "B": "They have agreed to follow rules in exchange for protection and order",
+        "C": "They are afraid of ghosts",
+        "D": "They want to get famous"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which of these is a 'Procedural' aspect of the Rule of Law?",
+      "options": {
+        "A": "The content of the law",
+        "B": "The manner in which laws are enacted and enforced",
+        "C": "The language the law is written in",
+        "D": "The weight of the law book"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "A 'Constitutional State' is also known as a:",
+      "options": {
+        "A": "Rechtstaat",
+        "B": "Anarchy",
+        "C": "Theocracy",
+        "D": "Monarchy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "Corruption affects the Rule of Law by:",
+      "options": {
+        "A": "Speeding up government processes",
+        "B": "Creating inequality and undermining the fairness of the legal system",
+        "C": "Increasing the national budget",
+        "D": "Improving the quality of laws"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "The right to 'Counsel' means that an accused person has the right to:",
+      "options": {
+        "A": "A personal assistant",
+        "B": "Legal representation by a lawyer",
+        "C": "A group of friends in court",
+        "D": "Choose their own judge"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following describes 'Retroactive Law'?",
+      "options": {
+        "A": "A law that will start next year",
+        "B": "A law that punishes an action that was legal when it occurred",
+        "C": "A law that is no longer in use",
+        "D": "A law that only applies to children"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The 'Preamble' of the FDRE Constitution outlines:",
+      "options": {
+        "A": "Specific punishments for crimes",
+        "B": "The basic objectives and values of the Ethiopian people",
+        "C": "The salaries of the regional governors",
+        "D": "The rules for international trade"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Accountability of the executive branch is often maintained through:",
+      "options": {
+        "A": "Parliamentary questioning and audits",
+        "B": "Executive orders that cannot be challenged",
+        "C": "Abolishing the media",
+        "D": "Increasing the number of secret laws"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "The 'Supremacy Clause' ensures that:",
+      "options": {
+        "A": "State/Regional laws always beat federal laws",
+        "B": "The Constitution is the ultimate authority in the legal hierarchy",
+        "C": "The President is supreme over the courts",
+        "D": "The police are supreme over the army"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "A 'Fair Trial' requires that the judge be:",
+      "options": {
+        "A": "A relative of the accused",
+        "B": "Impartial and neutral",
+        "C": "A member of the ruling party",
+        "D": "Paid by the prosecutor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Constitutionalism is a 'Shield' for citizens because it:",
+      "options": {
+        "A": "Provides them with free food",
+        "B": "Protects them from the arbitrary use of government power",
+        "C": "Prevents them from having to work",
+        "D": "Guarantees that they will never be arrested"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which body oversees the behavior and ethics of judges in Ethiopia?",
+      "options": {
+        "A": "The Prime Minister",
+        "B": "The Judicial Administration Council",
+        "C": "The Ministry of Justice",
+        "D": "The House of Federation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The principle that 'Laws must be Publicized' means that:",
+      "options": {
+        "A": "Laws must be on every billboard",
+        "B": "Citizens must have access to the laws so they can know their rights and duties",
+        "C": "The government must tell everyone the laws individually",
+        "D": "Laws are only valid if they are in the newspaper"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Civil Society Organizations (CSOs) promote the Rule of Law by:",
+      "options": {
+        "A": "Acting as watchdogs and educating the public on their rights",
+        "B": "Making their own laws for the members",
+        "C": "Executing criminal punishments",
+        "D": "Overthrowing the courts"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "The 'Power to Pardon' criminals is typically an ______ power.",
+      "options": {
+        "A": "Judicial",
+        "B": "Executive",
+        "C": "Legislative",
+        "D": "Electoral"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "In a 'Federal' system, the rule of law applies to:",
+      "options": {
+        "A": "Only the federal government",
+        "B": "Both the federal and the regional governments",
+        "C": "Only the regional states",
+        "D": "Only the citizens, not the government levels"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The 'Presumption of Innocence' means that:",
+      "options": {
+        "A": "The accused must prove they are innocent",
+        "B": "The state must prove the accused is guilty beyond a reasonable doubt",
+        "C": "Everyone who is arrested is guilty",
+        "D": "Judges should always let people go free"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is an example of an informal check on government power?",
+      "options": {
+        "A": "Impeachment",
+        "B": "An independent and free press",
+        "C": "Veto power",
+        "D": "Judicial review"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The 'Stability' of law means that:",
+      "options": {
+        "A": "Laws never change",
+        "B": "Laws should not change too frequently or unpredictably",
+        "C": "Laws are written in stone",
+        "D": "Laws are the same for 1000 years"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "A 'Summary Execution' is a violation of the Rule of Law because it denies:",
+      "options": {
+        "A": "The right to a trial",
+        "B": "The right to a funeral",
+        "C": "The right to vote",
+        "D": "The right to travel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "The FDRE Constitution declares that 'all power belongs to':",
+      "options": {
+        "A": "The President",
+        "B": "The Nations, Nationalities, and Peoples of Ethiopia",
+        "C": "The Federal Council",
+        "D": "The Military"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Human Rights and the Rule of Law are 'Interdependent' because:",
+      "options": {
+        "A": "They are the same thing",
+        "B": "The Rule of Law provides the framework to protect Human Rights",
+        "C": "They both cost a lot of money",
+        "D": "They are both found in the dictionary"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "A 'Special Court' outside the regular judiciary can be a threat to the Rule of Law if it:",
+      "options": {
+        "A": "Lacks the standard protections of due process",
+        "B": "Is located in a different building",
+        "C": "Uses a different color for its logo",
+        "D": "Meets on weekends"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "Ultimately, the Rule of Law is designed to prevent:",
+      "options": {
+        "A": "Democratic elections",
+        "B": "Tyranny and the abuse of power",
+        "C": "Economic competition",
+        "D": "International travel"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

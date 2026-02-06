@@ -1,0 +1,480 @@
+[
+  {
+    "question": "To which language super-family do the Omotic languages belong?",
+    "choices": ["Khoi-San", "Niger-Congo", "Afro-Asiatic", "Nilo-Saharan"],
+    "answer": "C",
+    "explanation": "Omotic languages are classified under the Afro-Asiatic language super-family."
+  },
+  {
+    "question": "A primary reason for the eventual decline of the Aksumite state was:",
+    "choices": [
+      "Internal religious conflict after its conversion to Christianity.",
+      "Its removal from the Red Sea trade by the expanding Muslim Arab Empire.",
+      "A series of disastrous military defeats against the Kingdom of Meroe.",
+      "Widespread famine that decimated its agricultural population."
+    ],
+    "answer": "B",
+    "explanation": "Aksum lost access to key trade routes after the rise of Islam, weakening its economy."
+  },
+  {
+    "question": "The Zagwe dynasty is culturally most famous for:",
+    "choices": [
+      "Translating the Bible from Greek into Ge'ez.",
+      "Their participation in the Crusades against Muslims.",
+      "The construction of monolithic rock-hewn churches.",
+      "Developing a powerful, centralized standing army."
+    ],
+    "answer": "C",
+    "explanation": "The Zagwe dynasty built famous rock-hewn churches, including those in Lalibela."
+  },
+  {
+    "question": "How did Islam primarily spread into central and eastern Ethiopia during the medieval period?",
+    "choices": [
+      "Through large-scale military jihads.",
+      "Through the migration of entire Arab clans.",
+      "Through the agency of nomadic pastoralists.",
+      "Through the activities of traders and sheikhs."
+    ],
+    "answer": "D",
+    "explanation": "Trade networks and religious leaders helped spread Islam peacefully in Ethiopia."
+  },
+  {
+    "question": "What was a major factor that facilitated the rise of the Zagwe dynasty to power?",
+    "choices": [
+      "Their control over the new gold mines discovered in the Sasu region.",
+      "Their previous integration into the Aksumite bureaucracy and military.",
+      "Their success in blocking the Zagwe from being crowned at Aksum.",
+      "A formal recognition and support from the Egyptian Coptic Church."
+    ],
+    "answer": "B",
+    "explanation": "The Zagwe leveraged their administrative and military roles to ascend to power."
+  },
+  {
+    "question": "The legendary text 'Kibre Negest' was significant in restoring the Solomonic dynasty because it:",
+    "choices": [
+      "Provided a detailed military strategy for Yekuno Amlak.",
+      "Undermined Zagwe legitimacy by promoting the Solomonic lineage.",
+      "Established a new legal code for the empire.",
+      "Introduced new agricultural techniques to the highlands."
+    ],
+    "answer": "B",
+    "explanation": "The text reinforced Solomonic claims to divine authority, legitimizing their restoration."
+  },
+  {
+    "question": "Which of the following is a Central Cushitic (Agaw) language?",
+    "choices": ["Beja", "Burji", "Bilen", "Gedeo"],
+    "answer": "C",
+    "explanation": "Bilen is part of the Central Cushitic (Agaw) language group spoken in Ethiopia and Eritrea."
+  },
+  {
+    "question": "The ancient state of Punt is known to us primarily through:",
+    "choices": [
+      "Extensive archaeological evidence within modern Ethiopia.",
+      "Written sources and reliefs from ancient Egypt.",
+      "Oral traditions preserved by Somali clans.",
+      "Inscriptions left by the Aksumite kings."
+    ],
+    "answer": "B",
+    "explanation": "Egyptian records describe Punt and its trade commodities, but its exact location is uncertain."
+  },
+  {
+    "question": "A key feature of the Muslim sultanates in the Horn of Africa (e.g., Ifat, Adal) was that:",
+    "choices": [
+      "Their economies were based entirely on pastoralism.",
+      "Their rulers combined political and religious authority.",
+      "Their political institutions were direct copies of the Christian state.",
+      "Their ruling classes were exclusively composed of Arab immigrants."
+    ],
+    "answer": "B",
+    "explanation": "Muslim rulers often held both spiritual and political power in their sultanates."
+  },
+  {
+    "question": "The Italian scholar Conti Rossini described Ethiopia as a 'Museum of Peoples' because:",
+    "choices": [
+      "Its populations speak languages from all four African language super-families.",
+      "It has preserved languages no longer spoken elsewhere in Africa.",
+      "It contains populations with diverse languages and cultures.",
+      "Its peoples' languages have remained unchanged for millennia."
+    ],
+    "answer": "C",
+    "explanation": "Ethiopia's remarkable ethnic and linguistic diversity inspired this description."
+  },
+  {
+    "question": "What was the 'Mikrecho' in the Kingdom of Kaffa?",
+    "choices": [
+      "The title of the kings of Wolayita.",
+      "The ruling dynasty of Yem.",
+      "The council of advisors that checked the king's power.",
+      "The name for the royal palace."
+    ],
+    "answer": "C",
+    "explanation": "The Mikrecho ensured that the king's decisions were guided by a council of elders."
+  },
+  {
+    "question": "The most iconic architectural heritage of the Aksumite civilization is its:",
+    "choices": ["Walled cities and fortifications", "Castles and palaces", "Monolithic obelisks (stelae)", "Rock-hewn churches"],
+    "answer": "C",
+    "explanation": "Aksumites built large stone obelisks as grave markers and symbols of power."
+  },
+  {
+    "question": "Which factor was instrumental in the emergence of Muslim states in medieval Ethiopia?",
+    "choices": [
+      "The threat of conquest by Christian highlanders.",
+      "The expansion of trade through ports like Zeila.",
+      "Jihads conducted by Arabs from the Persian Gulf.",
+      "Large-scale migration and settlement of Muslims from Sudan."
+    ],
+    "answer": "B",
+    "explanation": "Economic opportunities from trade promoted the establishment of Muslim states."
+  },
+  {
+    "question": "The first well-known indigenous pre-Aksumite state in the Ethiopian region was:",
+    "choices": ["Punt", "Adal", "Damat", "Shewa"],
+    "answer": "C",
+    "explanation": "Damat was a pre-Aksumite kingdom known through Sabean inscriptions."
+  },
+  {
+    "question": "The prosperity of the Aksumite kingdom was fundamentally based on:",
+    "choices": [
+      "Slave raids on neighboring territories.",
+      "Surplus production from agriculture and control of international trade.",
+      "Tribute extracted from South Arabian territories.",
+      "The exploitation of vast internal gold mines."
+    ],
+    "answer": "B",
+    "explanation": "Aksum thrived through agriculture, trade, and strategic location near the Red Sea."
+  },
+  {
+    "question": "Yekuno Amlak's restoration of the Solomonic dynasty in 1270 was significantly helped by:",
+    "choices": [
+      "A powerful military alliance with the Sultanate of Ifat.",
+      "The spread of the legend of Queen Sheba and King Solomon.",
+      "A severe economic crisis that weakened the Zagwe treasury.",
+      "Direct support from the Byzantine Emperor."
+    ],
+    "answer": "B",
+    "explanation": "Solomonic lineage provided political legitimacy for Yekuno Amlak's rule."
+  },
+  {
+    "question": "Which of the following best describes the political structure of the Aksumite state?",
+    "choices": [
+      "It was a decentralized feudal system.",
+      "It was a democratic federation of city-states.",
+      "It was a monarchical state with a powerful 'King of Kings'.",
+      "It was a theocracy ruled by a council of priests."
+    ],
+    "answer": "C",
+    "explanation": "Aksum had a central king with supreme authority supported by provincial governors."
+  },
+  {
+    "question": "What demonstrates cultural continuity between the Zagwe period and the preceding Aksumite era?",
+    "choices": [
+      "The continued use of Ge'ez as a written and liturgical language.",
+      "The shift from building stelae to constructing pyramids.",
+      "The abandonment of coinage in favor of a barter system.",
+      "The adoption of Arabic as a language of commerce."
+    ],
+    "answer": "A",
+    "explanation": "Ge'ez remained central in religious, administrative, and literary contexts."
+  },
+  {
+    "question": "The Oromo people have considerable settlements outside of Ethiopia, particularly in:",
+    "choices": ["Somalia", "Kenya", "Sudan", "Djibouti"],
+    "answer": "B",
+    "explanation": "Significant Oromo populations reside in northern Kenya due to migration and historical expansion."
+  },
+  {
+    "question": "Which of the following sets of languages belongs to the Cushitic language family?",
+    "choices": [
+      "Harari, Zay, Argoba",
+      "Bana, Basketo, Bench",
+      "Gumuz, Koma, Langa",
+      "Afar, Agaw, Kambata"
+    ],
+    "answer": "D",
+    "explanation": "These languages are recognized as Cushitic languages spoken in Ethiopia."
+  },
+  {
+    "question": "The early penetration and spread of Islam into south and central Ethiopia was primarily laid by:",
+    "choices": [
+      "Muslim merchants from Arabia.",
+      "Wars conducted by the Sultanate of Adal.",
+      "Organized missionary activities of Yemeni sheikhs.",
+      "Shiite exiles from Persia."
+    ],
+    "answer": "A",
+    "explanation": "Trade and peaceful settlement by merchants introduced Islam to Ethiopia."
+  },
+  {
+    "question": "What was a major external factor that led to the economic weakening of Aksum after the 7th century?",
+    "choices": [
+      "The silting up of its main port, Adulis, due to environmental changes.",
+      "The loss of its South Arabian territories to the Persian Empire.",
+      "The rise of Islam and Muslim control over Red Sea trade routes.",
+      "A series of plagues that reduced its population and labor force."
+    ],
+    "answer": "C",
+    "explanation": "Muslim dominance of Red Sea trade reduced Aksum’s commercial influence."
+  },
+  {
+    "question": "The Shinasha language belongs to which language family?",
+    "choices": ["West Cushitic", "East Cushitic", "Omotic", "Nilo-Saharan"],
+    "answer": "C",
+    "explanation": "Shinasha is an Omotic language spoken in northwestern Ethiopia."
+  },
+  {
+    "question": "A key achievement of the Aksumite civilization was:",
+    "choices": [
+      "The invention and spread of the plough.",
+      "The development of an indigenous art and architectural style.",
+      "The provision of better support to local craft industries.",
+      "The establishment of the first democratic system in Africa."
+    ],
+    "answer": "B",
+    "explanation": "Aksumites are known for stelae, coins, and other artistic achievements."
+  },
+  {
+    "question": "The Zagwe dynasty's rise to power was closely linked to:",
+    "choices": [
+      "The southward shift of the political center from the Aksum region.",
+      "The destruction of Adulis by Muslim Arabs.",
+      "The conversion of the Agaw people to Christianity.",
+      "The desire to defend the northern highlands from Arab attacks."
+    ],
+    "answer": "C",
+    "explanation": "The Zagwe came to power as the Aksumite political influence weakened in the south."
+  },
+  {
+    "question": "Which of the following is true about the relationship between early Islam and Aksum?",
+    "choices": [
+      "Prophet Mohammed declared jihad against the Aksumites.",
+      "The Aksumite king Armah converted to Islam.",
+      "Prophet Mohammed sent his followers to Aksum to escape persecution.",
+      "The port of Adulis was destroyed by Arabs in the late 13th century."
+    ],
+    "answer": "C",
+    "explanation": "Muslims sought refuge in Aksum during the early years of Islam."
+  },
+  {
+    "question": "The languages of Ethiopia are primarily classified into how many major super-families?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "answer": "C",
+    "explanation": "Ethiopian languages belong to Afro-Asiatic, Nilo-Saharan, Omotic, and Cushitic super-families."
+  },
+  {
+    "question": "What was the primary economic base of the Zagwe kingdom?",
+    "choices": [
+      "Gold mining and exploitation of mineral resources.",
+      "Agriculture and trade through ports like Zeila and Dahlak.",
+      "Slave trade with territories to the north.",
+      "Tribute from conquests to the west."
+    ],
+    "answer": "B",
+    "explanation": "Zagwe’s economy relied on farming and regional trade networks."
+  },
+  {
+    "question": "A significant factor in the downfall of the Zagwe dynasty was:",
+    "choices": [
+      "A widespread and devastating outbreak of plague.",
+      "A severe and prolonged drought that caused famine.",
+      "Internal power struggles and succession disputes.",
+      "Loss of revenue from the decline of long-distance trade."
+    ],
+    "answer": "C",
+    "explanation": "Conflicts over succession weakened Zagwe authority, paving the way for Solomonic restoration."
+  },
+  {
+    "question": "The land of Punt was known to the Egyptians as a source of valuable commodities, most notably:",
+    "choices": ["Gold and Ivory", "Myrrh and Frankincense", "Slaves and Exotic Animals", "Ebony and Spices"],
+    "answer": "B",
+    "explanation": "Egyptian records highlight Punt as a major source of aromatics and luxury items."
+  },
+
+  
+  {
+    "question": "Which Ethiopian king is credited with converting the Aksumite kingdom to Christianity?",
+    "choices": ["Ezana", "Kaleb", "Yekuno Amlak", "Haile Selassie"],
+    "answer": "A",
+    "explanation": "King Ezana adopted Christianity in the 4th century, making it the state religion."
+  },
+  {
+    "question": "What script was primarily used to write Ge’ez?",
+    "choices": ["Latin", "Arabic", "Ethiopic (Ge’ez)", "Greek"],
+    "answer": "C",
+    "explanation": "The Ge’ez script is the classical writing system of Ethiopia."
+  },
+  {
+    "question": "Which Ethiopian kingdom is known for building the Lalibela rock-hewn churches?",
+    "choices": ["Aksum", "Zagwe", "Shewa", "Gondar"],
+    "answer": "B",
+    "explanation": "The Zagwe dynasty commissioned the rock-hewn churches in Lalibela as religious centers."
+  },
+  {
+    "question": "Which river was central to the development of early Aksum?",
+    "choices": ["Blue Nile", "Awash", "Tekeze", "Baro"],
+    "answer": "C",
+    "explanation": "The Tekeze and surrounding valleys supported agriculture and trade in Aksum."
+  },
+  {
+    "question": "Which kingdom emerged after the decline of Aksum in northern Ethiopia?",
+    "choices": ["Zagwe", "Shewa", "Adal", "Gondar"],
+    "answer": "A",
+    "explanation": "Zagwe rose to power as Aksumite influence waned in the highlands."
+  },
+  {
+    "question": "The Solomonic dynasty claimed descent from which biblical figures?",
+    "choices": ["Abraham and Isaac", "David and Solomon", "Moses and Aaron", "Noah and Shem"],
+    "answer": "B",
+    "explanation": "The dynasty traced its lineage to King Solomon of Israel and the Queen of Sheba."
+  },
+  {
+    "question": "Which port city was crucial for Aksum’s trade with the Red Sea and Mediterranean?",
+    "choices": ["Zeila", "Adulis", "Massawa", "Berbera"],
+    "answer": "B",
+    "explanation": "Adulis was Aksum’s key maritime hub for trade with Egypt, Arabia, and beyond."
+  },
+  {
+    "question": "What type of coins did the Aksumite kingdom mint?",
+    "choices": ["Gold, silver, and bronze", "Only gold", "Only silver", "Only bronze"],
+    "answer": "A",
+    "explanation": "Aksum minted coins to facilitate trade and demonstrate political power."
+  },
+  {
+    "question": "Which Ethiopian dynasty ruled before the Solomonic dynasty was restored?",
+    "choices": ["Zagwe", "Shewa", "Adal", "Gondar"],
+    "answer": "A",
+    "explanation": "The Zagwe dynasty controlled Ethiopia until the Solomonic restoration in 1270."
+  },
+  {
+    "question": "Which ancient Ethiopian kingdom maintained close ties with the Roman Empire?",
+    "choices": ["Aksum", "Zagwe", "Adal", "Shewa"],
+    "answer": "A",
+    "explanation": "Aksum traded extensively with Rome, exchanging ivory, gold, and incense."
+  },
+  {
+    "question": "Which Ethiopian language is considered a Semitic language?",
+    "choices": ["Oromo", "Amharic", "Shinasha", "Gumuz"],
+    "answer": "B",
+    "explanation": "Amharic belongs to the Semitic branch of the Afro-Asiatic language family."
+  },
+  {
+    "question": "Which dynasty built castles and palaces in Gondar?",
+    "choices": ["Zagwe", "Solomonic", "Shewa", "Aksum"],
+    "answer": "B",
+    "explanation": "The Solomonic kings of the 17th century established Gondar as the royal capital."
+  },
+  {
+    "question": "Which medieval Ethiopian sultanate resisted Christian expansion in the 14th-16th centuries?",
+    "choices": ["Ifat", "Shewa", "Zagwe", "Gondar"],
+    "answer": "A",
+    "explanation": "The Sultanate of Ifat fought multiple wars against Christian highlanders."
+  },
+  {
+    "question": "Which Ethiopian region is historically linked with coffee cultivation?",
+    "choices": ["Gojjam", "Oromia", "Tigray", "Afar"],
+    "answer": "B",
+    "explanation": "Ethiopia’s Oromia region is traditionally considered the birthplace of coffee."
+  },
+  {
+    "question": "Which Ethiopian empire adopted Christianity as state religion in the 4th century?",
+    "choices": ["Zagwe", "Aksum", "Shewa", "Adal"],
+    "answer": "B",
+    "explanation": "King Ezana of Aksum declared Christianity the official religion."
+  },
+  {
+    "question": "Which Ethiopian civilization is famous for its monumental stelae?",
+    "choices": ["Zagwe", "Aksum", "Shewa", "Gondar"],
+    "answer": "B",
+    "explanation": "Aksum erected giant stelae as markers for kings and nobles."
+  },
+  {
+    "question": "Which Ethiopian dynasty restored the Solomonic lineage after the Zagwe period?",
+    "choices": ["Solomonic", "Shewa", "Adal", "Gondar"],
+    "answer": "A",
+    "explanation": "Yekuno Amlak restored the Solomonic dynasty in 1270."
+  },
+  {
+    "question": "Which Ethiopian region was the heartland of the Zagwe dynasty?",
+    "choices": ["Lasta", "Shewa", "Gojjam", "Tigray"],
+    "answer": "A",
+    "explanation": "The Zagwe dynasty was centered in the Lasta region, famous for Lalibela churches."
+  },
+  {
+    "question": "Which Ethiopian sultanate played a major role in the 16th-century wars with Abyssinia?",
+    "choices": ["Adal", "Ifat", "Shewa", "Gondar"],
+    "answer": "A",
+    "explanation": "The Adal Sultanate, led by Ahmad ibn Ibrahim al-Ghazi, invaded Christian territories."
+  },
+  {
+    "question": "Which Aksumite king sent ambassadors to Constantinople?",
+    "choices": ["Ezana", "Kaleb", "Armah", "Haile Selassie"],
+    "answer": "B",
+    "explanation": "King Kaleb corresponded with Byzantium, enhancing diplomatic ties."
+  },
+  {
+    "question": "Which Ethiopian region is historically linked to the Beja people?",
+    "choices": ["Tigray", "Afar", "Gonder", "Harar"],
+    "answer": "B",
+    "explanation": "The Beja people inhabit parts of the Afar region in northeast Ethiopia."
+  },
+  {
+    "question": "Which Ethiopian king fought against the invasion of Yemenite forces?",
+    "choices": ["Kaleb", "Ezana", "Haile Selassie", "Yekuno Amlak"],
+    "answer": "A",
+    "explanation": "King Kaleb led military campaigns into Yemen to repel invading forces."
+  },
+  {
+    "question": "Which Ethiopian ethnic group primarily speaks a Cushitic language?",
+    "choices": ["Amhara", "Oromo", "Tigray", "Gurage"],
+    "answer": "B",
+    "explanation": "The Oromo speak Afaan Oromo, a Cushitic language."
+  },
+  {
+    "question": "Which Ethiopian kingdom had strong trade links with South Arabia?",
+    "choices": ["Aksum", "Zagwe", "Shewa", "Gondar"],
+    "answer": "A",
+    "explanation": "Aksum traded extensively across the Red Sea with South Arabian kingdoms."
+  },
+  {
+    "question": "Which Ethiopian ruler was contemporary with the early Islamic period?",
+    "choices": ["Armah", "Kaleb", "Ezana", "Haile Selassie"],
+    "answer": "A",
+    "explanation": "King Armah ruled during the rise of Islam and hosted early Muslim refugees."
+  },
+  {
+    "question": "Which Ethiopian city is renowned for rock-hewn churches built by the Zagwe dynasty?",
+    "choices": ["Lalibela", "Aksum", "Gondar", "Axum"],
+    "answer": "A",
+    "explanation": "Lalibela churches are a UNESCO World Heritage site built during the Zagwe period."
+  },
+  {
+    "question": "Which Ethiopian kingdom used coinage as a symbol of authority?",
+    "choices": ["Aksum", "Zagwe", "Shewa", "Gondar"],
+    "answer": "A",
+    "explanation": "Aksum minted gold, silver, and bronze coins to assert royal authority and facilitate trade."
+  },
+  {
+    "question": "Which Ethiopian dynasty ruled from the 13th century to the 20th century?",
+    "choices": ["Solomonic", "Zagwe", "Shewa", "Adal"],
+    "answer": "A",
+    "explanation": "The Solomonic dynasty claimed descent from King Solomon and ruled until 1974."
+  },
+  {
+    "question": "Which Ethiopian region was central to medieval trade networks connecting the Red Sea and inland Ethiopia?",
+    "choices": ["Shewa", "Tigray", "Afar", "Oromia"],
+    "answer": "A",
+    "explanation": "Shewa’s location allowed access to trade routes linking the Red Sea ports with the highlands."
+  },
+  {
+    "question": "Which Ethiopian ethnic group is historically linked to the Agaw people?",
+    "choices": ["Oromo", "Amhara", "Tigray", "Gurage"],
+    "answer": "Agaw",
+    "explanation": "The Agaw are a Cushitic-speaking group, historically influential during the Zagwe dynasty."
+  },
+  {
+    "question": "Which Ethiopian kingdom controlled the port of Massawa in the medieval period?",
+    "choices": ["Aksum", "Adal", "Zagwe", "Shewa"],
+    "answer": "A",
+    "explanation": "Massawa served as an important trade port for the Aksumite kingdom."
+  }
+]

@@ -1,0 +1,558 @@
+[{
+  "grade": "Grade 9",
+  "subject": "Geography",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which branch of Geography studies the distribution of natural features like mountains and rivers?",
+      "options": {
+        "A": "Human Geography",
+        "B": "Physical Geography",
+        "C": "Economic Geography",
+        "D": "Political Geography"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The science of map-making is known as:",
+      "options": {
+        "A": "Geology",
+        "B": "Demography",
+        "C": "Cartography",
+        "D": "Meteorology"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which lines on a map run from North to South and measure distance East or West of the Prime Meridian?",
+      "options": {
+        "A": "Latitudes",
+        "B": "Longitudes",
+        "C": "Equators",
+        "D": "Tropics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The ratio between the distance on a map and the actual distance on the ground is called:",
+      "options": {
+        "A": "Legend",
+        "B": "Scale",
+        "C": "Title",
+        "D": "Grid"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which layer of the Earth is the hottest and located at the very center?",
+      "options": {
+        "A": "Crust",
+        "B": "Mantle",
+        "C": "Core",
+        "D": "Atmosphere"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "The Great East African Rift Valley was formed by which geological process?",
+      "options": {
+        "A": "Folding",
+        "B": "Faulting",
+        "C": "Volcanism",
+        "D": "Erosion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is the highest peak in Ethiopia?",
+      "options": {
+        "A": "Mount Batu",
+        "B": "Mount Ras Dashen",
+        "C": "Mount Guna",
+        "D": "Mount Gughe"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The instrument used to measure atmospheric pressure is the:",
+      "options": {
+        "A": "Anemometer",
+        "B": "Hygrometer",
+        "C": "Barometer",
+        "D": "Thermometer"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "What is the largest lake in Ethiopia by surface area?",
+      "options": {
+        "A": "Lake Abaya",
+        "B": "Lake Chamo",
+        "C": "Lake Tana",
+        "D": "Lake Ziway"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "The traditional climate zone in Ethiopia known as 'Dega' refers to:",
+      "options": {
+        "A": "Hot lowlands",
+        "B": "Cool highlands",
+        "C": "Temperate zones",
+        "D": "Cold alpine zones"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which river is often called the 'Abay' in Ethiopia?",
+      "options": {
+        "A": "Awash River",
+        "B": "Blue Nile",
+        "C": "Wabi Shebelle",
+        "D": "Omo River"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The wearing away of the Earth's surface by wind, water, or ice is called:",
+      "options": {
+        "A": "Weathering",
+        "B": "Erosion",
+        "C": "Deposition",
+        "D": "Sedimentation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which type of rainfall is most common in the Ethiopian highlands during summer?",
+      "options": {
+        "A": "Cyclonic rainfall",
+        "B": "Frontal rainfall",
+        "C": "Orographic (Relief) rainfall",
+        "D": "Convectional rainfall"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "The most dominant economic activity in Ethiopia is:",
+      "options": {
+        "A": "Manufacturing",
+        "B": "Mining",
+        "C": "Agriculture",
+        "D": "Tourism"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a non-renewable natural resource?",
+      "options": {
+        "A": "Forest",
+        "B": "Solar energy",
+        "C": "Natural Gas",
+        "D": "Water"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "The zero-degree latitude is known as the:",
+      "options": {
+        "A": "Prime Meridian",
+        "B": "International Date Line",
+        "C": "Equator",
+        "D": "Tropic of Cancer"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "In which direction does the Earth rotate on its axis?",
+      "options": {
+        "A": "North to South",
+        "B": "East to West",
+        "C": "West to East",
+        "D": "Clockwise"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "The time difference between two places located 15 degrees longitude apart is:",
+      "options": {
+        "A": "4 minutes",
+        "B": "1 hour",
+        "C": "2 hours",
+        "D": "12 hours"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a major export crop for Ethiopia?",
+      "options": {
+        "A": "Wheat",
+        "B": "Coffee",
+        "C": "Rice",
+        "D": "Barley"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The breakdown of rocks into smaller particles without changing their chemical composition is:",
+      "options": {
+        "A": "Chemical weathering",
+        "B": "Biological weathering",
+        "C": "Physical weathering",
+        "D": "Oxidation"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 21,
+      "question": "Which Ethiopian National Park is famous for the endemic Walia Ibex?",
+      "options": {
+        "A": "Awash National Park",
+        "B": "Bale Mountains National Park",
+        "C": "Simien Mountains National Park",
+        "D": "Nechisar National Park"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "What causes the change of seasons on Earth?",
+      "options": {
+        "A": "Earth's rotation",
+        "B": "Earth's revolution and tilt",
+        "C": "Distance from the moon",
+        "D": "Ocean currents"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The layer of gases surrounding the Earth is the:",
+      "options": {
+        "A": "Lithosphere",
+        "B": "Hydrosphere",
+        "C": "Atmosphere",
+        "D": "Biosphere"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "Which type of soil is most fertile and commonly found in river valleys?",
+      "options": {
+        "A": "Sandy soil",
+        "B": "Alluvial soil",
+        "C": "Laterite soil",
+        "D": "Saline soil"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The movement of people from rural areas to cities is called:",
+      "options": {
+        "A": "Migration",
+        "B": "Urbanization",
+        "C": "Emigration",
+        "D": "Settlement"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Which of these is a landlocked country in East Africa?",
+      "options": {
+        "A": "Somalia",
+        "B": "Kenya",
+        "C": "Ethiopia",
+        "D": "Djibouti"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "A map that shows the relief and elevation of the land using contour lines is a:",
+      "options": {
+        "A": "Political map",
+        "B": "Thematic map",
+        "C": "Topographic map",
+        "D": "Road map"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "The most common gas in the Earth's atmosphere is:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Nitrogen",
+        "D": "Argon"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "The point on the Earth's surface directly above where an earthquake starts is the:",
+      "options": {
+        "A": "Focus",
+        "B": "Epicenter",
+        "C": "Crater",
+        "D": "Vent"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a cause of rapid population growth in Ethiopia?",
+      "options": {
+        "A": "High death rate",
+        "B": "High birth rate",
+        "C": "Low migration",
+        "D": "Industrialization"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "The 'Dallol' depression is located in which part of Ethiopia?",
+      "options": {
+        "A": "Southern Highlands",
+        "B": "Afar Triangle",
+        "C": "Western Plateaus",
+        "D": "Ogaden Basin"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Lines on a map connecting points of equal temperature are called:",
+      "options": {
+        "A": "Isobars",
+        "B": "Isohyets",
+        "C": "Isotherms",
+        "D": "Contours"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "Which vegetation type is characterized by tall grasses and scattered trees?",
+      "options": {
+        "A": "Desert",
+        "B": "Savanna",
+        "C": "Tropical Rainforest",
+        "D": "Tundra"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "The Great Renaissance Dam (GERD) is built on which river?",
+      "options": {
+        "A": "Awash",
+        "B": "Tekeze",
+        "C": "Blue Nile (Abay)",
+        "D": "Genale"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "What is the primary cause of soil erosion in the Ethiopian highlands?",
+      "options": {
+        "A": "Mining",
+        "B": "Deforestation and overgrazing",
+        "C": "Urban expansion",
+        "D": "Industrial waste"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The study of population statistics is called:",
+      "options": {
+        "A": "Geology",
+        "B": "Demography",
+        "C": "Ecology",
+        "D": "Anthropology"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which of the following is an example of an igneous rock?",
+      "options": {
+        "A": "Limestone",
+        "B": "Basalt",
+        "C": "Marble",
+        "D": "Sandstone"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "The 'Kolla' zone in Ethiopia is characterized by:",
+      "options": {
+        "A": "Very cold temperatures",
+        "B": "High rainfall and frost",
+        "C": "Hot and dry conditions",
+        "D": "Moderate temperatures"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which celestial body is known as the 'Natural Satellite' of the Earth?",
+      "options": {
+        "A": "Sun",
+        "B": "Moon",
+        "C": "Mars",
+        "D": "Venus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "The process where plants release water vapor into the atmosphere is:",
+      "options": {
+        "A": "Condensation",
+        "B": "Precipitation",
+        "C": "Transpiration",
+        "D": "Infiltration"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 41,
+      "question": "What is the standard time zone for Ethiopia?",
+      "options": {
+        "A": "GMT +1",
+        "B": "GMT +2",
+        "C": "GMT +3",
+        "D": "GMT +4"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 42,
+      "question": "The distance of a place north or south of the equator is its:",
+      "options": {
+        "A": "Longitude",
+        "B": "Altitude",
+        "C": "Latitude",
+        "D": "Horizon"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following lakes is part of the Ethiopian Rift Valley lake chain?",
+      "options": {
+        "A": "Lake Tana",
+        "B": "Lake Langano",
+        "C": "Lake Victoria",
+        "D": "Lake Nasser"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "A landform that rises at least 600 meters above the surrounding area is a:",
+      "options": {
+        "A": "Hill",
+        "B": "Mountain",
+        "C": "Plateau",
+        "D": "Plain"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which Ethiopian city is known as the political capital of Africa because it hosts the AU headquarters?",
+      "options": {
+        "A": "Dire Dawa",
+        "B": "Hawassa",
+        "C": "Addis Ababa",
+        "D": "Bahir Dar"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "The largest ocean on Earth is the:",
+      "options": {
+        "A": "Atlantic Ocean",
+        "B": "Indian Ocean",
+        "C": "Pacific Ocean",
+        "D": "Arctic Ocean"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 47,
+      "question": "What is the main source of energy for the Earth's water cycle?",
+      "options": {
+        "A": "Wind",
+        "B": "Tides",
+        "C": "The Sun",
+        "D": "Geothermal heat"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following instruments measures wind speed?",
+      "options": {
+        "A": "Wind vane",
+        "B": "Anemometer",
+        "C": "Rain gauge",
+        "D": "Thermometer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "A piece of land almost surrounded by water but connected to a larger landmass is a:",
+      "options": {
+        "A": "Island",
+        "B": "Archipelago",
+        "C": "Peninsula",
+        "D": "Isthmus"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 50,
+      "question": "The most important factor influencing Ethiopia's climate is:",
+      "options": {
+        "A": "Latitude",
+        "B": "Altitude",
+        "C": "Distance from the sea",
+        "D": "Ocean currents"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

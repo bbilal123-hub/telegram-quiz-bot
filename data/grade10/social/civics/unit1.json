@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 10",
+  "subject": "Civics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The term 'Democracy' is derived from two Greek words: 'Demos' and 'Kratos'. What does 'Kratos' mean?",
+      "options": {
+        "A": "People",
+        "B": "Rule or Power",
+        "C": "Equality",
+        "D": "Justice"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "In a direct democracy, citizens participate in decision-making by:",
+      "options": {
+        "A": "Electing representatives",
+        "B": "Voting directly on laws and policies",
+        "C": "Appointing a monarch",
+        "D": "Following the orders of a dictator"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which form of democracy is most commonly practiced in the modern world due to large populations?",
+      "options": {
+        "A": "Direct Democracy",
+        "B": "Representative (Indirect) Democracy",
+        "C": "Authoritarianism",
+        "D": "Totalitarianism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "A system where the executive branch is led by a Prime Minister who is a member of the legislative branch is a:",
+      "options": {
+        "A": "Presidential Democracy",
+        "B": "Parliamentary Democracy",
+        "C": "Absolute Monarchy",
+        "D": "Military Junta"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a core pillar of a democratic system?",
+      "options": {
+        "A": "One-party rule",
+        "B": "Rule of Law",
+        "C": "Censorship of the media",
+        "D": "Arbitrary arrest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "The principle that 'no one is above the law' is known as:",
+      "options": {
+        "A": "Popular Sovereignty",
+        "B": "Rule of Law",
+        "C": "Separation of Powers",
+        "D": "Majority Rule"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "In a democratic system, 'Popular Sovereignty' implies that the ultimate source of power lies with:",
+      "options": {
+        "A": "The Military",
+        "B": "The People",
+        "C": "The Prime Minister",
+        "D": "The Rich"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The division of government power into Legislative, Executive, and Judicial branches is called:",
+      "options": {
+        "A": "Federalism",
+        "B": "Separation of Powers",
+        "C": "Unitary System",
+        "D": "Centralization"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "What is the primary function of the Legislative branch?",
+      "options": {
+        "A": "Enforcing laws",
+        "B": "Making laws",
+        "C": "Interpreting laws",
+        "D": "Executing foreign policy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "The system of 'Checks and Balances' is designed to:",
+      "options": {
+        "A": "Give all power to the President",
+        "B": "Prevent any one branch of government from becoming too powerful",
+        "C": "Abolish the court system",
+        "D": "Stop people from voting"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a characteristic of an authoritarian government?",
+      "options": {
+        "A": "Free and fair elections",
+        "B": "Limited political freedoms",
+        "C": "Independent judiciary",
+        "D": "Protection of minority rights"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "A constitution is best defined as:",
+      "options": {
+        "A": "A book of religious laws",
+        "B": "The supreme law of a land that defines government power and citizens' rights",
+        "C": "A speech made by a leader",
+        "D": "A list of history facts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "An organized group of people who seek to capture political power through an election is a:",
+      "options": {
+        "A": "Labor Union",
+        "B": "Political Party",
+        "C": "Charity",
+        "D": "Trade Association"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "In a multi-party system:",
+      "options": {
+        "A": "Only one party is allowed to exist",
+        "B": "Several political parties compete for power",
+        "C": "The military runs the government",
+        "D": "There are no elections"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The FDRE (Federal Democratic Republic of Ethiopia) follows which type of state structure?",
+      "options": {
+        "A": "Unitary",
+        "B": "Federal",
+        "C": "Confederation",
+        "D": "Monarchy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "What is the main advantage of a Federal system?",
+      "options": {
+        "A": "It centralizes all power in the capital city",
+        "B": "It allows for shared power between central and regional governments",
+        "C": "It eliminates regional languages",
+        "D": "It makes decision-making faster by avoiding debate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The 'Right to Vote' is also known as:",
+      "options": {
+        "A": "Equality",
+        "B": "Suffrage",
+        "C": "Liberty",
+        "D": "Legitimacy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Democratic elections must be 'periodic', which means:",
+      "options": {
+        "A": "They happen only once",
+        "B": "They occur at regular time intervals",
+        "C": "Only certain people can vote",
+        "D": "The results are kept secret"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "The term 'Civic Engagement' refers to:",
+      "options": {
+        "A": "Paying high prices in a market",
+        "B": "Citizens' participation in the life of their community",
+        "C": "A soldier's duty in war",
+        "D": "The government's control over the internet"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The 'Majority Rule' in democracy should be balanced with:",
+      "options": {
+        "A": "Majority Tyranny",
+        "B": "Minority Rights",
+        "C": "Military Force",
+        "D": "Foreign Intervention"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which branch of government has the power to settle disputes and interpret the constitution?",
+      "options": {
+        "A": "The Executive",
+        "B": "The Judiciary",
+        "C": "The Legislative",
+        "D": "The Police"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "A situation where a government is formed by the alliance of several political parties is a:",
+      "options": {
+        "A": "Dictatorship",
+        "B": "Coalition Government",
+        "C": "Single-party State",
+        "D": "Anarchy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The active participation of citizens is necessary for democracy to:",
+      "options": {
+        "A": "Fail",
+        "B": "Succeed and thrive",
+        "C": "Become a monarchy",
+        "D": "Stop corruption immediately"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "What is the role of an 'Opposition Party' in a democracy?",
+      "options": {
+        "A": "To break the law",
+        "B": "To monitor and criticize the ruling party's policies",
+        "C": "To prevent elections from happening",
+        "D": "To support the government at all costs"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The 'House of Peoples' Representatives' in Ethiopia is part of the:",
+      "options": {
+        "A": "Judicial branch",
+        "B": "Legislative branch",
+        "C": "Executive branch",
+        "D": "Regional Council"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Human Rights are universal, meaning they belong to:",
+      "options": {
+        "A": "Only citizens of rich countries",
+        "B": "All human beings everywhere",
+        "C": "Only people who follow the law",
+        "D": "Only adults"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The concept of 'Due Process of Law' protects citizens from:",
+      "options": {
+        "A": "Paying taxes",
+        "B": "Arbitrary treatment by the state",
+        "C": "Going to school",
+        "D": "Voting in elections"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is an example of 'Conventional' political participation?",
+      "options": {
+        "A": "Rioting",
+        "B": "Voting in an election",
+        "C": "Terrorism",
+        "D": "Civil war"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "In a democracy, the media (press) is often called the 'Fourth Estate' because it:",
+      "options": {
+        "A": "Makes the laws",
+        "B": "Acts as a watchdog over the government",
+        "C": "Commands the army",
+        "D": "Collects revenue for the state"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "What does 'Transparency' in government mean?",
+      "options": {
+        "A": "The government is invisible",
+        "B": "Government actions and decisions are open to public scrutiny",
+        "C": "The government keeps everything secret",
+        "D": "The government only talks to foreign leaders"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "The 'Electoral Board' is responsible for:",
+      "options": {
+        "A": "Building schools",
+        "B": "Managing and conducting free and fair elections",
+        "C": "Leading the police",
+        "D": "Printing money"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "A 'Referendum' is a process where:",
+      "options": {
+        "A": "A leader is assassinated",
+        "B": "Citizens vote directly on a specific issue or law",
+        "C": "A new party is formed",
+        "D": "The parliament is dissolved forever"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Tolerance in a democracy means:",
+      "options": {
+        "A": "Agreeing with everything the government says",
+        "B": "Accepting the rights of others to have different opinions",
+        "C": "Ignoring the law",
+        "D": "Using violence against opponents"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "The Ethiopian Constitution recognizes the right of 'self-determination'. This is found in Article:",
+      "options": {
+        "A": "1",
+        "B": "39",
+        "C": "90",
+        "D": "106"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "In a Presidential system, the President is usually:",
+      "options": {
+        "A": "Appointed by the King",
+        "B": "Elected by the people separately from the legislature",
+        "C": "Chosen by the Chief Justice",
+        "D": "A member of the Parliament"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Civil society organizations (CSOs) include:",
+      "options": {
+        "A": "Government ministries",
+        "B": "Non-governmental organizations (NGOs) and community groups",
+        "C": "The national army",
+        "0": "Private corporations only"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Political 'Legitimacy' comes from:",
+      "options": {
+        "A": "Using the most weapons",
+        "B": "The belief by citizens that the government has the right to rule",
+        "C": "Having the most money",
+        "D": "Living in the palace"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Liberal democracy emphasizes the protection of:",
+      "options": {
+        "A": "Only the state",
+        "B": "Individual rights and freedoms",
+        "C": "The ruling party's interests",
+        "D": "The monarch's power"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "A government that has no limits on its power and controls all aspects of life is:",
+      "options": {
+        "A": "Democratic",
+        "B": "Totalitarian",
+        "C": "Federal",
+        "D": "Constitutional"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "The 'Rule of the People' is the literal meaning of:",
+      "options": {
+        "A": "Aristocracy",
+        "B": "Democracy",
+        "C": "Theocracy",
+        "D": "Oligarchy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "A 'Unitary State' structure is one where:",
+      "options": {
+        "A": "Power is shared between regions",
+        "B": "Power is concentrated at the central government level",
+        "C": "There is no central government",
+        "D": "Every city is a separate country"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a barrier to democracy?",
+      "options": {
+        "A": "High literacy rates",
+        "B": "Corruption and lack of transparency",
+        "C": "Free press",
+        "D": "Independent courts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The 'Social Contract' theory suggests that people give up some freedoms to the government in exchange for:",
+      "options": {
+        "A": "Money",
+        "B": "Protection and order",
+        "C": "New clothes",
+        "D": "Travel permits"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Civic virtue refers to:",
+      "options": {
+        "A": "Personal wealth",
+        "B": "Selfless behavior for the good of the community",
+        "C": "Physical strength",
+        "D": "The number of votes a person gets"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The 'Ombudsman' is an office that:",
+      "options": {
+        "A": "Commands the air force",
+        "B": "Investigates citizens' complaints against government maladministration",
+        "C": "Passes the budget",
+        "D": "Writes textbooks"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "What is the importance of 'Political Tolerance'?",
+      "options": {
+        "A": "It ensures that only one party wins",
+        "B": "It allows for peaceful coexistence in a diverse society",
+        "C": "It helps the government suppress rebels",
+        "D": "It makes everyone have the same religion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "A 'Veto' power allows a branch of government to:",
+      "options": {
+        "A": "Support a law",
+        "B": "Reject or block a decision or law",
+        "C": "Create a new court",
+        "D": "Resign from office"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Universal suffrage means:",
+      "options": {
+        "A": "Only the elite can vote",
+        "B": "All adult citizens have the right to vote",
+        "C": "No one can vote",
+        "D": "Voting is mandatory"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "In Ethiopia, the Head of State is the:",
+      "options": {
+        "A": "Prime Minister",
+        "B": "President",
+        "C": "Speaker of the House",
+        "D": "Chief Justice"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The 'Power of the Purse' (controlling taxes and spending) usually belongs to the:",
+      "options": {
+        "A": "Judiciary",
+        "B": "Legislature",
+        "C": "Executive",
+        "D": "Military"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

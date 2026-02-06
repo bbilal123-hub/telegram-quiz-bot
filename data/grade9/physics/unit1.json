@@ -1,0 +1,558 @@
+[{
+  "grade": "Grade 9",
+  "subject": "Physics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a fundamental physical quantity?",
+      "options": {
+        "A": "Velocity",
+        "B": "Force",
+        "C": "Mass",
+        "D": "Work"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "The SI unit for measuring thermodynamic temperature is:",
+      "options": {
+        "A": "Celsius",
+        "B": "Fahrenheit",
+        "C": "Kelvin",
+        "D": "Pascal"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which instrument is most suitable for measuring the internal diameter of a small metal pipe used in a plumbing project in Addis Ababa?",
+      "options": {
+        "A": "Metre rule",
+        "B": "Vernier calipers",
+        "C": "Measuring tape",
+        "D": "Micrometer screw gauge"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The rate of change of displacement is called:",
+      "options": {
+        "A": "Speed",
+        "B": "Acceleration",
+        "C": "Velocity",
+        "D": "Momentum"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "A bus traveling from Adama to Addis Ababa covers 100 km in 2 hours. What is its average speed?",
+      "options": {
+        "A": "200 km/h",
+        "B": "50 km/h",
+        "C": "25 km/h",
+        "D": "0.5 km/h"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "If a body is moving with constant velocity, its acceleration is:",
+      "options": {
+        "A": "Increasing",
+        "B": "Decreasing",
+        "C": "Zero",
+        "D": "Constant but not zero"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which of Newton's laws is also known as the Law of Inertia?",
+      "options": {
+        "A": "First Law",
+        "B": "Second Law",
+        "C": "Third Law",
+        "D": "Law of Gravitation"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "What is the force required to accelerate a 2 kg mass at $5 m/s^2$?",
+      "options": {
+        "A": "2.5 N",
+        "B": "7 N",
+        "C": "10 N",
+        "D": "0.4 N"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "The force that opposes motion between two surfaces in contact is:",
+      "options": {
+        "A": "Gravity",
+        "B": "Friction",
+        "C": "Magnetism",
+        "D": "Inertia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "The product of mass and velocity of a body is called:",
+      "options": {
+        "A": "Force",
+        "B": "Impulse",
+        "C": "Momentum",
+        "D": "Power"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "Work done is defined as the product of force and:",
+      "options": {
+        "A": "Time",
+        "B": "Velocity",
+        "C": "Displacement in the direction of force",
+        "D": "Acceleration"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "A student in Hawassa lifts a 10 kg bag of flour to a height of 2 m. How much work is done? ($g = 10 m/s^2$)",
+      "options": {
+        "A": "20 J",
+        "B": "100 J",
+        "C": "200 J",
+        "D": "50 J"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "The energy possessed by a body due to its motion is:",
+      "options": {
+        "A": "Potential energy",
+        "B": "Chemical energy",
+        "C": "Kinetic energy",
+        "D": "Thermal energy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "What is the unit of Power?",
+      "options": {
+        "A": "Joule",
+        "B": "Newton",
+        "C": "Watt",
+        "D": "Pascal"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which simple machine is represented by a traditional Ethiopian 'Meqacha' (pestle and mortar) using a crushing motion?",
+      "options": {
+        "A": "Lever",
+        "B": "Pulley",
+        "C": "Incline plane",
+        "D": "Screw"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "The ratio of useful work output to total work input is called:",
+      "options": {
+        "A": "Mechanical Advantage",
+        "B": "Velocity Ratio",
+        "C": "Efficiency",
+        "D": "Power"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "Atmospheric pressure is measured using a:",
+      "options": {
+        "A": "Thermometer",
+        "B": "Barometer",
+        "C": "Manometer",
+        "D": "Hydrometer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Density is defined as:",
+      "options": {
+        "A": "Mass $\\times$ Volume",
+        "B": "Volume / Mass",
+        "C": "Mass / Volume",
+        "D": "Weight / Area"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "Which principle explains why large ships float on the Red Sea?",
+      "options": {
+        "A": "Pascal's Principle",
+        "B": "Archimedes' Principle",
+        "C": "Newton's Third Law",
+        "D": "Bernoulli's Principle"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The pressure in a liquid increases with:",
+      "options": {
+        "A": "Decrease in depth",
+        "B": "Increase in depth",
+        "C": "Increase in surface area",
+        "D": "Decrease in density"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Heat is a form of energy that flows from:",
+      "options": {
+        "A": "Cold to hot body",
+        "B": "Hot to cold body",
+        "C": "Small to large body",
+        "D": "Low pressure to high pressure"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "The transfer of heat through solids is mainly by:",
+      "options": {
+        "A": "Convection",
+        "B": "Radiation",
+        "C": "Conduction",
+        "D": "Evaporation"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 23,
+      "question": "Why are traditional Ethiopian clay pots (Dist) good for keeping food warm?",
+      "options": {
+        "A": "Clay is a good conductor",
+        "B": "Clay is a good insulator",
+        "C": "Clay reflects radiation",
+        "D": "Clay has low specific heat capacity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Sound travels fastest in:",
+      "options": {
+        "A": "Air",
+        "B": "Water",
+        "C": "Steel",
+        "D": "Vacuum"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "The bouncing back of light from a smooth surface is called:",
+      "options": {
+        "A": "Refraction",
+        "B": "Reflection",
+        "C": "Diffraction",
+        "D": "Absorption"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "A vector quantity has both magnitude and:",
+      "options": {
+        "A": "Mass",
+        "B": "Time",
+        "C": "Direction",
+        "D": "Unit"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "The gradient of a displacement-time graph represents:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Velocity",
+        "C": "Force",
+        "D": "Distance"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The acceleration due to gravity on Earth is approximately:",
+      "options": {
+        "A": "$1 m/s^2$",
+        "B": "$9.8 m/s^2$",
+        "C": "$100 m/s^2$",
+        "D": "$0 m/s^2$"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "If you push a wall with 50 N of force, the wall pushes you back with:",
+      "options": {
+        "A": "0 N",
+        "B": "25 N",
+        "C": "50 N",
+        "D": "100 N"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 30,
+      "question": "A car accelerates from rest to $20 m/s$ in 5 seconds. Its acceleration is:",
+      "options": {
+        "A": "$100 m/s^2$",
+        "B": "$4 m/s^2$",
+        "C": "$15 m/s^2$",
+        "D": "$25 m/s^2$"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Static electricity is caused by the transfer of:",
+      "options": {
+        "A": "Protons",
+        "B": "Neutrons",
+        "C": "Electrons",
+        "D": "Atoms"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "The region around a magnet where magnetic forces can be felt is the:",
+      "options": {
+        "A": "Electric field",
+        "B": "Gravitational field",
+        "C": "Magnetic field",
+        "D": "Nuclear field"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "Which of these materials is a good conductor of electricity?",
+      "options": {
+        "A": "Rubber",
+        "B": "Glass",
+        "C": "Copper",
+        "D": "Plastic"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "A 1000 kg car is parked on a hill in Gondar. What is its weight? ($g = 10 m/s^2$)",
+      "options": {
+        "A": "100 N",
+        "B": "1000 N",
+        "C": "10000 N",
+        "D": "10 N"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "An echo is a result of sound being:",
+      "options": {
+        "A": "Refracted",
+        "B": "Reflected",
+        "C": "Absorbed",
+        "D": "Transmitted"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The center of gravity of a uniform meter rule is at the:",
+      "options": {
+        "A": "0 cm mark",
+        "B": "25 cm mark",
+        "C": "50 cm mark",
+        "D": "100 cm mark"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 37,
+      "question": "Pressure is defined as force per unit:",
+      "options": {
+        "A": "Volume",
+        "B": "Mass",
+        "C": "Area",
+        "D": "Length"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "When light passes from air into water, it bends. This is called:",
+      "options": {
+        "A": "Reflection",
+        "B": "Refraction",
+        "C": "Dispersion",
+        "D": "Total internal reflection"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": {
+        "A": "Solar",
+        "B": "Wind",
+        "C": "Coal",
+        "D": "Hydroelectric"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 40,
+      "question": "The clinical thermometer used in Ethiopian hospitals usually has a 'kink' to:",
+      "options": {
+        "A": "Increase sensitivity",
+        "B": "Prevent mercury from falling back quickly",
+        "C": "Make it look better",
+        "D": "Allow it to measure higher temperatures"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "If the velocity of an object is doubled, its kinetic energy becomes:",
+      "options": {
+        "A": "Double",
+        "B": "Half",
+        "C": "Four times",
+        "D": "Eight times"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 42,
+      "question": "A machine with a velocity ratio of 5 and mechanical advantage of 4 has an efficiency of:",
+      "options": {
+        "A": "100%",
+        "B": "80%",
+        "C": "20%",
+        "D": "125%"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The fundamental unit of electric current is the:",
+      "options": {
+        "A": "Volt",
+        "B": "Ohm",
+        "C": "Ampere",
+        "D": "Coulomb"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 44,
+      "question": "Like magnetic poles:",
+      "options": {
+        "A": "Attract each other",
+        "B": "Repel each other",
+        "C": "Cancel each other",
+        "D": "Have no effect"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The turning effect of a force about a point is called:",
+      "options": {
+        "A": "Momentum",
+        "B": "Moment of a force",
+        "C": "Impulse",
+        "D": "Work"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "A diverging lens is also known as a:",
+      "options": {
+        "A": "Convex lens",
+        "B": "Concave lens",
+        "C": "Bifocal lens",
+        "D": "Cylindrical lens"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "In a vacuum, all electromagnetic waves have the same:",
+      "options": {
+        "A": "Frequency",
+        "B": "Wavelength",
+        "C": "Speed",
+        "D": "Energy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 48,
+      "question": "Renewable energy from the heat of the earth (found in the Rift Valley) is called:",
+      "options": {
+        "A": "Biomass",
+        "B": "Geothermal energy",
+        "C": "Nuclear energy",
+        "D": "Solar energy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "What is the frequency of a wave with a period of 0.02 seconds?",
+      "options": {
+        "A": "50 Hz",
+        "B": "20 Hz",
+        "C": "100 Hz",
+        "D": "5 Hz"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The Law of Conservation of Energy states that energy cannot be created or destroyed, only:",
+      "options": {
+        "A": "Lost",
+        "B": "Gained",
+        "C": "Transformed",
+        "D": "Fixed"
+      },
+      "correct_option": "C"
+    }
+  ]
+}
+]

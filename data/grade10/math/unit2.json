@@ -1,0 +1,559 @@
+[
+    {
+  "unit": "Unit 2: Polynomial Functions",
+  "grade": 10,
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What is the degree of the polynomial function f(x) = 4x^5 - 2x^3 + x - 7?",
+      "options": {
+        "A": "5",
+        "C": "3",
+        "D": "4",
+        "B": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of the following is NOT a polynomial function?",
+      "options": {
+        "A": "f(x) = 1/x",
+        "C": "f(x) = x^2 + 5",
+        "D": "f(x) = 0",
+        "B": "f(x) = 3x - 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "A polynomial of degree 3 is specifically called a:",
+      "options": {
+        "A": "Quadratic function",
+        "C": "Cubic function",
+        "D": "Linear function",
+        "B": "Quartic function"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 4,
+      "question": "The constant term in the polynomial p(x) = 2x^3 - x + 9 is:",
+      "options": {
+        "A": "2",
+        "C": "9",
+        "D": "-1",
+        "B": "0"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 5,
+      "question": "If p(x) is divided by (x - c), the remainder is p(c). This is known as the:",
+      "options": {
+        "A": "Factor Theorem",
+        "C": "Remainder Theorem",
+        "D": "Fundamental Theorem",
+        "B": "Binomial Theorem"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "For a polynomial f(x), if f(2) = 0, then which of the following is a factor?",
+      "options": {
+        "A": "x - 2",
+        "C": "x + 2",
+        "D": "x",
+        "B": "2x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "What is the leading coefficient of f(x) = -3x^4 + 7x^2 - 11?",
+      "options": {
+        "A": "4",
+        "C": "-3",
+        "D": "7",
+        "B": "11"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "The maximum number of real zeros a polynomial of degree 'n' can have is:",
+      "options": {
+        "A": "n",
+        "C": "n - 1",
+        "D": "1",
+        "B": "Infinite"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "Which method is a shortcut for dividing a polynomial by a linear factor of the form (x - c)?",
+      "options": {
+        "A": "Synthetic division",
+        "C": "Long division",
+        "D": "Cross multiplication",
+        "B": "Integration"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "What is the value of a constant function f(x) = c in terms of degree?",
+      "options": {
+        "A": "Degree 0",
+        "C": "Degree 1",
+        "D": "Undefined",
+        "B": "Degree 2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "If the graph of a polynomial crosses the x-axis, that point is called a:",
+      "options": {
+        "A": "Zero of the function",
+        "C": "Y-intercept",
+        "D": "Vertex",
+        "B": "Turning point"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "The end behavior of a polynomial with a positive leading coefficient and even degree is:",
+      "options": {
+        "A": "Up to the left and up to the right",
+        "C": "Down to the left and down to the right",
+        "D": "Up to the left and down to the right",
+        "B": "Down to the left and up to the right"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "What is the remainder when x^2 - 5x + 6 is divided by (x - 1)?",
+      "options": {
+        "A": "0",
+        "C": "2",
+        "D": "6",
+        "B": "1"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "A polynomial with only one term is called a:",
+      "options": {
+        "A": "Monomial",
+        "C": "Binomial",
+        "D": "Trinomial",
+        "B": "Identity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "The domain of any polynomial function is always:",
+      "options": {
+        "A": "All real numbers",
+        "C": "Positive numbers only",
+        "D": "Integers only",
+        "B": "Rational numbers only"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "If f(x) = x^3 and g(x) = x^2, what is the degree of f(x) times g(x)?",
+      "options": {
+        "A": "6",
+        "C": "5",
+        "D": "1",
+        "B": "3"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "The point where a polynomial graph changes from increasing to decreasing is a:",
+      "options": {
+        "A": "Turning point",
+        "C": "Zero",
+        "D": "Intercept",
+        "B": "Origin"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "A polynomial of degree 4 is called a ______ polynomial.",
+      "options": {
+        "A": "Quartic",
+        "C": "Quintic",
+        "D": "Quadratic",
+        "B": "Cubic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "Which of the following is a zero of f(x) = x^2 - 9?",
+      "options": {
+        "A": "3",
+        "C": "0",
+        "D": "9",
+        "B": "-9"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Synthetic division can only be used when the divisor is a ______ factor.",
+      "options": {
+        "A": "Linear",
+        "C": "Quadratic",
+        "D": "Cubic",
+        "B": "Constant"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "What is the y-intercept of f(x) = 2x^3 - 4x + 5?",
+      "options": {
+        "A": "2",
+        "C": "5",
+        "D": "0",
+        "B": "-4"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "Two polynomials are equal if and only if they have the same ______.",
+      "options": {
+        "A": "Degree and corresponding coefficients",
+        "C": "Leading coefficient only",
+        "D": "Constant term only",
+        "B": "Number of terms only"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "The zero polynomial f(x) = 0 has a degree that is:",
+      "options": {
+        "A": "Undefined",
+        "C": "0",
+        "D": "1",
+        "B": "Infinite"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "If f(x) = x - 1 and g(x) = x^2 + x + 1, their product is:",
+      "options": {
+        "A": "x^3 - 1",
+        "C": "x^3 + 1",
+        "D": "x^2 - 1",
+        "B": "x^3 + x - 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "In the division algorithm P(x) = d(x)q(x) + r(x), the degree of r(x) must be:",
+      "options": {
+        "A": "Less than the degree of d(x)",
+        "C": "Equal to the degree of d(x)",
+        "D": "Greater than the degree of d(x)",
+        "B": "Exactly 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "If a polynomial has an odd degree, it must have at least how many real zeros?",
+      "options": {
+        "A": "1",
+        "C": "0",
+        "D": "2",
+        "B": "3"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "The graph of f(x) = x^2 is called a:",
+      "options": {
+        "A": "Parabola",
+        "C": "Circle",
+        "D": "Line",
+        "B": "Hyperbola"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "Find the remainder when p(x) = x^3 - 1 is divided by (x - 1).",
+      "options": {
+        "A": "0",
+        "C": "1",
+        "D": "-2",
+        "B": "-1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "The coefficients of a polynomial must be:",
+      "options": {
+        "A": "Real numbers",
+        "C": "Only integers",
+        "D": "Only positive numbers",
+        "B": "Only variables"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "The leading term of p(x) = 5 - 2x + 3x^2 is:",
+      "options": {
+        "A": "3x^2",
+        "C": "5",
+        "D": "-2x",
+        "B": "x^2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "A polynomial p(x) is exactly divisible by (x - c) if and only if p(c) is:",
+      "options": {
+        "A": "0",
+        "C": "1",
+        "D": "c",
+        "B": "-c"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "The sum of two polynomials is always a:",
+      "options": {
+        "A": "Polynomial",
+        "C": "Fraction",
+        "D": "Constant",
+        "B": "Radical"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "If f(x) = 2x^2 and g(x) = 3x^2, then (f + g)(x) is:",
+      "options": {
+        "A": "5x^2",
+        "C": "6x^4",
+        "D": "x^2",
+        "B": "5x^4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "The process of writing a polynomial as a product of simpler polynomials is:",
+      "options": {
+        "A": "Factoring",
+        "C": "Expansion",
+        "D": "Differentiation",
+        "B": "Summation"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "For a cubic function f(x) = ax^3 + bx^2 + cx + d, if 'a' is negative, as x goes to infinity, f(x) goes to:",
+      "options": {
+        "A": "Negative infinity",
+        "C": "Positive infinity",
+        "D": "Zero",
+        "B": "The constant d"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "How many turning points can a polynomial of degree 5 have at most?",
+      "options": {
+        "A": "4",
+        "C": "5",
+        "D": "6",
+        "B": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "The graph of f(x) = x^3 is symmetric with respect to the:",
+      "options": {
+        "A": "Origin",
+        "C": "Y-axis",
+        "D": "X-axis",
+        "B": "Line y = 1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "If a factor (x - c) is repeated 'k' times, we say 'c' is a zero with ______ k.",
+      "options": {
+        "A": "Multiplicity",
+        "C": "Degree",
+        "D": "Power",
+        "B": "Coefficient"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "What is the result of dividing x^2 by x?",
+      "options": {
+        "A": "x",
+        "C": "1",
+        "D": "x^2",
+        "B": "0"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "Polynomial functions are always ______ (no breaks in the graph).",
+      "options": {
+        "A": "Continuous",
+        "C": "Discontinuous",
+        "D": "Discrete",
+        "B": "Asymptotic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "If p(x) = x^2 - 4, what are the zeros?",
+      "options": {
+        "A": "2 and -2",
+        "C": "4 and -4",
+        "D": "0 and 4",
+        "B": "2 and 0"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "The degree of the product of a degree 2 and a degree 4 polynomial is:",
+      "options": {
+        "A": "6",
+        "C": "8",
+        "D": "2",
+        "B": "4"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "A polynomial function f(x) = a is called a ______ function.",
+      "options": {
+        "A": "Constant",
+        "C": "Linear",
+        "D": "Quadratic",
+        "B": "Zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "What is the leading coefficient of f(x) = x^3 - 5x + 2?",
+      "options": {
+        "A": "1",
+        "C": "3",
+        "D": "-5",
+        "B": "2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "The term with the highest power of x in a polynomial is the ______ term.",
+      "options": {
+        "A": "Leading",
+        "C": "Constant",
+        "D": "Middle",
+        "B": "Final"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "If p(x) = 2x - 6, the zero is:",
+      "options": {
+        "A": "3",
+        "C": "-3",
+        "D": "6",
+        "B": "2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "The graph of a polynomial with even degree and negative leading coefficient opens ______.",
+      "options": {
+        "A": "Downward",
+        "C": "Upward",
+        "D": "To the right",
+        "B": "To the left"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Which of the following is a monomial?",
+      "options": {
+        "A": "7x^3",
+        "C": "x + 1",
+        "D": "x^2 - x",
+        "B": "3/x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "The remainder when dividing a polynomial by (x) is the ______ term.",
+      "options": {
+        "A": "Constant",
+        "C": "Leading",
+        "D": "First",
+        "B": "X"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "The graph of f(x) = x is a ______ line.",
+      "options": {
+        "A": "Straight",
+        "C": "Curved",
+        "D": "Vertical",
+        "B": "Circular"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

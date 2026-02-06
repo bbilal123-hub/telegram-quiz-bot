@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Physics",
+  "unit": "Unit 1: Thermodynamics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which law of thermodynamics states that if two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other?",
+      "options": {
+        "A": "First Law",
+        "B": "Second Law",
+        "C": "Third Law",
+        "D": "Zeroth Law"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 2,
+      "question": "The internal energy of an ideal gas is a function of its:",
+      "options": {
+        "A": "Pressure only",
+        "B": "Volume only",
+        "C": "Absolute temperature only",
+        "D": "Moles and Volume"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "In which thermodynamic process does the volume of the system remain constant?",
+      "options": {
+        "A": "Isothermal",
+        "B": "Adiabatic",
+        "C": "Isochoric",
+        "D": "Isobaric"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "The First Law of Thermodynamics is essentially a statement of:",
+      "options": {
+        "A": "Conservation of Momentum",
+        "B": "Conservation of Energy",
+        "C": "Conservation of Mass",
+        "D": "The direction of heat flow"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "An adiabatic process is one in which:",
+      "options": {
+        "A": "No heat enters or leaves the system",
+        "B": "The temperature remains constant",
+        "C": "The pressure remains constant",
+        "D": "The internal energy is always zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 6,
+      "question": "What is the formula for the work done ($W$) by a gas during an isobaric expansion?",
+      "options": {
+        "A": "$W = P \\Delta V$",
+        "B": "$W = V \\Delta P$",
+        "C": "$W = nRT$",
+        "D": "$W = 0$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following describes the efficiency of a Carnot engine?",
+      "options": {
+        "A": "$\\eta = 1 - (T_c/T_h)$",
+        "B": "$\\eta = 1 + (T_c/T_h)$",
+        "C": "$\\eta = T_h/T_c$",
+        "D": "$\\eta = Q_h/W$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "The measure of disorder or randomness in a system is called:",
+      "options": {
+        "A": "Enthalpy",
+        "B": "Entropy",
+        "C": "Internal Energy",
+        "D": "Heat Capacity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "According to the Second Law of Thermodynamics, the total entropy of an isolated system can:",
+      "options": {
+        "A": "Only decrease",
+        "B": "Never decrease",
+        "C": "Always remain constant",
+        "D": "Be zero at any temperature"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "During an isothermal expansion of an ideal gas, the change in internal energy ($\\Delta U$) is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Equal to heat added"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "A heat engine absorbs 500 J of heat and performs 200 J of work. What is its efficiency?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%",
+        "D": "250%"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The 'triple point' of a substance is the temperature and pressure at which:",
+      "options": {
+        "A": "Only solid and liquid exist",
+        "B": "Solid, liquid, and gas coexist in equilibrium",
+        "C": "The substance evaporates instantly",
+        "D": "The density is highest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "What happens to the temperature of a gas during an adiabatic compression?",
+      "options": {
+        "A": "It increases",
+        "B": "It decreases",
+        "C": "It remains the same",
+        "D": "It falls to absolute zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "In a P-V diagram, the area under the curve represents:",
+      "options": {
+        "A": "Internal energy",
+        "B": "Temperature",
+        "C": "Work done",
+        "D": "Entropy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which cycle consists of two reversible isothermal and two reversible adiabatic processes?",
+      "options": {
+        "A": "Otto cycle",
+        "B": "Diesel cycle",
+        "C": "Carnot cycle",
+        "D": "Rankine cycle"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "The molar heat capacity at constant pressure ($C_p$) and constant volume ($C_v$) are related by:",
+      "options": {
+        "A": "$C_p - C_v = R$",
+        "B": "$C_v - C_p = R$",
+        "C": "$C_p / C_v = R$",
+        "D": "$C_p + C_v = R$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "The Third Law of Thermodynamics states that the entropy of a perfect crystal at absolute zero is:",
+      "options": {
+        "A": "Infinite",
+        "B": "Maximum",
+        "C": "Zero",
+        "D": "Undefined"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "A refrigerator is essentially a heat engine running in:",
+      "options": {
+        "A": "A vacuum",
+        "B": "Reverse",
+        "C": "Parallel",
+        "D": "High pressure"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a 'state variable'?",
+      "options": {
+        "A": "Work",
+        "B": "Heat",
+        "C": "Internal Energy",
+        "D": "Friction"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "In an cyclic process, the change in internal energy over a complete cycle is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 21,
+      "question": "Which constant is defined as $1.38 \\times 10^{-23}$ J/K?",
+      "options": {
+        "A": "Universal gas constant (R)",
+        "B": "Boltzmann constant (k)",
+        "C": "Avogadro's number",
+        "D": "Planck's constant"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "For a monatomic ideal gas, the molar heat capacity at constant volume is:",
+      "options": {
+        "A": "$R$",
+        "B": "$3/2 R$",
+        "C": "$5/2 R$",
+        "D": "$2R$"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "In a free expansion of a gas into a vacuum, the work done is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Maximum"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is an intensive property of a thermodynamic system?",
+      "options": {
+        "A": "Volume",
+        "B": "Mass",
+        "C": "Temperature",
+        "D": "Internal Energy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "The 'Kelvin-Planck statement' is related to which law?",
+      "options": {
+        "A": "Zeroth Law",
+        "B": "First Law",
+        "C": "Second Law",
+        "D": "Third Law"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "If heat is added to a system while it does work, the internal energy:",
+      "options": {
+        "A": "Must increase",
+        "B": "Must decrease",
+        "C": "May increase, decrease, or stay the same",
+        "D": "Will always remain zero"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "The slope of an adiabatic process on a P-V diagram is ______ than that of an isothermal process.",
+      "options": {
+        "A": "Flatter",
+        "B": "Steeper",
+        "C": "The same",
+        "D": "Vertical"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The ratio $C_p / C_v$ is denoted by the symbol:",
+      "options": {
+        "A": "$\\\\alpha$",
+        "B": "$\\\\beta$",
+        "C": "$\\\\gamma$ (Gamma)",
+        "D": "$\\\\rho$"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "A process in which there is no change in enthalpy is called:",
+      "options": {
+        "A": "Isenthalpic",
+        "B": "Isotropic",
+        "C": "Isothermal",
+        "D": "Adiabatic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "Heat flows spontaneously from a cold object to a hot object only if work is done. This is the ______ statement.",
+      "options": {
+        "A": "Clausius",
+        "B": "Kelvin",
+        "C": "Joule",
+        "D": "Newton"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "What is the average kinetic energy of a molecule in an ideal gas at temperature T?",
+      "options": {
+        "A": "$1/2 kT$",
+        "B": "$3/2 kT$",
+        "C": "$RT$",
+        "D": "$3/2 RT$"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "A real gas behaves most like an ideal gas at:",
+      "options": {
+        "A": "High pressure and low temperature",
+        "B": "Low pressure and high temperature",
+        "C": "High pressure and high temperature",
+        "D": "Low pressure and low temperature"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The change in entropy ($\\Delta S$) for a reversible process is given by:",
+      "options": {
+        "A": "$\\Delta Q / T$",
+        "B": "$T \\Delta Q$",
+        "C": "$\\Delta U / T$",
+        "D": "$W / T$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following engines has the maximum theoretical efficiency?",
+      "options": {
+        "A": "Steam engine",
+        "B": "Diesel engine",
+        "C": "Carnot engine",
+        "D": "Petrol engine"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "The work done in an isochoric process is:",
+      "options": {
+        "A": "$P \\Delta V$",
+        "B": "Zero",
+        "C": "$nRT \\ln(V_2/V_1)$",
+        "D": "$Q$"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The root-mean-square (rms) speed of gas molecules is proportional to:",
+      "options": {
+        "A": "$T$",
+        "B": "$\\sqrt{T}$",
+        "C": "$T^2$",
+        "D": "$1/T$"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "An ideal gas expands from 1 L to 3 L at a constant pressure of 2 atm. Find the work done.",
+      "options": {
+        "A": "2 J",
+        "B": "4 J",
+        "C": "405.3 J",
+        "D": "6 J"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "The coefficient of performance (COP) of a heat pump is defined as:",
+      "options": {
+        "A": "$Q_h / W$",
+        "B": "$Q_c / W$",
+        "C": "$W / Q_h$",
+        "D": "$1 - (T_c/T_h)$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "Internal energy is a ______ function.",
+      "options": {
+        "A": "Path",
+        "B": "State",
+        "C": "Process",
+        "D": "Random"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "During which phase of the Carnot cycle does the gas perform work while its temperature stays constant?",
+      "options": {
+        "A": "Isothermal expansion",
+        "B": "Adiabatic expansion",
+        "C": "Isothermal compression",
+        "D": "Adiabatic compression"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which law prevents the construction of a perpetual motion machine of the second kind?",
+      "options": {
+        "A": "First Law",
+        "B": "Second Law",
+        "C": "Third Law",
+        "D": "Zeroth Law"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The work done in a reversible isothermal process is:",
+      "options": {
+        "A": "$nRT \\ln(V_2/V_1)$",
+        "B": "$P(V_2 - V_1)$",
+        "C": "Zero",
+        "D": "$\\Delta U$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "Molar heat capacity $C_v$ for a diatomic gas at moderate temperature is:",
+      "options": {
+        "A": "$3/2 R$",
+        "B": "$5/2 R$",
+        "C": "$7/2 R$",
+        "D": "$3R$"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "The latent heat of fusion is involved during:",
+      "options": {
+        "A": "Boiling",
+        "B": "Melting",
+        "C": "Sublimation",
+        "D": "Expansion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "A system is taken through a cycle. The net heat transferred to the system is 50 J. The net work done by the system is:",
+      "options": {
+        "A": "0 J",
+        "B": "50 J",
+        "C": "100 J",
+        "D": "-50 J"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "A Carnot engine operates between 600 K and 300 K. Its efficiency is:",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The SI unit of entropy is:",
+      "options": {
+        "A": "Joule",
+        "B": "J/K",
+        "C": "Watt",
+        "D": "Calorie"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "In the equation $PV^\\gamma = \\text{constant}$, $\\gamma$ stands for:",
+      "options": {
+        "A": "$C_p / C_v$",
+        "B": "$C_v / C_p$",
+        "C": "$C_p - C_v$",
+        "D": "$R/C_p$"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "The pressure of a gas is 1/3 of its energy density for which type of gas?",
+      "options": {
+        "A": "Monatomic",
+        "B": "Ideal",
+        "C": "Diatomic",
+        "D": "Real"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "As the temperature of a system approaches absolute zero, its entropy approaches:",
+      "options": {
+        "A": "Infinity",
+        "B": "A constant minimum value (zero)",
+        "C": "Maximum",
+        "D": "Negative infinity"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

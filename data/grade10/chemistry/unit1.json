@@ -1,0 +1,560 @@
+[
+  {
+  "unit": "Unit 1: Chemical Reactions and Stoichiometry",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of the following is a sign that a chemical reaction has occurred?",
+      "options": {
+        "A": "Formation of a precipitate",
+        "B": "Change in state from solid to liquid only",
+        "C": "Simple mixing of two powders",
+        "D": "Breaking a glass beaker"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "In a balanced chemical equation, the number of atoms of each element on the reactant side must be:",
+      "options": {
+        "A": "Less than the product side",
+        "B": "Greater than the product side",
+        "C": "Equal to the product side",
+        "D": "Double the product side"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "Which type of reaction involves two or more substances combining to form a single product?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Single displacement",
+        "C": "Double displacement",
+        "D": "Combination reaction"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "The reaction: CaCO3 -> CaO + CO2 is an example of a:",
+      "options": {
+        "A": "Decomposition reaction",
+        "B": "Combination reaction",
+        "C": "Redox reaction",
+        "D": "Neutralization reaction"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "Which of the following defines the 'Mole' in chemistry?",
+      "options": {
+        "A": "The mass of one atom of carbon",
+        "B": "The volume of a gas at room temperature",
+        "C": "The amount of substance containing 6.022 x 10^23 particles",
+        "D": "The density of a liquid substance"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "What is the molar mass of Water (H2O) given that H=1 and O=16?",
+      "options": {
+        "A": "17 g/mol",
+        "B": "16 g/mol",
+        "C": "33 g/mol",
+        "D": "18 g/mol"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 7,
+      "question": "A reaction that releases heat energy to the surroundings is called:",
+      "options": {
+        "A": "Exothermic",
+        "B": "Endothermic",
+        "C": "Isothermic",
+        "D": "Catalytic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "In the reaction Zn + 2HCl -> ZnCl2 + H2, which element is being displaced?",
+      "options": {
+        "A": "Zinc",
+        "B": "Chlorine",
+        "C": "Hydrogen",
+        "D": "None of these"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 9,
+      "question": "The theoretical yield of a reaction is:",
+      "options": {
+        "A": "The amount of product actually measured in the lab",
+        "B": "Always 100 percent of the reactants",
+        "C": "The amount of reactant left over",
+        "D": "The maximum amount of product calculated from stoichiometry"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 10,
+      "question": "Which law states that mass is neither created nor destroyed during a chemical reaction?",
+      "options": {
+        "A": "Law of Conservation of Mass",
+        "B": "Law of Definite Proportions",
+        "C": "Law of Multiple Proportions",
+        "D": "Avogadro's Law"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "What is the percentage composition of Oxygen in MgO (Mg=24, O=16)?",
+      "options": {
+        "A": "60 percent",
+        "B": "50 percent",
+        "C": "40 percent",
+        "D": "25 percent"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "Which of the following is the empirical formula for C6H12O6?",
+      "options": {
+        "A": "CH2O",
+        "B": "CHO",
+        "C": "C2H4O2",
+        "D": "CH3O"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "The reactant that is completely consumed first in a reaction is the:",
+      "options": {
+        "A": "Excess reactant",
+        "B": "Catalyst",
+        "C": "Inert reactant",
+        "D": "Limiting reactant"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 14,
+      "question": "How many moles are in 44 grams of CO2 (C=12, O=16)?",
+      "options": {
+        "A": "1 mole",
+        "B": "2 moles",
+        "C": "0.5 moles",
+        "D": "44 moles"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "Which of the following represents Avogadro's number?",
+      "options": {
+        "A": "3.00 x 10^8",
+        "B": "9.81 x 10^1",
+        "C": "6.022 x 10^23",
+        "D": "1.60 x 10^-19"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 16,
+      "question": "In a neutralization reaction, an acid reacts with a base to produce:",
+      "options": {
+        "A": "Salt and water",
+        "B": "Gas and salt",
+        "C": "Acid and salt",
+        "D": "Base and water"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "The volume occupied by one mole of any gas at STP is:",
+      "options": {
+        "A": "24.0 Liters",
+        "B": "1.0 Liter",
+        "C": "22.4 Liters",
+        "D": "10.0 Liters"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 18,
+      "question": "What happens in an oxidation reaction?",
+      "options": {
+        "A": "Loss of electrons",
+        "B": "Gain of electrons",
+        "C": "Loss of protons",
+        "D": "Gain of protons"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "Which of the following is a redox reaction?",
+      "options": {
+        "A": "HCl + NaOH -> NaCl + H2O",
+        "B": "AgNO3 + NaCl -> AgCl + NaNO3",
+        "C": "CaCO3 -> CaO + CO2",
+        "D": "2Mg + O2 -> 2MgO"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 20,
+      "question": "The coefficients in a balanced chemical equation represent the ratio of:",
+      "options": {
+        "A": "Moles",
+        "B": "Mass in grams",
+        "C": "Density",
+        "D": "Temperature"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "If the actual yield is 80g and theoretical yield is 100g, what is the percentage yield?",
+      "options": {
+        "A": "125 percent",
+        "B": "20 percent",
+        "C": "80 percent",
+        "D": "100 percent"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "Which symbol represents a substance dissolved in water in a chemical equation?",
+      "options": {
+        "A": "(aq)",
+        "B": "(s)",
+        "C": "(l)",
+        "D": "(g)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "The sum of the atomic masses of all atoms in a molecule is known as:",
+      "options": {
+        "A": "Atomic number",
+        "B": "Mass number",
+        "C": "Molecular mass",
+        "D": "Molarity"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 24,
+      "question": "A reaction where a more reactive metal displaces a less reactive metal from its salt solution is:",
+      "options": {
+        "A": "Single displacement",
+        "B": "Double displacement",
+        "C": "Combination",
+        "D": "Decomposition"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "In the equation 2H2 + O2 -> 2H2O, how many moles of Oxygen are needed to react with 4 moles of Hydrogen?",
+      "options": {
+        "A": "4 moles",
+        "B": "1 mole",
+        "C": "2 moles",
+        "D": "8 moles"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 26,
+      "question": "What is the oxidation number of Hydrogen in H2 gas?",
+      "options": {
+        "A": "0",
+        "B": "+1",
+        "C": "-1",
+        "D": "+2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "Which of these is a precipitate?",
+      "options": {
+        "A": "A soluble salt in water",
+        "B": "A gas released during a reaction",
+        "C": "An insoluble solid formed in a solution",
+        "D": "The liquid solvent"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "In an endothermic reaction, the energy of the products is:",
+      "options": {
+        "A": "Higher than the energy of reactants",
+        "B": "Lower than the energy of reactants",
+        "C": "Equal to the energy of reactants",
+        "D": "Zero"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "Molarity is defined as:",
+      "options": {
+        "A": "Moles of solute per liter of solution",
+        "B": "Grams of solute per liter of solution",
+        "C": "Moles of solute per kilogram of solvent",
+        "D": "Volume of solute per volume of solution"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "The formula that shows the actual number of atoms of each element in a molecule is the:",
+      "options": {
+        "A": "Empirical formula",
+        "B": "Structural formula",
+        "C": "Molecular formula",
+        "D": "Ionic formula"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 31,
+      "question": "What is the molar mass of NaCl (Na=23, Cl=35.5)?",
+      "options": {
+        "A": "58.5 g/mol",
+        "B": "11.5 g/mol",
+        "C": "46.0 g/mol",
+        "D": "71.0 g/mol"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "During the combustion of hydrocarbons, which two main products are usually formed?",
+      "options": {
+        "A": "CO2 and H2O",
+        "B": "CO and H2",
+        "C": "C and O2",
+        "D": "CH4 and O2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "The reduction process involves:",
+      "options": {
+        "A": "Gain of electrons",
+        "B": "Loss of electrons",
+        "C": "Gain of oxygen",
+        "D": "Loss of protons"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "Which of the following describes a double displacement reaction?",
+      "options": {
+        "A": "One element takes the place of another in a compound",
+        "B": "Two compounds exchange ions to form new compounds",
+        "C": "A single compound breaks down into elements",
+        "D": "A substance reacts with oxygen to produce light and heat"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 35,
+      "question": "The mass of one mole of a substance is numerically equal to its:",
+      "options": {
+        "A": "Atomic/formula mass in grams",
+        "B": "Atomic number in grams",
+        "C": "Valency in grams",
+        "D": "Boiling point in grams"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "How many atoms are in one mole of Iron (Fe)?",
+      "options": {
+        "A": "6.022 x 10^23",
+        "B": "1.204 x 10^24",
+        "C": "3.011 x 10^23",
+        "D": "56 atoms"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "If a metal is placed in the Activity Series, metals at the top are:",
+      "options": {
+        "A": "More reactive",
+        "B": "Less reactive",
+        "C": "More stable",
+        "D": "Nobel gases"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "In the reaction: CuO + H2 -> Cu + H2O, which substance is the reducing agent?",
+      "options": {
+        "A": "CuO",
+        "B": "Cu",
+        "C": "H2",
+        "D": "H2O"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 39,
+      "question": "Which of the following is true for an excess reactant?",
+      "options": {
+        "A": "It is completely consumed in the reaction",
+        "B": "It determines the amount of product formed",
+        "C": "Some of it remains after the reaction stops",
+        "D": "It slows down the reaction rate"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 40,
+      "question": "The ratio of the actual yield to the theoretical yield multiplied by 100 is:",
+      "options": {
+        "A": "Percent composition",
+        "B": "Percent error",
+        "C": "Percent yield",
+        "D": "Molar ratio"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 41,
+      "question": "What is the molar mass of Carbon Dioxide (CO2)?",
+      "options": {
+        "A": "44 g/mol",
+        "B": "28 g/mol",
+        "C": "32 g/mol",
+        "D": "12 g/mol"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "A balanced equation for the reaction of Sodium and Chlorine to form Sodium Chloride is:",
+      "options": {
+        "A": "Na + Cl -> NaCl",
+        "B": "2Na + Cl2 -> 2NaCl",
+        "C": "Na2 + Cl2 -> 2NaCl",
+        "D": "Na + Cl2 -> NaCl2"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 43,
+      "question": "Which factor does not affect the amount of product formed in a reaction?",
+      "options": {
+        "A": "Amount of limiting reactant",
+        "B": "Reaction temperature",
+        "C": "The size of the reaction container",
+        "D": "Efficiency of the reaction process"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 44,
+      "question": "The oxidation number of Oxygen in most compounds is:",
+      "options": {
+        "A": "-2",
+        "B": "+2",
+        "C": "0",
+        "D": "-1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "What is the mass of 2 moles of Calcium (Ca=40)?",
+      "options": {
+        "A": "20 g",
+        "B": "40 g",
+        "C": "80 g",
+        "D": "120 g"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 46,
+      "question": "In a chemical equation, the arrow (->) is read as:",
+      "options": {
+        "A": "Equals",
+        "B": "Produces or yields",
+        "C": "Plus",
+        "D": "Reacts with"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Which of the following is a unit of concentration?",
+      "options": {
+        "A": "Moles/Liter",
+        "B": "Grams/Mole",
+        "C": "Liters/Mole",
+        "D": "Celsius"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "Stoichiometry is the study of ______ relationships in chemical reactions.",
+      "options": {
+        "A": "Qualitative",
+        "B": "Quantitative",
+        "C": "Physical",
+        "D": "Kinetic"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 49,
+      "question": "The empirical formula of a compound is CH2. If the molar mass is 28 g/mol, what is the molecular formula?",
+      "options": {
+        "A": "C2H4",
+        "B": "CH2",
+        "C": "C3H6",
+        "D": "C4H8"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "An oxidizing agent is a substance that:",
+      "options": {
+        "A": "Loses electrons",
+        "B": "Gains electrons",
+        "C": "Loses oxygen",
+        "D": "Remains unchanged"
+      },
+      "correct_option": "C"
+    }
+  ]
+}
+]

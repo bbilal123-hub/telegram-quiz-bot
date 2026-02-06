@@ -1,0 +1,558 @@
+[{
+  "grade": "Grade 9",
+  "subject": "Chemistry",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is the best definition of Chemistry?",
+      "options": {
+        "A": "The study of living things",
+        "B": "The study of matter and its transformations",
+        "C": "The study of celestial bodies",
+        "D": "The study of social interactions"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which branch of chemistry deals specifically with the study of carbon compounds?",
+      "options": {
+        "A": "Inorganic Chemistry",
+        "B": "Analytical Chemistry",
+        "C": "Organic Chemistry",
+        "D": "Physical Chemistry"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Everything that has mass and occupies space is known as:",
+      "options": {
+        "A": "Energy",
+        "B": "Matter",
+        "C": "Force",
+        "D": "Vacuum"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The three physical states of matter are:",
+      "options": {
+        "A": "Solid, Liquid, Gas",
+        "B": "Mass, Volume, Density",
+        "C": "Atom, Molecule, Ion",
+        "D": "Metal, Non-metal, Metalloid"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a physical change?",
+      "options": {
+        "A": "Burning of wood",
+        "B": "Rusting of an iron gate in Bahir Dar",
+        "C": "Melting of ice",
+        "D": "Souring of milk"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "The smallest unit of an element that maintains the properties of that element is:",
+      "options": {
+        "A": "Molecule",
+        "B": "Atom",
+        "C": "Compound",
+        "D": "Mixture"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "In the laboratory, which piece of equipment is used to measure the volume of a liquid accurately?",
+      "options": {
+        "A": "Test tube",
+        "B": "Graduated cylinder",
+        "C": "Beaker",
+        "D": "Evaporating dish"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "What is the chemical symbol for the element Sodium?",
+      "options": {
+        "A": "S",
+        "B": "So",
+        "C": "Na",
+        "D": "K"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a homogeneous mixture?",
+      "options": {
+        "A": "Salt dissolved in water",
+        "B": "Oil and water",
+        "C": "Sand and Teff seeds",
+        "D": "Muddy water"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "The subatomic particle with a negative charge is the:",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Nucleus"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 11,
+      "question": "In the periodic table, the horizontal rows are called:",
+      "options": {
+        "A": "Groups",
+        "B": "Families",
+        "C": "Periods",
+        "D": "Columns"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "The atomic number of an element is equal to the number of:",
+      "options": {
+        "A": "Neutrons",
+        "B": "Protons",
+        "C": "Electrons and Neutrons",
+        "D": "Protons and Neutrons"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which element is found in Group 18 of the periodic table?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Chlorine",
+        "C": "Neon",
+        "D": "Sodium"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "What is the valency of Oxygen?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The formula for Sodium Chloride (table salt) is:",
+      "options": {
+        "A": "NaC",
+        "B": "SCl",
+        "C": "NaCl",
+        "D": "Na2Cl"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is a characteristic of metals?",
+      "options": {
+        "A": "Brittle",
+        "B": "Poor conductors of heat",
+        "C": "Malleable",
+        "D": "Low melting point"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 17,
+      "question": "The process by which a solid changes directly into a gas is called:",
+      "options": {
+        "A": "Evaporation",
+        "B": "Sublimation",
+        "C": "Condensation",
+        "D": "Freezing"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following represents a chemical compound?",
+      "options": {
+        "A": "O2",
+        "B": "H2O",
+        "C": "Fe",
+        "D": "N2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "What is the mass number of an atom with 6 protons and 7 neutrons?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "13",
+        "D": "42"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "Which law states that mass is neither created nor destroyed in a chemical reaction?",
+      "options": {
+        "A": "Law of Definite Proportions",
+        "B": "Law of Multiple Proportions",
+        "C": "Law of Conservation of Mass",
+        "D": "Avogadro's Law"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 21,
+      "question": "A substance with a pH of 2 is considered:",
+      "options": {
+        "A": "Strongly acidic",
+        "B": "Strongly basic",
+        "C": "Neutral",
+        "D": "Weakly basic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "The common name for Sodium Bicarbonate, used in baking, is:",
+      "options": {
+        "A": "Table salt",
+        "B": "Baking soda",
+        "C": "Caustic soda",
+        "D": "Epsom salt"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which of these is a common indicator used in the lab to test acidity?",
+      "options": {
+        "A": "Ethanol",
+        "B": "Litmus paper",
+        "C": "Sodium hydroxide",
+        "D": "Copper sulfate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The chemical reaction between an acid and a base is called:",
+      "options": {
+        "A": "Combustion",
+        "B": "Neutralization",
+        "C": "Oxidation",
+        "D": "Fermentation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "What is the molar mass of Water ($H_2O$)? (H=1, O=16)",
+      "options": {
+        "A": "17 g/mol",
+        "B": "18 g/mol",
+        "C": "33 g/mol",
+        "D": "2 g/mol"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Which gas is produced when magnesium reacts with dilute hydrochloric acid?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Hydrogen",
+        "D": "Nitrogen"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "The valence shell of an atom is the:",
+      "options": {
+        "A": "First shell",
+        "B": "Middle shell",
+        "C": "Outermost shell",
+        "D": "Nucleus"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is a non-metal that is liquid at room temperature?",
+      "options": {
+        "A": "Mercury",
+        "B": "Bromine",
+        "C": "Chlorine",
+        "D": "Iodine"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "An ionic bond is formed by the:",
+      "options": {
+        "A": "Sharing of electrons",
+        "B": "Transfer of electrons",
+        "C": "Sharing of protons",
+        "D": "Loss of neutrons"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a fossil fuel commonly discussed in Ethiopia's energy sector?",
+      "options": {
+        "A": "Hydroelectric power",
+        "B": "Natural Gas",
+        "C": "Solar energy",
+        "D": "Wind energy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "The major component of air is:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Argon",
+        "D": "Carbon dioxide"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is the correct formula for Sulfuric acid?",
+      "options": {
+        "A": "HCl",
+        "B": "HNO3",
+        "C": "H2SO4",
+        "D": "CH3COOH"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "The number of atoms in one mole of any substance is known as:",
+      "options": {
+        "A": "Boyle's number",
+        "B": "Charles's number",
+        "C": "Avogadro's number",
+        "D": "Dalton's number"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 34,
+      "question": "Which type of chemical bond involves the sharing of electron pairs between atoms?",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Hydrogen bond"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "In Ethiopia, 'Areke' is produced through the process of fermentation followed by:",
+      "options": {
+        "A": "Filtration",
+        "B": "Distillation",
+        "C": "Crystallization",
+        "D": "Sublimation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is a chemical property of a substance?",
+      "options": {
+        "A": "Color",
+        "B": "Density",
+        "C": "Flammability",
+        "D": "Boiling point"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 37,
+      "question": "The most abundant metal in the Earth's crust is:",
+      "options": {
+        "A": "Iron",
+        "B": "Aluminum",
+        "C": "Gold",
+        "D": "Copper"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "A solution that cannot dissolve any more solute at a given temperature is called:",
+      "options": {
+        "A": "Unsaturated",
+        "B": "Saturated",
+        "C": "Supersaturated",
+        "D": "Dilute"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following elements is a Noble Gas?",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Helium",
+        "C": "Fluorine",
+        "D": "Nitrogen"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "The pH of pure water at room temperature is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "7",
+        "D": "14"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is a diatomic molecule?",
+      "options": {
+        "A": "He",
+        "B": "Cl2",
+        "C": "S8",
+        "D": "P4"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The percentage of Oxygen in the atmosphere is approximately:",
+      "options": {
+        "A": "78%",
+        "B": "21%",
+        "C": "1%",
+        "D": "0.03%"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is a transition metal?",
+      "options": {
+        "A": "Calcium",
+        "B": "Iron",
+        "C": "Potassium",
+        "D": "Magnesium"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "What happens to the temperature of a substance during a change of state (e.g., melting)?",
+      "options": {
+        "A": "It increases",
+        "B": "It decreases",
+        "C": "It remains constant",
+        "D": "It fluctuates"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 45,
+      "question": "The electron configuration of Sodium (Atomic number 11) is:",
+      "options": {
+        "A": "2, 8, 1",
+        "B": "2, 9",
+        "C": "8, 2, 1",
+        "D": "1, 8, 2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which subatomic particle was discovered by J.J. Thomson using the cathode ray tube?",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Positron"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 47,
+      "question": "A substance that speeds up a chemical reaction without being consumed is a:",
+      "options": {
+        "A": "Reactant",
+        "B": "Product",
+        "C": "Catalyst",
+        "D": "Solvent"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 48,
+      "question": "The formula of the Nitrate ion is:",
+      "options": {
+        "A": "NO2-",
+        "B": "NO3-",
+        "C": "N3-",
+        "D": "NH4+"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "In the reaction $2H_2 + O_2 \rightarrow 2H_2O$, what are the reactants?",
+      "options": {
+        "A": "H2O only",
+        "B": "H2 and O2",
+        "C": "H2 only",
+        "D": "O2 only"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Which Ethiopian mineral resource is primarily used in the production of fertilizers?",
+      "options": {
+        "A": "Gold",
+        "B": "Potash",
+        "C": "Tantalum",
+        "D": "Opal"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

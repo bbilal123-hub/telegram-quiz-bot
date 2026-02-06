@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 2: Cell Biology",
+  "grade": 10,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Who was the first scientist to observe and name 'cells' while looking at a thin slice of cork?",
+      "options": {
+        "A": "Robert Hooke",
+        "B": "Anton van Leeuwenhoek",
+        "C": "Theodore Schwann",
+        "D": "Rudolf Virchow"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "According to the cell theory, all new cells arise from:",
+      "options": {
+        "A": "Non-living matter",
+        "B": "Chemical reactions",
+        "C": "Pre-existing cells",
+        "D": "Spontaneous generation"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the following is a primary characteristic of prokaryotic cells?",
+      "options": {
+        "A": "Presence of a nucleus",
+        "B": "Membrane-bound organelles",
+        "C": "Linear DNA",
+        "D": "Absence of a nuclear membrane"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question_number": 4,
+      "question": "The 'powerhouse of the cell' where ATP is produced is the:",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Ribosome",
+        "C": "Lysosome",
+        "D": "Nucleolus"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "Which organelle is responsible for photosynthesis in plant cells?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Chromoplast",
+        "C": "Chloroplast",
+        "D": "Leucoplast"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 6,
+      "question": "The jelly-like substance that fills the cell and surrounds the organelles is called:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Nucleoplasm",
+        "C": "Cell wall",
+        "D": "Vacuole"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "Which structure controls the movement of substances into and out of the cell?",
+      "options": {
+        "A": "Cell wall",
+        "B": "Nuclear envelope",
+        "C": "Plasma membrane",
+        "D": "Endoplasmic reticulum"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 8,
+      "question": "Ribosomes are primarily involved in the synthesis of:",
+      "options": {
+        "A": "Proteins",
+        "B": "Lipids",
+        "C": "Carbohydrates",
+        "D": "Nucleic acids"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "Which organelle contains digestive enzymes to break down waste materials?",
+      "options": {
+        "A": "Golgi body",
+        "B": "Smooth ER",
+        "C": "Lysosome",
+        "D": "Centriole"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 10,
+      "question": "In a eukaryotic cell, the genetic material (DNA) is found inside the:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Ribosome",
+        "C": "Cytoplasm",
+        "D": "Mitochondria"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "Which structure is found in plant cells but NOT in animal cells?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Cell membrane",
+        "C": "Cell wall",
+        "D": "Ribosome"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 12,
+      "question": "The movement of water across a semi-permeable membrane is called:",
+      "options": {
+        "A": "Osmosis",
+        "B": "Active transport",
+        "C": "Endocytosis",
+        "D": "Facilitated diffusion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Which organelle is often referred to as the 'post office' of the cell because it packages proteins?",
+      "options": {
+        "A": "Rough ER",
+        "B": "Smooth ER",
+        "C": "Golgi apparatus",
+        "D": "Vacuole"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 14,
+      "question": "A cell placed in a hypertonic solution will:",
+      "options": {
+        "A": "Shrink",
+        "B": "Swell",
+        "C": "Stay the same",
+        "D": "Burst"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "The rough endoplasmic reticulum is 'rough' because it has ______ attached to its surface.",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Lysosomes",
+        "C": "Mitochondria",
+        "D": "Lipids"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "Which stage of the cell cycle involves the replication of DNA?",
+      "options": {
+        "A": "G1 phase",
+        "B": "Prophase",
+        "C": "S phase",
+        "D": "Metaphase"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 17,
+      "question": "During mitosis, chromosomes line up in the center of the cell during:",
+      "options": {
+        "A": "Metaphase",
+        "B": "Anaphase",
+        "C": "Telophase",
+        "D": "Prophase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Which type of transport requires the expenditure of energy (ATP)?",
+      "options": {
+        "A": "Active transport",
+        "B": "Simple diffusion",
+        "C": "Osmosis",
+        "D": "Passive transport"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "The division of the cytoplasm at the end of cell division is called:",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Cytokinesis",
+        "D": "Interphase"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 20,
+      "question": "Bacteria are examples of:",
+      "options": {
+        "A": "Prokaryotic organisms",
+        "B": "Eukaryotic organisms",
+        "C": "Multicellular organisms",
+        "D": "Fungi"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "Large storage sacs found in plant cells to maintain turgor pressure are:",
+      "options": {
+        "A": "Centrioles",
+        "B": "Lysosomes",
+        "C": "Central vacuoles",
+        "D": "Nuclei"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 22,
+      "question": "The basic structural and functional unit of life is the:",
+      "options": {
+        "A": "Cell",
+        "B": "Tissue",
+        "C": "Organ",
+        "D": "Atom"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "Which of the following is NOT a part of the cell theory?",
+      "options": {
+        "A": "Cells come from non-living matter",
+        "B": "Cells are the basic unit of life",
+        "C": "All organisms are made of cells",
+        "D": "Cells come from pre-existing cells"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "Lipid synthesis and detoxification occur in the:",
+      "options": {
+        "A": "Smooth endoplasmic reticulum",
+        "B": "Rough endoplasmic reticulum",
+        "C": "Nucleolus",
+        "D": "Golgi complex"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "The process by which a cell engulfs solid particles is called:",
+      "options": {
+        "A": "Phagocytosis",
+        "B": "Pinocytosis",
+        "C": "Exocytosis",
+        "D": "Osmosis"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "Human body cells (somatic cells) divide by the process of:",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Binary fission",
+        "D": "Budding"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "The fluid mosaic model describes the structure of the:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Nucleus",
+        "C": "Cell membrane",
+        "D": "Mitochondria"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question_number": 28,
+      "question": "Which stage of mitosis follows anaphase?",
+      "options": {
+        "A": "Telophase",
+        "B": "Metaphase",
+        "C": "Prophase",
+        "D": "Interphase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "A group of similar cells working together to perform a specific function is a:",
+      "options": {
+        "A": "Tissue",
+        "B": "Organ",
+        "C": "System",
+        "D": "Organism"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "In animal cells, which structure helps in spindle formation during cell division?",
+      "options": {
+        "A": "Centriole",
+        "B": "Chloroplast",
+        "C": "Cell wall",
+        "D": "Vacuole"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "The movement of molecules from an area of high concentration to low concentration is:",
+      "options": {
+        "A": "Diffusion",
+        "B": "Active transport",
+        "C": "Endocytosis",
+        "D": "Exocytosis"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Which organelle is found within the nucleus and produces ribosomes?",
+      "options": {
+        "A": "Nucleolus",
+        "B": "Mitochondria",
+        "C": "Centrosome",
+        "D": "Lysosome"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "Plant cell walls are primarily made of:",
+      "options": {
+        "A": "Cellulose",
+        "B": "Chitin",
+        "C": "Protein",
+        "D": "Peptidoglycan"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "What happens to a plant cell in a hypotonic solution?",
+      "options": {
+        "A": "It becomes turgid",
+        "B": "It undergoes plasmolysis",
+        "C": "It shrivels",
+        "D": "It bursts"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "DNA is organized into structures called ______ during cell division.",
+      "options": {
+        "A": "Chromosomes",
+        "B": "Ribosomes",
+        "C": "Lysosomes",
+        "D": "Plasmids"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "The phase of mitosis where sister chromatids pull apart is:",
+      "options": {
+        "A": "Anaphase",
+        "B": "Telophase",
+        "C": "Prophase",
+        "D": "Metaphase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "Which of the following is an example of an organelle?",
+      "options": {
+        "A": "Mitochondrion",
+        "B": "Skin",
+        "C": "Blood",
+        "D": "Heart"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "A solution that has the same concentration of solutes as the cell is:",
+      "options": {
+        "A": "Isotonic",
+        "B": "Hypertonic",
+        "C": "Hypotonic",
+        "D": "Saturated"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "Prokaryotic DNA is usually in the form of a single ______ chromosome.",
+      "options": {
+        "A": "Circular",
+        "B": "Linear",
+        "C": "Square",
+        "D": "Fragmented"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "The 'S' in S-phase stands for:",
+      "options": {
+        "A": "Synthesis",
+        "B": "Segmentation",
+        "C": "Separation",
+        "D": "Stability"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "Which organelle provides structural support (cytoskeleton)?",
+      "options": {
+        "A": "Microtubules",
+        "B": "Ribosomes",
+        "C": "Nucleus",
+        "D": "Mitochondria"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "The green pigment used to trap sunlight is:",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Hemoglobin",
+        "C": "Melanin",
+        "D": "Xanthophyll"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "How many daughter cells are produced at the end of mitosis?",
+      "options": {
+        "A": "Two",
+        "B": "Four",
+        "C": "Eight",
+        "D": "One"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "The double membrane surrounding the nucleus is the:",
+      "options": {
+        "A": "Nuclear envelope",
+        "B": "Cell wall",
+        "C": "Plasma membrane",
+        "D": "Tonoplast"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "A light microscope uses ______ to magnify images.",
+      "options": {
+        "A": "Lenses and light",
+        "B": "Electrons",
+        "C": "Magnets",
+        "D": "Sound waves"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "The process of programmed cell death is known as:",
+      "options": {
+        "A": "Apoptosis",
+        "B": "Mitosis",
+        "C": "Meiosis",
+        "D": "Osmosis"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Which type of cell has a large central vacuole?",
+      "options": {
+        "A": "Plant cell",
+        "B": "Animal cell",
+        "C": "Bacterial cell",
+        "D": "Fungal cell"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "The total magnification of a microscope with a 10x eyepiece and 40x objective is:",
+      "options": {
+        "A": "400x",
+        "B": "50x",
+        "C": "30x",
+        "D": "4000x"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "In which stage of the cell cycle does the cell spend most of its time?",
+      "options": {
+        "A": "Interphase",
+        "B": "Metaphase",
+        "C": "Anaphase",
+        "D": "Telophase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "The sister chromatids are held together at a region called the:",
+      "options": {
+        "A": "Centromere",
+        "B": "Centriole",
+        "C": "Centrosome",
+        "D": "Cytoplasm"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

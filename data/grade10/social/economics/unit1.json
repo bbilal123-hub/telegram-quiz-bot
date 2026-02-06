@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 10",
+  "subject": "Economics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The term 'Economics' is derived from the Greek word 'Oikonomia', which means:",
+      "options": {
+        "A": "Wealth creation",
+        "B": "Household management",
+        "C": "Market exchange",
+        "D": "State administration"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Who is often regarded as the 'Father of Modern Economics'?",
+      "options": {
+        "A": "David Ricardo",
+        "B": "Adam Smith",
+        "C": "John Maynard Keynes",
+        "D": "Karl Marx"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Economics is a social science because it deals with:",
+      "options": {
+        "A": "Chemical reactions",
+        "B": "Human behavior and resource allocation",
+        "C": "Plant growth",
+        "D": "Planetary motion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "Microeconomics focuses on the behavior of:",
+      "options": {
+        "A": "The entire national economy",
+        "B": "Individual economic units like households and firms",
+        "C": "International trade relations",
+        "D": "General price levels (inflation)"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "Macroeconomics is concerned with:",
+      "options": {
+        "A": "The price of a single cup of coffee",
+        "B": "Aggregate economic variables like GDP and unemployment",
+        "C": "The output of one specific farm",
+        "D": "Individual consumer preferences"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "The central problem of economics is:",
+      "options": {
+        "A": "How to get rich quickly",
+        "B": "Scarcity of resources relative to unlimited wants",
+        "C": "The lack of money in banks",
+        "D": "Overproduction of goods"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "Positive economics deals with:",
+      "options": {
+        "A": "What ought to be",
+        "B": "Facts and 'what is'",
+        "C": "Personal opinions",
+        "D": "Moral judgments"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "Normative economics deals with:",
+      "options": {
+        "A": "Statistical data",
+        "B": "Value judgments and 'what ought to be'",
+        "C": "Scientific observations",
+        "D": "Historical facts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a MICROECONOMIC question?",
+      "options": {
+        "A": "What determines the inflation rate?",
+        "B": "How will a tax on cigarettes affect their consumption?",
+        "C": "Why is the national unemployment rate rising?",
+        "D": "How does the GDP grow?"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a MACROECONOMIC question?",
+      "options": {
+        "A": "How much should a firm produce?",
+        "B": "What causes the general level of prices to rise?",
+        "C": "What is the equilibrium price of wheat?",
+        "D": "How does a consumer maximize utility?"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Resources in economics are also called:",
+      "options": {
+        "A": "Outputs",
+        "B": "Factors of Production",
+        "C": "Consumer goods",
+        "D": "Wants"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The four factors of production are:",
+      "options": {
+        "A": "Money, Banks, Shops, Customers",
+        "B": "Land, Labor, Capital, Entrepreneurship",
+        "C": "Rain, Soil, Seeds, Sun",
+        "D": "Government, Police, Army, Citizens"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The payment for 'Labor' is called:",
+      "options": {
+        "A": "Rent",
+        "B": "Wages/Salaries",
+        "C": "Profit",
+        "D": "Interest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "In economics, 'Capital' refers to:",
+      "options": {
+        "A": "The city where the parliament meets",
+        "B": "Man-made goods used to produce other goods",
+        "C": "Natural resources under the ground",
+        "D": "The amount of money a person has in their pocket"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The reward for an 'Entrepreneur' for taking risks is:",
+      "options": {
+        "A": "Wage",
+        "B": "Profit",
+        "C": "Interest",
+        "D": "Rent"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "The method of reasoning that moves from the general to the specific is:",
+      "options": {
+        "A": "Inductive Method",
+        "B": "Deductive Method",
+        "C": "Subjective Method",
+        "D": "Random Method"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The method of reasoning that moves from specific observations to general rules is:",
+      "options": {
+        "A": "Inductive Method",
+        "B": "Deductive Method",
+        "C": "Absolute Method",
+        "D": "Theoretical Method"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 18,
+      "question": "The concept of 'Scarcity' implies that:",
+      "options": {
+        "A": "Some people are poor",
+        "B": "Choices must be made",
+        "C": "Resources are unlimited",
+        "D": "Wants are limited"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Opportunity cost is defined as:",
+      "options": {
+        "A": "The price paid for a good",
+        "B": "The next best alternative forgone",
+        "C": "The total cost of production",
+        "D": "The time spent shopping"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The 'Production Possibility Frontier' (PPF) illustrates:",
+      "options": {
+        "A": "Consumer income",
+        "B": "The trade-off between producing two different goods",
+        "C": "The history of economic thought",
+        "D": "The bank interest rate"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Adam Smith's famous book published in 1776 is titled:",
+      "options": {
+        "A": "The Communist Manifesto",
+        "B": "The Wealth of Nations",
+        "C": "General Theory of Employment",
+        "D": "Principles of Economics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which branch of economics studies the 'Theory of Demand' and 'Theory of the Firm'?",
+      "options": {
+        "A": "Macroeconomics",
+        "B": "Microeconomics",
+        "C": "Development Economics",
+        "D": "International Economics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The term 'Ceteris Paribus' means:",
+      "options": {
+        "A": "Everything changes",
+        "B": "Other things being equal",
+        "C": "No government intervention",
+        "D": "Maximum profit"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Economics is often defined as the study of how society manages its:",
+      "options": {
+        "A": "Wealth",
+        "B": "Scarce resources",
+        "C": "Political parties",
+        "D": "Military"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "A statement like 'The government should lower taxes to help the poor' is an example of:",
+      "options": {
+        "A": "Positive Economics",
+        "B": "Normative Economics",
+        "C": "Descriptive Economics",
+        "D": "Mathematical Economics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "In the circular flow model, households are:",
+      "options": {
+        "A": "Buyers of factors and sellers of goods",
+        "B": "Sellers of factors and buyers of goods",
+        "C": "Only involved in saving",
+        "D": "Owned by the government"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Labor in economics includes:",
+      "options": {
+        "A": "Only physical work",
+        "B": "Both physical and mental efforts used in production",
+        "C": "Only work done in factories",
+        "D": "Unpaid household chores"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The problem of choice arises because of:",
+      "options": {
+        "A": "Money",
+        "B": "Scarcity",
+        "C": "Abundance",
+        "D": "Government"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "Macroeconomics was popularized as a separate branch by:",
+      "options": {
+        "A": "Adam Smith",
+        "B": "John Maynard Keynes",
+        "C": "Alfred Marshall",
+        "D": "Milton Friedman"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is NOT a fundamental economic question?",
+      "options": {
+        "A": "What to produce?",
+        "B": "How to produce?",
+        "C": "Where to sleep?",
+        "D": "For whom to produce?"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 31,
+      "question": "The 'Inductive Method' is also known as the:",
+      "options": {
+        "A": "Abstract method",
+        "B": "Historical or Empirical method",
+        "C": "Analytical method",
+        "D": "Prior method"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The payment for using 'Land' is:",
+      "options": {
+        "A": "Wage",
+        "B": "Rent",
+        "C": "Interest",
+        "D": "Profit"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is an example of 'Capital'?",
+      "options": {
+        "A": "A farmer's tractor",
+        "B": "Uncultivated land",
+        "C": "The farmer's skill",
+        "D": "Wild fruits"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Economic laws are:",
+      "options": {
+        "A": "Fixed like laws of Physics",
+        "B": "Statements of tendencies of human behavior",
+        "C": "Passed by the Parliament",
+        "D": "Only for rich people"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "Human wants are:",
+      "options": {
+        "A": "Limited",
+        "B": "Unlimited",
+        "C": "Constant",
+        "D": "Decreasing over time"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The study of how individuals maximize their satisfaction is part of:",
+      "options": {
+        "A": "Macroeconomics",
+        "B": "Microeconomics",
+        "C": "Political Science",
+        "D": "Sociology"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "What is the primary motive of a private firm in a market economy?",
+      "options": {
+        "A": "Social welfare",
+        "B": "Profit maximization",
+        "C": "Price stability",
+        "D": "Environmental protection"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "The 'Deductive Method' is also known as the:",
+      "options": {
+        "A": "Analytical method",
+        "B": "Experimental method",
+        "C": "Inductive method",
+        "D": "Observation method"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is considered 'Land' in economics?",
+      "options": {
+        "A": "A factory building",
+        "B": "Natural forests and minerals",
+        "C": "A computer",
+        "D": "A bank loan"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Scarcity is a __________ concept.",
+      "options": {
+        "A": "Relative",
+        "B": "Absolute",
+        "C": "Temporary",
+        "D": "Minor"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "Who defined Economics as 'a study of mankind in the ordinary business of life'?",
+      "options": {
+        "A": "Adam Smith",
+        "B": "Alfred Marshall",
+        "C": "Lionel Robbins",
+        "D": "Paul Samuelson"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The fundamental economic problem of 'What to produce' refers to:",
+      "options": {
+        "A": "Choosing the technique of production",
+        "B": "Choosing which goods and services to produce",
+        "C": "Deciding who will consume the goods",
+        "D": "Finding the location of the factory"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The 'For whom to produce' problem is a problem of:",
+      "options": {
+        "A": "Production",
+        "B": "Distribution",
+        "C": "Exchange",
+        "D": "Consumption"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Scientific models in economics are used to:",
+      "options": {
+        "A": "Make life complicated",
+        "B": "Simplify reality and understand economic relationships",
+        "C": "Eliminate the need for data",
+        "D": "Predict the future with 100% accuracy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is a macroeconomic variable?",
+      "options": {
+        "A": "Price of a single orange",
+        "B": "National Income (GDP)",
+        "C": "Individual household saving",
+        "D": "Output of a local textile mill"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Opportunity cost is also known as:",
+      "options": {
+        "A": "Money cost",
+        "B": "Real cost",
+        "C": "Social cost",
+        "D": "Sunk cost"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which factor of production is considered the 'active' factor that organizes the others?",
+      "options": {
+        "A": "Land",
+        "B": "Entrepreneurship",
+        "C": "Capital",
+        "D": "Raw materials"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "In the inductive method, an economist would:",
+      "options": {
+        "A": "Start with a theory and test it",
+        "B": "Collect data first and then form a theory",
+        "C": "Never use math",
+        "D": "Ignore facts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Economics is a science because it uses:",
+      "options": {
+        "A": "Magic",
+        "B": "Systematic study and scientific methods",
+        "C": "Guesses",
+        "D": "Only history"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The study of the global economy as a whole is part of:",
+      "options": {
+        "A": "Microeconomics",
+        "B": "Macroeconomics",
+        "C": "Small scale economics",
+        "D": "Local economics"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

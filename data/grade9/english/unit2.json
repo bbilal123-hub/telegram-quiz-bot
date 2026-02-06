@@ -1,0 +1,560 @@
+[
+    {
+  "unit": "Unit 2: Health and Hygiene",
+  "grade": 9,
+  "curriculum": "Ethiopian New Curriculum",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of these is a symptom of the common cold?",
+      "options": {
+        "A": "Sneezing",
+        "C": "A broken leg",
+        "D": "Strong vision",
+        "B": "Healthy appetite"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 2,
+      "question": "Look! The doctor ______ the patient right now.",
+      "options": {
+        "A": "is examining",
+        "C": "examines",
+        "D": "examined",
+        "B": "was examining"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 3,
+      "question": "You ______ wash your hands before eating to stay healthy.",
+      "options": {
+        "A": "should",
+        "C": "shouldn't",
+        "D": "might not",
+        "B": "couldn't"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 4,
+      "question": "Which word is a synonym for 'Illness'?",
+      "options": {
+        "A": "Sickness",
+        "C": "Fitness",
+        "D": "Wellness",
+        "B": "Strength"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 5,
+      "question": "The 'Present Continuous' tense is used for:",
+      "options": {
+        "A": "Actions happening at the moment of speaking",
+        "C": "Permanent facts",
+        "D": "Past habits",
+        "B": "Completed actions"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 6,
+      "question": "If someone has a high body temperature, they have a ______.",
+      "options": {
+        "A": "fever",
+        "C": "fracture",
+        "D": "sprain",
+        "B": "bandage"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 7,
+      "question": "I ______ (not / feel) well today, so I am staying home.",
+      "options": {
+        "A": "am not feeling",
+        "C": "don't feel",
+        "D": "not feel",
+        "B": "doesn't feel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 8,
+      "question": "What is the best advice for someone with a toothache?",
+      "options": {
+        "A": "You should see a dentist.",
+        "C": "You should eat more sweets.",
+        "D": "You shouldn't brush your teeth.",
+        "B": "You should go for a run."
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 9,
+      "question": "Maintaining 'Hygiene' means:",
+      "options": {
+        "A": "Keeping yourself and your surroundings clean",
+        "C": "Eating only junk food",
+        "D": "Sleeping all day",
+        "B": "Avoiding all exercise"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 10,
+      "question": "Are they ______ to the health center now?",
+      "options": {
+        "A": "going",
+        "C": "go",
+        "D": "goes",
+        "B": "went"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 11,
+      "question": "A 'balanced diet' includes:",
+      "options": {
+        "A": "Various types of healthy food in right proportions",
+        "C": "Only sugar and fat",
+        "D": "Only water",
+        "B": "Eating once a week"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 12,
+      "question": "The negative form of 'You should smoke' is:",
+      "options": {
+        "A": "You shouldn't smoke",
+        "C": "You should not to smoke",
+        "D": "You don't should smoke",
+        "B": "You not should smoke"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 13,
+      "question": "Mosquitoes can spread a disease called ______.",
+      "options": {
+        "A": "Malaria",
+        "C": "Flu",
+        "D": "Diabetes",
+        "B": "Asthma"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 14,
+      "question": "Which sentence is in the Present Continuous?",
+      "options": {
+        "A": "She is drinking water.",
+        "C": "She drinks water.",
+        "D": "She drank water.",
+        "B": "She will drink water."
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 15,
+      "question": "To prevent the spread of germs, you should ______ your mouth when coughing.",
+      "options": {
+        "A": "cover",
+        "C": "open",
+        "D": "hit",
+        "B": "touch"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 16,
+      "question": "The question form of 'He is resting' is:",
+      "options": {
+        "A": "Is he resting?",
+        "C": "Does he resting?",
+        "D": "He is resting?",
+        "B": "Resting he is?"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 17,
+      "question": "What does the abbreviation 'HIV' stand for?",
+      "options": {
+        "A": "Human Immunodeficiency Virus",
+        "C": "Health Internal Vitamin",
+        "D": "Highly Important Virus",
+        "B": "Human Immune Vessel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 18,
+      "question": "Listen! The baby ______.",
+      "options": {
+        "A": "is crying",
+        "C": "cries",
+        "D": "cry",
+        "B": "crying"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 19,
+      "question": "We use 'ought to' to ______.",
+      "options": {
+        "A": "give advice",
+        "C": "talk about the past",
+        "D": "express a strong command",
+        "B": "describe an action now"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of these is considered 'Personal Hygiene'?",
+      "options": {
+        "A": "Bathing regularly",
+        "C": "Cleaning the street",
+        "D": "Fixing a car",
+        "B": "Planting trees"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 21,
+      "question": "I have a headache. I ______ take an aspirin.",
+      "options": {
+        "A": "should",
+        "C": "shouldn't",
+        "D": "am not",
+        "B": "must to"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 22,
+      "question": "The opposite of 'Healthy' is ______.",
+      "options": {
+        "A": "Unhealthy",
+        "C": "Inhealthy",
+        "D": "Dishealthy",
+        "B": "Imhealthy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 23,
+      "question": "They ______ (study) for their health exam right now.",
+      "options": {
+        "A": "are studying",
+        "C": "studies",
+        "D": "is studying",
+        "B": "study"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 24,
+      "question": "A ______ is a place where sick people are treated.",
+      "options": {
+        "A": "Hospital",
+        "C": "Market",
+        "D": "School",
+        "B": "Cinema"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 25,
+      "question": "If the weather is cold, you ______ wear a coat.",
+      "options": {
+        "A": "ought to",
+        "C": "ought not",
+        "D": "don't should",
+        "B": "not should"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 26,
+      "question": "Which of the following is a 'transmissible' disease?",
+      "options": {
+        "A": "Tuberculosis (TB)",
+        "C": "Diabetes",
+        "D": "Heart disease",
+        "B": "Asthma"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 27,
+      "question": "We ______ having a lesson on hygiene at the moment.",
+      "options": {
+        "A": "are",
+        "C": "is",
+        "D": "am",
+        "B": "be"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 28,
+      "question": "A 'First Aid Kit' is used for ______.",
+      "options": {
+        "A": "emergency medical treatment",
+        "C": "cooking food",
+        "D": "reading books",
+        "B": "sleeping comfortably"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 29,
+      "question": "You shouldn't ______ so much salt in your food.",
+      "options": {
+        "A": "put",
+        "C": "putting",
+        "D": "puts",
+        "B": "to put"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 30,
+      "question": "To avoid stomach aches, we should drink ______ water.",
+      "options": {
+        "A": "clean (boiled)",
+        "C": "dirty",
+        "D": "salty",
+        "B": "colored"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 31,
+      "question": "What ______ you ______ right now? (do)",
+      "options": {
+        "A": "are / doing",
+        "C": "do / do",
+        "D": "is / doing",
+        "B": "does / doing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 32,
+      "question": "Smoking is harmful ______ your lungs.",
+      "options": {
+        "A": "to",
+        "C": "for",
+        "D": "with",
+        "B": "at"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 33,
+      "question": "The noun form of the verb 'Exercise' is ______.",
+      "options": {
+        "A": "Exercise",
+        "C": "Exercisingly",
+        "D": "Exercised",
+        "B": "Exerciserly"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 34,
+      "question": "I think you ______ go to bed early tonight.",
+      "options": {
+        "A": "should",
+        "C": "ought",
+        "D": "should to",
+        "B": "musting"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 35,
+      "question": "Wait! I ______ for you. (wait)",
+      "options": {
+        "A": "am waiting",
+        "C": "wait",
+        "D": "waited",
+        "B": "is waiting"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 36,
+      "question": "Which verb is often used with 'sore throat'?",
+      "options": {
+        "A": "have",
+        "C": "do",
+        "D": "make",
+        "B": "go"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 37,
+      "question": "Eating ______ keeps the doctor away.",
+      "options": {
+        "A": "fruit",
+        "C": "candy",
+        "D": "fat",
+        "B": "batteries"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 38,
+      "question": "She ______ feeling much better now.",
+      "options": {
+        "A": "is",
+        "C": "are",
+        "D": "am",
+        "B": "be"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 39,
+      "question": "You ______ to exercise every day.",
+      "options": {
+        "A": "ought",
+        "C": "should",
+        "D": "must",
+        "B": "can"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 40,
+      "question": "An 'Outbreak' of a disease means it ______.",
+      "options": {
+        "A": "spreads suddenly",
+        "C": "disappears",
+        "D": "is cured",
+        "B": "is never found"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 41,
+      "question": "They ______ (not / play) football now because it's raining.",
+      "options": {
+        "A": "aren't playing",
+        "C": "don't play",
+        "D": "isn't playing",
+        "B": "not playing"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 42,
+      "question": "Is it correct to say: 'You should to see a doctor'?",
+      "options": {
+        "A": "No, remove 'to'",
+        "C": "Yes, it's correct",
+        "D": "No, change 'should' to 'musting'",
+        "B": "No, change 'see' to 'saw'"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 43,
+      "question": "Which of these is a liquid medicine?",
+      "options": {
+        "A": "Syrup",
+        "C": "Tablet",
+        "D": "Capsule",
+        "B": "Bandage"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 44,
+      "question": "Quiet! The patient ______.",
+      "options": {
+        "A": "is sleeping",
+        "C": "sleeps",
+        "D": "sleep",
+        "B": "sleeping"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 45,
+      "question": "We ______ to wash our clothes regularly.",
+      "options": {
+        "A": "ought",
+        "C": "should",
+        "D": "should to",
+        "B": "oughts"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 46,
+      "question": "A 'Vaccine' helps to ______ a disease.",
+      "options": {
+        "A": "prevent",
+        "C": "cause",
+        "D": "ignore",
+        "B": "increase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 47,
+      "question": "Where ______ you ______ right now?",
+      "options": {
+        "A": "are / going",
+        "C": "do / go",
+        "D": "is / going",
+        "B": "are / go"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 48,
+      "question": "You shouldn't ______ dirty water.",
+      "options": {
+        "A": "drink",
+        "C": "drinking",
+        "D": "drank",
+        "B": "drinks"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 49,
+      "question": "He ______ (have) a bad cough at the moment.",
+      "options": {
+        "A": "is having",
+        "C": "has",
+        "D": "have",
+        "B": "having"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question_number": 50,
+      "question": "The doctor says I ______ to take this medicine.",
+      "options": {
+        "A": "ought",
+        "C": "should",
+        "D": "musting",
+        "B": "should to"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

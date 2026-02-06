@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "History",
+  "unit": "Unit 2: The Inter-War Period (1919–1939)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which international organization was established in 1920 to prevent future wars?",
+      "options": {
+        "A": "The United Nations",
+        "B": "The League of Nations",
+        "C": "The North Atlantic Treaty Organization",
+        "D": "The Warsaw Pact"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The period of extreme economic hardship that began in 1929 is known as the:",
+      "options": {
+        "A": "Industrial Revolution",
+        "B": "Renaissance",
+        "C": "Great Depression",
+        "D": "Cold War"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "Who became the leader of the Fascist Party in Italy in 1922?",
+      "options": {
+        "A": "Adolf Hitler",
+        "B": "Benito Mussolini",
+        "C": "Francisco Franco",
+        "D": "Joseph Stalin"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The German democratic government established after WWI was called the:",
+      "options": {
+        "A": "Weimar Republic",
+        "B": "Third Reich",
+        "C": "Holy Roman Empire",
+        "D": "Federal Republic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "Hitler's book, written while he was in prison, which outlined his ideology was:",
+      "options": {
+        "A": "The Communist Manifesto",
+        "B": "The Wealth of Nations",
+        "C": "Mein Kampf",
+        "D": "The Social Contract"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "The US President who introduced the 'New Deal' to combat the Great Depression was:",
+      "options": {
+        "A": "Herbert Hoover",
+        "B": "Franklin D. Roosevelt",
+        "C": "Harry Truman",
+        "D": "Woodrow Wilson"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "In 1931, Japan invaded which region of China, signaling a failure of the League of Nations?",
+      "options": {
+        "A": "Tibet",
+        "B": "Taiwan",
+        "C": "Manchuria",
+        "D": "Hong Kong"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "The systematic elimination of political rivals by Joseph Stalin in the 1930s is known as the:",
+      "options": {
+        "A": "Cultural Revolution",
+        "B": "Great Purge",
+        "C": "Five-Year Plan",
+        "D": "Collectivization"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "What was the name of Hitler’s secret police force?",
+      "options": {
+        "A": "The Gestapo",
+        "B": "The KGB",
+        "C": "The CIA",
+        "D": "The Blackshirts"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "The 1935 Nuremberg Laws in Germany were designed to:",
+      "options": {
+        "A": "Rebuild the German army",
+        "B": "Strip Jewish citizens of their rights",
+        "C": "Establish a trade agreement with Britain",
+        "D": "End the Great Depression"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Mussolini’s invasion of which African country in 1935 further weakened the League of Nations?",
+      "options": {
+        "A": "Egypt",
+        "B": "South Africa",
+        "C": "Ethiopia",
+        "D": "Nigeria"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "The policy of making concessions to an aggressor to avoid war is called:",
+      "options": {
+        "A": "Appeasement",
+        "B": "Containment",
+        "C": "Isolationism",
+        "D": "Imperialism"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "The 1938 conference where Britain and France allowed Hitler to take the Sudetenland was the:",
+      "options": {
+        "A": "Berlin Conference",
+        "B": "Munich Conference",
+        "C": "Yalta Conference",
+        "D": "Potsdam Conference"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "The 1939 non-aggression pact was signed between Germany and:",
+      "options": {
+        "A": "Poland",
+        "B": "France",
+        "C": "The Soviet Union",
+        "D": "The United States"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "Who was the leader of the Nationalist forces during the Spanish Civil War?",
+      "options": {
+        "A": "Francisco Franco",
+        "B": "Charles de Gaulle",
+        "C": "Winston Churchill",
+        "D": "Leon Trotsky"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "The Night of Broken Glass (Kristallnacht) in 1938 was a coordinated attack against:",
+      "options": {
+        "A": "The German Parliament",
+        "B": "Jewish homes, businesses, and synagogues",
+        "C": "Communist party headquarters",
+        "D": "The French border"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The economic policy of Joseph Stalin that aimed to rapidly industrialize the USSR was the:",
+      "options": {
+        "A": "Marshall Plan",
+        "B": "New Economic Policy",
+        "C": "Five-Year Plan",
+        "D": "Molotov Plan"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "Which ideology emphasizes extreme nationalism and loyalty to a dictatorial leader?",
+      "options": {
+        "A": "Democracy",
+        "B": "Fascism",
+        "C": "Anarchism",
+        "D": "Liberalism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "The 1924 plan to reduce German reparations and provide American loans to Germany was the:",
+      "options": {
+        "A": "Dawes Plan",
+        "B": "Schlieffen Plan",
+        "C": "Truman Doctrine",
+        "D": "Young Plan"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which event is considered the start of the Great Depression in the United States?",
+      "options": {
+        "A": "The end of WWI",
+        "B": "The Stock Market Crash of 1929",
+        "C": "The election of FDR",
+        "D": "The invasion of Poland"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Hitler became the Chancellor of Germany in what year?",
+      "options": {
+        "A": "1919",
+        "B": "1929",
+        "C": "1933",
+        "D": "1939"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "The 'Anschluss' refers to Germany’s 1938 annexation of:",
+      "options": {
+        "A": "Poland",
+        "B": "Austria",
+        "C": "Czechoslovakia",
+        "D": "Belgium"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The British Prime Minister most associated with the policy of appeasement was:",
+      "options": {
+        "A": "Winston Churchill",
+        "B": "Clement Attlee",
+        "C": "Neville Chamberlain",
+        "D": "David Lloyd George"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "The 1928 Kellogg-Briand Pact was an international agreement to:",
+      "options": {
+        "A": "Renounce war as an instrument of national policy",
+        "B": "Divide Africa among European powers",
+        "C": "Limit the size of the Japanese navy",
+        "D": "Establish the Euro currency"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "What was the primary purpose of Stalin's 'Collectivization' program?",
+      "options": {
+        "A": "To encourage private ownership of farms",
+        "B": "To move peasants into large state-run farms",
+        "C": "To decrease agricultural output",
+        "D": "To promote religious freedom"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The 1923 failed attempt by the Nazi Party to seize power in Munich is known as the:",
+      "options": {
+        "A": "Beer Hall Putsch",
+        "B": "Night of the Long Knives",
+        "C": "Reichstag Fire",
+        "D": "March on Rome"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "Who was the Emperor of Ethiopia during the Italian invasion of 1935?",
+      "options": {
+        "A": "Menelik II",
+        "B": "Haile Selassie I",
+        "C": "Tewodros II",
+        "D": "Iyasu V"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following was a characteristic of Totalitarian states?",
+      "options": {
+        "A": "Freedom of the press",
+        "B": "Multi-party elections",
+        "C": "Government control over all aspects of public and private life",
+        "D": "Separation of church and state"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "The 'Maginot Line' was a system of fortifications built by which country?",
+      "options": {
+        "A": "Germany",
+        "B": "Italy",
+        "C": "France",
+        "D": "Britain"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 30,
+      "question": "The Japanese military’s growing power in the 1930s was partly a reaction to:",
+      "options": {
+        "A": "The Great Depression and a need for raw materials",
+        "B": "An alliance with the United States",
+        "C": "A desire to promote global democracy",
+        "D": "Fear of an invasion from Australia"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "Stalin’s 'Great Purge' primarily targeted:",
+      "options": {
+        "A": "The Russian Orthodox Church",
+        "B": "Foreign spies from Germany",
+        "C": "Members of the Communist Party and military leaders",
+        "D": "Peasant farmers in Siberia"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "The 1936 'Anti-Comintern Pact' was an agreement against Communism signed by:",
+      "options": {
+        "A": "Britain and France",
+        "B": "Germany and Japan",
+        "C": "The USA and Canada",
+        "D": "Russia and China"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The 'March on Rome' in 1922 resulted in:",
+      "options": {
+        "A": "The death of the King of Italy",
+        "B": "The rise of Benito Mussolini to power",
+        "C": "A victory for the Socialist party",
+        "D": "The end of Fascism in Italy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "What happened during the 'Night of the Long Knives' in 1934?",
+      "options": {
+        "A": "Hitler purged the leadership of the SA (Brownshirts)",
+        "B": "The Nazis invaded Poland",
+        "C": "The German stock market crashed",
+        "D": "Hitler was released from prison"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "The primary goal of the 'New Deal' was:",
+      "options": {
+        "A": "Relief, Recovery, and Reform",
+        "B": "Invasion of foreign territories",
+        "C": "The abolition of the US Constitution",
+        "D": "A return to the Gold Standard"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "Which territory did Hitler re-militarize in 1936, defying the Treaty of Versailles?",
+      "options": {
+        "A": "The Rhineland",
+        "B": "The Ruhr",
+        "C": "Bavaria",
+        "D": "East Prussia"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "The 'Gulag' was a system of:",
+      "options": {
+        "A": "Soviet labor camps",
+        "B": "Italian schools",
+        "C": "German factories",
+        "D": "Japanese battleships"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "In the Spanish Civil War, the Republican side was supported by:",
+      "options": {
+        "A": "Nazi Germany",
+        "B": "Fascist Italy",
+        "C": "The Soviet Union",
+        "D": "The Japanese Empire"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 39,
+      "question": "The term 'Lebensraum' refers to Hitler's desire for:",
+      "options": {
+        "A": "Living space for the German people",
+        "B": "Peace with neighboring nations",
+        "C": "A communist revolution",
+        "D": "Naval supremacy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following was a reason for the failure of the League of Nations?",
+      "options": {
+        "A": "It had too much military power",
+        "B": "The United States was not a member",
+        "C": "It was too expensive for members",
+        "D": "It only focused on Asian problems"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The 1935 'Stresa Front' was an attempt by Britain, France, and Italy to:",
+      "options": {
+        "A": "Support Hitler's rise",
+        "B": "Oppose German rearmament",
+        "C": "Invade the Soviet Union",
+        "D": "End the Spanish Civil War"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "What was the outcome of the Lytton Report?",
+      "options": {
+        "A": "It justified the Japanese invasion of China",
+        "B": "It condemned Japan, causing Japan to leave the League of Nations",
+        "C": "It started a war between Britain and Japan",
+        "D": "It granted independence to Manchuria"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The 1925 'Locarno Treaties' were intended to:",
+      "options": {
+        "A": "Secure post-war territorial settlements in Europe",
+        "B": "Ban the use of aircraft in war",
+        "C": "Punish Germany further",
+        "D": "Divide the Middle East"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "The Great Depression led many Europeans to turn toward:",
+      "options": {
+        "A": "Extreme political ideologies like Communism and Fascism",
+        "B": "Isolationism and pacifism only",
+        "C": "Strict religious monarchies",
+        "D": "Laissez-faire capitalism"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "Who was the Japanese Prime Minister during the late 1930s military buildup?",
+      "options": {
+        "A": "Hideki Tojo",
+        "B": "Hirohito",
+        "C": "Fumimaro Konoe",
+        "D": "Ichiro Hatoyama"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 46,
+      "question": "The 'Pact of Steel' was a military alliance between:",
+      "options": {
+        "A": "Germany and Italy",
+        "B": "Britain and the USA",
+        "C": "France and Poland",
+        "D": "Germany and Russia"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "The 1938 'Night of the Long Knives' resulted in the rise of which organization as the dominant power in Germany?",
+      "options": {
+        "A": "The SS",
+        "B": "The SA",
+        "C": "The Catholic Church",
+        "D": "The Trade Unions"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which economic problem plagued the Weimar Republic in 1923?",
+      "options": {
+        "A": "Hyperinflation",
+        "B": "Deflation",
+        "C": "A shortage of workers",
+        "D": "Low taxes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "What was the 'Corfu Incident' of 1923?",
+      "options": {
+        "A": "A diplomatic dispute between Italy and Greece",
+        "B": "A war between Germany and France",
+        "C": "A revolution in Spain",
+        "D": "The signing of a trade treaty"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The 'Rome-Berlin Axis' was formed in:",
+      "options": {
+        "A": "1933",
+        "B": "1936",
+        "C": "1939",
+        "D": "1941"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

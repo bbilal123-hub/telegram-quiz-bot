@@ -1,0 +1,559 @@
+[
+  {
+  "grade": "Grade 9",
+  "subject": "History",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The word 'Civilization' comes from the Latin word 'Civis', which means:",
+      "options": {
+        "A": "Farmer",
+        "B": "City dweller",
+        "C": "Warrior",
+        "D": "Nomad"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Most early civilizations emerged near:",
+      "options": {
+        "A": "High mountains",
+        "B": "River valleys",
+        "C": "Dense forests",
+        "D": "Deep deserts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "The land between the Tigris and Euphrates rivers is known as:",
+      "options": {
+        "A": "Egypt",
+        "B": "Mesopotamia",
+        "C": "Indus Valley",
+        "D": "Meroe"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The first people to develop a civilization in Mesopotamia were the:",
+      "options": {
+        "A": "Assyrians",
+        "B": "Sumerians",
+        "C": "Babylonians",
+        "D": "Persians"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "The Sumerian writing system, characterized by wedge-shaped marks, is called:",
+      "options": {
+        "A": "Hieroglyphics",
+        "B": "Cuneiform",
+        "C": "Alphabet",
+        "D": "Demotic"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "The massive stepped temples built in Mesopotamia were called:",
+      "options": {
+        "A": "Pyramids",
+        "B": "Ziggurats",
+        "C": "Obelisks",
+        "D": "Cathedrals"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which Babylonian king is famous for his written code of laws?",
+      "options": {
+        "A": "Sargon I",
+        "B": "Hammurabi",
+        "C": "Nebuchadnezzar",
+        "D": "Cyrus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The Ancient Egyptian civilization developed along the banks of the:",
+      "options": {
+        "A": "Amazon River",
+        "B": "Nile River",
+        "C": "Yellow River",
+        "D": "Indus River"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "Ancient Egyptian kings were known as:",
+      "options": {
+        "A": "Emperors",
+        "B": "Pharaohs",
+        "C": "Sultans",
+        "D": "Tsars"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "The Egyptian system of writing using pictures and symbols is called:",
+      "options": {
+        "A": "Cuneiform",
+        "B": "Hieroglyphics",
+        "C": "Sanskrit",
+        "D": "Ge'ez"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "The Great Pyramids of Egypt were primarily built as:",
+      "options": {
+        "A": "Palaces for kings",
+        "B": "Tombs for the Pharaohs",
+        "C": "Grain storehouses",
+        "D": "Military fortresses"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The process used by Ancient Egyptians to preserve dead bodies is called:",
+      "options": {
+        "A": "Cremation",
+        "B": "Mummification",
+        "C": "Excavation",
+        "D": "Fossilization"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which ancient civilization is credited with the first use of the wheel and the plow?",
+      "options": {
+        "A": "China",
+        "B": "Mesopotamia",
+        "C": "Egypt",
+        "D": "Greece"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "The civilization that emerged in the Indus River Valley is located in modern-day:",
+      "options": {
+        "A": "Iraq",
+        "B": "India and Pakistan",
+        "C": "Egypt",
+        "D": "China"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "Two major planned cities of the Indus Valley civilization were:",
+      "options": {
+        "A": "Ur and Babylon",
+        "B": "Harappa and Mohenjo-Daro",
+        "C": "Memphis and Thebes",
+        "D": "Athens and Sparta"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Ancient Chinese civilization first developed along the valley of the:",
+      "options": {
+        "A": "Yangtze River",
+        "B": "Huang He (Yellow) River",
+        "C": "Ganges River",
+        "D": "Mekong River"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The 'Mandate of Heaven' was a concept used by rulers in which civilization?",
+      "options": {
+        "A": "Egypt",
+        "B": "China",
+        "C": "Persia",
+        "D": "Rome"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Ancient Punt was a land famous for its trade with Egypt in:",
+      "options": {
+        "A": "Silk and spices",
+        "B": "Incense, gold, and ivory",
+        "C": "Paper and ink",
+        "D": "Iron and coal"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "The Kingdom of Kush had its first capital at:",
+      "options": {
+        "A": "Meroe",
+        "B": "Kerma",
+        "C": "Napata",
+        "D": "Axum"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The civilization of Kush was located in the region of:",
+      "options": {
+        "A": "Maghreb",
+        "B": "Nubia",
+        "C": "The Levant",
+        "D": "Anatolia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The capital of Kush that became a famous center for iron-working was:",
+      "options": {
+        "A": "Kerma",
+        "B": "Meroe",
+        "C": "Napata",
+        "D": "Adulis"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "The Persian Empire was founded by:",
+      "options": {
+        "A": "Darius the Great",
+        "B": "Cyrus the Great",
+        "C": "Xerxes",
+        "D": "Alexander the Great"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "Ancient Greeks lived in independent city-states known as:",
+      "options": {
+        "A": "Satrapies",
+        "B": "Polis",
+        "C": "Dynasties",
+        "D": "Provinces"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which Greek city-state is known as the 'Birthplace of Democracy'?",
+      "options": {
+        "A": "Sparta",
+        "B": "Athens",
+        "C": "Corinth",
+        "D": "Thebes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The Greek city-state that focused primarily on military training was:",
+      "options": {
+        "A": "Athens",
+        "B": "Sparta",
+        "C": "Troy",
+        "D": "Olympia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Who was the Greek philosopher who taught by asking questions?",
+      "options": {
+        "A": "Plato",
+        "B": "Socrates",
+        "C": "Aristotle",
+        "D": "Homer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The Olympic Games originated in which ancient civilization?",
+      "options": {
+        "A": "Rome",
+        "B": "Greece",
+        "C": "China",
+        "D": "Egypt"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "According to legend, Rome was founded by:",
+      "options": {
+        "A": "Julius Caesar and Augustus",
+        "B": "Romulus and Remus",
+        "C": "Zeus and Apollo",
+        "D": "Alexander and Philip"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "The Roman form of government where citizens elect leaders to represent them is a:",
+      "options": {
+        "A": "Monarchy",
+        "B": "Republic",
+        "C": "Theocracy",
+        "D": "Tyranny"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "The upper class of Roman society was known as the:",
+      "options": {
+        "A": "Plebeians",
+        "B": "Patricians",
+        "C": "Helots",
+        "D": "Satraps"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Who became the first emperor of Rome, ending the Republic?",
+      "options": {
+        "A": "Julius Caesar",
+        "B": "Augustus (Octavian)",
+        "C": "Nero",
+        "D": "Constantine"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The 'Pax Romana' refers to a period of:",
+      "options": {
+        "A": "Constant civil war in Rome",
+        "B": "Relative peace and stability in the Roman Empire",
+        "C": "The fall of Rome",
+        "D": "The rise of the Greeks"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The language of the Ancient Romans was:",
+      "options": {
+        "A": "Greek",
+        "B": "Latin",
+        "C": "Arabic",
+        "D": "Aramaic"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Which Roman Emperor legalized Christianity with the Edict of Milan?",
+      "options": {
+        "A": "Augustus",
+        "B": "Constantine",
+        "C": "Theodosius",
+        "D": "Trajan"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The Phoenicians are best known for developing the first:",
+      "options": {
+        "A": "System of law",
+        "B": "Phonetic alphabet",
+        "C": "Large pyramid",
+        "D": "Irrigation system"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The Silk Road was a famous trade route connecting:",
+      "options": {
+        "A": "Egypt and Kush",
+        "B": "China and the Mediterranean world",
+        "C": "Greece and Rome",
+        "D": "India and Africa"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "The Maya, Aztec, and Inca civilizations were located in:",
+      "options": {
+        "A": "Africa",
+        "B": "The Americas",
+        "C": "Asia",
+        "D": "Europe"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which civilization built the 'Great Wall' to protect itself from invaders?",
+      "options": {
+        "A": "Rome",
+        "B": "China",
+        "C": "Mesopotamia",
+        "D": "Persia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The concept of 'Zero' and the decimal system were major contributions from:",
+      "options": {
+        "A": "Ancient Egypt",
+        "B": "Ancient India",
+        "C": "Ancient Greece",
+        "D": "The Roman Empire"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Confucianism, a philosophy focusing on ethics and family, originated in:",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "Japan",
+        "D": "Persia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The Rosetta Stone was key to deciphering:",
+      "options": {
+        "A": "Cuneiform",
+        "B": "Egyptian Hieroglyphics",
+        "C": "Sanskrit",
+        "D": "Maya script"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The famous library of the ancient world was located in the city of:",
+      "options": {
+        "A": "Rome",
+        "B": "Alexandria",
+        "C": "Babylon",
+        "D": "Carthage"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Polytheism refers to the belief in:",
+      "options": {
+        "A": "One god",
+        "B": "Many gods",
+        "C": "No god",
+        "D": "Nature as a god"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Papyrus was a writing material made from plants in:",
+      "options": {
+        "A": "China",
+        "B": "Egypt",
+        "C": "India",
+        "D": "Mesopotamia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "The Western Roman Empire officially fell in the year:",
+      "options": {
+        "A": "44 BCE",
+        "B": "476 CE",
+        "C": "1453 CE",
+        "D": "1066 CE"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Which of these civilizations is known for its advanced sewage and drainage systems?",
+      "options": {
+        "A": "Ancient Egypt",
+        "B": "Indus Valley Civilization",
+        "C": "Ancient China",
+        "D": "Persian Empire"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The 'Hanging Gardens' were a wonder of the ancient world located in:",
+      "options": {
+        "A": "Athens",
+        "B": "Babylon",
+        "C": "Rome",
+        "D": "Memphis"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Caste system was a rigid social structure found in:",
+      "options": {
+        "A": "China",
+        "B": "India",
+        "C": "Egypt",
+        "D": "Greece"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The epic poems 'Iliad' and 'Odyssey' were written by the Greek poet:",
+      "options": {
+        "A": "Virgil",
+        "B": "Homer",
+        "C": "Sophocles",
+        "D": "Herodotus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The primary cause of the collapse of many ancient civilizations was:",
+      "options": {
+        "A": "Invasion, internal decay, and environmental changes",
+        "B": "Discovery of new technology",
+        "C": "Too much peace",
+        "D": "Lack of trade"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

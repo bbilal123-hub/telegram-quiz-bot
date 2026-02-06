@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "History",
+  "unit": "Unit 1: The First World War",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following was a long-term cause of World War I involving the buildup of armed forces?",
+      "options": {
+        "A": "Militarism",
+        "B": "Isolationism",
+        "C": "Pacifism",
+        "D": "Socialism"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The Triple Entente, formed before the war, consisted of which three nations?",
+      "options": {
+        "A": "Germany, Austria-Hungary, and Italy",
+        "B": "USA, Canada, and Mexico",
+        "C": "France, Great Britain, and Russia",
+        "D": "Turkey, Bulgaria, and Germany"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "What region was known as the 'Powder Keg of Europe' prior to 1914?",
+      "options": {
+        "A": "The Iberian Peninsula",
+        "B": "Scandinavia",
+        "C": "The Balkans",
+        "D": "The Benelux countries"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "The immediate spark that triggered World War I was the assassination of:",
+      "options": {
+        "A": "Archduke Franz Ferdinand",
+        "B": "Kaiser Wilhelm II",
+        "C": "Czar Nicholas II",
+        "D": "Woodrow Wilson"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "The assassin of the Austro-Hungarian heir, Gavrilo Princip, was a member of which nationalist group?",
+      "options": {
+        "A": "The Red Guards",
+        "B": "The Boxers",
+        "C": "The Black Hand",
+        "D": "The Bolsheviks"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "Germany's strategy to avoid a two-front war by quickly defeating France first was known as the:",
+      "options": {
+        "A": "Schlieffen Plan",
+        "B": "Operation Barbarossa",
+        "C": "Hindenburg Line",
+        "D": "Blitzkrieg"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 7,
+      "question": "Which country made the first declaration of war in 1914?",
+      "options": {
+        "A": "Germany",
+        "B": "Russia",
+        "C": "Austria-Hungary",
+        "D": "France"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "The Western Front was characterized primarily by:",
+      "options": {
+        "A": "Trench warfare",
+        "B": "High-speed tank battles",
+        "C": "Guerrilla tactics",
+        "D": "Naval blockades"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "The territory between opposing trenches was commonly referred to as:",
+      "options": {
+        "A": "The DMZ",
+        "B": "The Dead Zone",
+        "C": "No Man's Land",
+        "D": "The Neutral Strip"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which battle in 1914 halted the German advance into France and ruined the Schlieffen Plan?",
+      "options": {
+        "A": "Battle of the Marne",
+        "B": "Battle of Waterloo",
+        "C": "Battle of Tannenberg",
+        "D": "Battle of Sedan"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "Which new weapon was first introduced by the Germans at the Second Battle of Ypres?",
+      "options": {
+        "A": "Atomic bombs",
+        "B": "Submarines",
+        "C": "Poison gas",
+        "D": "Machine guns"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "Which nation switched sides in 1915, leaving the Triple Alliance to join the Allies?",
+      "options": {
+        "A": "Italy",
+        "B": "Japan",
+        "C": "Bulgaria",
+        "D": "Spain"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "The British passenger liner sunk by a German U-boat in 1915, killing 128 Americans, was the:",
+      "options": {
+        "A": "Titanic",
+        "B": "Britannic",
+        "C": "Lusitania",
+        "D": "Olympic"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 14,
+      "question": "What was the primary purpose of the Gallipoli Campaign?",
+      "options": {
+        "A": "To invade Germany through the North Sea",
+        "B": "To liberate North Africa",
+        "C": "To open a supply route to Russia through the Dardanelles",
+        "D": "To protect the Suez Canal"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "The longest and costliest battle of the war, fought in 1916, was the:",
+      "options": {
+        "A": "Battle of Verdun",
+        "B": "Battle of the Bulge",
+        "C": "Battle of Jutland",
+        "D": "Battle of the Somme"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "Which country withdrew from the war in 1917 following a domestic revolution?",
+      "options": {
+        "A": "Russia",
+        "B": "Italy",
+        "C": "France",
+        "D": "Belgium"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "The secret telegram from Germany to Mexico promising US territory in exchange for an alliance was the:",
+      "options": {
+        "A": "Balfour Declaration",
+        "B": "Versailles Treaty",
+        "C": "Zimmermann Telegram",
+        "D": "Fourteen Points"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "The United States entered World War I primarily due to:",
+      "options": {
+        "A": "Unrestricted submarine warfare",
+        "B": "The invasion of Poland",
+        "C": "The bombing of Pearl Harbor",
+        "D": "A communist threat"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "What was the name of the peace plan proposed by US President Woodrow Wilson?",
+      "options": {
+        "A": "The New Deal",
+        "B": "The Great Society",
+        "C": "The Fourteen Points",
+        "D": "The Marshall Plan"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "An armistice ending the fighting was signed on which date?",
+      "options": {
+        "A": "November 11, 1918",
+        "B": "July 4, 1917",
+        "C": "May 8, 1945",
+        "D": "June 28, 1914"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which treaty officially ended the war between the Allies and Germany?",
+      "options": {
+        "A": "Treaty of Trianon",
+        "B": "Treaty of Saint-Germain",
+        "C": "Treaty of Versailles",
+        "D": "Treaty of Brest-Litovsk"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "Under the Treaty of Versailles, Germany was forced to accept the 'War Guilt Clause', also known as:",
+      "options": {
+        "A": "Article 231",
+        "B": "Article 48",
+        "C": "The Mandate System",
+        "D": "The Dawes Plan"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "As a result of the war, which empire was completely dissolved and replaced by several new nations?",
+      "options": {
+        "A": "The British Empire",
+        "B": "The French Empire",
+        "C": "The Austro-Hungarian Empire",
+        "D": "The Japanese Empire"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "The international organization created after WWI to maintain world peace was the:",
+      "options": {
+        "A": "United Nations",
+        "B": "NATO",
+        "C": "League of Nations",
+        "D": "European Union"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which nation was forced to pay massive financial reparations after the war?",
+      "options": {
+        "A": "Germany",
+        "B": "Great Britain",
+        "C": "The United States",
+        "D": "Switzerland"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "Who was the leader of the Bolsheviks during the 1917 Russian Revolution?",
+      "options": {
+        "A": "Joseph Stalin",
+        "B": "Leon Trotsky",
+        "C": "Vladimir Lenin",
+        "D": "Alexander Kerensky"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 27,
+      "question": "The use of propaganda during WWI was intended to:",
+      "options": {
+        "A": "Encourage people to support the war effort",
+        "B": "Teach soldiers how to use new weapons",
+        "C": "Share military secrets with the enemy",
+        "D": "Improve the literacy rate"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "The policy of glorifying power and keeping an army prepared for war is:",
+      "options": {
+        "A": "Nationalism",
+        "B": "Imperialism",
+        "C": "Militarism",
+        "D": "Capitalism"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which country was NOT a member of the 'Big Four' at the Paris Peace Conference?",
+      "options": {
+        "A": "United States",
+        "B": "France",
+        "C": "Russia",
+        "D": "Italy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 30,
+      "question": "The 'Mandate System' established after the war was essentially:",
+      "options": {
+        "A": "A plan for immediate independence for all colonies",
+        "B": "A way for the Allies to manage former German and Ottoman territories",
+        "C": "An agreement to ban chemical weapons",
+        "D": "A trade union between Europe and Asia"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "The term 'Total War' means that:",
+      "options": {
+        "A": "Nations devote all their resources to the war effort",
+        "B": "Only soldiers are affected by the war",
+        "C": "The war is fought only on land",
+        "D": "No weapons are used"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which battle was the only major naval engagement of World War I?",
+      "options": {
+        "A": "Battle of the Nile",
+        "B": "Battle of Midway",
+        "C": "Battle of Jutland",
+        "D": "Battle of Trafalgar"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 33,
+      "question": "Self-determination, a key point in Wilson’s 14 Points, meant that:",
+      "options": {
+        "A": "People should decide for themselves what government they wish to have",
+        "B": "The USA would decide the borders of Europe",
+        "C": "Monarchies should be restored everywhere",
+        "D": "Large nations should rule small nations"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "The 'Sick Man of Europe' was a nickname for which declining empire?",
+      "options": {
+        "A": "Russian Empire",
+        "B": "Austrian Empire",
+        "C": "Ottoman Empire",
+        "D": "German Empire"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 35,
+      "question": "What was the result of the Treaty of Brest-Litovsk?",
+      "options": {
+        "A": "Germany surrendered to the Allies",
+        "B": "The US entered the war",
+        "C": "Russia ended its participation in WWI",
+        "D": "Japan conquered China"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 36,
+      "question": "Which of these nations was created from Austro-Hungarian territory after WWI?",
+      "options": {
+        "A": "Czechoslovakia",
+        "B": "Switzerland",
+        "C": "Belgium",
+        "D": "Denmark"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "Rationing was a system designed to:",
+      "options": {
+        "A": "Limit the purchase of consumer goods to ensure enough for the military",
+        "B": "Increase the price of food",
+        "C": "Encourage people to eat more meat",
+        "D": "Provide free clothes to the poor"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "The industrialization of war in WWI led to:",
+      "options": {
+        "A": "Lower casualty rates",
+        "B": "The return to cavalry charges",
+        "C": "Mass production of weapons and high death tolls",
+        "D": "The end of the factory system"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which country suffered the highest total number of casualties in WWI?",
+      "options": {
+        "A": "United States",
+        "B": "Great Britain",
+        "C": "Russia",
+        "D": "Italy"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 40,
+      "question": "The 'War of Attrition' refers to a strategy of:",
+      "options": {
+        "A": "Winning by wearing down the enemy's men and resources",
+        "B": "Surrounding the enemy quickly",
+        "C": "Using peace talks to delay fighting",
+        "D": "Fighting only during the summer"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which monarch was forced to abdicate in Germany at the end of the war?",
+      "options": {
+        "A": "Kaiser Wilhelm II",
+        "B": "King George V",
+        "C": "Czar Alexander III",
+        "D": "Emperor Hirohito"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "The newly independent Poland was given access to the sea through the:",
+      "options": {
+        "A": "Panama Canal",
+        "B": "Suez Canal",
+        "C": "Polish Corridor",
+        "D": "Rhine River"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 43,
+      "question": "What role did women play on the home front during the war?",
+      "options": {
+        "A": "They replaced men in factories and offices",
+        "B": "They were forbidden from working",
+        "C": "They were sent to the front lines as combat soldiers",
+        "D": "They took over the government leadership"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "The Treaty of Versailles required Germany to return Alsace-Lorraine to:",
+      "options": {
+        "A": "Belgium",
+        "B": "Great Britain",
+        "C": "France",
+        "D": "Poland"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following was a result of the war's end?",
+      "options": {
+        "A": "The spread of the Spanish Flu pandemic",
+        "B": "The immediate end of all global conflicts",
+        "C": "Economic boom for all European nations",
+        "D": "The colonization of North America"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "The term 'Doughboys' was a nickname for:",
+      "options": {
+        "A": "German bakers",
+        "B": "French chefs",
+        "C": "American soldiers",
+        "D": "British pilots"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 47,
+      "question": "What was the significance of the Battle of Tannenberg?",
+      "options": {
+        "A": "It was a major German victory over Russia on the Eastern Front",
+        "B": "It was the first time tanks were used",
+        "C": "It ended the war in Turkey",
+        "D": "It led to the surrender of Italy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "The 'Blank Check' refers to:",
+      "options": {
+        "A": "British financial aid to France",
+        "B": "Germany's promise of unconditional support to Austria-Hungary",
+        "C": "Russian support for the USA",
+        "D": "The US loan to Germany"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which weapon made crossing 'No Man's Land' extremely difficult?",
+      "options": {
+        "A": "The machine gun",
+        "B": "The bayonet",
+        "C": "The spear",
+        "D": "The longbow"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "The ultimate failure of the League of Nations was largely due to:",
+      "options": {
+        "A": "The refusal of the United States to join",
+        "B": "Having too many soldiers",
+        "C": "Being located in Switzerland",
+        "D": "The lack of a common language"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

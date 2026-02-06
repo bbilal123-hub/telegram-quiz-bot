@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 9",
+  "subject": "Civics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The branch of philosophy that deals with the study of morality and human conduct is:",
+      "options": {
+        "A": "Logic",
+        "B": "Ethics",
+        "C": "Metaphysics",
+        "D": "Aesthetics"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following describes 'Applied Ethics'?",
+      "options": {
+        "A": "The study of the origin of moral rules",
+        "B": "The application of moral principles to specific life issues",
+        "C": "The study of the history of philosophy",
+        "D": "The belief that there is no right or wrong"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "A set of principles that tell us what is right and what is wrong in a society is known as:",
+      "options": {
+        "A": "Legality",
+        "B": "Morality",
+        "C": "Technology",
+        "D": "Geography"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "Professional ethics are important because they:",
+      "options": {
+        "A": "Allow workers to arrive late",
+        "B": "Guide the conduct of individuals in their workplace",
+        "C": "Encourage corruption",
+        "D": "Eliminate the need for laws"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "The quality of being honest and having strong moral principles is called:",
+      "options": {
+        "A": "Selfishness",
+        "B": "Integrity",
+        "C": "Greed",
+        "D": "Arrogance"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a characteristic of a person with good ethical values?",
+      "options": {
+        "A": "Being dishonest when it's convenient",
+        "B": "Respecting the rights of others",
+        "C": "Ignoring the laws of the country",
+        "D": "Discriminating against minority groups"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "In the context of Ethiopian society, respecting elders is considered a/an:",
+      "options": {
+        "A": "Negative value",
+        "B": "Traditional ethical value",
+        "C": "Illegal act",
+        "D": "Modern corruption"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The ethical theory that states an action is right if it produces the greatest good for the greatest number of people is:",
+      "options": {
+        "A": "Egoism",
+        "B": "Utilitarianism",
+        "C": "Nihilism",
+        "D": "Relativism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "The ability to understand and share the feelings of another person is:",
+      "options": {
+        "A": "Apathy",
+        "B": "Empathy",
+        "C": "Sympathy",
+        "D": "Antipathy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "Civic virtue refers to:",
+      "options": {
+        "A": "Individual wealth",
+        "B": "The habits and behaviors of a good citizen",
+        "C": "A person's physical strength",
+        "D": "The number of languages a person speaks"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an example of an unethical practice in the workplace?",
+      "options": {
+        "A": "Punctuality",
+        "B": "Favoritism/Nepotism",
+        "C": "Hard work",
+        "D": "Cooperation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "Taking responsibility for one's own actions and their consequences is known as:",
+      "options": {
+        "A": "Denial",
+        "B": "Accountability",
+        "C": "Irresponsibility",
+        "D": "Blaming"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "The belief that all people should be treated equally regardless of their background is a value of:",
+      "options": {
+        "A": "Injustice",
+        "B": "Social Justice",
+        "C": "Favoritism",
+        "D": "Elitism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "Ethical values are important for a nation because they:",
+      "options": {
+        "A": "Cause more crimes",
+        "B": "Promote peaceful coexistence and development",
+        "C": "Replace the constitution",
+        "D": "Discourage people from working"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "A person who puts their own interests above everyone else's at all times is practicing:",
+      "options": {
+        "A": "Altruism",
+        "B": "Egoism",
+        "C": "Tolerance",
+        "D": "Patriotism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which document is the supreme law of Ethiopia that citizens must respect?",
+      "options": {
+        "A": "The School Rule Book",
+        "B": "The FDRE Constitution",
+        "C": "The Criminal Code",
+        "D": "The Civil Code"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The readiness to accept different opinions and behaviors that one might not agree with is:",
+      "options": {
+        "A": "Intolerance",
+        "B": "Tolerance",
+        "C": "Ignorance",
+        "D": "Stubbornness"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "Promising to do something and keeping that promise is a sign of:",
+      "options": {
+        "A": "Dishonesty",
+        "B": "Reliability",
+        "C": "Weakness",
+        "D": "Laziness"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "When a public official uses their power for private gain, it is called:",
+      "options": {
+        "A": "Transparency",
+        "B": "Corruption",
+        "C": "Public service",
+        "D": "Democracy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The process of debating and reaching a consensus on what is right is part of:",
+      "options": {
+        "A": "Physical education",
+        "B": "Ethical inquiry",
+        "C": "History",
+        "D": "Geography"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which value is essential for maintaining the environment for future generations?",
+      "options": {
+        "A": "Consumerism",
+        "B": "Environmental Ethics",
+        "C": "Pollution",
+        "D": "Deforestation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "The feeling of love, devotion, and sense of attachment to one's country is:",
+      "options": {
+        "A": "Chauvinism",
+        "B": "Patriotism",
+        "C": "Treason",
+        "D": "Apathy"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "Respecting the national flag and anthem of Ethiopia is a sign of:",
+      "options": {
+        "A": "Criminality",
+        "B": "Civic Duty",
+        "C": "Rebellion",
+        "D": "Individualism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "A situation where two or more ethical principles conflict with each other is an:",
+      "options": {
+        "A": "Ethical Solution",
+        "B": "Ethical Dilemma",
+        "C": "Ethical Agreement",
+        "D": "Ethical Law"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The 'Golden Rule' of ethics suggests that you should:",
+      "options": {
+        "A": "Treat others as you want to be treated",
+        "B": "Take as much as you can from others",
+        "C": "Only help those who are rich",
+        "D": "Ignore the needs of your neighbors"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "Fairness in the distribution of wealth, opportunities, and privileges within a society is:",
+      "options": {
+        "A": "Corruption",
+        "B": "Social Justice",
+        "C": "Inequality",
+        "D": "Dictatorship"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "A person who reports illegal or unethical activities within their organization is a:",
+      "options": {
+        "A": "Traitor",
+        "B": "Whistleblower",
+        "C": "Criminal",
+        "D": "Conspirator"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Self-discipline is important because it helps an individual:",
+      "options": {
+        "A": "Control their impulses and follow through on commitments",
+        "B": "Force others to do what they want",
+        "C": "Become famous",
+        "D": "Avoid going to school"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following helps in building a culture of peace?",
+      "options": {
+        "A": "Spreading rumors",
+        "B": "Dialogue and mutual understanding",
+        "C": "Physical violence",
+        "D": "Refusing to talk to people from other ethnic groups"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "The virtue of being moderate and showing self-restraint is:",
+      "options": {
+        "A": "Temperance",
+        "B": "Greed",
+        "C": "Gluttony",
+        "D": "Extravagance"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "Good citizenship involves:",
+      "options": {
+        "A": "Staying at home and doing nothing",
+        "B": "Participating in community service",
+        "C": "Breaking traffic rules",
+        "D": "Littering in public parks"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "What is the role of the family in shaping ethical values?",
+      "options": {
+        "A": "It has no role",
+        "B": "It is the primary place where children learn basic moral values",
+        "C": "It only teaches children how to earn money",
+        "D": "It is less important than social media"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Honesty in the context of school means:",
+      "options": {
+        "A": "Cheating on exams to get high marks",
+        "B": "Doing your own work and not stealing from others",
+        "C": "Paying someone else to do your homework",
+        "D": "Lying to teachers about absences"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Moral relativism is the idea that:",
+      "options": {
+        "A": "There is one single truth for everyone",
+        "B": "Right and wrong depend on a person's culture or perspective",
+        "C": "Science can prove morality",
+        "D": "Ethics are not important"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The ethical value that encourages people to help those in need without expecting anything in return is:",
+      "options": {
+        "A": "Selfishness",
+        "B": "Altruism",
+        "C": "Capitalism",
+        "D": "Commercialism"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "What is the opposite of 'Truthfulness'?",
+      "options": {
+        "A": "Honesty",
+        "B": "Deception",
+        "C": "Sincerity",
+        "D": "Frankness"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "In a democratic society, citizens have both rights and:",
+      "options": {
+        "A": "Hobbies",
+        "B": "Obligations (Duties)",
+        "C": "Secrets",
+        "D": "Gifts"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "A code of conduct is:",
+      "options": {
+        "A": "A secret language",
+        "B": "A set of rules outlining social norms and responsibilities",
+        "C": "A map of the city",
+        "D": "A list of food items"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "The virtue of being brave and standing up for what is right is:",
+      "options": {
+        "A": "Cowardice",
+        "B": "Courage",
+        "C": "Fear",
+        "D": "Hesitation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is a result of a lack of ethical values in a society?",
+      "options": {
+        "A": "High level of trust",
+        "B": "Increased crime and corruption",
+        "C": "Economic prosperity",
+        "D": "Social stability"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Respecting the diversity of Ethiopia's cultures and religions is a sign of:",
+      "options": {
+        "A": "Weakness",
+        "B": "Ethical maturity",
+        "C": "Historical ignorance",
+        "D": "Political failure"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "Confidentiality in professional ethics means:",
+      "options": {
+        "A": "Sharing everyone's secrets on the internet",
+        "B": "Keeping sensitive information private",
+        "C": "Telling lies to your boss",
+        "D": "Being loud in the office"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "The habit of doing the right thing consistently is called:",
+      "options": {
+        "A": "Vice",
+        "B": "Virtue",
+        "C": "Coincidence",
+        "D": "Accident"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "In ethical decision making, what is the first step?",
+      "options": {
+        "A": "Act immediately without thinking",
+        "B": "Identify the ethical issue or problem",
+        "C": "Wait for someone else to solve it",
+        "D": "Flip a coin"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Cooperation among citizens is necessary for:",
+      "options": {
+        "A": "National development",
+        "B": "Creating confusion",
+        "C": "Stopping progress",
+        "D": "Promoting conflict"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "The value that encourages using resources wisely and avoiding waste is:",
+      "options": {
+        "A": "Extravagance",
+        "B": "Frugality (Thriftiness)",
+        "C": "Greed",
+        "D": "Laziness"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is an example of a 'civic obligation'?",
+      "options": {
+        "A": "Watching television",
+        "B": "Paying taxes",
+        "C": "Going on vacation",
+        "D": "Buying a new car"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Ethical behavior in sports involves:",
+      "options": {
+        "A": "Taking drugs to win",
+        "B": "Following the rules and respecting opponents (Fair Play)",
+        "C": "Insulting the referee",
+        "D": "Faking an injury"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The concept of 'Ubuntu' in African ethics emphasizes:",
+      "options": {
+        "A": "Isolation and loneliness",
+        "B": "Humanity toward others and community interconnectedness",
+        "C": "Extreme competition",
+        "D": "Material wealth"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Sustainable development is an ethical issue because it involves:",
+      "options": {
+        "A": "Caring only for the present generation",
+        "B": "Fairness to future generations",
+        "C": "Destroying all forests for money",
+        "D": "Ignoring scientific evidence"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

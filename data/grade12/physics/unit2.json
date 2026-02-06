@@ -1,0 +1,510 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Physics",
+  "unit": "Unit 2: Oscillations and Waves",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The back-and-forth motion of an object about a central equilibrium position is called:",
+      "options": {
+        "A": "Oscillation",
+        "C": "Translation",
+        "D": "Rectilinear motion"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The maximum displacement of an oscillating object from its equilibrium position is its:",
+      "options": {
+        "A": "Frequency",
+        "C": "Amplitude",
+        "D": "Wavelength"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 3,
+      "question": "In Simple Harmonic Motion (SHM), the restoring force is directly proportional to the:",
+      "options": {
+        "A": "Displacement",
+        "C": "Velocity",
+        "D": "Mass"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "The time taken to complete one full cycle of an oscillation is the:",
+      "options": {
+        "A": "Period",
+        "C": "Frequency",
+        "D": "Phase"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 5,
+      "question": "Frequency is measured in which SI unit?",
+      "options": {
+        "A": "Seconds",
+        "C": "Hertz",
+        "D": "Meters"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "The relationship between frequency (f) and period (T) is given by:",
+      "options": {
+        "A": "f = 1 / T",
+        "C": "f = T^2",
+        "D": "f = m * T"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 7,
+      "question": "A wave in which the particles of the medium vibrate parallel to the direction of wave travel is a:",
+      "options": {
+        "A": "Transverse wave",
+        "C": "Longitudinal wave",
+        "D": "Electromagnetic wave"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "Sound waves are examples of which type of wave?",
+      "options": {
+        "A": "Longitudinal waves",
+        "C": "Transverse waves",
+        "D": "Vacuum waves"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "The distance between two consecutive identical points on a wave is the:",
+      "options": {
+        "A": "Wavelength",
+        "C": "Amplitude",
+        "D": "Trough"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is the wave equation relating velocity (v), frequency (f), and wavelength (lambda)?",
+      "options": {
+        "A": "v = f * lambda",
+        "C": "v = f / lambda",
+        "D": "v = lambda / f"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "In a transverse wave, the highest point is called the crest and the lowest point is the:",
+      "options": {
+        "A": "Node",
+        "C": "Trough",
+        "D": "Antinode"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "The period of a simple pendulum depends only on its mass and length. This statement is:",
+      "options": {
+        "A": "False, it does not depend on mass",
+        "C": "True, mass is critical",
+        "D": "False, it only depends on mass"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "If the length of a pendulum is increased, its period will:",
+      "options": {
+        "A": "Increase",
+        "C": "Decrease",
+        "D": "Stay the same"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "Damping is the process where the amplitude of an oscillation decreases over time due to:",
+      "options": {
+        "A": "Friction or air resistance",
+        "C": "Increased energy input",
+        "D": "Gravity only"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 15,
+      "question": "Resonance occurs when the driving frequency of an external force matches the:",
+      "options": {
+        "A": "Natural frequency of the system",
+        "C": "Amplitude of the system",
+        "D": "Velocity of the system"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "A wave that requires a physical medium to travel is called a:",
+      "options": {
+        "A": "Mechanical wave",
+        "C": "Light wave",
+        "D": "Radio wave"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 17,
+      "question": "The speed of sound is generally fastest in which state of matter?",
+      "options": {
+        "A": "Gases",
+        "C": "Solids",
+        "D": "Liquids"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "The phenomenon where two waves overlap to form a new wave pattern is:",
+      "options": {
+        "A": "Interference",
+        "C": "Refraction",
+        "D": "Reflection"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 19,
+      "question": "Constructive interference occurs when the crest of one wave meets the:",
+      "options": {
+        "A": "Crest of another wave",
+        "C": "Trough of another wave",
+        "D": "Node of another wave"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 20,
+      "question": "Standing waves are produced by the interference of two waves of the same frequency traveling in:",
+      "options": {
+        "A": "Opposite directions",
+        "C": "The same direction",
+        "D": "Perpendicular directions"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "Points on a standing wave that have zero amplitude are called:",
+      "options": {
+        "A": "Nodes",
+        "C": "Antinodes",
+        "D": "Peaks"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "The apparent change in frequency of a wave due to the relative motion of the source and observer is the:",
+      "options": {
+        "A": "Doppler Effect",
+        "C": "Photoelectric Effect",
+        "D": "Compton Effect"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 23,
+      "question": "When a source of sound moves toward an observer, the observed frequency:",
+      "options": {
+        "A": "Increases",
+        "C": "Decreases",
+        "D": "Vanishes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 24,
+      "question": "What is the frequency of a wave with a period of 0.02 seconds?",
+      "options": {
+        "A": "50 Hz",
+        "C": "20 Hz",
+        "D": "100 Hz"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 25,
+      "question": "The energy of a wave is directly proportional to the square of its:",
+      "options": {
+        "A": "Amplitude",
+        "C": "Wavelength",
+        "D": "Period"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 26,
+      "question": "Waves that can travel through a vacuum are:",
+      "options": {
+        "A": "Electromagnetic waves",
+        "C": "Water waves",
+        "D": "Seismic waves"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 27,
+      "question": "The bending of waves around an obstacle is known as:",
+      "options": {
+        "A": "Diffraction",
+        "C": "Refraction",
+        "D": "Reflection"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "Refraction is the change in wave direction caused by a change in wave:",
+      "options": {
+        "A": "Speed",
+        "C": "Color",
+        "D": "Source"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 29,
+      "question": "In a mass-spring system, the period is determined by the mass and the:",
+      "options": {
+        "A": "Spring constant (k)",
+        "C": "Gravitational constant (g)",
+        "D": "Room temperature"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "What happens to the energy of a damped oscillator?",
+      "options": {
+        "A": "It is transformed into heat energy",
+        "C": "It is created from nothing",
+        "D": "It stays perfectly constant"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "The fundamental frequency is also known as the:",
+      "options": {
+        "A": "First harmonic",
+        "C": "Second overtone",
+        "D": "Node"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 32,
+      "question": "A pipe closed at one end can produce only:",
+      "options": {
+        "A": "Odd harmonics",
+        "C": "Even harmonics",
+        "D": "Ultrasonic waves"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 33,
+      "question": "Light waves are transverse waves. This can be demonstrated by:",
+      "options": {
+        "A": "Polarization",
+        "C": "Interference",
+        "D": "Reflection"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Intensity of a wave is defined as the power per unit:",
+      "options": {
+        "A": "Area",
+        "C": "Volume",
+        "D": "Mass"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "The threshold of human hearing is approximately:",
+      "options": {
+        "A": "20 Hz to 20,000 Hz",
+        "C": "0 Hz to 100 Hz",
+        "D": "1 MHz to 10 MHz"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "Ultrasonic waves have a frequency:",
+      "options": {
+        "A": "Greater than 20,000 Hz",
+        "C": "Less than 20 Hz",
+        "D": "Exactly 100 Hz"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 37,
+      "question": "The phase difference of 180 degrees between two waves results in:",
+      "options": {
+        "A": "Destructive interference",
+        "C": "Constructive interference",
+        "D": "No change"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which parameter remains constant when a wave passes from one medium to another?",
+      "options": {
+        "A": "Frequency",
+        "C": "Speed",
+        "D": "Wavelength"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "Seismic P-waves are longitudinal, while S-waves are:",
+      "options": {
+        "A": "Transverse",
+        "C": "Circular",
+        "D": "Stationary"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 40,
+      "question": "The intensity level of sound is measured in:",
+      "options": {
+        "A": "Decibels (dB)",
+        "C": "Newtons",
+        "D": "Joules"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 41,
+      "question": "If the amplitude of a wave is doubled, its intensity increases by a factor of:",
+      "options": {
+        "A": "4",
+        "C": "2",
+        "D": "8"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "The distance between a node and its adjacent antinode is:",
+      "options": {
+        "A": "One-fourth of a wavelength",
+        "C": "One-half of a wavelength",
+        "D": "A full wavelength"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "Waves that transfer energy without the permanent displacement of matter are:",
+      "options": {
+        "A": "Traveling waves",
+        "C": "Static waves",
+        "D": "Fixed waves"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 44,
+      "question": "In a string fixed at both ends, the second harmonic has how many nodes?",
+      "options": {
+        "A": "3",
+        "C": "2",
+        "D": "1"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "The velocity of a wave on a string depends on the tension and the:",
+      "options": {
+        "A": "Linear mass density",
+        "C": "Length of the string only",
+        "D": "Color of the string"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which principle states that the resultant displacement of two waves is the sum of their individual displacements?",
+      "options": {
+        "A": "Principle of Superposition",
+        "C": "Pascal's Principle",
+        "D": "Archimedes' Principle"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "An example of a heavily damped system is:",
+      "options": {
+        "A": "Shock absorbers in a car",
+        "C": "A church bell",
+        "D": "A guitar string"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 48,
+      "question": "The speed of light in a vacuum is approximately:",
+      "options": {
+        "A": "300,000,000 m/s",
+        "C": "340 m/s",
+        "D": "1,000 m/s"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 49,
+      "question": "The angle of incidence is equal to the angle of reflection. This is:",
+      "options": {
+        "A": "The Law of Reflection",
+        "C": "Snell's Law",
+        "D": "The Law of Refraction"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 50,
+      "question": "A wave pulse is a:",
+      "options": {
+        "A": "Single disturbance moving through a medium",
+        "C": "Continuous periodic wave",
+        "D": "Wave that does not move"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
+]

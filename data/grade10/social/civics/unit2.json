@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 10",
+  "subject": "Civics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The concept of 'Rule of Law' primarily means that:",
+      "options": {
+        "A": "The police are always right",
+        "B": "Everyone, including government officials, is subject to the law",
+        "C": "Laws only apply to ordinary citizens",
+        "D": "The government can change laws without notice"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a key component of the Rule of Law?",
+      "options": {
+        "A": "Secret trials",
+        "B": "Supremacy of the Constitution",
+        "C": "Unlimited power of the Prime Minister",
+        "D": "Discriminatory application of justice"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "A society without a rule of law usually leads to:",
+      "options": {
+        "A": "Greater freedom",
+        "B": "Anarchy and the rule of force",
+        "C": "Economic equality",
+        "D": "Perfect peace"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The judiciary is the branch of government responsible for:",
+      "options": {
+        "A": "Making laws",
+        "B": "Interpreting and applying the law",
+        "C": "Enforcing the law through the police",
+        "D": "Collecting taxes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "For the Rule of Law to be effective, the judiciary must be:",
+      "options": {
+        "A": "Controlled by the ruling party",
+        "B": "Independent and impartial",
+        "C": "Appointed by the military",
+        "D": "Subservient to the executive"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which document is considered the supreme law of Ethiopia?",
+      "options": {
+        "A": "The Penal Code",
+        "B": "The FDRE Constitution",
+        "C": "The Civil Code",
+        "D": "The Labor Law"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The principle that 'Justice delayed is justice denied' refers to:",
+      "options": {
+        "A": "High costs of lawyers",
+        "B": "Slow court processes that harm the parties involved",
+        "C": "The absence of judges",
+        "D": "Laws being written in foreign languages"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following describes 'Equality before the law'?",
+      "options": {
+        "A": "Everyone must have the same income",
+        "B": "The law treats all people the same regardless of status",
+        "C": "Only rich people can win in court",
+        "D": "Government officials cannot be sued"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "The legal protection that prevents a person from being arrested without a valid reason is:",
+      "options": {
+        "A": "Due process",
+        "B": "Habeas Corpus",
+        "C": "Double Jeopardy",
+        "D": "Censorship"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "The role of the 'Prosecutor' in a criminal trial is to:",
+      "options": {
+        "A": "Defend the accused person",
+        "B": "Bring charges against the suspect on behalf of the state",
+        "C": "Act as the judge",
+        "D": "Report the news to the public"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Corruption in the legal system is a threat to the Rule of Law because it:",
+      "options": {
+        "A": "Increases government revenue",
+        "B": "Undermines public trust and equality",
+        "C": "Makes trials faster",
+        "D": "Helps the poor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The difference between 'Law' and 'Ethics' is that:",
+      "options": {
+        "A": "Laws are written and enforced by the state; ethics are internal moral principles",
+        "B": "Ethics are more important than laws",
+        "C": "Only laws exist in a democracy",
+        "D": "They are exactly the same"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 13,
+      "question": "One of the sources of the FDRE Constitution is:",
+      "options": {
+        "A": "Only foreign laws",
+        "B": "The history and struggles of the Ethiopian people",
+        "C": "Religious books only",
+        "D": "The personal will of the President"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "A 'Transparent' legal system is one where:",
+      "options": {
+        "A": "No records are kept",
+        "B": "Legal proceedings and laws are clear and accessible to the public",
+        "C": "Only lawyers can see the laws",
+        "D": "Judges work in secret"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The FDRE Constitution divides the Ethiopian court system into:",
+      "options": {
+        "A": "Federal and Regional courts",
+        "B": "Military and Civil courts only",
+        "C": "Religious and State courts",
+        "D": "One single court for the whole country"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "The highest court in Ethiopia is the:",
+      "options": {
+        "A": "High Court",
+        "B": "Federal Supreme Court",
+        "C": "First Instance Court",
+        "D": "Regional Council"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "According to the FDRE Constitution, the power to interpret the Constitution belongs to:",
+      "options": {
+        "A": "The Prime Minister",
+        "B": "The House of Federation",
+        "C": "The Ministry of Justice",
+        "D": "The Federal Police"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The phrase 'Ignorance of the law is no excuse' means:",
+      "options": {
+        "A": "You don't need to study law",
+        "B": "A person is still liable for a crime even if they didn't know it was illegal",
+        "C": "Laws are only for those who go to school",
+        "D": "Police must teach you the law before arresting you"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "When a person is accused of a crime, they are 'Presumed Innocent' until:",
+      "options": {
+        "A": "They are arrested",
+        "B": "Proven guilty in a court of law",
+        "C": "The newspaper says they are guilty",
+        "D": "The police finish the investigation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "A fair trial requires that the accused has the right to:",
+      "options": {
+        "A": "Escape from jail",
+        "B": "Legal representation (a lawyer)",
+        "C": "Choose their own judge",
+        "D": "Pay the victim to go away"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "What is the primary objective of 'International Law'?",
+      "options": {
+        "A": "To make all countries follow one king",
+        "B": "To regulate relations between sovereign states",
+        "C": "To abolish local cultures",
+        "D": "To collect taxes from all people"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Human Rights are 'Inalienable', which means:",
+      "options": {
+        "A": "They can be sold",
+        "B": "They cannot be taken away or given up",
+        "C": "They only apply to adults",
+        "D": "They change every year"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is a 'Civil' law case?",
+      "options": {
+        "A": "Armed robbery",
+        "B": "A contract dispute between two businessmen",
+        "C": "Murder",
+        "D": "Drug trafficking"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "In a democracy, the military is typically:",
+      "options": {
+        "A": "Above the law",
+        "B": "Under civilian control and subject to the law",
+        "C": "The maker of the laws",
+        "D": "The head of the judiciary"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The UDHR (Universal Declaration of Human Rights) was adopted by:",
+      "options": {
+        "A": "The African Union",
+        "B": "The United Nations",
+        "C": "The European Union",
+        "D": "The Red Cross"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Social justice refers to:",
+      "options": {
+        "A": "Punishing criminals in public",
+        "B": "The fair distribution of wealth, opportunities, and privileges in society",
+        "C": "Everyone having the same amount of money in their pocket",
+        "D": "The government owning all houses"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Administrative law deals with the actions of:",
+      "options": {
+        "A": "Private families",
+        "B": "Government agencies and departments",
+        "C": "Foreign invaders",
+        "D": "Small children"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The 'Ombudsman' helps protect the Rule of Law by:",
+      "options": {
+        "A": "Arresting criminals",
+        "B": "Investigating complaints against government officials",
+        "C": "Passing new laws",
+        "D": "Defending the country in war"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "The term 'Limited Government' means:",
+      "options": {
+        "A": "The government has very few employees",
+        "B": "Government power is restricted by law and the Constitution",
+        "C": "The government only works for a few hours",
+        "D": "The government cannot spend money"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Accountability means that government officials must:",
+      "options": {
+        "A": "Keep their work secret",
+        "B": "Be responsible for their actions and answerable to the public",
+        "C": "Never be criticized",
+        "D": "Rule for life"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is an example of an unethical but NOT illegal act?",
+      "options": {
+        "A": "Stealing a loaf of bread",
+        "B": "Lying to a friend for personal gain",
+        "C": "Driving above the speed limit",
+        "D": "Tax evasion"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The main purpose of 'Punishment' in a modern legal system is:",
+      "options": {
+        "A": "Revenge",
+        "B": "Deterrence, protection of society, and rehabilitation",
+        "C": "To make money for the government",
+        "D": "To show the power of the judge"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The 'Supremacy Clause' of the Ethiopian Constitution is found in Article:",
+      "options": {
+        "A": "1",
+        "B": "9",
+        "C": "25",
+        "D": "40"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Which body ensures that regional laws do not contradict the Federal Constitution?",
+      "options": {
+        "A": "The Federal Police",
+        "B": "The Constitutional Inquiry Council",
+        "C": "The Regional Governor",
+        "D": "The City Council"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The 'Power of Judicial Review' allows courts to:",
+      "options": {
+        "A": "Change the results of an election",
+        "B": "Declare laws or executive acts unconstitutional",
+        "C": "Increase the salary of judges",
+        "D": "Hire more police officers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The principle of 'Separation of Powers' supports the Rule of Law by:",
+      "options": {
+        "A": "Concentrating all power in one person",
+        "B": "Creating a system of checks and balances",
+        "C": "Making the law harder to understand",
+        "D": "Abolishing the Constitution"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "A 'Plaintiff' is the person who:",
+      "options": {
+        "A": "Defends themselves in court",
+        "B": "Initiates a lawsuit in a civil case",
+        "C": "Decides the final verdict",
+        "D": "Arrests the suspect"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "What is the 'Bar' in the legal profession?",
+      "options": {
+        "A": "The place where prisoners are kept",
+        "B": "The professional organization of lawyers",
+        "C": "A type of law book",
+        "D": "The judge's desk"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Public law regulates the relationship between:",
+      "options": {
+        "A": "Two private companies",
+        "B": "The individual and the state",
+        "C": "A husband and wife",
+        "D": "Two neighbors"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "The right to 'Due Process' ensures that:",
+      "options": {
+        "A": "Everyone wins their case",
+        "B": "Legal proceedings are conducted fairly and according to established rules",
+        "C": "There are no trials",
+        "D": "Laws apply differently to different people"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "A 'Customary Law' is based on:",
+      "options": {
+        "A": "Modern science",
+        "B": "Long-established practices and traditions of a community",
+        "C": "Laws written by foreign experts",
+        "D": "Internet trends"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The 'Rule of Law' helps in economic development by:",
+      "options": {
+        "A": "Providing stability and protecting property rights",
+        "B": "Ensuring the government owns everything",
+        "C": "Allowing businesses to cheat customers",
+        "D": "Eliminating all taxes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following violates the Rule of Law?",
+      "options": {
+        "A": "Arresting someone with a court warrant",
+        "B": "A government official using their position to bypass the law",
+        "C": "Filing a lawsuit against the government",
+        "D": "Publishing a law in the official gazette"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "The 'Negarit Gazeta' is important because it is where:",
+      "options": {
+        "A": "Criminals are named",
+        "B": "Laws are officially published to become effective",
+        "C": "The history of the war is written",
+        "D": "School holidays are announced"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "Ethical codes for professionals (like doctors or lawyers) are designed to:",
+      "options": {
+        "A": "Increase their profit",
+        "B": "Ensure high standards of conduct and protect the public",
+        "C": "Make their work secret",
+        "D": "Allow them to ignore the law"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "The 'Universal Declaration of Human Rights' (UDHR) consists of how many articles?",
+      "options": {
+        "A": "10",
+        "B": "30",
+        "C": "100",
+        "D": "50"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "Legal 'Sanctions' are:",
+      "options": {
+        "A": "Rewards for good behavior",
+        "B": "Penalties imposed for violating the law",
+        "C": "Ceremonies for new laws",
+        "D": "Speeches made by judges"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "The principle of 'Majority Rule' must never be used to:",
+      "options": {
+        "A": "Pass a budget",
+        "B": "Violate the fundamental rights of minorities",
+        "C": "Elect a leader",
+        "D": "Build a new road"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "The 'International Court of Justice' (ICJ) is located in:",
+      "options": {
+        "A": "New York",
+        "B": "The Hague, Netherlands",
+        "C": "Addis Ababa",
+        "D": "Geneva"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Civic participation in the Rule of Law includes:",
+      "options": {
+        "A": "Taking the law into your own hands",
+        "B": "Respecting the law and helping in the administration of justice",
+        "C": "Bribing officials to help friends",
+        "D": "Ignoring legal notices"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

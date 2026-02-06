@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What does a 'wide base and narrow top' in a population pyramid typically indicate about a country?",
+    "choices": ["A high proportion of elderly population and low birth rate.", "A high birth rate and a high proportion of young dependents.", "A stable population with zero growth.", "A population heavily affected by out-migration."],
+    "answer": "A high birth rate and a high proportion of young dependents."
+  },
+  {
+    "question": "Which sector of economic activity is characterized by the provision of services rather than goods?",
+    "choices": ["Primary Sector", "Secondary Sector", "Tertiary Sector", "Quinary Sector"],
+    "answer": "Tertiary Sector"
+  },
+  {
+    "question": "The Age Dependency Ratio (ADR) is a measure of the relationship between the:",
+    "choices": ["Urban population and the rural population.", "Employed and unemployed within the adult age group.", "Economically active population and the non-working population.", "Male population and the female population."],
+    "answer": "Economically active population and the non-working population."
+  },
+  {
+    "question": "Which of the following is a primary economic activity?",
+    "choices": ["Teaching in a school", "Manufacturing cars in a factory", "Mining gold from the earth", "Operating a retail bank"],
+    "answer": "Mining gold from the earth"
+  },
+  {
+    "question": "What is the primary goal of sustainable development?",
+    "choices": ["To maximize the extraction of non-renewable resources for current economic gain.", "To meet the needs of the present without compromising the ability of future generations to meet their own needs.", "To prioritize industrial development over all environmental concerns.", "To achieve economic growth by any means necessary."],
+    "answer": "To meet the needs of the present without compromising the ability of future generations to meet their own needs."
+  },
+  {
+    "question": "If a country has a Crude Birth Rate (CBR) of 30 per 1,000 and a Crude Death Rate (CDR) of 10 per 1,000, and net migration is zero, what is its annual population growth rate?",
+    "choices": ["1.0%", "2.0%", "3.0%", "4.0%"],
+    "answer": "2.0%"
+  },
+  {
+    "question": "Which of the following is a key focus area of Ethiopia's environmental policy?",
+    "choices": ["Promoting the use of single-use plastics", "Encouraging deforestation for agricultural expansion", "Implementing watershed management and afforestation", "Reducing investment in clean energy sources"],
+    "answer": "Implementing watershed management and afforestation"
+  },
+  {
+    "question": "The 'Green Legacy Initiative' in Ethiopia is primarily an example of:",
+    "choices": ["An industrial policy", "A healthcare campaign", "An afforestation and environmental program", "A tertiary education expansion project"],
+    "answer": "An afforestation and environmental program"
+  },
+  {
+    "question": "Which of the following is considered a renewable resource?",
+    "choices": ["Natural Gas", "Coal", "Solar Energy", "Petroleum"],
+    "answer": "Solar Energy"
+  },
+  {
+    "question": "A key strategy for the prevention of HIV/AIDS transmission is:",
+    "choices": ["Avoiding all forms of medical testing.", "Promoting education and the use of condoms.", "Reducing public awareness campaigns.", "Limiting access to antiretroviral drugs."],
+    "answer": "Promoting education and the use of condoms."
+  },
+  {
+    "question": "In population geography, 'sex ratio' refers to:",
+    "choices": ["The number of live births per 1,000 women of childbearing age.", "The ratio of males to females in a given population.", "The average age at which people get married.", "The distribution of the population across different age groups."],
+    "answer": "The ratio of males to females in a given population."
+  },
+  {
+    "question": "Which sector would a 'construction company' building a new road be classified under?",
+    "choices": ["Primary Sector", "Secondary Sector", "Tertiary Sector", "Quaternary Sector"],
+    "answer": "Secondary Sector"
+  },
+  {
+    "question": "A country with a very low Age Dependency Ratio (ADR) is most likely to have:",
+    "choices": ["A very high proportion of its population under the age of 15.", "A large working-age population relative to its dependent population.", "A severe shortage of jobs for its adult population.", "A high rate of emigration among the elderly."],
+    "answer": "A large working-age population relative to its dependent population."
+  },
+  {
+    "question": "Which of the following is an example of a non-renewable resource?",
+    "choices": ["Wind", "Forests", "Minerals", "Freshwater"],
+    "answer": "Minerals"
+  },
+  {
+    "question": "Ethiopia's Growth and Transformation Plan (GTP) emphasizes the development of which key sector to lead economic growth?",
+    "choices": ["Space Technology", "Agriculture", "Luxury Goods Manufacturing", "Offshore Banking"],
+    "answer": "Agriculture"
+  },
+  {
+    "question": "If a region has a total population of 500,000 and 50,000 live births in a year, what is its Crude Birth Rate (CBR)?",
+    "choices": ["10 per 1,000", "50 per 1,000", "100 per 1,000", "500 per 1,000"],
+    "answer": "100 per 1,000"
+  },
+  {
+    "question": "The main impact of HIV/AIDS on a country's economy includes:",
+    "choices": ["A significant increase in labor productivity.", "Reduced healthcare costs for the government.", "A decrease in the number of orphans and vulnerable children.", "Loss of skilled labor and increased healthcare expenditures."],
+    "answer": "Loss of skilled labor and increased healthcare expenditures."
+  },
+  {
+    "question": "Which of the following best describes 'life expectancy'?",
+    "choices": ["The total number of years a person has lived.", "The average number of years a newborn is expected to live.", "The maximum age a human can potentially reach.", "The number of people who die in a given year."],
+    "answer": "The average number of years a newborn is expected to live."
+  },
+  {
+    "question": "Processing raw cotton into textiles and clothing is an activity found in the:",
+    "choices": ["Primary Sector", "Secondary Sector", "Tertiary Sector", "Quinary Sector"],
+    "answer": "Secondary Sector"
+  },
+  {
+    "question": "Sustainable management of forests involves practices such as:",
+    "choices": ["Clear-cutting large areas without replanting.", "Reforestation and controlled logging.", "Converting all forest land into urban areas.", "Prohibiting any human use of forest resources."],
+    "answer": "Reforestation and controlled logging."
+  },
+  {
+    "question": "A population pyramid that is almost rectangular in shape, with nearly equal numbers in most age groups, is typical of:",
+    "choices": ["Least Developed Countries", "Developing Countries", "Developed Countries", "Countries with very high birth rates"],
+    "answer": "Developed Countries"
+  },
+  {
+    "question": "Which of the following is a major physical factor affecting population distribution in Ethiopia?",
+    "choices": ["Proximity to social media networks", "Government tax policies", "Climate and rainfall patterns", "International trade agreements"],
+    "answer": "Climate and rainfall patterns"
+  },
+  {
+    "question": "The quaternary sector of the economy is primarily concerned with:",
+    "choices": ["Extraction of raw materials.", "Manufacturing of goods.", "Provision of services like transportation and retail.", "Knowledge-based activities like research and information technology."],
+    "answer": "Knowledge-based activities like research and information technology."
+  },
+  {
+    "question": "A high maternal mortality rate in a country indicates:",
+    "choices": ["Excellent healthcare services for women.", "Challenges in the healthcare system, particularly for pregnant women.", "A very low Crude Birth Rate (CBR).", "An equal sex ratio in the population."],
+    "answer": "Challenges in the healthcare system, particularly for pregnant women."
+  },
+  {
+    "question": "Which of the following is an abiotic natural resource?",
+    "choices": ["A herd of cattle", "A pine forest", "A deposit of iron ore", "A crop of wheat"],
+    "answer": "A deposit of iron ore"
+  },
+  {
+    "question": "A key objective of Ethiopia's economic policy is:",
+    "choices": ["To maintain a solely agricultural-based economy.", "To achieve sustainable growth and poverty reduction.", "To discourage foreign direct investment.", "To reduce investment in infrastructure."],
+    "answer": "To achieve sustainable growth and poverty reduction."
+  },
+  {
+    "question": "The formula for calculating population density is:",
+    "choices": ["Total Area / Total Population", "Total Population / Total Area", "Number of Births / Total Population", "Number of Deaths / Total Population"],
+    "answer": "Total Population / Total Area"
+  },
+  {
+    "question": "Which of the following is a direct consequence of a high dependency ratio in a country?",
+    "choices": ["Increased savings and investment rates.", "Greater pressure on the working population to support the young and old.", "A surplus of job opportunities for all adults.", "A rapid decline in the need for schools and healthcare facilities."],
+    "answer": "Greater pressure on the working population to support the young and old."
+  },
+  {
+    "question": "Which economic activity involves the harvesting of timber?",
+    "choices": ["Secondary", "Tertiary", "Primary", "Quaternary"],
+    "answer": "Primary"
+  },
+  {
+    "question": "Community participation in soil conservation and area closures are key components of:",
+    "choices": ["Ethiopia's HIV/AIDS prevention strategy.", "Ethiopia's environmental policy.", "The secondary economic sector.", "Calculating the sex ratio."],
+    "answer": "Ethiopia's environmental policy."
+  },
+  {
+    "question": "The number of deaths of infants under one year of age per 1,000 live births is known as:",
+    "choices": ["Crude Death Rate", "Maternal Mortality Rate", "Infant Mortality Rate", "Life Expectancy"],
+    "answer": "Infant Mortality Rate"
+  },
+  {
+    "question": "An economy that is 'primarily agriculture-based' means most of its workforce is employed in the:",
+    "choices": ["Tertiary Sector", "Secondary Sector", "Primary Sector", "Quinary Sector"],
+    "answer": "Primary Sector"
+  },
+  {
+    "question": "Which of the following is a renewable resource if managed properly?",
+    "choices": ["Coal", "Natural Gas", "Petroleum", "Fish Stocks"],
+    "answer": "Fish Stocks"
+  },
+  {
+    "question": "The main mode of HIV transmission is through:",
+    "choices": ["Sharing meals with an infected person.", "Unprotected sexual contact and contaminated needles.", "Airborne droplets from coughing or sneezing.", "Mosquito bites."],
+    "answer": "Unprotected sexual contact and contaminated needles."
+  },
+  {
+    "question": "A country with a rapidly growing population will most likely have a population pyramid that:",
+    "choices": ["Has a very narrow base.", "Is wider at the top than at the bottom.", "Has a wide base, indicating a high number of young people.", "Is almost rectangular across all age groups."],
+    "answer": "Has a wide base, indicating a high number of young people."
+  },
+  {
+    "question": "The 'GTP' in Ethiopia's development planning stands for:",
+    "choices": ["General Tax Policy", "Growth and Transformation Plan", "Global Trade Partnership", "Geographic Topography Project"],
+    "answer": "Growth and Transformation Plan"
+  },
+  {
+    "question": "Which of the following is a characteristic of the secondary sector?",
+    "choices": ["It involves the direct extraction of natural resources.", "It adds value to raw materials through processing and manufacturing.", "It provides intangible services to consumers.", "It is based on high-level decision-making and research."],
+    "answer": "It adds value to raw materials through processing and manufacturing."
+  },
+  {
+    "question": "The purpose of calculating the sex ratio is to understand the:",
+    "choices": ["Balance between the male and female population.", "Rate of population growth in a year.", "Proportion of the population that is economically active.", "Distribution of population in urban and rural areas."],
+    "answer": "Balance between the male and female population."
+  },
+  {
+    "question": "Which of the following is a challenge faced by Ethiopia's economy, as mentioned in its development plans?",
+    "choices": ["A complete lack of natural resources.", "Unemployment and inflation.", "An oversupply of manufactured goods.", "A declining population growth rate."],
+    "answer": "Unemployment and inflation."
+  },
+  {
+    "question": "The sustainable use of a resource like water involves:",
+    "choices": ["Using as much as possible for industrial development.", "Conservation and preventing pollution to ensure future availability.", "Diverting all water resources to urban centers.", "Prioritizing its use for non-essential activities."],
+    "answer": "Conservation and preventing pollution to ensure future availability."
+  }
+]

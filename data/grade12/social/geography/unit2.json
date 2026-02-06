@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 12",
+  "subject": "Geography",
+  "unit": "Unit 2: Physical Environment of Ethiopia and the Horn",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which geological era is characterized by the formation of the Basement Complex rocks in Ethiopia?",
+      "options": {
+        "A": "Cenozoic Era",
+        "B": "Precambrian Era",
+        "C": "Mesozoic Era",
+        "D": "Paleozozoic Era"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 2,
+      "question": "The transgression of the sea from the Indian Ocean toward the land in Ethiopia occurred during which period?",
+      "options": {
+        "A": "Triassic",
+        "B": "Jurassic",
+        "C": "Cretaceous",
+        "D": "Tertiary"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following mountain ranges is the highest in Ethiopia?",
+      "options": {
+        "A": "Semien Mountains",
+        "B": "Bale Mountains",
+        "C": "Arsi Mountains",
+        "D": "Chercher Mountains"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 4,
+      "question": "The Ethiopian Rift Valley is a part of the larger:",
+      "options": {
+        "A": "Mid-Atlantic Ridge",
+        "B": "East African Rift System",
+        "C": "Himalayan Fault Line",
+        "D": "San Andreas Fault"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "The 'Roof of Africa' is a nickname often given to the Ethiopian Highlands because:",
+      "options": {
+        "A": "They are the only mountains in Africa",
+        "B": "They receive the most rainfall in Africa",
+        "C": "They constitute the largest continuous area of high altitude in Africa",
+        "D": "They are located in the exact center of the continent"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which drainage system in Ethiopia accounts for the largest volume of water export?",
+      "options": {
+        "A": "The Rift Valley Drainage System",
+        "B": "The Western (Nile) Drainage System",
+        "C": "The South-Eastern Drainage System",
+        "D": "The Inland Drainage System"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The Blue Nile (Abay) river originates from:",
+      "options": {
+        "A": "Lake Chamo",
+        "B": "Lake Ziway",
+        "C": "Lake Tana",
+        "D": "Lake Abaya"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following rivers is an 'Inland' river, meaning it does not reach the sea?",
+      "options": {
+        "A": "Awash",
+        "B": "Baro",
+        "C": "Tekeze",
+        "D": "Omo"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 9,
+      "question": "The 'Wurch' climatic zone in Ethiopia is characterized by altitudes above:",
+      "options": {
+        "A": "1500 meters",
+        "B": "2300 meters",
+        "C": "3300 meters",
+        "D": "4500 meters"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "What is the primary factor controlling the seasonal distribution of rainfall in Ethiopia?",
+      "options": {
+        "A": "The movement of the ITCZ",
+        "B": "Distance from the Equator",
+        "C": "Ocean currents",
+        "D": "Volcanic activity"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 11,
+      "question": "The main rainy season for most parts of the Ethiopian Highlands is:",
+      "options": {
+        "A": "Bega (October to January)",
+        "B": "Belg (February to May)",
+        "C": "Kiremt (June to September)",
+        "D": "Tseday (September to October)"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "The 'Dega' zone is best suited for the cultivation of:",
+      "options": {
+        "A": "Coffee and Bananas",
+        "B": "Barley and Wheat",
+        "C": "Sugarcane and Rubber",
+        "D": "Citrus fruits"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which soil type is dominant in the Ethiopian Highlands and is known for its fertility but high susceptibility to erosion?",
+      "options": {
+        "A": "Nitosols",
+        "B": "Vertisols",
+        "C": "Fluvisols",
+        "D": "Lithosols"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "The 'Black Cotton Soils' found in many plateau areas are scientifically known as:",
+      "options": {
+        "A": "Andosols",
+        "B": "Regosols",
+        "C": "Vertisols",
+        "D": "Cambisols"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 15,
+      "question": "Which lake is the deepest in Ethiopia?",
+      "options": {
+        "A": "Lake Shala",
+        "B": "Lake Langano",
+        "C": "Lake Hawassa",
+        "D": "Lake Afdera"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 16,
+      "question": "The Afar Triangle is significant because it is a junction of how many tectonic plates?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "The 'Kolla' climatic zone is found at altitudes between:",
+      "options": {
+        "A": "3300m and above",
+        "B": "2300m to 3300m",
+        "C": "1500m to 2300m",
+        "D": "500m to 1500m"
+      },
+      "correct_option": "D"
+    },
+    {
+      "id": 18,
+      "question": "Most of Ethiopia's lakes are found in which physiographic region?",
+      "options": {
+        "A": "The Western Highlands",
+        "B": "The Eastern Highlands",
+        "C": "The Rift Valley",
+        "D": "The Western Lowlands"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "Which of these is a major cause of soil erosion in the Ethiopian Highlands?",
+      "options": {
+        "A": "Terracing",
+        "B": "Reforestation",
+        "C": "Overgrazing and deforestation",
+        "D": "Contour plowing"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 20,
+      "question": "The highest peak in the Bale Mountains is:",
+      "options": {
+        "A": "Ras Dashen",
+        "B": "Mount Tullu Dimtu",
+        "C": "Mount Guna",
+        "D": "Mount Abuna Yosef"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The Danakil Depression is one of the ______ places on Earth.",
+      "options": {
+        "A": "Coldest",
+        "B": "Highest",
+        "C": "Lowest and Hottest",
+        "D": "Wettest"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "Which river forms the largest part of the border between Ethiopia and Eritrea?",
+      "options": {
+        "A": "Abay",
+        "B": "Mereb",
+        "C": "Genale",
+        "D": "Wabe Shebelle"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The 'Weyna Dega' zone is often called the 'Zone of Settlement' because:",
+      "options": {
+        "A": "It has the most extreme temperatures",
+        "B": "It is too rocky for farming",
+        "C": "It has a temperate climate suitable for human habitation",
+        "D": "It is the only place with electricity"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 24,
+      "question": "The Mesozoic Era in Ethiopia was mainly an era of:",
+      "options": {
+        "A": "Volcanic eruptions",
+        "B": "Mountain building",
+        "C": "Sedimentation",
+        "D": "Glaciation"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is an endemic animal found in the Bale Mountains?",
+      "options": {
+        "A": "Walia Ibex",
+        "B": "Ethiopian Wolf",
+        "C": "African Elephant",
+        "D": "Giraffe"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "The main source of the 'Belg' rains is the moisture coming from the:",
+      "options": {
+        "A": "Atlantic Ocean",
+        "B": "Indian Ocean",
+        "C": "Mediterranean Sea",
+        "D": "Arctic Ocean"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The largest lake in Ethiopia by surface area is:",
+      "options": {
+        "A": "Lake Tana",
+        "B": "Lake Abaya",
+        "C": "Lake Chamo",
+        "D": "Lake Hayq"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 28,
+      "question": "Which landform feature separates the Western Highlands from the Eastern Highlands?",
+      "options": {
+        "A": "The Blue Nile Gorge",
+        "B": "The Great Rift Valley",
+        "C": "The Ogaden Desert",
+        "D": "The Tekeze Lowlands"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "During the Cenozoic Era, the uplifting of the Arabo-Ethiopian landmass led to:",
+      "options": {
+        "A": "The formation of the Rift Valley",
+        "B": "The sinking of the highlands",
+        "C": "The disappearance of all rivers",
+        "D": "The cooling of the climate"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 30,
+      "question": "The 'Walia Ibex' is an endemic animal found specifically in the:",
+      "options": {
+        "A": "Simien Mountains National Park",
+        "B": "Bale Mountains National Park",
+        "C": "Awash National Park",
+        "D": "Nech Sar National Park"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 31,
+      "question": "What is the dominant vegetation type in the 'Kolla' regions?",
+      "options": {
+        "A": "Coniferous forests",
+        "B": "Tropical rainforests",
+        "C": "Xerophytic (drought-resistant) plants and Acacia",
+        "D": "Alpine mosses"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 32,
+      "question": "The Tekeze river is a tributary of the:",
+      "options": {
+        "A": "White Nile",
+        "B": "Atbara",
+        "C": "Sobat",
+        "D": "Juba"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "The process of 'Laterization' in tropical soils leads to the accumulation of:",
+      "options": {
+        "A": "Iron and Aluminum oxides",
+        "B": "Calcium carbonate",
+        "C": "Sodium chloride",
+        "D": "Magnesium"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is a major salt-producing lake in Ethiopia?",
+      "options": {
+        "A": "Lake Afdera",
+        "B": "Lake Ziway",
+        "C": "Lake Tana",
+        "D": "Lake Beseka"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 35,
+      "question": "The 'Adigrat Sandstone' was formed during which period of the Mesozoic Era?",
+      "options": {
+        "A": "Triassic",
+        "B": "Jurassic",
+        "C": "Cretaceous",
+        "D": "Permian"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 36,
+      "question": "The longest river in Ethiopia (within its borders) is:",
+      "options": {
+        "A": "Abay",
+        "B": "Wabe Shebelle",
+        "C": "Genale",
+        "D": "Awash"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "The 'Bereha' zone is characterized by:",
+      "options": {
+        "A": "High rainfall and low temperature",
+        "B": "Moderate rainfall and moderate temperature",
+        "C": "Very low rainfall and very high temperature",
+        "D": "Snowfall"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "Which mountain is the highest point in Ethiopia?",
+      "options": {
+        "A": "Ras Dashen",
+        "B": "Mount Gughe",
+        "C": "Mount Batu",
+        "D": "Mount Amba Alage"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 39,
+      "question": "The major cause of the 'Bega' dry season in Ethiopia is the dominance of:",
+      "options": {
+        "A": "South-Westerly winds",
+        "B": "North-Easterly Trade winds",
+        "C": "The ITCZ",
+        "D": "The Congo air mass"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Which part of Ethiopia has a 'Bimodal' rainfall pattern (two rainy seasons)?",
+      "options": {
+        "A": "Northern Highlands",
+        "B": "Southern and South-Eastern Lowlands",
+        "C": "Western Highlands",
+        "D": "Central Plateau"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "The Omo River drains into which lake?",
+      "options": {
+        "A": "Lake Turkana",
+        "B": "Lake Victoria",
+        "C": "Lake Tanganyika",
+        "D": "Lake Malawi"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 42,
+      "question": "The 'Harenna Forest' is a large tract of moist tropical forest located in:",
+      "options": {
+        "A": "The Semien Mountains",
+        "B": "The Bale Mountains",
+        "C": "The Chercher Mountains",
+        "D": "The Gambella Lowlands"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which rock type covers the largest surface area of the Ethiopian Highlands?",
+      "options": {
+        "A": "Sedimentary rocks",
+        "B": "Metamorphic rocks",
+        "C": "Volcanic (Basaltic) rocks",
+        "D": "Plutonic rocks"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 44,
+      "question": "The 'Dallol' area in the Danakil Depression is famous for its:",
+      "options": {
+        "A": "Active volcanoes and hydrothermal fields",
+        "B": "Deep freshwater lakes",
+        "C": "Dense forests",
+        "D": "Permanent ice caps"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 45,
+      "question": "A river that flows only during the rainy season is called a:",
+      "options": {
+        "A": "Perennial river",
+        "B": "Intermittent (seasonal) river",
+        "C": "Exotic river",
+        "D": "Consequent river"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "The 'Upper Sandstone' was formed during the ______ period.",
+      "options": {
+        "A": "Cretaceous",
+        "B": "Jurassic",
+        "C": "Triassic",
+        "D": "Silurian"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which of these is a major river of the South-Eastern Drainage System?",
+      "options": {
+        "A": "Gilo",
+        "B": "Akobo",
+        "C": "Genale",
+        "D": "Angereb"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 48,
+      "question": "Natural vegetation in Ethiopia has been significantly reduced primarily due to:",
+      "options": {
+        "A": "Climate change",
+        "B": "Volcanic eruptions",
+        "C": "Human activities (agriculture and fuel wood)",
+        "D": "Locust invasions"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 49,
+      "question": "The 'Somali Plateau' is part of which physiographic region?",
+      "options": {
+        "A": "The Western Highlands",
+        "B": "The Eastern Highlands",
+        "C": "The Rift Valley",
+        "D": "The Western Lowlands"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The term 'Endemic' refers to species that are:",
+      "options": {
+        "A": "Found everywhere in the world",
+        "B": "Already extinct",
+        "C": "Native to a specific geographic area and found nowhere else",
+        "D": "Imported from other countries"
+      },
+      "correct_option": "C"
+    }
+  ]
+}
+]

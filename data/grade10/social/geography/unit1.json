@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 10",
+  "subject": "Geography",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which branch of Geography deals with the tools and techniques used to collect and analyze geographic data?",
+      "options": {
+        "A": "Physical Geography",
+        "B": "Human Geography",
+        "C": "Practical Geography",
+        "D": "Biogeography"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 2,
+      "question": "A map that shows a small area with great detail is called a:",
+      "options": {
+        "A": "Small-scale map",
+        "B": "Large-scale map",
+        "C": "Atlas map",
+        "D": "Wall map"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of a small-scale map?",
+      "options": {
+        "A": "A town plan of Adama",
+        "B": "A map of the World",
+        "C": "A cadastral map of a farm",
+        "D": "A topographic map of a village"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "The ratio between the distance on a map and the actual distance on the ground is the:",
+      "options": {
+        "A": "Map legend",
+        "B": "Map scale",
+        "C": "Map projection",
+        "D": "Map orientation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 5,
+      "question": "If a map scale is 1:50,000, 2 cm on the map represents how many kilometers on the ground?",
+      "options": {
+        "A": "0.5 km",
+        "B": "1 km",
+        "C": "5 km",
+        "D": "10 km"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which map scale is represented by a line divided into equal parts?",
+      "options": {
+        "A": "Representative Fraction (RF)",
+        "B": "Linear (Graphic) Scale",
+        "C": "Statement (Verbal) Scale",
+        "D": "Logarithmic Scale"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "A map that represents the three-dimensional surface of the earth on a two-dimensional paper is a:",
+      "options": {
+        "A": "Sketch",
+        "B": "Map Projection",
+        "C": "Globe",
+        "D": "Diagram"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 8,
+      "question": "The method of representing relief (height) on a map using lines connecting points of equal altitude is:",
+      "options": {
+        "A": "Hachures",
+        "B": "Contours",
+        "C": "Spot heights",
+        "D": "Layer tinting"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "When contour lines are very close to each other, it indicates a:",
+      "options": {
+        "A": "Gentle slope",
+        "B": "Steep slope",
+        "C": "Plain area",
+        "D": "Valley floor"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "Widely spaced contour lines represent a:",
+      "options": {
+        "A": "Cliff",
+        "B": "Gentle slope",
+        "C": "Mountain peak",
+        "D": "Waterfall"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "A V-shaped contour pointing towards higher ground represents a:",
+      "options": {
+        "A": "Spur",
+        "B": "Valley",
+        "C": "Ridge",
+        "D": "Plateau"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "A U-shaped or V-shaped contour pointing towards lower ground represents a:",
+      "options": {
+        "A": "Valley",
+        "B": "Spur",
+        "C": "Depression",
+        "D": "Canyon"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a primary source of geographic data?",
+      "options": {
+        "A": "Textbooks",
+        "B": "Field observation and interviews",
+        "C": "Internet articles",
+        "D": "Encyclopedias"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "Data expressed in numbers is called:",
+      "options": {
+        "A": "Qualitative data",
+        "B": "Quantitative data",
+        "C": "Descriptive data",
+        "D": "Visual data"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The best statistical diagram to show the change of temperature over time is a:",
+      "options": {
+        "A": "Pie chart",
+        "B": "Line graph",
+        "C": "Bar graph",
+        "D": "Dot map"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "A circle divided into sectors to show the percentage of different components is a:",
+      "options": {
+        "A": "Bar chart",
+        "B": "Pie chart",
+        "C": "Flow chart",
+        "D": "Histogram"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is NOT a step in geographic research?",
+      "options": {
+        "A": "Formulating a hypothesis",
+        "B": "Ignoring contradictory data",
+        "C": "Data collection",
+        "D": "Reporting findings"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The direction of 135 degrees from North on a compass corresponds to:",
+      "options": {
+        "A": "Northeast",
+        "B": "Southeast",
+        "C": "Southwest",
+        "D": "Northwest"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Magnetic North differs from True North by an angle called:",
+      "options": {
+        "A": "Bearing",
+        "B": "Magnetic Declination",
+        "C": "Grid North",
+        "D": "Azimuth"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The bearing of West from North is:",
+      "options": {
+        "A": "90°",
+        "B": "270°",
+        "C": "180°",
+        "D": "360°"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "In a 4-figure grid reference '2435', '24' represents the:",
+      "options": {
+        "A": "Northings",
+        "B": "Eastings",
+        "C": "Altitude",
+        "D": "Scale"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 22,
+      "question": "Lines on a map that run from North to South but are used to measure East-West distance are:",
+      "options": {
+        "A": "Northings",
+        "B": "Eastings",
+        "C": "Contours",
+        "D": "Isotherms"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "GIS stands for:",
+      "options": {
+        "A": "General Information System",
+        "B": "Geographic Information System",
+        "C": "Geological Inspection Science",
+        "D": "Global Internal Satellite"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which tool uses satellites to provide the exact location and altitude of a place?",
+      "options": {
+        "A": "Barometer",
+        "B": "GPS",
+        "C": "Compass",
+        "D": "Anemometer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "The vertical distance between two successive contour lines is the:",
+      "options": {
+        "A": "Horizontal equivalent",
+        "B": "Contour Interval",
+        "C": "Gradient",
+        "D": "Vertical Exaggeration"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "A 'Bar Graph' is most useful for:",
+      "options": {
+        "A": "Showing continuous data",
+        "B": "Comparing different categories of data",
+        "C": "Showing proportions of a whole",
+        "D": "Showing distribution of people"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which projection is best suited for maps of the Polar regions?",
+      "options": {
+        "A": "Cylindrical Projection",
+        "B": "Azimuthal (Planar) Projection",
+        "C": "Conic Projection",
+        "D": "Mercator Projection"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The 'Legend' of a map is used to:",
+      "options": {
+        "A": "Calculate the scale",
+        "B": "Explain the symbols and colors used",
+        "C": "Show the direction",
+        "D": "Find the latitude"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "When converting a Representative Fraction (RF) of 1:100,000 to a statement scale, 1 cm represents:",
+      "options": {
+        "A": "100 meters",
+        "B": "1 kilometer",
+        "C": "10 kilometers",
+        "D": "100 kilometers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Fieldwork is important in geography because it:",
+      "options": {
+        "A": "Is easier than reading books",
+        "B": "Provides first-hand information about the environment",
+        "C": "Does not require a hypothesis",
+        "D": "Only uses secondary data"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "A map that shows the distribution of a single phenomenon, like rainfall, is a:",
+      "options": {
+        "A": "General-purpose map",
+        "B": "Thematic map",
+        "C": "Reference map",
+        "D": "Political map"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "Isopleth maps connect points with equal:",
+      "options": {
+        "A": "Population",
+        "B": "Values (like temperature or rainfall)",
+        "C": "Land ownership",
+        "D": "Road types"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Choropleth maps use _________ to show the density of a feature.",
+      "options": {
+        "A": "Lines",
+        "B": "Shading or colors",
+        "C": "Dots",
+        "D": "Circles"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "A person who makes maps is called a:",
+      "options": {
+        "A": "Geologist",
+        "B": "Cartographer",
+        "C": "Demographer",
+        "D": "Biologist"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The cardinal direction exactly opposite to Northeast is:",
+      "options": {
+        "A": "Northwest",
+        "B": "Southwest",
+        "C": "Southeast",
+        "D": "South"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The 'Northings' in a grid system increase as you move:",
+      "options": {
+        "A": "South",
+        "B": "North",
+        "C": "East",
+        "D": "West"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which of these is a qualitative research method?",
+      "options": {
+        "A": "Measuring rainfall in mm",
+        "B": "In-depth interviews about cultural beliefs",
+        "C": "Counting population",
+        "D": "Calculating crop yield"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "The 'Title' of a map tells the reader:",
+      "options": {
+        "A": "The author's name",
+        "B": "What the map is about and the area it covers",
+        "C": "The date it was printed",
+        "D": "The scale used"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "A map with an RF of 1:5,000,000 is considered a:",
+      "options": {
+        "A": "Large-scale map",
+        "B": "Small-scale map",
+        "C": "Medium-scale map",
+        "D": "Cadastral map"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Contour lines that form a circle with the highest value in the center represent a:",
+      "options": {
+        "A": "Basin",
+        "B": "Hill or Mountain top",
+        "C": "Canyon",
+        "D": "River"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Contour lines with the lowest value in the center represent a:",
+      "options": {
+        "A": "Plateau",
+        "B": "Depression or Basin",
+        "C": "Ridge",
+        "D": "Cliff"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The distance measured in degrees East or West of the Prime Meridian is:",
+      "options": {
+        "A": "Latitude",
+        "B": "Longitude",
+        "C": "Altitude",
+        "D": "Azimuth"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "0° Latitude is known as the:",
+      "options": {
+        "A": "Prime Meridian",
+        "B": "Equator",
+        "C": "Tropic of Cancer",
+        "D": "International Date Line"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Remote sensing involves collecting data from a distance using:",
+      "options": {
+        "A": "Hammers",
+        "B": "Satellites or aircraft",
+        "C": "Microscopes",
+        "D": "Shovels"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "What is the first step in conducting a geographic study?",
+      "options": {
+        "A": "Analyzing data",
+        "B": "Selecting a research topic/problem",
+        "C": "Drawing conclusions",
+        "D": "Publishing the report"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "If you are walking at a bearing of 180°, you are heading:",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "East",
+        "D": "West"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The 'Mean' of a data set is calculated by:",
+      "options": {
+        "A": "Finding the middle value",
+        "B": "Finding the average (sum divided by number of values)",
+        "C": "Finding the most frequent value",
+        "D": "Subtracting the lowest from the highest value"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Standard symbols used on maps worldwide are called:",
+      "options": {
+        "A": "Local symbols",
+        "B": "Conventional signs",
+        "C": "Secret codes",
+        "D": "Artistic sketches"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "A line on a map connecting points of equal rainfall is an:",
+      "options": {
+        "A": "Isotherm",
+        "B": "Isohyet",
+        "C": "Isobar",
+        "D": "Isoheight"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "Geography research helps to solve problems related to:",
+      "options": {
+        "A": "Spelling",
+        "B": "Environmental management and land use",
+        "C": "Ancient poetry",
+        "D": "Fashion trends"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

@@ -1,0 +1,560 @@
+[
+    {
+  "grade": "Grade 11",
+  "subject": "Mathematics",
+  "unit": "Unit 1: Further on Relation and Functions",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A relation where every element in the domain is paired with exactly one element in the range is called a:",
+      "options": {
+        "A": "Function",
+        "B": "Set",
+        "C": "Constant",
+        "D": "Variable"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "A function f is said to be one-to-one (injective) if:",
+      "options": {
+        "A": "f(a) = f(b) implies a = b",
+        "B": "f(a) = f(b) for all a and b",
+        "C": "The range is equal to the codomain",
+        "D": "It passes the horizontal line test"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 3,
+      "question": "The set of all possible input values for a function is known as the:",
+      "options": {
+        "A": "Range",
+        "B": "Domain",
+        "C": "Codomain",
+        "D": "Relation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 4,
+      "question": "If a function is both one-to-one and onto, it is called a:",
+      "options": {
+        "A": "Surjection",
+        "B": "Injection",
+        "C": "Bijection",
+        "D": "Linear function"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "The inverse of a function f(x) exists if and only if f(x) is:",
+      "options": {
+        "A": "Linear",
+        "B": "One-to-one",
+        "C": "Quadratic",
+        "D": "Polynomial"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "To find the inverse of a function algebraically, the first step is usually to:",
+      "options": {
+        "A": "Square both sides",
+        "B": "Replace f(x) with y and swap x and y",
+        "C": "Multiply by x",
+        "D": "Set the function to zero"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "A function f(x) = P(x) / Q(x), where P and Q are polynomials and Q(x) is not zero, is a:",
+      "options": {
+        "A": "Rational function",
+        "B": "Irrational function",
+        "C": "Logarithmic function",
+        "D": "Exponential function"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 8,
+      "question": "The vertical asymptotes of a rational function occur at values of x that make:",
+      "options": {
+        "A": "The numerator zero",
+        "B": "The denominator zero",
+        "C": "The whole function one",
+        "D": "The x-intercept zero"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "If the degree of the numerator is less than the degree of the denominator, the horizontal asymptote is:",
+      "options": {
+        "A": "x = 0",
+        "B": "y = 1",
+        "C": "y = 0",
+        "D": "Non-existent"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 10,
+      "question": "The composition of functions (f o g)(x) is defined as:",
+      "options": {
+        "A": "f(x) * g(x)",
+        "B": "f(g(x))",
+        "C": "g(f(x))",
+        "D": "f(x) + g(x)"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which test is used on a graph to determine if a relation is a function?",
+      "options": {
+        "A": "Horizontal line test",
+        "B": "Vertical line test",
+        "C": "Diagonal line test",
+        "D": "Origin test"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 12,
+      "question": "The range of the function f(x) = |x| is:",
+      "options": {
+        "A": "All real numbers",
+        "B": "Negative real numbers",
+        "C": "Non-negative real numbers",
+        "D": "Integers only"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 13,
+      "question": "If f(x) = 2x + 3, what is the inverse function f^-1(x)?",
+      "options": {
+        "A": "(x - 3) / 2",
+        "B": "2x - 3",
+        "C": "x / 2 - 3",
+        "D": "3x + 2"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 14,
+      "question": "A function is onto (surjective) if:",
+      "options": {
+        "A": "Each x has a unique y",
+        "B": "The range equals the codomain",
+        "C": "It is a straight line",
+        "D": "The domain is all real numbers"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "The intersection of the graph of a function with the y-axis is the:",
+      "options": {
+        "A": "x-intercept",
+        "B": "y-intercept",
+        "C": "Asymptote",
+        "D": "Vertex"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Two functions f and g are equal if they have:",
+      "options": {
+        "A": "The same range",
+        "B": "The same domain and f(x) = g(x) for all x",
+        "C": "The same x-intercepts",
+        "D": "The same inverse"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a power function?",
+      "options": {
+        "A": "f(x) = 2^x",
+        "B": "f(x) = x^2",
+        "C": "f(x) = log(x)",
+        "D": "f(x) = sin(x)"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 18,
+      "question": "The domain of f(x) = 1/x is:",
+      "options": {
+        "A": "All real numbers",
+        "B": "x > 0",
+        "C": "All real numbers except 0",
+        "D": "x < 0"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 19,
+      "question": "If f(x) is an even function, its graph is symmetric with respect to the:",
+      "options": {
+        "A": "x-axis",
+        "B": "y-axis",
+        "C": "Origin",
+        "D": "Line y = x"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The point where a graph crosses the x-axis is found by setting:",
+      "options": {
+        "A": "x = 0",
+        "B": "y = 0",
+        "C": "y = x",
+        "D": "The derivative to zero"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 21,
+      "question": "The value of (f + g)(x) is equal to:",
+      "options": {
+        "A": "f(x) + g(x)",
+        "B": "f(g(x))",
+        "C": "f(x) * g(x)",
+        "D": "f(x) - g(x)"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 22,
+      "question": "A hole in the graph of a rational function is also called a:",
+      "options": {
+        "A": "Vertical asymptote",
+        "B": "Removable discontinuity",
+        "C": "Horizontal asymptote",
+        "D": "Intercept"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "The sign chart method is often used to solve:",
+      "options": {
+        "A": "Linear equations",
+        "B": "Rational inequalities",
+        "C": "Matrix multiplication",
+        "D": "Logarithms"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The function f(x) = x^3 is an example of an:",
+      "options": {
+        "A": "Even function",
+        "B": "Odd function",
+        "C": "Constant function",
+        "D": "Periodic function"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "An oblique (slant) asymptote occurs when the degree of the numerator is:",
+      "options": {
+        "A": "Less than the denominator",
+        "B": "Equal to the denominator",
+        "C": "Exactly one more than the denominator",
+        "D": "Two more than the denominator"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 26,
+      "question": "The domain of a composition (f o g)(x) consists of x in the domain of g such that:",
+      "options": {
+        "A": "x is in the domain of f",
+        "B": "g(x) is in the domain of f",
+        "C": "f(x) is in the domain of g",
+        "D": "g(x) is not zero"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "If f(x) = x^2 and g(x) = x + 1, then (g o f)(x) is:",
+      "options": {
+        "A": "(x + 1)^2",
+        "B": "x^2 + 1",
+        "C": "x^2 + x",
+        "D": "x + 2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "The graph of f and its inverse f^-1 are reflections of each other across the line:",
+      "options": {
+        "A": "y = 0",
+        "B": "x = 0",
+        "C": "y = x",
+        "D": "y = -x"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 29,
+      "question": "A rational function will have a horizontal asymptote y = a/b if the degrees of numerator and denominator are:",
+      "options": {
+        "A": "Different",
+        "B": "Equal",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "The zeros of the numerator of a rational function (after simplification) are the:",
+      "options": {
+        "A": "Vertical asymptotes",
+        "B": "x-intercepts",
+        "C": "y-intercepts",
+        "D": "Holes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "If a function fails the horizontal line test, it means:",
+      "options": {
+        "A": "It is not a function",
+        "B": "It is not one-to-one",
+        "C": "It has no domain",
+        "D": "It is not a relation"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The range of f(x) = 1/x is:",
+      "options": {
+        "A": "All real numbers",
+        "B": "All real numbers except 0",
+        "C": "x > 0",
+        "D": "y > 1"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following functions is its own inverse?",
+      "options": {
+        "A": "f(x) = x + 2",
+        "B": "f(x) = 1/x",
+        "C": "f(x) = x^2",
+        "D": "f(x) = 2x"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "A function is called strictly increasing if for x1 < x2:",
+      "options": {
+        "A": "f(x1) > f(x2)",
+        "B": "f(x1) < f(x2)",
+        "C": "f(x1) = f(x2)",
+        "D": "f(x1) is negative"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "The identity function is defined as:",
+      "options": {
+        "A": "f(x) = 1",
+        "B": "f(x) = x",
+        "C": "f(x) = 0",
+        "D": "f(x) = x^2"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "If f(x) = 5, the function is called a:",
+      "options": {
+        "A": "Linear function",
+        "B": "Constant function",
+        "C": "Identity function",
+        "D": "Inverse function"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "The degree of the polynomial 3x^4 - 2x + 1 is:",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "4",
+        "D": "0"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 38,
+      "question": "A relation R is the set of ordered pairs. The set of second components is the:",
+      "options": {
+        "A": "Domain",
+        "B": "Range",
+        "C": "Input",
+        "D": "Mapping"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "For a function to have an onto property, its range must be equal to its:",
+      "options": {
+        "A": "Domain",
+        "B": "Codomain",
+        "C": "Inverse",
+        "D": "Identity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "The sign of a rational function changes only at its:",
+      "options": {
+        "A": "y-intercepts",
+        "B": "Zeros and vertical asymptotes",
+        "C": "Horizontal asymptotes",
+        "D": "Domain limits"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which operation is not commutative for functions?",
+      "options": {
+        "A": "Addition",
+        "B": "Multiplication",
+        "C": "Composition",
+        "D": "All are commutative"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 42,
+      "question": "The absolute value function f(x) = |x| can be written as a:",
+      "options": {
+        "A": "Rational function",
+        "B": "Piecewise function",
+        "C": "Polynomial function",
+        "D": "Power function"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "A polynomial function of degree 1 is a:",
+      "options": {
+        "A": "Constant function",
+        "B": "Linear function",
+        "C": "Quadratic function",
+        "D": "Cubic function"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "If f(x) = x + 1, then f(f(x)) is:",
+      "options": {
+        "A": "x + 1",
+        "B": "x + 2",
+        "C": "2x + 1",
+        "D": "x^2 + 1"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "A vertical line x = k is a vertical asymptote if f(x) approaches infinity as:",
+      "options": {
+        "A": "x approaches zero",
+        "B": "x approaches k",
+        "C": "x approaches infinity",
+        "D": "y approaches k"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "The leading coefficient of f(x) = -2x^3 + x - 5 is:",
+      "options": {
+        "A": "3",
+        "B": "-2",
+        "C": "1",
+        "D": "-5"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The domain of f(x) = square_root(x) is:",
+      "options": {
+        "A": "All real numbers",
+        "B": "x >= 0",
+        "C": "x > 0",
+        "D": "x <= 0"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "A function that can be expressed in the form f(x) = kx^a is a:",
+      "options": {
+        "A": "Logarithmic function",
+        "B": "Power function",
+        "C": "Trigonometric function",
+        "D": "Step function"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "If f(g(x)) = x and g(f(x)) = x, then f and g are:",
+      "options": {
+        "A": "Equal",
+        "B": "Inverses of each other",
+        "C": "Reciprocals",
+        "D": "Perpendicular"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "The reciprocal of a linear function is a:",
+      "options": {
+        "A": "Quadratic function",
+        "B": "Rational function",
+        "C": "Linear function",
+        "D": "Constant function"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]

@@ -1,0 +1,559 @@
+[
+    {
+  "grade": "Grade 10",
+  "subject": "Geography",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following provides evidence for the Continental Drift Theory?",
+      "options": {
+        "A": "The fit of the coastlines of South America and Africa",
+        "B": "The rotation of the Earth",
+        "C": "The occurrence of tides",
+        "D": "The shape of the Moon"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 2,
+      "question": "The 'Sial' layer of the Earth's crust is mostly found in:",
+      "options": {
+        "A": "Oceanic crust",
+        "B": "Continental crust",
+        "C": "The Mantle",
+        "D": "The Inner Core"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which layer of the Earth is in a liquid state?",
+      "options": {
+        "A": "Crust",
+        "B": "Mantle",
+        "C": "Outer Core",
+        "D": "Inner Core"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 4,
+      "question": "The San Andreas Fault in California is an example of a:",
+      "options": {
+        "A": "Divergent boundary",
+        "B": "Convergent boundary",
+        "C": "Transform boundary",
+        "D": "Subduction zone"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 5,
+      "question": "When an oceanic plate and a continental plate collide, the oceanic plate sinks because it is:",
+      "options": {
+        "A": "Thicker",
+        "B": "Denser",
+        "C": "Hotter",
+        "D": "Lighter"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which landform is created by tensional forces pulling the crust apart?",
+      "options": {
+        "A": "Fold Mountain",
+        "B": "Rift Valley",
+        "C": "Volcanic Cone",
+        "D": "Plateau"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 7,
+      "question": "The type of fold where the two limbs are parallel to each other is called a:",
+      "options": {
+        "A": "Symmetrical fold",
+        "B": "Asymmetrical fold",
+        "C": "Isoclinal fold",
+        "D": "Recumbent fold"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which type of fault occurs when the hanging wall moves down relative to the footwall?",
+      "options": {
+        "A": "Reverse fault",
+        "B": "Normal fault",
+        "C": "Thrust fault",
+        "D": "Strike-slip fault"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 9,
+      "question": "The scientific study of earthquakes is known as:",
+      "options": {
+        "A": "Vulcanology",
+        "B": "Seismology",
+        "C": "Geomorphology",
+        "D": "Meteorology"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 10,
+      "question": "A giant sea wave produced by an underwater earthquake is a:",
+      "options": {
+        "A": "Tide",
+        "B": "Tsunami",
+        "C": "Current",
+        "D": "Cyclone"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an extrusive volcanic feature?",
+      "options": {
+        "A": "Sill",
+        "B": "Batholith",
+        "C": "Lava plateau",
+        "D": "Dyke"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 12,
+      "question": "A 'Caldera' is a large basin-shaped depression formed when:",
+      "options": {
+        "A": "Lava hardens in the vent",
+        "B": "The top of a volcano collapses",
+        "C": "Wind erodes a mountain",
+        "D": "A river carves a valley"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 13,
+      "question": "Exfoliation (onion-skin weathering) is common in which environment?",
+      "options": {
+        "A": "Tropical rainforests",
+        "B": "Hot deserts",
+        "C": "Polar regions",
+        "D": "Swampy areas"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 14,
+      "question": "The process by which rainwater reacts with minerals like limestone is:",
+      "options": {
+        "A": "Hydration",
+        "B": "Carbonation",
+        "C": "Oxidation",
+        "D": "Frost action"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which agent of erosion is responsible for forming U-shaped valleys?",
+      "options": {
+        "A": "Running water",
+        "B": "Glaciers",
+        "C": "Wind",
+        "D": "Sea waves"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 16,
+      "question": "Mushroom rocks are landforms created by:",
+      "options": {
+        "A": "River deposition",
+        "B": "Wind erosion",
+        "C": "Glacial movement",
+        "D": "Volcanic eruptions"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 17,
+      "question": "In which stage of a river do waterfalls and V-shaped valleys typically form?",
+      "options": {
+        "A": "Old stage",
+        "B": "Mature stage",
+        "C": "Youthful stage",
+        "D": "Delta stage"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 18,
+      "question": "Stalactites and Stalagmites are found in:",
+      "options": {
+        "A": "River beds",
+        "B": "Limestone caves",
+        "C": "Glacial moraines",
+        "D": "Desert dunes"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following describes Ethiopia's absolute location?",
+      "options": {
+        "A": "In the Horn of Africa",
+        "B": "3°N - 15°N Latitude and 33°E - 48°E Longitude",
+        "C": "South of Sudan",
+        "D": "East of the Great Rift Valley"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 20,
+      "question": "The total land area of Ethiopia is approximately:",
+      "options": {
+        "A": "1.1 million km²",
+        "B": "500,000 km²",
+        "C": "2.5 million km²",
+        "D": "800,000 km²"
+      },
+      "correct_option": "A"
+    },
+    {
+      "id": 21,
+      "question": "During which era did the massive lava outpourings occur in Ethiopia?",
+      "options": {
+        "A": "Precambrian",
+        "B": "Paleozoic",
+        "C": "Cenozoic (Tertiary period)",
+        "D": "Mesozoic"
+      },
+      "correct_option": "C"
+    },
+    {
+      "id": 22,
+      "question": "The Afar Triangle is a unique place where how many tectonic plates meet?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which Ethiopian landform region covers the largest area of the country?",
+      "options": {
+        "A": "The Rift Valley",
+        "B": "The Western Highlands",
+        "C": "The Southeastern Lowlands",
+        "D": "The Danakil Depression"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 24,
+      "question": "The 'Roof of East Africa' refers to:",
+      "options": {
+        "A": "The Bale Mountains",
+        "B": "The Ethiopian Highlands",
+        "C": "The Simien Mountains",
+        "D": "The Chercher Mountains"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 25,
+      "question": "Which river basin is often called the 'water tower' of Northeastern Africa?",
+      "options": {
+        "A": "Awash",
+        "B": "Abay",
+        "C": "Omo-Gibe",
+        "D": "Mereb"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 26,
+      "question": "Which lake is an example of a 'Crater Lake' in Ethiopia?",
+      "options": {
+        "A": "Lake Tana",
+        "B": "Lake Bishoftu",
+        "C": "Lake Abaya",
+        "D": "Lake Hawassa"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 27,
+      "question": "The 'Woina Dega' zone is found at an altitude of:",
+      "options": {
+        "A": "Below 500 meters",
+        "B": "1500 - 2300 meters",
+        "C": "Above 3300 meters",
+        "D": "500 - 1500 meters"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which wind system brings the main summer rain (Kiremt) to Ethiopia?",
+      "options": {
+        "A": "Northeast Trade Winds",
+        "B": "Southwest Equatorial Monsoons",
+        "C": "Southeast Trade Winds",
+        "D": "Westerlies"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 29,
+      "question": "The 'Belg' rainy season occurs during which months?",
+      "options": {
+        "A": "June - August",
+        "B": "March - May",
+        "C": "October - January",
+        "D": "December - February"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 30,
+      "question": "Temperature decreases as altitude increases at a rate of approximately:",
+      "options": {
+        "A": "1°C per 1000m",
+        "B": "6.5°C per 1000m",
+        "C": "10°C per 100m",
+        "D": "2°C per 500m"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a 'Permanent' gas in the atmosphere?",
+      "options": {
+        "A": "Water vapor",
+        "B": "Nitrogen",
+        "C": "Carbon dioxide",
+        "D": "Methane"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 32,
+      "question": "The 'lapse rate' refers to the change in __________ with height.",
+      "options": {
+        "A": "Pressure",
+        "B": "Temperature",
+        "C": "Wind speed",
+        "D": "Humidity"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 33,
+      "question": "Isobars are lines on a map that connect places with equal:",
+      "options": {
+        "A": "Sunshine",
+        "B": "Atmospheric pressure",
+        "C": "Cloud cover",
+        "D": "Wind direction"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 34,
+      "question": "Which instrument is used to measure wind speed?",
+      "options": {
+        "A": "Wind Vane",
+        "B": "Anemometer",
+        "C": "Hygrometer",
+        "D": "Thermometer"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 35,
+      "question": "Relative humidity is expressed as a:",
+      "options": {
+        "A": "Degree",
+        "B": "Percentage",
+        "C": "Millibar",
+        "D": "Grams per cubic meter"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 36,
+      "question": "The transfer of heat through the vertical movement of air is:",
+      "options": {
+        "A": "Radiation",
+        "B": "Convection",
+        "C": "Conduction",
+        "D": "Advection"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which type of cloud is associated with heavy rain and thunderstorms?",
+      "options": {
+        "A": "Cirrus",
+        "B": "Cumulonimbus",
+        "C": "Stratus",
+        "D": "Altocumulus"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 38,
+      "question": "Global warming is primarily attributed to the 'enhanced' greenhouse effect. This means:",
+      "options": {
+        "A": "The sun is getting hotter",
+        "B": "Too much heat is trapped by atmospheric gases",
+        "C": "The Earth is moving closer to the sun",
+        "D": "The Ozone layer is disappearing"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which soil layer contains the most organic matter (humus)?",
+      "options": {
+        "A": "B-horizon",
+        "B": "A-horizon (Topsoil)",
+        "C": "C-horizon",
+        "D": "Bedrock"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 40,
+      "question": "Soil 'leaching' is a process where:",
+      "options": {
+        "A": "Water adds nutrients to the soil",
+        "B": "Nutrients are washed down to lower layers by rain",
+        "C": "Wind blows away the topsoil",
+        "D": "Plants take in carbon dioxide"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which of these is a major cause of soil acidity?",
+      "options": {
+        "A": "Overgrazing",
+        "B": "Excessive rainfall and leaching",
+        "C": "Irrigation in dry areas",
+        "D": "Using organic compost"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 42,
+      "question": "The era that represents about 88% of Earth's history is the:",
+      "options": {
+        "A": "Cenozoic",
+        "B": "Precambrian",
+        "C": "Paleozoic",
+        "D": "Mesozoic"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 43,
+      "question": "In the rock cycle, what process turns sediment into sedimentary rock?",
+      "options": {
+        "A": "Melting",
+        "B": "Lithification",
+        "C": "Metamorphism",
+        "D": "Weathering"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which Ethiopian highland region is separated from the Western Highlands by the Rift Valley?",
+      "options": {
+        "A": "The Simien Mountains",
+        "B": "The Southeastern Highlands",
+        "C": "The Gojjam Massifs",
+        "D": "The Tigray Plateau"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 45,
+      "question": "An 'Oxbow Lake' is formed when:",
+      "options": {
+        "A": "A glacier melts",
+        "B": "A river meander is cut off",
+        "C": "A volcano erupts",
+        "D": "A fault line fills with water"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 46,
+      "question": "Which vegetation type is found in the 'Kolla' zones of Ethiopia?",
+      "options": {
+        "A": "Coniferous forests",
+        "B": "Xerophytic (drought-resistant) plants",
+        "C": "Alpine mosses",
+        "D": "Broad-leafed rainforests"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 47,
+      "question": "The 'Wurch' climate zone in Ethiopia is used for:",
+      "options": {
+        "A": "Growing coffee and citrus",
+        "B": "Barley growing and grazing",
+        "C": "Large scale sugar plantations",
+        "D": "Cotton farming"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 48,
+      "question": "Which drainage system in Ethiopia flows toward the Indian Ocean?",
+      "options": {
+        "A": "Western Drainage System",
+        "B": "Southeastern Drainage System",
+        "C": "Rift Valley Drainage System",
+        "D": "Northern Drainage System"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is a 'Renewable' natural resource?",
+      "options": {
+        "A": "Coal",
+        "B": "Solar Energy",
+        "C": "Petroleum",
+        "D": "Natural Gas"
+      },
+      "correct_option": "B"
+    },
+    {
+      "id": 50,
+      "question": "What is the primary benefit of the Grand Ethiopian Renaissance Dam (GERD)?",
+      "options": {
+        "A": "Increasing rainfall",
+        "B": "Hydroelectric power generation",
+        "C": "Stopping the flow of the Nile",
+        "D": "Creating a desert"
+      },
+      "correct_option": "B"
+    }
+  ]
+}
+]
