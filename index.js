@@ -3,130 +3,100 @@ const fs = require("fs");
 const path = require("path");
 
 // ============================
-// BOT TOKEN
+// BOT TOKEN (from Render ENV)
 // ============================
-const BOT_TOKEN = "YOUR_BOT_TOKEN_HERE";
-const bot = new Telegraf(BOT_TOKEN);
+const BOT_TOKEN = process.env.BOT_TOKEN;
+if (!BOT_TOKEN) {
+  console.error("❌ BOT_TOKEN is missing! Set it in Render Environment Variables");
+  process.exit(1);
+}
 
-// ============================
-// SESSION
-// ============================
+const bot = new Telegraf(BOT_TOKEN);
 bot.use(session());
 bot.use((ctx, next) => {
-  ctx.session ??= {};
+  if (!ctx.session) ctx.session = {};
   return next();
 });
 
 // ============================
-// KEYBOARD HELPER
+// Keyboard helper
 // ============================
-const kb = (rows) => ({
-  reply_markup: { keyboard: rows, resize_keyboard: true }
-});
+const kb = (rows) => ({ reply_markup: { keyboard: rows, resize_keyboard: true } });
 
 // ============================
-// START
+// /start
 // ============================
 bot.start((ctx) => {
   ctx.session = { step: "grade" };
   ctx.reply(
     "👋 Welcome student!\nChoose your grade:",
-    kb([
-      ["Grade 9", "Grade 10"],
-      ["Grade 11", "Grade 12"]
-    ])
+    kb([["Grade 9","Grade 10"],["Grade 11","Grade 12"]])
   );
 });
 
 // ============================
-// GRADE
+// Grade selection
 // ============================
 bot.hears(/Grade (9|10|11|12)/, (ctx) => {
   ctx.session.grade = ctx.match[1];
   ctx.session.step = "subject";
-
   ctx.reply(
     "📘 Choose a subject:",
-    kb([
-      ["Math", "Biology"],
-      ["Chemistry", "Physics"],
-      ["English", "Social"],
-      ["Back"]
-    ])
+    kb([["Math","Biology"],["Chemistry","Physics"],["English","Social"],["Back"]])
   );
 });
 
 // ============================
-// SUBJECTS
+// Subject selection
 // ============================
-bot.hears(["Math", "Biology", "Chemistry", "Physics", "English"], (ctx) => {
+bot.hears(["Math","Biology","Chemistry","Physics","English"], (ctx) => {
   ctx.session.subject = ctx.message.text.toLowerCase();
   ctx.session.step = "unit";
-
   ctx.reply(
     "📂 Choose a unit:",
-    kb([
-      ["Unit 1", "Unit 2"],
-      ["Unit 3", "Unit 4"],
-      ["Unit 5", "Back"]
-    ])
+    kb([["Unit 1","Unit 2"],["Unit 3","Unit 4"],["Unit 5","Back"]])
   );
 });
 
 // ============================
-// SOCIAL
+// Social subjects
 // ============================
 bot.hears("Social", (ctx) => {
   ctx.session.step = "social";
   ctx.reply(
     "Choose Social subject:",
-    kb([
-      ["History", "Geography"],
-      ["Civics", "Economics"],
-      ["Back"]
-    ])
+    kb([["History","Geography"],["Civics","Economics"],["Back"]])
   );
 });
 
-bot.hears(["History", "Geography", "Civics", "Economics"], (ctx) => {
+bot.hears(["History","Geography","Civics","Economics"], (ctx) => {
   ctx.session.subject = `social/${ctx.message.text.toLowerCase()}`;
   ctx.session.step = "unit";
-
   ctx.reply(
     "📂 Choose a unit:",
-    kb([
-      ["Unit 1", "Unit 2"],
-      ["Unit 3", "Unit 4"],
-      ["Unit 5", "Back"]
-    ])
+    kb([["Unit 1","Unit 2"],["Unit 3","Unit 4"],["Unit 5","Back"]])
   );
 });
 
 // ============================
-// UNIT
+// Unit selection
 // ============================
 bot.hears(/Unit (\d+)/, (ctx) => {
   if (!ctx.session.grade || !ctx.session.subject) {
-    return ctx.reply("⚠ Please select grade and subject first.");
+    return ctx.reply("⚠ Please choose grade and subject first.");
   }
 
   const unit = ctx.match[1];
-  const filePath = path.join(
-    __dirname,
-    "data",
-    `grade${ctx.session.grade}`,
-    ctx.session.subject,
-    `unit${unit}.json`
-  );
+  const { grade, subject } = ctx.session;
 
-  if (!fs.existsSync(filePath)) {
-    return ctx.reply("⚠ No questions found for this unit.");
-  }
+  const filePath = path.join(__dirname,"data",`grade${grade}`,subject,`unit${unit}.json`);
+  if (!fs.existsSync(filePath)) return ctx.reply("⚠ No questions found for this unit.");
 
-  const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
-  if (!data[0]?.questions?.length) {
-    return ctx.reply("⚠ This unit has no questions.");
-  }
+  let data;
+  try { data = JSON.parse(fs.readFileSync(filePath,"utf8")); }
+  catch { return ctx.reply("❌ Invalid JSON file."); }
+
+  if (!data[0]?.questions?.length) return ctx.reply("⚠ This unit has no questions.");
 
   ctx.session.questions = data[0].questions;
   ctx.session.qIndex = 0;
@@ -136,124 +106,65 @@ bot.hears(/Unit (\d+)/, (ctx) => {
 });
 
 // ============================
-// SEND QUESTION
+// Send question
 // ============================
-function sendQuestion(ctx) {
+function sendQuestion(ctx){
   const q = ctx.session.questions[ctx.session.qIndex];
-
-  let text = `📝 Q${ctx.session.qIndex + 1}: ${q.question}\n\n`;
-  for (const k in q.options) {
-    text += `${k}. ${q.options[k]}\n`;
-  }
-
-  ctx.reply(
-    text,
-    kb([
-      Object.keys(q.options),
-      ["Show Answer", "Next"],
-      ["Back", "Exit"]
-    ])
-  );
+  let text = `📝 Q${ctx.session.qIndex+1}: ${q.question}\n\n`;
+  for(const key in q.options) text += `${key}. ${q.options[key]}\n`;
+  ctx.reply(text, kb([Object.keys(q.options),["Show Answer","Next"],["Back","Exit"]]));
 }
 
 // ============================
-// QUIZ BUTTONS (NO bot.on("text"))
+// Quiz handling
 // ============================
-bot.hears("Show Answer", (ctx) => {
-  if (ctx.session.step !== "quiz") return;
+bot.on("text",(ctx)=>{
+  if(!ctx.session || ctx.session.step!=="quiz") return;
+
+  const text = ctx.message.text;
   const q = ctx.session.questions[ctx.session.qIndex];
-  ctx.reply(`✅ Answer: ${q.correct_option}. ${q.options[q.correct_option]}`);
-});
 
-bot.hears("Next", (ctx) => {
-  if (ctx.session.step !== "quiz") return;
-
-  ctx.session.qIndex++;
-  if (ctx.session.qIndex >= ctx.session.questions.length) {
-    ctx.session = { step: "grade" };
-    return ctx.reply(
-      "🎉 Unit completed!\nChoose your grade:",
-      kb([
-        ["Grade 9", "Grade 10"],
-        ["Grade 11", "Grade 12"]
-      ])
-    );
+  if(text==="Show Answer") return ctx.reply(`✅ Answer: ${q.correct_option}. ${q.options[q.correct_option]}`);
+  if(text==="Next"){
+    ctx.session.qIndex++;
+    if(ctx.session.qIndex>=ctx.session.questions.length){
+      ctx.session.step="grade";
+      ctx.session.questions=null;
+      ctx.session.qIndex=null;
+      return ctx.reply("🎉 Unit completed!\nChoose your grade:", kb([["Grade 9","Grade 10"],["Grade 11","Grade 12"]]));
+    }
+    return sendQuestion(ctx);
   }
 
-  sendQuestion(ctx);
-});
-
-bot.hears("Exit", (ctx) => {
-  ctx.session = { step: "grade" };
-  ctx.reply(
-    "❌ Exited.\nChoose your grade:",
-    kb([
-      ["Grade 9", "Grade 10"],
-      ["Grade 11", "Grade 12"]
-    ])
-  );
-});
-
-// ============================
-// ANSWER (A–D ONLY)
-// ============================
-bot.hears(/^[A-D]$/, (ctx) => {
-  if (ctx.session.step !== "quiz") return;
-
-  const q = ctx.session.questions[ctx.session.qIndex];
-  ctx.reply(
-    ctx.message.text === q.correct_option
-      ? "✅ Correct!"
-      : `❌ Wrong.\nCorrect: ${q.correct_option}. ${q.options[q.correct_option]}`
-  );
-});
-
-// ============================
-// BACK (100% WORKING)
-// ============================
-bot.hears("Back", (ctx) => {
-  switch (ctx.session.step) {
-    case "quiz":
-      ctx.session.step = "unit";
-      return ctx.reply(
-        "📂 Choose a unit:",
-        kb([
-          ["Unit 1", "Unit 2"],
-          ["Unit 3", "Unit 4"],
-          ["Unit 5", "Back"]
-        ])
-      );
-
-    case "unit":
-    case "social":
-      ctx.session.step = "subject";
-      return ctx.reply(
-        "📘 Choose a subject:",
-        kb([
-          ["Math", "Biology"],
-          ["Chemistry", "Physics"],
-          ["English", "Social"],
-          ["Back"]
-        ])
-      );
-
-    case "subject":
-      ctx.session.step = "grade";
-      return ctx.reply(
-        "Choose your grade:",
-        kb([
-          ["Grade 9", "Grade 10"],
-          ["Grade 11", "Grade 12"]
-        ])
-      );
+  if(text==="Exit"){
+    ctx.session.step="grade";
+    ctx.session.questions=null;
+    ctx.session.qIndex=null;
+    return ctx.reply("❌ Exited.\nChoose your grade:", kb([["Grade 9","Grade 10"],["Grade 11","Grade 12"]]));
   }
+
+  if(!/^[A-D]$/.test(text)) return;
+
+  ctx.reply(text===q.correct_option?"✅ Correct!":`❌ Wrong.\nCorrect: ${q.correct_option}. ${q.options[q.correct_option]}`);
 });
 
 // ============================
-// LAUNCH
+// Back button
+// ============================
+bot.hears("Back",(ctx)=>{
+  if(!ctx.session.step) return;
+
+  if(ctx.session.step==="quiz"){ ctx.session.step="unit"; return ctx.reply("📂 Choose a unit:", kb([["Unit 1","Unit 2"],["Unit 3","Unit 4"],["Unit 5","Back"]])); }
+  if(ctx.session.step==="unit" || ctx.session.step==="social"){ ctx.session.step="subject"; return ctx.reply("📘 Choose a subject:", kb([["Math","Biology"],["Chemistry","Physics"],["English","Social"],["Back"]])); }
+  if(ctx.session.step==="subject"){ ctx.session.step="grade"; return ctx.reply("Choose your grade:", kb([["Grade 9","Grade 10"],["Grade 11","Grade 12"]])); }
+});
+
+// ============================
+// Launch bot
 // ============================
 bot.launch();
 console.log("🤖 Bot running...");
 
-process.once("SIGINT", () => bot.stop());
-process.once("SIGTERM", () => bot.stop());
+// Graceful shutdown
+process.once("SIGINT",()=>bot.stop("SIGINT"));
+process.once("SIGTERM",()=>bot.stop("SIGTERM"));
